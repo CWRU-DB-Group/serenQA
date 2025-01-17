@@ -98,7 +98,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
 
     try {
       const response = await fetch(
-        'https://aczdehksh2.execute-api.us-east-1.amazonaws.com/prod/batch_response',
+        'https://aczdehksh2.execute-api.us-east-1.amazonaws.com/test/batch_response',
         {
           method: 'POST',
           headers: {
