@@ -73,7 +73,7 @@ const UserForm = () => {
   const onSubmit = async (values: z.infer<typeof userFormSchema>) => {
     try {
       const response = await fetch(
-        'https://aczdehksh2.execute-api.us-east-1.amazonaws.com/test/user_info',
+        'https://aczdehksh2.execute-api.us-east-1.amazonaws.com/prod/user_info',
         {
           method: 'POST',
           headers: {
