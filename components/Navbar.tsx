@@ -20,7 +20,7 @@ const Navbar = () => {
             <Link href="/">Home</Link>
           </li>
           <li>
-            <Link href="/">Nav 2</Link>
+            <Link href="/questionnaire">Questionnaire</Link>
           </li>
         </ul>
 
@@ -37,7 +37,7 @@ const Navbar = () => {
                 <Link href="/">Home</Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/">Nav 2</Link>
+                <Link href="/questionnaire">Questionnaire</Link>
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
