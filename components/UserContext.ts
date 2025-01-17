@@ -2,10 +2,10 @@ import {createContext, useContext} from "react";
 
 export const UserContext = createContext({
   userEmail: "",
-  setUserEmail: (email: string) => {
+  setUserEmail: () => {
   },
   isLoggedIn: false,
-  setIsLoggedIn: (status: boolean) => {
+  setIsLoggedIn: () => {
   },
 })
 
