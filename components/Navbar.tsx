@@ -11,16 +11,16 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <Card className="container bg-card bg-amber-500 py-3 px-4 border-0 flex items-center rounded-none justify-between gap-6 min-w-full sticky top-0 z-500">
-      SerenQA
+    <Card className="container bg-card bg-cwrublue py-3 px-4 border-0 flex items-center rounded-none justify-between gap-6 min-w-full sticky top-0 z-500">
+      <div className="text-white">SerenQA</div>
 
-      <div className="flex items-center">
+        <div className="flex items-center">
         <ul className="hidden md:flex items-center gap-10 text-card-foreground">
           <li className="text-primary font-medium">
-            <Link href="/">Home</Link>
+            <Link href="/" className="text-white hover:text-gray-300">Home</Link>
           </li>
           <li>
-            <Link href="/questionnaire">Questionnaire</Link>
+            <Link href="/questionnaire" className="text-white hover:text-gray-300">Questionnaire</Link>
           </li>
         </ul>
 

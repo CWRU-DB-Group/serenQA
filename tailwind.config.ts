@@ -10,6 +10,7 @@ export default {
   theme: {
   	extend: {
   		colors: {
+			cwrublue: '#003071',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
