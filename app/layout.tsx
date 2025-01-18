@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Drug - KG",
+  title: "Seren - QA",
 };
 
 export default function RootLayout({

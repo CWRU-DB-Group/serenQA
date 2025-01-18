@@ -58,6 +58,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
     defaultValues: {
       confidence: 1,
       responses: questions.map(question => ({
+        question_id: `${question.qid}`,
         question: `${question.question_number} - ${question.text}`,
         answer: "",
         ranking: null
@@ -168,7 +169,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
                     <p className="font-medium">
                       {question.question_number} - {question.text}
                     </p>
-                    <p className="text-sm text-gray-500">{question.category}</p>
+                    <p className="text-sm text-gray-500">Category - {question.category}</p>
                     <p className="text-sm">LLM Ranking: {question.llm_ranking}</p>
                   </div>
 
