@@ -24,6 +24,16 @@ import {batch3} from "@/lib/batches/batch3";
 import {batch4} from "@/lib/batches/batch4";
 import {batch5} from "@/lib/batches/batch5";
 import {batch6_test} from "@/lib/batches/batch6_test";
+import Image from "next/image";
+
+import img1 from "@/assets/IMG_0090.png";
+import img2 from "@/assets/IMG_0089.png";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 
 // Form Schemas
 const userFormSchema = z.object({
@@ -42,11 +52,31 @@ const userFormSchema = z.object({
 })
 
 const Header = () => {
+
+  const [imageModal, setImageModal] = useState(false);
+
   return (
     <div className="text-center py-8">
+      <Dialog open={imageModal} onOpenChange={() => {
+        setImageModal(false);
+      }}>
+        <DialogContent className="sm:max-w-[725px] max-h-[85%] overflow-auto">
+          <DialogHeader>
+            <DialogTitle>Images</DialogTitle>
+          </DialogHeader>
+          <div className="space-y-8 scroll-auto">
+            <Image src={img1} alt="image1"/>
+            <Image src={img2} alt="image1"/>
+          </div>
+        </DialogContent>
+      </Dialog>
       <h1 className="text-4xl font-bold mb-4">DrugKG Questionnaire</h1>
       <p className="text-gray-600 max-w-2xl mx-auto mb-4">
-        We are conducting this evaluation to establish a benchmark for assessing <strong>novelty </strong>
+        We are conducting this evaluation to establish a benchmark for assessing<Button variant="link"
+                                                                                         onClick={(e) => {
+                                                                                           e.preventDefault();
+                                                                                           setImageModal(true);
+                                                                                         }}><span className="text-blue-600 text-lg font-bold">serendipity</span></Button>
         in Knowledge Graph Question Answering (KGQA) for Drug Discovery.
         Your feedback is greatly appreciated!
       </p>
@@ -179,25 +209,25 @@ const UserForm = () => {
   )
 }
 
-const BatchFormComponent = ({ batchId, onComplete }: {
+const BatchFormComponent = ({batchId, onComplete}: {
   batchId: number;
   onComplete: (id: string) => void;
 }) => {
   if (batchId === 1) {
-    return <BatchForm onComplete={onComplete} batchId={1} questions={batch1} />;
+    return <BatchForm onComplete={onComplete} batchId={1} questions={batch1}/>;
   } else if (batchId === 2) {
     return <BatchForm onComplete={onComplete} batchId={2} questions={batch2}/>;
   } else if (batchId === 3) {
-    return <BatchForm onComplete={onComplete} batchId={3} questions={batch3} />;
+    return <BatchForm onComplete={onComplete} batchId={3} questions={batch3}/>;
   } else if (batchId === 4) {
-    return <BatchForm onComplete={onComplete} batchId={4} questions={batch4} />;
+    return <BatchForm onComplete={onComplete} batchId={4} questions={batch4}/>;
   } else if (batchId === 5) {
-    return <BatchForm onComplete={onComplete} batchId={5} questions={batch5} />;
+    return <BatchForm onComplete={onComplete} batchId={5} questions={batch5}/>;
   }
   return <></>;
 };
 
-const UserProvider = ({ children }: { children: React.ReactNode }) => {
+const UserProvider = ({children}: { children: React.ReactNode }) => {
   const [initialized, setInitialized] = useState(false);
   const [userEmail, setUserEmail] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -216,7 +246,7 @@ const UserProvider = ({ children }: { children: React.ReactNode }) => {
   }
 
   return (
-    <UserContext.Provider value={{ userEmail, setUserEmail, isLoggedIn, setIsLoggedIn }}>
+    <UserContext.Provider value={{userEmail, setUserEmail, isLoggedIn, setIsLoggedIn}}>
       {children}
     </UserContext.Provider>
   );
@@ -245,12 +275,14 @@ const Questionnaire = () => {
       <Header/>
 
       {isLoggedIn && (
-        <p className="text-center text-green-600 font-bold">You are logged in as {userEmail}. <Button variant="link" onClick={() => {
-          setIsLoggedIn(false)
-          setUserEmail('')
-          window.localStorage.removeItem('userEmail')
-          window.localStorage.removeItem('isLoggedIn')
-        }}>Use as another user?</Button></p>
+        <p className="text-center text-green-600 font-bold">You are logged in as {userEmail}. <Button variant="link"
+                                                                                                      onClick={() => {
+                                                                                                        setIsLoggedIn(false)
+                                                                                                        setUserEmail('')
+                                                                                                        window.localStorage.removeItem('userEmail')
+                                                                                                        window.localStorage.removeItem('isLoggedIn')
+                                                                                                      }}>Use as another
+          user?</Button></p>
       )}
 
       <main className="container mx-auto px-4 py-8">
@@ -269,7 +301,7 @@ const Questionnaire = () => {
           <TabsContent value="instructions" className="space-y-8">
             <UserForm/>
             <Instructions/>
-            <BatchForm questions={batch6_test} batchId={6} onComplete={handleBatchComplete} />
+            <BatchForm questions={batch6_test} batchId={6} onComplete={handleBatchComplete}/>
           </TabsContent>
 
           {isLoggedIn && [1, 2, 3, 4, 5].map((batch) => (
