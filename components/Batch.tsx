@@ -1,9 +1,7 @@
-import { useState, useEffect } from 'react';
+import {useState, useEffect, useRef} from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 import {
   Form,
   FormControl,
@@ -17,26 +15,23 @@ import { zodResolver } from "@hookform/resolvers/zod"
 import * as z from "zod"
 import { useUser } from "@/components/UserContext"
 
+type LLMRanking = {
+  entity_name: string;
+  "llm-average": number;
+}
+
 export type Question = {
   question_number: number;
   qid: number;
   text: string;
   category: string;
-  llm_ranking: string;
+  llm_ranking: LLMRanking[];
 }
 
 const questionResponseSchema = z.object({
+  question_id: z.string(),
   question: z.string(),
-  answer: z.string().min(1, "Please select an answer"),
-  ranking: z.string().nullable()
-}).refine(data => {
-  if (data.answer === "No") {
-    return data.ranking !== null && data.ranking !== "";
-  }
-  return true;
-}, {
-  message: "Please enter a ranking when answer is No",
-  path: ["ranking"]
+  entity_responses: z.record(z.string().min(1, "Please provide a response"))
 });
 
 const batchFormSchema = z.object({
@@ -57,11 +52,20 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
     resolver: zodResolver(batchFormSchema),
     defaultValues: {
       confidence: 1,
-      responses: questions.map(question => ({
-        question_id: `${question.qid}`,
+      responses: (questions || []).filter(question =>
+        question &&
+        question.qid &&
+        question.text &&
+        Array.isArray(question.llm_ranking)
+      ).map(question => ({
+        question_id: question.qid.toString(),
         question: `${question.question_number} - ${question.text}`,
-        answer: "",
-        ranking: null
+        entity_responses: question.llm_ranking.reduce((acc, entity) => {
+          if (entity && typeof entity === 'object' && 'entity_name' in entity && 'llm-average' in entity) {
+            acc[entity.entity_name] = entity["llm-average"].toString();
+          }
+          return acc;
+        }, {} as Record<string, string>)
       }))
     },
   });
@@ -75,7 +79,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
       }
       form.reset(parsed);
     }
-  }, []);
+  }, [batchId]);
 
   const saveToLocalStorage = (data: BatchFormValues) => {
     localStorage.setItem(`batch${batchId}Responses`, JSON.stringify(data));
@@ -130,6 +134,43 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
     const currentValues = form.getValues();
     saveToLocalStorage(currentValues);
     setCurrentPage(newPage);
+
+    const savedResponses = localStorage.getItem(`batch${batchId}Responses`);
+    if (savedResponses) {
+      const parsed = JSON.parse(savedResponses);
+      // Set values from localStorage
+      const startIdx = newPage * questionsPerPage;
+      const pageQuestions = questions.slice(startIdx, startIdx + questionsPerPage);
+
+      pageQuestions.forEach((question, idx) => {
+        const responseIndex = startIdx + idx;
+        if (parsed.responses[responseIndex]?.entity_responses) {
+          Object.entries(parsed.responses[responseIndex].entity_responses).forEach(([entityName, value]) => {
+            form.setValue(
+              `responses.${responseIndex}.entity_responses.${entityName}`,
+              value as string
+            );
+          });
+        }
+      });
+    } else {
+      // Set default values if nothing in localStorage
+      const startIdx = newPage * questionsPerPage;
+      const pageQuestions = questions.slice(startIdx, startIdx + questionsPerPage);
+
+      pageQuestions.forEach((question, idx) => {
+        const responseIndex = startIdx + idx;
+        form.setValue(`responses.${responseIndex}.question`, `${question.question_number} - ${question.text}`);
+        form.setValue(`responses.${responseIndex}.question_id`, question.qid.toString());
+
+        question.llm_ranking.forEach(entity => {
+          form.setValue(
+            `responses.${responseIndex}.entity_responses.${entity.entity_name}`,
+            entity["llm-average"].toString()
+          );
+        });
+      });
+    }
   };
 
   return (
@@ -170,64 +211,23 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
                       {question.question_number} - {question.text}
                     </p>
                     <p className="text-sm text-gray-500">Category - {question.category}</p>
-                    <p className="text-sm">LLM Ranking: {question.llm_ranking}</p>
+                    {Array.isArray(question.llm_ranking) ? question.llm_ranking.map((entity) => (
+                      <FormField
+                        key={entity.entity_name}
+                        control={form.control}
+                        name={`responses.${responseIndex}.entity_responses.${entity.entity_name}`}
+                        render={({ field }) => (
+                          <FormItem className="flex flex-row items-center justify-between">
+                            <FormLabel>{entity.entity_name}</FormLabel>
+                            <FormControl className="w-1/2">
+                              <Input {...field} value={field.value || ''} />
+                            </FormControl>
+                            <FormMessage />
+                          </FormItem>
+                        )}
+                      />
+                    )): null}
                   </div>
-
-                  <FormField
-                    control={form.control}
-                    name={`responses.${responseIndex}.answer`}
-                    render={({ field }) => (
-                      <FormItem className="space-y-3">
-                        <FormControl>
-                          <RadioGroup
-                            onValueChange={(value) => {
-                              field.onChange(value);
-                              if (value === "Yes") {
-                                form.setValue(`responses.${responseIndex}.ranking`, null);
-                              }
-                              const currentValues = form.getValues();
-                              saveToLocalStorage(currentValues);
-                            }}
-                            value={field.value}
-                          >
-                            <div className="flex items-center space-x-2">
-                              <RadioGroupItem value="Yes" id={`${responseIndex}-yes`} />
-                              <Label htmlFor={`${responseIndex}-yes`}>Yes</Label>
-                            </div>
-                            <div className="flex items-center space-x-2">
-                              <RadioGroupItem value="No" id={`${responseIndex}-no`} />
-                              <Label htmlFor={`${responseIndex}-no`}>No</Label>
-                            </div>
-                          </RadioGroup>
-                        </FormControl>
-                        <FormMessage />
-                      </FormItem>
-                    )}
-                  />
-
-                  {form.watch(`responses.${responseIndex}.answer`) === "No" && (
-                    <FormField
-                      control={form.control}
-                      name={`responses.${responseIndex}.ranking`}
-                      render={({ field }) => (
-                        <FormItem>
-                          <FormControl>
-                            <Input
-                              placeholder="Enter your ranking"
-                              {...field}
-                              value={field.value || ''}
-                              onChange={(e) => {
-                                field.onChange(e.target.value);
-                                const currentValues = form.getValues();
-                                saveToLocalStorage(currentValues);
-                              }}
-                            />
-                          </FormControl>
-                          <FormMessage />
-                        </FormItem>
-                      )}
-                    />
-                  )}
                 </div>
               );
             })}
