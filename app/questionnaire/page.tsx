@@ -62,7 +62,7 @@ const Header = () => {
       }}>
         <DialogContent className="sm:max-w-[725px] max-h-[85%] overflow-auto">
           <DialogHeader>
-            <DialogTitle>Images</DialogTitle>
+            <DialogTitle>Examples for &quot;Serendipty&quot; in Drug Discovery</DialogTitle>
           </DialogHeader>
           <div className="space-y-8 scroll-auto">
             <Image src={img1} alt="image1"/>
