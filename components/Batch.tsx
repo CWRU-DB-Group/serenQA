@@ -43,47 +43,107 @@ const batchFormSchema = z.object({
 
 type BatchFormValues = z.infer<typeof batchFormSchema>;
 
+const getDefaultValues = (questions: Question[]): BatchFormValues => {
+  return {
+    confidence: 1,
+    responses: questions.filter(question =>
+      question &&
+      question.qid &&
+      question.text &&
+      Array.isArray(question.llm_ranking)
+    ).map(question => ({
+      question_id: question.qid.toString(),
+      question: `${question.question_number} - ${question.text}`,
+      entity_responses: question.llm_ranking.reduce((acc, entity) => {
+        if (entity && typeof entity === 'object' && 'entity_name' in entity && 'llm-average' in entity) {
+          acc[entity.entity_name] = entity["llm-average"].toString();
+        }
+        return acc;
+      }, {} as Record<string, string>)
+    }))
+  };
+};
+
 const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], batchId: number, onComplete: (id: string) => void }) => {
   const { userEmail } = useUser();
   const [currentPage, setCurrentPage] = useState(0);
+  const [isLoading, setIsLoading] = useState(true);
   const questionsPerPage = 10;
 
   const form = useForm<BatchFormValues>({
     resolver: zodResolver(batchFormSchema),
-    defaultValues: {
-      confidence: 1,
-      responses: (questions || []).filter(question =>
-        question &&
-        question.qid &&
-        question.text &&
-        Array.isArray(question.llm_ranking)
-      ).map(question => ({
-        question_id: question.qid.toString(),
-        question: `${question.question_number} - ${question.text}`,
-        entity_responses: question.llm_ranking.reduce((acc, entity) => {
-          if (entity && typeof entity === 'object' && 'entity_name' in entity && 'llm-average' in entity) {
-            acc[entity.entity_name] = entity["llm-average"].toString();
-          }
-          return acc;
-        }, {} as Record<string, string>)
-      }))
-    },
+    defaultValues: getDefaultValues(questions)
   });
 
-  useEffect(() => {
-    const savedResponses = localStorage.getItem(`batch${batchId}Responses`);
-    if (savedResponses) {
-      const parsed = JSON.parse(savedResponses);
-      if (parsed.responses && Array.isArray(parsed.responses)) {
-        parsed.responses = parsed.responses.slice(0, questions.length);
-      }
-      form.reset(parsed);
-    }
-  }, [batchId]);
+  const saveDraftToCloud = async (data: BatchFormValues) => {
+    try {
+      const formData = {
+        email: userEmail,
+        batch: `${String(batchId)}#draft`,
+        confidence: String(data.confidence),
+        responses: data.responses
+      };
 
-  const saveToLocalStorage = (data: BatchFormValues) => {
-    localStorage.setItem(`batch${batchId}Responses`, JSON.stringify(data));
+      await fetch(
+        'https://aczdehksh2.execute-api.us-east-1.amazonaws.com/test/batch_response',
+        {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(formData)
+        }
+      );
+    } catch (error) {
+      console.error('Error saving draft to cloud:', error);
+    }
   };
+
+  const loadSavedResponses = async () => {
+    try {
+      const params = new URLSearchParams({
+        email: userEmail,
+        batchId: batchId.toString()
+      });
+
+      const response = await fetch(
+        `https://aczdehksh2.execute-api.us-east-1.amazonaws.com/test/response?${params}`,
+        {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json'
+          }
+        }
+      );
+
+      if (response.ok) {
+        const savedData = await response.json();
+        if (savedData && savedData.res && savedData.res.length > 0) {
+          // If we have valid saved data, use it
+          form.reset(savedData.res[0]);
+        } else {
+          // If no valid saved data, use default values from questions
+          const defaultValues = getDefaultValues(questions);
+          form.reset(defaultValues);
+        }
+      } else {
+        // If API call fails, use default values from questions
+        const defaultValues = getDefaultValues(questions);
+        form.reset(defaultValues);
+      }
+    } catch (error) {
+      console.error('Error loading saved responses:', error);
+      // If API call errors, use default values from questions
+      const defaultValues = getDefaultValues(questions);
+      form.reset(defaultValues);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    loadSavedResponses();
+  }, [batchId]);
 
   const totalPages = Math.ceil(questions.length / questionsPerPage);
   const currentQuestions = questions.slice(
@@ -96,7 +156,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
 
     const formData = {
       email: userEmail,
-      batch: String(batchId),
+      batch: `${String(batchId)}#final`,
       confidence: String(values.confidence),
       responses: values.responses
     };
@@ -114,9 +174,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
       );
 
       if (response.ok) {
-        localStorage.removeItem(`batch${batchId}Responses`);
         alert(`Batch ${batchId} responses submitted successfully!`);
-        form.reset();
         if (batchId === 6) {
           onComplete('instructions');
         }
@@ -132,46 +190,13 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
 
   const handlePageChange = (newPage: number) => {
     const currentValues = form.getValues();
-    saveToLocalStorage(currentValues);
+    saveDraftToCloud(currentValues);
     setCurrentPage(newPage);
-
-    const savedResponses = localStorage.getItem(`batch${batchId}Responses`);
-    if (savedResponses) {
-      const parsed = JSON.parse(savedResponses);
-      // Set values from localStorage
-      const startIdx = newPage * questionsPerPage;
-      const pageQuestions = questions.slice(startIdx, startIdx + questionsPerPage);
-
-      pageQuestions.forEach((question, idx) => {
-        const responseIndex = startIdx + idx;
-        if (parsed.responses[responseIndex]?.entity_responses) {
-          Object.entries(parsed.responses[responseIndex].entity_responses).forEach(([entityName, value]) => {
-            form.setValue(
-              `responses.${responseIndex}.entity_responses.${entityName}`,
-              value as string
-            );
-          });
-        }
-      });
-    } else {
-      // Set default values if nothing in localStorage
-      const startIdx = newPage * questionsPerPage;
-      const pageQuestions = questions.slice(startIdx, startIdx + questionsPerPage);
-
-      pageQuestions.forEach((question, idx) => {
-        const responseIndex = startIdx + idx;
-        form.setValue(`responses.${responseIndex}.question`, `${question.question_number} - ${question.text}`);
-        form.setValue(`responses.${responseIndex}.question_id`, question.qid.toString());
-
-        question.llm_ranking.forEach(entity => {
-          form.setValue(
-            `responses.${responseIndex}.entity_responses.${entity.entity_name}`,
-            entity["llm-average"].toString()
-          );
-        });
-      });
-    }
   };
+
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <Card className="max-w-4xl mx-auto">

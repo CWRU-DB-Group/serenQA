@@ -291,7 +291,7 @@ const Questionnaire = () => {
             <TabsTrigger value="instructions">
               Instructions
             </TabsTrigger>
-            {isLoggedIn && [1, 2, 3, 4, 5, 6].map((batch) => (
+            {isLoggedIn && [1, 2, 3, 4, 5].map((batch) => (
               <TabsTrigger key={batch} value={`batch${batch}`}>
                 Batch {batch} {completedBatches.includes(`batch${batch}`) && '✓'}
               </TabsTrigger>
