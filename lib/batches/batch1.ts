@@ -9,15 +9,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.8
+        "llm-average": 8.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       }
     ]
   },
@@ -29,19 +29,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.57
+        "llm-average": 6.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.2
+        "llm-average": 5.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -53,27 +53,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.67
+        "llm-average": 5.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.9
+        "llm-average": 2.5
       }
     ]
   },
@@ -85,19 +85,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.43
+        "llm-average": 7.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.33
+        "llm-average": 5.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.07
+        "llm-average": 1.0
       }
     ]
   },
@@ -109,23 +109,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.66
+        "llm-average": 7.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.18
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -137,27 +137,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.77
+        "llm-average": 5.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.77
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.5
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.19
+        "llm-average": 3.1
       }
     ]
   },
@@ -169,19 +169,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.21
+        "llm-average": 4.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -193,19 +193,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.86
+        "llm-average": 4.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.71
+        "llm-average": 2.9
       }
     ]
   },
@@ -217,19 +217,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -241,11 +241,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -257,23 +257,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.84
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.4
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.06
+        "llm-average": 4.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -285,19 +285,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -309,27 +309,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.96
+        "llm-average": 4.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -341,15 +341,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -361,11 +361,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -377,19 +377,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -401,27 +401,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.59
+        "llm-average": 4.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -433,27 +433,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.89
+        "llm-average": 3.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -465,27 +465,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.65
+        "llm-average": 7.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.77
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.66
+        "llm-average": 1.8
       }
     ]
   },
@@ -497,23 +497,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.21
+        "llm-average": 7.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -525,27 +525,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.03
+        "llm-average": 4.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.78
+        "llm-average": 3.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -557,19 +557,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.21
+        "llm-average": 4.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -581,15 +581,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -601,27 +601,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -633,27 +633,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.26
+        "llm-average": 7.6
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.57
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -665,19 +665,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 15.66
+        "llm-average": 7.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.36
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -689,27 +689,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.41
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -721,15 +721,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -741,27 +741,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.62
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -773,19 +773,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.38
+        "llm-average": 6.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.06
+        "llm-average": 2.0
       }
     ]
   },
@@ -797,23 +797,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -825,19 +825,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.14
+        "llm-average": 0.6
       }
     ]
   },
@@ -849,15 +849,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -869,27 +869,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.26
+        "llm-average": 2.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -901,19 +901,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.11
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       }
     ]
   },
@@ -925,19 +925,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.18
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -949,27 +949,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.22
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -981,27 +981,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -1013,19 +1013,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.43
+        "llm-average": 7.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.33
+        "llm-average": 5.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.12
+        "llm-average": 3.1
       }
     ]
   },
@@ -1037,19 +1037,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -1061,27 +1061,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.51
+        "llm-average": 1.3
       }
     ]
   },
@@ -1093,15 +1093,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 9.11
+        "llm-average": 4.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.74
+        "llm-average": 4.4
       }
     ]
   },
@@ -1113,19 +1113,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.36
+        "llm-average": 5.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       }
     ]
   },
@@ -1137,19 +1137,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1161,23 +1161,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.59
+        "llm-average": 5.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.91
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.19
+        "llm-average": 3.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.15
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -1189,15 +1189,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.74
+        "llm-average": 4.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.21
+        "llm-average": 4.1
       }
     ]
   },
@@ -1209,19 +1209,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1233,27 +1233,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.01
+        "llm-average": 2.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1265,15 +1265,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -1285,19 +1285,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1309,19 +1309,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -1333,15 +1333,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.73
+        "llm-average": 8.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       }
     ]
   },
@@ -1353,15 +1353,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -1373,19 +1373,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1397,23 +1397,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.65
+        "llm-average": 7.3
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -1425,27 +1425,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.9
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1457,27 +1457,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.04
+        "llm-average": 6.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -1489,23 +1489,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.78
+        "llm-average": 6.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -1517,15 +1517,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.8
+        "llm-average": 8.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       }
     ]
   },
@@ -1537,19 +1537,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.44
+        "llm-average": 5.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1561,15 +1561,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -1581,15 +1581,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.86
+        "llm-average": 4.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.81
+        "llm-average": 3.9
       }
     ]
   },
@@ -1601,15 +1601,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -1621,19 +1621,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -1645,19 +1645,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1669,27 +1669,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.27
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.29
+        "llm-average": 6.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 9.11
+        "llm-average": 4.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.19
+        "llm-average": 3.1
       }
     ]
   },
@@ -1701,19 +1701,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1725,27 +1725,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.78
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -1757,27 +1757,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.14
+        "llm-average": 1.6
       }
     ]
   },
@@ -1789,19 +1789,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.14
+        "llm-average": 0.6
       }
     ]
   },
@@ -1813,15 +1813,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.62
+        "llm-average": 3.8
       }
     ]
   },
@@ -1833,23 +1833,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.53
+        "llm-average": 5.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -1861,19 +1861,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.14
+        "llm-average": 0.6
       }
     ]
   },
@@ -1885,15 +1885,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.51
+        "llm-average": 5.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -1905,27 +1905,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.9
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1937,19 +1937,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.46
+        "llm-average": 4.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.19
+        "llm-average": 3.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.56
+        "llm-average": 2.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -1961,27 +1961,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.03
+        "llm-average": 4.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -1993,19 +1993,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.03
+        "llm-average": 6.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2017,27 +2017,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.65
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2049,27 +2049,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.67
+        "llm-average": 5.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.9
+        "llm-average": 2.5
       }
     ]
   },
@@ -2081,19 +2081,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -2105,23 +2105,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.24
+        "llm-average": 6.6
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.71
+        "llm-average": 5.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.3
+        "llm-average": 3.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.47
+        "llm-average": 2.2
       }
     ]
   },
@@ -2133,23 +2133,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2161,19 +2161,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.61
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2185,15 +2185,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2205,19 +2205,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.03
+        "llm-average": 6.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2229,15 +2229,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -2249,27 +2249,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2281,27 +2281,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.05
+        "llm-average": 2.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -2313,19 +2313,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -2337,23 +2337,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.21
+        "llm-average": 7.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2365,19 +2365,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.36
+        "llm-average": 5.2
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.43
+        "llm-average": 2.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -2389,15 +2389,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
@@ -2413,19 +2413,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -2437,15 +2437,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -2457,19 +2457,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -2481,27 +2481,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.96
+        "llm-average": 4.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.27
+        "llm-average": 4.1
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 8.26
+        "llm-average": 4.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.0
+        "llm-average": 3.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -2513,27 +2513,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2545,19 +2545,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.83
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.26
+        "llm-average": 2.6
       }
     ]
   },
@@ -2569,19 +2569,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.36
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -2593,27 +2593,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.4
+        "llm-average": 3.2
       }
     ]
   },
@@ -2625,19 +2625,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.14
+        "llm-average": 0.6
       }
     ]
   },
@@ -2649,19 +2649,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -2673,15 +2673,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 9.11
+        "llm-average": 4.6
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.74
+        "llm-average": 4.4
       }
     ]
   },
@@ -2693,23 +2693,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.97
+        "llm-average": 6.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.91
+        "llm-average": 2.0
       }
     ]
   },
@@ -2721,19 +2721,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -2745,23 +2745,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.62
+        "llm-average": 5.3
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 9.16
+        "llm-average": 4.6
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.76
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.55
+        "llm-average": 2.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -2773,23 +2773,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.53
+        "llm-average": 5.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -2801,27 +2801,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2833,27 +2833,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.34
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2865,27 +2865,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2897,23 +2897,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.21
+        "llm-average": 7.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -2925,19 +2925,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -2949,19 +2949,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -2973,27 +2973,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.47
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -3005,23 +3005,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -3033,23 +3033,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.76
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -3061,27 +3061,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.26
+        "llm-average": 2.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -3093,19 +3093,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.71
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3117,27 +3117,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3149,19 +3149,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -3173,27 +3173,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.31
+        "llm-average": 8.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.8
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3205,19 +3205,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -3229,19 +3229,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.73
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.86
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3253,15 +3253,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -3273,27 +3273,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3305,27 +3305,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3337,19 +3337,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.21
+        "llm-average": 4.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3361,27 +3361,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.84
+        "llm-average": 6.9
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.17
+        "llm-average": 4.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -3393,27 +3393,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.31
+        "llm-average": 8.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.04
+        "llm-average": 6.5
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3425,23 +3425,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.47
+        "llm-average": 6.7
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3453,15 +3453,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -3473,11 +3473,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.24
+        "llm-average": 3.6
       }
     ]
   },
@@ -3489,27 +3489,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.78
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -3521,27 +3521,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3553,27 +3553,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.78
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -3585,27 +3585,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 17.44
+        "llm-average": 8.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.3
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.46
+        "llm-average": 2.7
       }
     ]
   },
@@ -3617,15 +3617,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -3637,23 +3637,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.51
+        "llm-average": 5.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 8.93
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.08
+        "llm-average": 2.0
       }
     ]
   },
@@ -3665,19 +3665,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -3689,15 +3689,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -3709,19 +3709,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -3733,19 +3733,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -3757,15 +3757,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
@@ -3781,19 +3781,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.23
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.41
+        "llm-average": 1.2
       }
     ]
   },
@@ -3805,19 +3805,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -3829,15 +3829,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3849,19 +3849,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -3873,19 +3873,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.83
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3897,19 +3897,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -3921,23 +3921,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -3949,23 +3949,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -3977,19 +3977,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 0.45
+        "llm-average": 0.2
       }
     ]
   },
@@ -4001,27 +4001,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4033,27 +4033,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.31
+        "llm-average": 8.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.79
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4065,27 +4065,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.65
+        "llm-average": 7.3
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.49
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -4097,15 +4097,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.62
+        "llm-average": 3.8
       }
     ]
   },
@@ -4117,15 +4117,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
@@ -4141,27 +4141,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.24
+        "llm-average": 5.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -4173,27 +4173,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4205,27 +4205,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.65
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.74
+        "llm-average": 2.9
       }
     ]
   },
@@ -4237,27 +4237,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.65
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.74
+        "llm-average": 2.9
       }
     ]
   },
@@ -4269,19 +4269,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.35
+        "llm-average": 0.7
       }
     ]
   },
@@ -4293,27 +4293,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.59
+        "llm-average": 4.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -4325,27 +4325,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.65
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4357,15 +4357,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.51
+        "llm-average": 5.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -4377,19 +4377,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.24
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4401,15 +4401,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -4421,15 +4421,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.26
+        "llm-average": 5.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -4441,19 +4441,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.35
+        "llm-average": 0.7
       }
     ]
   },
@@ -4465,23 +4465,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Trospium",
-        "llm-average": 11.36
+        "llm-average": 5.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.27
+        "llm-average": 5.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.39
+        "llm-average": 4.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.05
+        "llm-average": 2.5
       }
     ]
   },
@@ -4493,15 +4493,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 9.11
+        "llm-average": 4.6
       }
     ]
   },
@@ -4513,27 +4513,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.45
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4545,27 +4545,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.72
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -4577,19 +4577,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -4601,23 +4601,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 17.36
+        "llm-average": 8.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.26
+        "llm-average": 6.1
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       }
     ]
   },
@@ -4629,19 +4629,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 0.69
+        "llm-average": 0.3
       }
     ]
   },
@@ -4653,15 +4653,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.51
+        "llm-average": 5.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -4673,23 +4673,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.33
+        "llm-average": 5.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.08
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -4701,19 +4701,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.83
+        "llm-average": 6.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.06
+        "llm-average": 2.0
       }
     ]
   },
@@ -4725,19 +4725,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.23
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.41
+        "llm-average": 1.2
       }
     ]
   },
@@ -4749,19 +4749,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.38
+        "llm-average": 6.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.06
+        "llm-average": 2.0
       }
     ]
   },
@@ -4773,15 +4773,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4793,19 +4793,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 0.69
+        "llm-average": 0.3
       }
     ]
   },
@@ -4817,19 +4817,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.36
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -4841,19 +4841,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.23
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.41
+        "llm-average": 1.2
       }
     ]
   },
@@ -4865,19 +4865,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.23
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.72
+        "llm-average": 0.9
       }
     ]
   },
@@ -4889,19 +4889,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.23
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.41
+        "llm-average": 1.2
       }
     ]
   },
@@ -4913,19 +4913,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.83
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4937,27 +4937,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -4969,19 +4969,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.61
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -4993,15 +4993,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 17.18
+        "llm-average": 8.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       }
     ]
   },
@@ -5013,23 +5013,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.08
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5041,23 +5041,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.78
+        "llm-average": 6.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -5069,27 +5069,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.28
+        "llm-average": 5.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.83
+        "llm-average": 4.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -5101,19 +5101,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5125,27 +5125,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.6
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5157,27 +5157,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.35
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5189,15 +5189,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5209,19 +5209,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.73
+        "llm-average": 8.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.25
+        "llm-average": 1.1
       }
     ]
   },
@@ -5233,19 +5233,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.18
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       }
     ]
   },
@@ -5257,19 +5257,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.13
+        "llm-average": 6.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -5281,19 +5281,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -5305,27 +5305,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5337,15 +5337,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
@@ -5361,19 +5361,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.36
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.36
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -5385,23 +5385,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.53
+        "llm-average": 5.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -5413,27 +5413,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5445,23 +5445,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.84
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.16
+        "llm-average": 4.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5473,19 +5473,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.38
+        "llm-average": 6.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.06
+        "llm-average": 2.0
       }
     ]
   },
@@ -5497,23 +5497,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.0
+        "llm-average": 4.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 6.19
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.7
+        "llm-average": 1.9
       }
     ]
   },
@@ -5525,23 +5525,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.07
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -5553,19 +5553,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.06
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5577,15 +5577,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5597,19 +5597,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.04
+        "llm-average": 1.0
       }
     ]
   },
@@ -5621,15 +5621,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5641,23 +5641,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.37
+        "llm-average": 4.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.55
+        "llm-average": 4.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5669,15 +5669,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5689,19 +5689,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5713,19 +5713,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.91
+        "llm-average": 2.0
       }
     ]
   },
@@ -5737,15 +5737,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       }
     ]
   },
@@ -5757,27 +5757,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.14
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5789,27 +5789,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.65
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5821,27 +5821,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.59
+        "llm-average": 4.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5853,15 +5853,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.36
+        "llm-average": 6.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.49
+        "llm-average": 3.2
       }
     ]
   },
@@ -5873,19 +5873,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -5897,19 +5897,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 17.18
+        "llm-average": 8.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -5921,19 +5921,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -5945,23 +5945,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5973,11 +5973,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -5989,23 +5989,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.78
+        "llm-average": 6.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -6017,27 +6017,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.4
+        "llm-average": 3.2
       }
     ]
   },
@@ -6049,27 +6049,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6081,23 +6081,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -6109,27 +6109,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.03
+        "llm-average": 4.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6141,19 +6141,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -6165,27 +6165,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 8.59
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.14
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6197,27 +6197,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.72
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6229,23 +6229,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.52
+        "llm-average": 5.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.7
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6257,27 +6257,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.9
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6289,27 +6289,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6321,23 +6321,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.33
+        "llm-average": 5.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.08
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6349,15 +6349,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.51
+        "llm-average": 5.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -6369,19 +6369,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   },
@@ -6393,23 +6393,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.75
+        "llm-average": 4.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.7
+        "llm-average": 1.9
       }
     ]
   },
@@ -6421,23 +6421,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.64
+        "llm-average": 7.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.76
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -6449,27 +6449,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6481,19 +6481,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -6505,27 +6505,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.24
+        "llm-average": 5.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -6537,23 +6537,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.47
+        "llm-average": 6.7
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6565,15 +6565,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -6585,19 +6585,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.25
+        "llm-average": 1.1
       }
     ]
   },
@@ -6609,15 +6609,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
@@ -6633,19 +6633,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.76
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.57
+        "llm-average": 6.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6657,27 +6657,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.96
+        "llm-average": 7.5
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.34
+        "llm-average": 3.7
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6689,23 +6689,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.24
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.86
+        "llm-average": 3.4
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.78
+        "llm-average": 2.9
       }
     ]
   },
@@ -6717,19 +6717,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.08
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.1
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6741,27 +6741,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.65
+        "llm-average": 3.8
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.05
+        "llm-average": 2.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6773,19 +6773,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.18
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.86
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6797,19 +6797,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -6821,27 +6821,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.34
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6853,27 +6853,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.6
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6885,19 +6885,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.64
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.61
+        "llm-average": 1.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -6909,27 +6909,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 3.63
+        "llm-average": 1.8
       }
     ]
   },
@@ -6941,11 +6941,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -6957,27 +6957,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.03
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -6989,27 +6989,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.24
+        "llm-average": 5.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -7021,19 +7021,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.03
+        "llm-average": 6.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7045,15 +7045,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -7065,27 +7065,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 11.96
+        "llm-average": 6.0
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.22
+        "llm-average": 3.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7097,23 +7097,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.5
+        "llm-average": 4.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.43
+        "llm-average": 3.7
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7125,23 +7125,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.27
+        "llm-average": 6.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.08
+        "llm-average": 3.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7153,15 +7153,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.62
+        "llm-average": 3.8
       }
     ]
   },
@@ -7173,27 +7173,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.15
+        "llm-average": 6.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 8.62
+        "llm-average": 4.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -7205,19 +7205,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.35
+        "llm-average": 0.7
       }
     ]
   },
@@ -7229,15 +7229,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
@@ -7253,19 +7253,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7277,27 +7277,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7309,19 +7309,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.04
+        "llm-average": 2.0
       }
     ]
   },
@@ -7333,19 +7333,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.18
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 5.86
+        "llm-average": 2.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7357,27 +7357,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 14.29
+        "llm-average": 7.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.03
+        "llm-average": 4.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7389,15 +7389,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 9.11
+        "llm-average": 4.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 8.74
+        "llm-average": 4.4
       }
     ]
   },
@@ -7409,19 +7409,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.53
+        "llm-average": 6.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 6.34
+        "llm-average": 3.2
       }
     ]
   },
@@ -7433,19 +7433,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.74
+        "llm-average": 2.4
       }
     ]
   },
@@ -7457,27 +7457,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.89
+        "llm-average": 3.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7489,23 +7489,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.77
+        "llm-average": 6.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.18
+        "llm-average": 5.6
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7517,27 +7517,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.89
+        "llm-average": 3.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7549,23 +7549,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 8.81
+        "llm-average": 4.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 1.83
+        "llm-average": 0.9
       }
     ]
   },
@@ -7577,19 +7577,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 16.73
+        "llm-average": 8.4
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.25
+        "llm-average": 1.1
       }
     ]
   },
@@ -7601,15 +7601,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.11
+        "llm-average": 7.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7621,19 +7621,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 4.81
+        "llm-average": 2.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7645,19 +7645,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 0.69
+        "llm-average": 0.3
       }
     ]
   },
@@ -7669,19 +7669,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.21
+        "llm-average": 4.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7693,23 +7693,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.62
+        "llm-average": 6.8
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.91
+        "llm-average": 6.5
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7721,15 +7721,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -7741,27 +7741,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.49
+        "llm-average": 5.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.52
+        "llm-average": 4.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.74
+        "llm-average": 2.9
       }
     ]
   },
@@ -7773,15 +7773,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.83
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.74
+        "llm-average": 4.4
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.21
+        "llm-average": 4.1
       }
     ]
   },
@@ -7793,19 +7793,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 14.93
+        "llm-average": 7.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 0.69
+        "llm-average": 0.3
       }
     ]
   },
@@ -7817,15 +7817,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 10.95
+        "llm-average": 5.5
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -7837,15 +7837,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 17.18
+        "llm-average": 8.6
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -7857,27 +7857,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.03
+        "llm-average": 3.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -7889,27 +7889,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.52
+        "llm-average": 4.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 5.74
+        "llm-average": 2.9
       }
     ]
   },
@@ -7921,15 +7921,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.21
+        "llm-average": 4.1
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.09
+        "llm-average": 3.5
       }
     ]
   },
@@ -7941,23 +7941,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 16.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.53
+        "llm-average": 5.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.45
+        "llm-average": 2.7
       }
     ]
   },
@@ -7969,11 +7969,11 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -7985,23 +7985,23 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 13.3
+        "llm-average": 6.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 11.69
+        "llm-average": 5.8
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.58
+        "llm-average": 3.8
       }
     ]
   },
@@ -8013,27 +8013,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 13.49
+        "llm-average": 6.7
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -8045,27 +8045,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Desmopressin",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 9.87
+        "llm-average": 4.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.68
+        "llm-average": 3.3
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.6
+        "llm-average": 3.3
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -8077,15 +8077,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Alprazolam",
-        "llm-average": 9.89
+        "llm-average": 4.9
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -8097,27 +8097,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 10.62
+        "llm-average": 5.3
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 8.26
+        "llm-average": 4.1
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 6.51
+        "llm-average": 3.3
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 6.0
+        "llm-average": 3.0
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -8129,15 +8129,15 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 12.34
+        "llm-average": 6.2
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -8149,27 +8149,27 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.49
+        "llm-average": 6.2
       },
       {
         "entity_name": "Desmopressin",
-        "llm-average": 10.88
+        "llm-average": 5.4
       },
       {
         "entity_name": "Darifenacin",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 7.72
+        "llm-average": 3.9
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -8181,19 +8181,19 @@ export const batch1: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Darifenacin",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Trospium",
-        "llm-average": 9.26
+        "llm-average": 4.6
       },
       {
         "entity_name": "Oxybutynin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       },
       {
         "entity_name": "Alprazolam",
-        "llm-average": 2.94
+        "llm-average": 1.5
       }
     ]
   }
