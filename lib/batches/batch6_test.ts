@@ -9,15 +9,15 @@ export const batch6_test: Question[] = [
     "llm_ranking": [
   {
     "entity_name": "Darifenacin",
-    "llm-average": 16.8
+    "llm-average": 6.8
   },
   {
     "entity_name": "Trospium",
-    "llm-average": 12.63
+    "llm-average": 2.6
   },
   {
     "entity_name": "Oxybutynin",
-    "llm-average": 7.84
+    "llm-average": 7.8
   }
 ]
   },
@@ -29,27 +29,27 @@ export const batch6_test: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "free fatty acid receptor 2",
-        "llm-average": 17.33
+        "llm-average": 7.3
       },
       {
         "entity_name": "hydroxycarboxylic acid receptor 2",
-        "llm-average": 15.91
+        "llm-average": 5.9
       },
       {
         "entity_name": "5-hydroxytryptamine receptor 5A",
-        "llm-average": 14.13
+        "llm-average": 4.1
       },
       {
         "entity_name": "histone deacetylase 1",
-        "llm-average": 10.5
+        "llm-average": 4.5
       },
       {
         "entity_name": "histone deacetylase 2",
-        "llm-average": 10.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "histone deacetylase 3",
-        "llm-average": 8.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "adenosine deaminase RNA specific B2 (inactive)",
@@ -57,7 +57,7 @@ export const batch6_test: Question[] = [
       },
       {
         "entity_name": "histone deacetylase 8",
-        "llm-average": 6.17
+        "llm-average": 6.1
       }
     ]
   },
