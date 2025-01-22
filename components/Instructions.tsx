@@ -37,7 +37,7 @@ export const Instructions = () => {
             <div>
               <p className="font-semibold">1. Review the Question and Rankings:</p>
               <ul className="list-disc ml-8 space-y-1 text-gray-700">
-                <li>Select at least <strong>1 batche</strong> that align with your interest or expertise to evaluate.</li>
+                <li>Select at least <strong>1 batch</strong> that align with your interest or expertise to evaluate.</li>
                 <li>Carefully review the <strong>LLM scores</strong> for each question in your selected batch.</li>
                 <li>Assess whether you agree with the provided score.</li>
               </ul>
