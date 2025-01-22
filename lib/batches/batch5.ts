@@ -9,27 +9,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBX7",
-        "llm-average": 15.42
+        "llm-average": 7.7
       },
       {
         "entity_name": "L3MBTL2",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "SCML2",
-        "llm-average": 14.12
+        "llm-average": 7.1
       },
       {
         "entity_name": "MAPK14",
-        "llm-average": 13.33
+        "llm-average": 6.7
       },
       {
         "entity_name": "PCGF1",
-        "llm-average": 11.63
+        "llm-average": 5.8
       },
       {
         "entity_name": "RBX1",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -41,27 +41,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Bufotenine",
-        "llm-average": 12.94
+        "llm-average": 6.5
       },
       {
         "entity_name": "2-(N-morpholino)ethanesulfonic acid",
-        "llm-average": 11.5
+        "llm-average": 5.8
       },
       {
         "entity_name": "Balsalazide",
-        "llm-average": 9.8
+        "llm-average": 4.9
       },
       {
         "entity_name": "Meropenem",
-        "llm-average": 8.63
+        "llm-average": 4.3
       },
       {
         "entity_name": "Succinic acid",
-        "llm-average": 8.1
+        "llm-average": 4.1
       },
       {
         "entity_name": "Acetic acid",
-        "llm-average": 7.06
+        "llm-average": 3.5
       }
     ]
   },
@@ -73,15 +73,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Ethinylestradiol",
-        "llm-average": 13.33
+        "llm-average": 6.7
       },
       {
         "entity_name": "Cyclosporine",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "Acetylsalicylic acid",
-        "llm-average": 7.71
+        "llm-average": 3.9
       }
     ]
   },
@@ -93,19 +93,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Dasatinib",
-        "llm-average": 17.25
+        "llm-average": 8.6
       },
       {
         "entity_name": "Cyclosporine",
-        "llm-average": 9.8
+        "llm-average": 4.9
       },
       {
         "entity_name": "Valproic acid",
-        "llm-average": 4.97
+        "llm-average": 2.5
       },
       {
         "entity_name": "Magnesium cation",
-        "llm-average": 2.22
+        "llm-average": 1.1
       }
     ]
   },
@@ -117,11 +117,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ATP",
-        "llm-average": 7.71
+        "llm-average": 3.9
       },
       {
         "entity_name": "Dihydrogenphosphate",
-        "llm-average": 7.06
+        "llm-average": 3.5
       }
     ]
   },
@@ -133,19 +133,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPC1",
-        "llm-average": 15.69
+        "llm-average": 7.8
       },
       {
         "entity_name": "FBLN1",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "FARSA",
-        "llm-average": 9.02
+        "llm-average": 4.5
       },
       {
         "entity_name": "AP2S1",
-        "llm-average": 8.89
+        "llm-average": 4.4
       }
     ]
   },
@@ -157,31 +157,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "N\u03b1-[(2S)-2-{[(S)-[(1S)-1-{[(Benzyloxy)carbonyl]amino}-2-phenylethyl](hydroxy)phosphoryl]methyl}-5-phenylpentanoyl]-L-tryptophanamide",
-        "llm-average": 18.43
+        "llm-average": 9.2
       },
       {
         "entity_name": "Guanosine-5'-Triphosphate",
-        "llm-average": 9.54
+        "llm-average": 4.8
       },
       {
         "entity_name": "ATP",
-        "llm-average": 7.45
+        "llm-average": 3.7
       },
       {
         "entity_name": "Guanosine-5'-Diphosphate",
-        "llm-average": 6.14
+        "llm-average": 3.1
       },
       {
         "entity_name": "Magnesium cation",
-        "llm-average": 3.4
+        "llm-average": 1.7
       },
       {
         "entity_name": "Zinc",
-        "llm-average": 2.88
+        "llm-average": 1.4
       },
       {
         "entity_name": "Dihydrogenphosphate",
-        "llm-average": 2.75
+        "llm-average": 1.4
       }
     ]
   },
@@ -193,31 +193,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "7-methyl-5'-guanylic acid",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "Guanosine-5'-Triphosphate",
-        "llm-average": 8.76
+        "llm-average": 4.4
       },
       {
         "entity_name": "Fructose -6-Phosphate",
-        "llm-average": 8.37
+        "llm-average": 4.2
       },
       {
         "entity_name": "D-glucitol 6-phosphate",
-        "llm-average": 8.24
+        "llm-average": 4.1
       },
       {
         "entity_name": "Beta-D-Glucose",
-        "llm-average": 5.1
+        "llm-average": 2.5
       },
       {
         "entity_name": "D-Allopyranose",
-        "llm-average": 4.97
+        "llm-average": 2.5
       },
       {
         "entity_name": "ATP",
-        "llm-average": 4.05
+        "llm-average": 2.0
       }
     ]
   },
@@ -229,15 +229,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ATP",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Dihydrogenphosphate",
-        "llm-average": 3.79
+        "llm-average": 1.9
       },
       {
         "entity_name": "Calcium",
-        "llm-average": 3.66
+        "llm-average": 1.8
       }
     ]
   },
@@ -249,11 +249,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TXNDC5",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "GMPPA",
-        "llm-average": 9.67
+        "llm-average": 4.8
       }
     ]
   },
@@ -265,11 +265,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Leucine rich repeat C-terminal domain",
-        "llm-average": 14.12
+        "llm-average": 7.1
       },
       {
         "entity_name": "Leucine rich repeat",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -281,11 +281,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Doramapimod",
-        "llm-average": 15.69
+        "llm-average": 7.8
       },
       {
         "entity_name": "Bisphenol A",
-        "llm-average": 14.51
+        "llm-average": 7.3
       }
     ]
   },
@@ -297,11 +297,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Squalene epoxidase",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "NAD(P)-binding Rossmann-like domain",
-        "llm-average": 6.67
+        "llm-average": 3.3
       }
     ]
   },
@@ -313,23 +313,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PICK1",
-        "llm-average": 19.08
+        "llm-average": 9.5
       },
       {
         "entity_name": "TCF12",
-        "llm-average": 15.29
+        "llm-average": 7.6
       },
       {
         "entity_name": "ZSCAN1",
-        "llm-average": 11.9
+        "llm-average": 5.9
       },
       {
         "entity_name": "PTGER4",
-        "llm-average": 11.76
+        "llm-average": 5.9
       },
       {
         "entity_name": "INTS13",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -341,35 +341,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Dasatinib",
-        "llm-average": 16.86
+        "llm-average": 8.4
       },
       {
         "entity_name": "Atrazine",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "Progesterone",
-        "llm-average": 11.76
+        "llm-average": 5.9
       },
       {
         "entity_name": "ATP",
-        "llm-average": 6.8
-      },
-      {
-        "entity_name": "Zinc",
-        "llm-average": 3.92
-      },
-      {
-        "entity_name": "Vitamin E",
         "llm-average": 3.4
       },
       {
+        "entity_name": "Zinc",
+        "llm-average": 2.0
+      },
+      {
+        "entity_name": "Vitamin E",
+        "llm-average": 1.7
+      },
+      {
         "entity_name": "Calcium",
-        "llm-average": 2.88
+        "llm-average": 1.4
       },
       {
         "entity_name": "Dihydrogenphosphate",
-        "llm-average": 2.35
+        "llm-average": 1.2
       }
     ]
   },
@@ -381,11 +381,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SIAH1",
-        "llm-average": 14.12
+        "llm-average": 7.1
       },
       {
         "entity_name": "KCNJ16",
-        "llm-average": 13.59
+        "llm-average": 6.8
       }
     ]
   },
@@ -397,35 +397,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Cyclosporine",
-        "llm-average": 14.38
+        "llm-average": 7.2
       },
       {
         "entity_name": "Flavin-N7 protonated-adenine dinucleotide",
-        "llm-average": 13.73
+        "llm-average": 6.9
       },
       {
         "entity_name": "Flavin adenine dinucleotide",
-        "llm-average": 11.9
+        "llm-average": 5.9
       },
       {
         "entity_name": "Atrazine",
-        "llm-average": 11.11
+        "llm-average": 5.6
       },
       {
         "entity_name": "Estradiol",
-        "llm-average": 10.59
+        "llm-average": 5.3
       },
       {
         "entity_name": "D-tartaric acid",
-        "llm-average": 9.02
+        "llm-average": 4.5
       },
       {
         "entity_name": "NADH",
-        "llm-average": 8.76
+        "llm-average": 4.4
       },
       {
         "entity_name": "Zinc",
-        "llm-average": 5.75
+        "llm-average": 2.9
       }
     ]
   },
@@ -437,15 +437,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "N-Dimethyl-Lysine",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "Capric acid",
-        "llm-average": 8.63
+        "llm-average": 4.3
       },
       {
         "entity_name": "Codeine",
-        "llm-average": 7.71
+        "llm-average": 3.9
       }
     ]
   },
@@ -457,11 +457,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Valproic acid",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "Acetaminophen",
-        "llm-average": 10.2
+        "llm-average": 5.1
       }
     ]
   },
@@ -473,11 +473,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PRNP",
-        "llm-average": 14.12
+        "llm-average": 7.1
       },
       {
         "entity_name": "IQCB1",
-        "llm-average": 13.59
+        "llm-average": 6.8
       }
     ]
   },
@@ -489,15 +489,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Importin beta binding domain",
-        "llm-average": 18.43
+        "llm-average": 9.2
       },
       {
         "entity_name": "Atypical Arm repeat",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Armadillo/beta-catenin-like repeat",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -509,19 +509,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "IL36B",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "IL36G",
-        "llm-average": 11.5
+        "llm-average": 5.8
       },
       {
         "entity_name": "IL36A",
-        "llm-average": 11.37
+        "llm-average": 5.7
       },
       {
         "entity_name": "IL2",
-        "llm-average": 3.4
+        "llm-average": 1.7
       }
     ]
   },
@@ -533,23 +533,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "N-Acetyllactosamine",
-        "llm-average": 18.3
+        "llm-average": 9.2
       },
       {
         "entity_name": "Uridine diphosphategalactose",
-        "llm-average": 17.25
+        "llm-average": 8.6
       },
       {
         "entity_name": "N-Acetyl-D-glucosamine",
-        "llm-average": 10.72
+        "llm-average": 5.4
       },
       {
         "entity_name": "Uridine 5'-diphosphate",
-        "llm-average": 10.59
+        "llm-average": 5.3
       },
       {
         "entity_name": "Manganese",
-        "llm-average": 4.97
+        "llm-average": 2.5
       }
     ]
   },
@@ -561,35 +561,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "N-Acetyl-D-mannosamine 6-phosphate",
-        "llm-average": 12.16
+        "llm-average": 6.1
       },
       {
         "entity_name": "Beta-D-Fructose 2-phosphate",
-        "llm-average": 11.63
+        "llm-average": 5.8
       },
       {
         "entity_name": "N-Acetylmannosamine",
-        "llm-average": 10.59
+        "llm-average": 5.3
       },
       {
         "entity_name": "Phosphate",
-        "llm-average": 4.97
+        "llm-average": 2.5
       },
       {
         "entity_name": "D-Fructose",
-        "llm-average": 4.84
+        "llm-average": 2.4
       },
       {
         "entity_name": "NADP",
-        "llm-average": 4.44
+        "llm-average": 2.2
       },
       {
         "entity_name": "NAD",
-        "llm-average": 3.4
+        "llm-average": 1.7
       },
       {
         "entity_name": "Water",
-        "llm-average": 0.26
+        "llm-average": 0.1
       }
     ]
   },
@@ -601,15 +601,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Guanosine-5'-Triphosphate",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "Guanosine-5'-Diphosphate",
-        "llm-average": 11.37
+        "llm-average": 5.7
       },
       {
         "entity_name": "Dihydrogenphosphate",
-        "llm-average": 4.97
+        "llm-average": 2.5
       }
     ]
   },
@@ -621,11 +621,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CCNDBP1",
-        "llm-average": 14.12
+        "llm-average": 7.1
       },
       {
         "entity_name": "ACTBL2",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -637,23 +637,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CREB3",
-        "llm-average": 19.48
+        "llm-average": 9.7
       },
       {
         "entity_name": "GRINA",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "SLC10A6",
-        "llm-average": 14.25
+        "llm-average": 7.1
       },
       {
         "entity_name": "MFSD14B",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "REEP4",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -665,31 +665,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "WNT11",
-        "llm-average": 19.08
+        "llm-average": 9.5
       },
       {
         "entity_name": "CUL3",
-        "llm-average": 14.9
+        "llm-average": 7.5
       },
       {
         "entity_name": "GPR37",
-        "llm-average": 11.11
+        "llm-average": 5.6
       },
       {
         "entity_name": "GPRC5B",
-        "llm-average": 10.98
+        "llm-average": 5.5
       },
       {
         "entity_name": "MEOX2",
-        "llm-average": 10.85
+        "llm-average": 5.4
       },
       {
         "entity_name": "HSCB",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "FUCA1",
-        "llm-average": 5.75
+        "llm-average": 2.9
       }
     ]
   },
@@ -701,11 +701,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Bisphenol A",
-        "llm-average": 10.2
+        "llm-average": 5.1
       },
       {
         "entity_name": "ATP",
-        "llm-average": 8.5
+        "llm-average": 4.2
       }
     ]
   },
@@ -717,27 +717,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R2",
-        "llm-average": 15.29
+        "llm-average": 7.6
       },
       {
         "entity_name": "PIK3CB",
-        "llm-average": 13.99
+        "llm-average": 7.0
       },
       {
         "entity_name": "PIK3CA",
-        "llm-average": 13.86
+        "llm-average": 6.9
       },
       {
         "entity_name": "LGALS3",
-        "llm-average": 10.98
+        "llm-average": 5.5
       },
       {
         "entity_name": "ZAP70",
-        "llm-average": 8.37
+        "llm-average": 4.2
       },
       {
         "entity_name": "CD4",
-        "llm-average": 6.93
+        "llm-average": 3.5
       }
     ]
   },
@@ -749,27 +749,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)ISOXAZOLE-3-CARBOXAMIDE",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "Doxycycline",
-        "llm-average": 9.15
+        "llm-average": 4.6
       },
       {
         "entity_name": "Lacosamide",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Iron",
-        "llm-average": 2.88
+        "llm-average": 1.4
       },
       {
         "entity_name": "Isopropyl alcohol",
-        "llm-average": 2.61
+        "llm-average": 1.3
       },
       {
         "entity_name": "Magnesium cation",
-        "llm-average": 1.44
+        "llm-average": 0.7
       }
     ]
   },
@@ -781,15 +781,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Plexin cytoplasmic RasGAP domain",
-        "llm-average": 18.43
+        "llm-average": 9.2
       },
       {
         "entity_name": "Sema domain",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "Plexin repeat",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -801,19 +801,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TLL1",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "PCOLCE",
-        "llm-average": 12.55
+        "llm-average": 6.3
       },
       {
         "entity_name": "LOX",
-        "llm-average": 12.03
+        "llm-average": 6.0
       },
       {
         "entity_name": "LOXL4",
-        "llm-average": 9.67
+        "llm-average": 4.8
       }
     ]
   },
@@ -825,27 +825,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Phosphoaminophosphonic acid guanylate ester",
-        "llm-average": 13.73
+        "llm-average": 6.9
       },
       {
         "entity_name": "Guanosine-5'-Diphosphate",
-        "llm-average": 11.37
+        "llm-average": 5.7
       },
       {
         "entity_name": "N-Ethylmaleimide",
-        "llm-average": 9.02
+        "llm-average": 4.5
       },
       {
         "entity_name": "Tromethamine",
-        "llm-average": 5.62
+        "llm-average": 2.8
       },
       {
         "entity_name": "Palmitic Acid",
-        "llm-average": 4.97
+        "llm-average": 2.5
       },
       {
         "entity_name": "Magnesium cation",
-        "llm-average": 3.4
+        "llm-average": 1.7
       }
     ]
   },
@@ -857,19 +857,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Phosphatidyl serine",
-        "llm-average": 15.56
+        "llm-average": 7.8
       },
       {
         "entity_name": "D-Serine",
-        "llm-average": 9.8
+        "llm-average": 4.9
       },
       {
         "entity_name": "Serine",
-        "llm-average": 8.37
+        "llm-average": 4.2
       },
       {
         "entity_name": "Choline",
-        "llm-average": 4.97
+        "llm-average": 2.5
       }
     ]
   },
@@ -881,19 +881,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Arsenous acid",
-        "llm-average": 8.63
+        "llm-average": 4.3
       },
       {
         "entity_name": "Isobutyric acid",
-        "llm-average": 8.24
+        "llm-average": 4.1
       },
       {
         "entity_name": "Tromethamine",
-        "llm-average": 7.97
+        "llm-average": 4.0
       },
       {
         "entity_name": "Zinc",
-        "llm-average": 7.71
+        "llm-average": 3.9
       }
     ]
   },
@@ -905,23 +905,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ST3GAL3",
-        "llm-average": 16.86
+        "llm-average": 8.4
       },
       {
         "entity_name": "LALBA",
-        "llm-average": 13.33
+        "llm-average": 6.7
       },
       {
         "entity_name": "OGN",
-        "llm-average": 12.81
+        "llm-average": 6.4
       },
       {
         "entity_name": "LUM",
-        "llm-average": 11.5
+        "llm-average": 5.8
       },
       {
         "entity_name": "KERA",
-        "llm-average": 10.98
+        "llm-average": 5.5
       }
     ]
   },
@@ -933,15 +933,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",
-        "llm-average": 16.86
+        "llm-average": 8.4
       },
       {
         "entity_name": "Vincristine",
-        "llm-average": 8.63
+        "llm-average": 4.3
       },
       {
         "entity_name": "Acetaminophen",
-        "llm-average": 4.97
+        "llm-average": 2.5
       }
     ]
   },
@@ -953,11 +953,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ESR1",
-        "llm-average": 15.28
+        "llm-average": 7.6
       },
       {
         "entity_name": "CNOT1",
-        "llm-average": 14.19
+        "llm-average": 7.1
       }
     ]
   },
@@ -969,15 +969,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Erlotinib",
-        "llm-average": 18.84
+        "llm-average": 9.4
       },
       {
         "entity_name": "Ketoconazole",
-        "llm-average": 12.27
+        "llm-average": 6.1
       },
       {
         "entity_name": "Metronidazole",
-        "llm-average": 6.51
+        "llm-average": 3.3
       }
     ]
   },
@@ -989,15 +989,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Tacrolimus",
-        "llm-average": 15.56
+        "llm-average": 7.8
       },
       {
         "entity_name": "Methoxsalen",
-        "llm-average": 14.37
+        "llm-average": 7.2
       },
       {
         "entity_name": "Methotrexate",
-        "llm-average": 6.51
+        "llm-average": 3.3
       }
     ]
   },
@@ -1009,35 +1009,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Selumetinib",
-        "llm-average": 12.86
+        "llm-average": 6.4
       },
       {
         "entity_name": "Everolimus",
-        "llm-average": 12.53
+        "llm-average": 6.3
       },
       {
         "entity_name": "Temsirolimus",
-        "llm-average": 10.78
+        "llm-average": 5.4
       },
       {
         "entity_name": "Octreotide",
-        "llm-average": 9.44
+        "llm-average": 4.7
       },
       {
         "entity_name": "Lapatinib",
-        "llm-average": 7.84
+        "llm-average": 3.9
       },
       {
         "entity_name": "Erlotinib",
-        "llm-average": 7.71
+        "llm-average": 3.9
       },
       {
         "entity_name": "Imatinib",
-        "llm-average": 6.45
+        "llm-average": 3.2
       },
       {
         "entity_name": "Carboplatin",
-        "llm-average": 6.23
+        "llm-average": 3.1
       }
     ]
   },
@@ -1049,11 +1049,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Binimetinib",
-        "llm-average": 11.98
+        "llm-average": 6.0
       },
       {
         "entity_name": "Selumetinib",
-        "llm-average": 11.16
+        "llm-average": 5.6
       }
     ]
   },
@@ -1065,11 +1065,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Doxycycline",
-        "llm-average": 10.46
+        "llm-average": 5.2
       },
       {
         "entity_name": "Lacosamide",
-        "llm-average": 9.65
+        "llm-average": 4.8
       }
     ]
   },
@@ -1081,11 +1081,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Tositumomab",
-        "llm-average": 13.79
+        "llm-average": 6.9
       },
       {
         "entity_name": "Rituximab",
-        "llm-average": 11.16
+        "llm-average": 5.6
       }
     ]
   },
@@ -1097,15 +1097,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Sirolimus",
-        "llm-average": 14.64
+        "llm-average": 7.3
       },
       {
         "entity_name": "Flutamide",
-        "llm-average": 13.35
+        "llm-average": 6.7
       },
       {
         "entity_name": "Estradiol",
-        "llm-average": 7.19
+        "llm-average": 3.6
       }
     ]
   },
@@ -1117,15 +1117,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Vorinostat",
-        "llm-average": 15.92
+        "llm-average": 8.0
       },
       {
         "entity_name": "Gallium nitrate",
-        "llm-average": 8.57
+        "llm-average": 4.3
       },
       {
         "entity_name": "Cyclosporine",
-        "llm-average": 8.52
+        "llm-average": 4.3
       }
     ]
   },
@@ -1137,23 +1137,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Infliximab",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "Nelfinavir",
-        "llm-average": 8.84
+        "llm-average": 4.4
       },
       {
         "entity_name": "Ritonavir",
-        "llm-average": 8.28
+        "llm-average": 4.1
       },
       {
         "entity_name": "Saquinavir",
-        "llm-average": 8.26
+        "llm-average": 4.1
       },
       {
         "entity_name": "Ethanol",
-        "llm-average": 5.49
+        "llm-average": 2.7
       }
     ]
   },
@@ -1165,11 +1165,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Estradiol",
-        "llm-average": 10.39
+        "llm-average": 5.2
       },
       {
         "entity_name": "Glucosamine",
-        "llm-average": 9.04
+        "llm-average": 4.5
       }
     ]
   },
@@ -1181,15 +1181,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Vorinostat",
-        "llm-average": 15.78
+        "llm-average": 7.9
       },
       {
         "entity_name": "Cyclosporine",
-        "llm-average": 11.68
+        "llm-average": 5.8
       },
       {
         "entity_name": "Gallium nitrate",
-        "llm-average": 10.46
+        "llm-average": 5.2
       }
     ]
   },
@@ -1201,11 +1201,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Docetaxel",
-        "llm-average": 9.85
+        "llm-average": 4.9
       },
       {
         "entity_name": "Paclitaxel",
-        "llm-average": 9.04
+        "llm-average": 4.5
       }
     ]
   },
@@ -1217,11 +1217,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Rabeprazole",
-        "llm-average": 13.27
+        "llm-average": 6.6
       },
       {
         "entity_name": "Tacrolimus",
-        "llm-average": 12.2
+        "llm-average": 6.1
       }
     ]
   },
@@ -1233,23 +1233,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Astemizole",
-        "llm-average": 18.67
+        "llm-average": 9.3
       },
       {
         "entity_name": "Dofetilide",
-        "llm-average": 17.05
+        "llm-average": 8.5
       },
       {
         "entity_name": "Terfenadine",
-        "llm-average": 13.39
+        "llm-average": 6.7
       },
       {
         "entity_name": "Haloperidol",
-        "llm-average": 12.83
+        "llm-average": 6.4
       },
       {
         "entity_name": "Imipramine",
-        "llm-average": 8.04
+        "llm-average": 4.0
       }
     ]
   },
@@ -1261,11 +1261,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Conjugated estrogens",
-        "llm-average": 6.89
+        "llm-average": 3.4
       },
       {
         "entity_name": "Estrone sulfate",
-        "llm-average": 6.45
+        "llm-average": 3.2
       }
     ]
   },
@@ -1277,19 +1277,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Haloperidol",
-        "llm-average": 13.87
+        "llm-average": 6.9
       },
       {
         "entity_name": "Cocaine",
-        "llm-average": 9.44
+        "llm-average": 4.7
       },
       {
         "entity_name": "Dopamine",
-        "llm-average": 6.81
+        "llm-average": 3.4
       },
       {
         "entity_name": "Dextroamphetamine",
-        "llm-average": 6.45
+        "llm-average": 3.2
       }
     ]
   },
@@ -1301,15 +1301,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Vorinostat",
-        "llm-average": 15.78
+        "llm-average": 7.9
       },
       {
         "entity_name": "Panobinostat",
-        "llm-average": 15.6
+        "llm-average": 7.8
       },
       {
         "entity_name": "Palbociclib",
-        "llm-average": 10.93
+        "llm-average": 5.5
       }
     ]
   },
@@ -1321,11 +1321,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NOS3",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "HSP90AA1",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -1337,11 +1337,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CTNNB1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "ESR1",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -1353,11 +1353,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GRK3",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "GRK2",
-        "llm-average": 8.85
+        "llm-average": 4.4
       }
     ]
   },
@@ -1369,11 +1369,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Fentanyl",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "Etoricoxib",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -1385,11 +1385,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CTSG",
-        "llm-average": 8.89
+        "llm-average": 4.4
       },
       {
         "entity_name": "SERPINA1",
-        "llm-average": 7.03
+        "llm-average": 3.5
       }
     ]
   },
@@ -1401,19 +1401,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "DGAT1",
-        "llm-average": 14.61
+        "llm-average": 7.3
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "LPIN1",
-        "llm-average": 12.71
+        "llm-average": 6.4
       }
     ]
   },
@@ -1425,11 +1425,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPAM",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -1441,27 +1441,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTPMT1",
-        "llm-average": 16.83
+        "llm-average": 8.4
       },
       {
         "entity_name": "CRLS1",
-        "llm-average": 14.2
+        "llm-average": 7.1
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "AGPAT5",
-        "llm-average": 11.34
+        "llm-average": 5.7
       },
       {
         "entity_name": "PGS1",
-        "llm-average": 7.85
+        "llm-average": 3.9
       }
     ]
   },
@@ -1473,11 +1473,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LGALS3",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "CSF2",
-        "llm-average": 15.07
+        "llm-average": 7.5
       }
     ]
   },
@@ -1489,23 +1489,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SIRT2",
-        "llm-average": 12.62
+        "llm-average": 6.3
       },
       {
         "entity_name": "SIRT1",
-        "llm-average": 11.75
+        "llm-average": 5.9
       },
       {
         "entity_name": "SIRT3",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "HDAC3",
-        "llm-average": 9.48
+        "llm-average": 4.7
       },
       {
         "entity_name": "H3-2",
-        "llm-average": 6.03
+        "llm-average": 3.0
       }
     ]
   },
@@ -1517,19 +1517,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "DIP2B",
-        "llm-average": 9.95
+        "llm-average": 5.0
       },
       {
         "entity_name": "PKD1L2",
-        "llm-average": 8.55
+        "llm-average": 4.3
       },
       {
         "entity_name": "SH2B3",
-        "llm-average": 5.75
+        "llm-average": 2.9
       },
       {
         "entity_name": "FER1L6",
-        "llm-average": 4.89
+        "llm-average": 2.4
       }
     ]
   },
@@ -1541,15 +1541,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TRH",
-        "llm-average": 16.77
+        "llm-average": 8.4
       },
       {
         "entity_name": "ACE",
-        "llm-average": 10.82
+        "llm-average": 5.4
       },
       {
         "entity_name": "BLMH",
-        "llm-average": 10.81
+        "llm-average": 5.4
       }
     ]
   },
@@ -1561,15 +1561,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CLIP4",
-        "llm-average": 16.77
+        "llm-average": 8.4
       },
       {
         "entity_name": "ABL1",
-        "llm-average": 10.82
+        "llm-average": 5.4
       },
       {
         "entity_name": "HDAC6",
-        "llm-average": 10.81
+        "llm-average": 5.4
       }
     ]
   },
@@ -1581,15 +1581,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 17.24
+        "llm-average": 8.6
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 9.68
+        "llm-average": 4.8
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 7.66
+        "llm-average": 3.8
       }
     ]
   },
@@ -1601,19 +1601,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SETX",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "ETV6",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "BHLHE40",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "ELK1",
-        "llm-average": 10.01
+        "llm-average": 5.0
       }
     ]
   },
@@ -1625,31 +1625,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Bortezomib",
-        "llm-average": 13.54
+        "llm-average": 6.8
       },
       {
         "entity_name": "Lenalidomide",
-        "llm-average": 12.38
+        "llm-average": 6.2
       },
       {
         "entity_name": "Pramipexole",
-        "llm-average": 9.48
+        "llm-average": 4.7
       },
       {
         "entity_name": "Bupropion",
-        "llm-average": 8.69
+        "llm-average": 4.3
       },
       {
         "entity_name": "Tramadol",
-        "llm-average": 4.57
+        "llm-average": 2.3
       },
       {
         "entity_name": "Clonazepam",
-        "llm-average": 3.6
+        "llm-average": 1.8
       },
       {
         "entity_name": "Ciprofloxacin",
-        "llm-average": 3.29
+        "llm-average": 1.6
       }
     ]
   },
@@ -1661,15 +1661,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Glycerol 3-phosphate",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "Dihydroxyacetone phosphate",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "Cytidine monophosphate",
-        "llm-average": 7.85
+        "llm-average": 3.9
       }
     ]
   },
@@ -1681,15 +1681,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CD81",
-        "llm-average": 13.1
+        "llm-average": 6.5
       },
       {
         "entity_name": "ITGB1",
-        "llm-average": 10.33
+        "llm-average": 5.2
       },
       {
         "entity_name": "ITGA4",
-        "llm-average": 7.03
+        "llm-average": 3.5
       }
     ]
   },
@@ -1701,15 +1701,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Clarithromycin",
-        "llm-average": 7.66
+        "llm-average": 3.8
       },
       {
         "entity_name": "Escitalopram",
-        "llm-average": 7.01
+        "llm-average": 3.5
       },
       {
         "entity_name": "Citalopram",
-        "llm-average": 6.8
+        "llm-average": 3.4
       }
     ]
   },
@@ -1721,19 +1721,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MAP3K7",
-        "llm-average": 17.24
+        "llm-average": 8.6
       },
       {
         "entity_name": "ACTB",
-        "llm-average": 9.68
+        "llm-average": 4.8
       },
       {
         "entity_name": "PRKDC",
-        "llm-average": 7.66
+        "llm-average": 3.8
       },
       {
         "entity_name": "HDAC1",
-        "llm-average": 6.78
+        "llm-average": 3.4
       }
     ]
   },
@@ -1745,11 +1745,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NOTCH1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "ANKRD44",
-        "llm-average": 10.77
+        "llm-average": 5.4
       }
     ]
   },
@@ -1761,11 +1761,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CDKN1B",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "SRC",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -1777,15 +1777,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "DPM2",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "PIGP",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "PIGC",
-        "llm-average": 5.5
+        "llm-average": 2.8
       }
     ]
   },
@@ -1797,11 +1797,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Citalopram",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "Escitalopram",
-        "llm-average": 8.47
+        "llm-average": 4.2
       }
     ]
   },
@@ -1813,11 +1813,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPAM",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 8.85
+        "llm-average": 4.4
       }
     ]
   },
@@ -1829,23 +1829,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "HGF",
-        "llm-average": 16.41
+        "llm-average": 8.2
       },
       {
         "entity_name": "SMAD4",
-        "llm-average": 15.73
+        "llm-average": 7.9
       },
       {
         "entity_name": "SPP1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "KIT",
-        "llm-average": 11.92
+        "llm-average": 6.0
       },
       {
         "entity_name": "FUT4",
-        "llm-average": 9.21
+        "llm-average": 4.6
       }
     ]
   },
@@ -1857,15 +1857,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ADIPOQ",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "PPARA",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "MEAF6",
-        "llm-average": 12.39
+        "llm-average": 6.2
       }
     ]
   },
@@ -1877,15 +1877,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "HAPLN2",
-        "llm-average": 16.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "GFAP",
-        "llm-average": 9.92
+        "llm-average": 5.0
       },
       {
         "entity_name": "EGF",
-        "llm-average": 3.6
+        "llm-average": 1.8
       }
     ]
   },
@@ -1897,23 +1897,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 14.24
+        "llm-average": 7.1
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 13.02
+        "llm-average": 6.5
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 12.98
+        "llm-average": 6.5
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 12.39
+        "llm-average": 6.2
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 7.3
+        "llm-average": 3.7
       }
     ]
   },
@@ -1925,11 +1925,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ZNF652",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "KIF26A",
-        "llm-average": 15.07
+        "llm-average": 7.5
       }
     ]
   },
@@ -1941,15 +1941,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SC5D",
-        "llm-average": 16.77
+        "llm-average": 8.4
       },
       {
         "entity_name": "DHCR7",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "ACP6",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -1961,27 +1961,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PPARGC1A",
-        "llm-average": 15.73
+        "llm-average": 7.9
       },
       {
         "entity_name": "SERPINB3",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "NCOR1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "NCKAP5L",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "ASCL1",
-        "llm-average": 9.46
+        "llm-average": 4.7
       },
       {
         "entity_name": "PHOX2B",
-        "llm-average": 9.25
+        "llm-average": 4.6
       }
     ]
   },
@@ -1993,11 +1993,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SPATA5",
-        "llm-average": 14.21
+        "llm-average": 7.1
       },
       {
         "entity_name": "ACOT8",
-        "llm-average": 9.19
+        "llm-average": 4.6
       }
     ]
   },
@@ -2009,19 +2009,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PRKN",
-        "llm-average": 18.38
+        "llm-average": 9.2
       },
       {
         "entity_name": "TRIM21",
-        "llm-average": 13.24
+        "llm-average": 6.6
       },
       {
         "entity_name": "SNX14",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "KBTBD6",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2033,15 +2033,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "C1S",
-        "llm-average": 15.33
+        "llm-average": 7.7
       },
       {
         "entity_name": "ACTA1",
-        "llm-average": 12.98
+        "llm-average": 6.5
       },
       {
         "entity_name": "GRN",
-        "llm-average": 12.42
+        "llm-average": 6.2
       }
     ]
   },
@@ -2053,11 +2053,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "HOXB5",
-        "llm-average": 16.86
+        "llm-average": 8.4
       },
       {
         "entity_name": "ACBD7",
-        "llm-average": 15.07
+        "llm-average": 7.5
       }
     ]
   },
@@ -2069,11 +2069,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "DGAT1",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -2085,11 +2085,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTX3",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "FGF2",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2101,11 +2101,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "KIF21A",
-        "llm-average": 15.07
+        "llm-average": 7.5
       },
       {
         "entity_name": "CTNNB1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -2117,15 +2117,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 18.38
+        "llm-average": 9.2
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2137,11 +2137,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "FIG4",
-        "llm-average": 12.98
+        "llm-average": 6.5
       },
       {
         "entity_name": "PIKFYVE",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -2153,11 +2153,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ISYNA1",
-        "llm-average": 14.01
+        "llm-average": 7.0
       },
       {
         "entity_name": "ADH1A",
-        "llm-average": 13.65
+        "llm-average": 6.8
       }
     ]
   },
@@ -2169,19 +2169,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "RAB8A",
-        "llm-average": 6.93
+        "llm-average": 3.5
       },
       {
         "entity_name": "RAB10",
-        "llm-average": 5.1
+        "llm-average": 2.6
       },
       {
         "entity_name": "RAB11A",
-        "llm-average": 4.89
+        "llm-average": 2.4
       },
       {
         "entity_name": "RAB5A",
-        "llm-average": 1.98
+        "llm-average": 1.0
       }
     ]
   },
@@ -2193,27 +2193,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SIRT1",
-        "llm-average": 16.28
+        "llm-average": 8.1
       },
       {
         "entity_name": "ITGB4",
-        "llm-average": 12.39
+        "llm-average": 6.2
       },
       {
         "entity_name": "PSMD5",
-        "llm-average": 10.66
+        "llm-average": 5.3
       },
       {
         "entity_name": "MMP2",
-        "llm-average": 9.46
+        "llm-average": 4.7
       },
       {
         "entity_name": "CCND1",
-        "llm-average": 9.23
+        "llm-average": 4.6
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 7.66
+        "llm-average": 3.8
       }
     ]
   },
@@ -2225,27 +2225,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "BMI1",
-        "llm-average": 13.13
+        "llm-average": 6.6
       },
       {
         "entity_name": "PCGF2",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "COPS5",
-        "llm-average": 11.93
+        "llm-average": 6.0
       },
       {
         "entity_name": "TP53",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "RNF2",
-        "llm-average": 10.56
+        "llm-average": 5.3
       },
       {
         "entity_name": "CUL3",
-        "llm-average": 9.19
+        "llm-average": 4.6
       }
     ]
   },
@@ -2257,15 +2257,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Mycophenolic acid",
-        "llm-average": 17.24
+        "llm-average": 8.6
       },
       {
         "entity_name": "Levofloxacin",
-        "llm-average": 8.89
+        "llm-average": 4.4
       },
       {
         "entity_name": "Ofloxacin",
-        "llm-average": 8.15
+        "llm-average": 4.1
       }
     ]
   },
@@ -2277,19 +2277,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PRKG1",
-        "llm-average": 18.85
+        "llm-average": 9.4
       },
       {
         "entity_name": "ATP2A1",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "BCL2L1",
-        "llm-average": 9.25
+        "llm-average": 4.6
       },
       {
         "entity_name": "GAPDH",
-        "llm-average": 7.0
+        "llm-average": 3.5
       }
     ]
   },
@@ -2301,23 +2301,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CLP1",
-        "llm-average": 17.35
+        "llm-average": 8.7
       },
       {
         "entity_name": "SIRT7",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "INTS11",
-        "llm-average": 9.68
+        "llm-average": 4.8
       },
       {
         "entity_name": "TOE1",
-        "llm-average": 9.46
+        "llm-average": 4.7
       },
       {
         "entity_name": "RBM5",
-        "llm-average": 9.25
+        "llm-average": 4.6
       }
     ]
   },
@@ -2329,11 +2329,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "AGPAT5",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "CRLS1",
-        "llm-average": 15.07
+        "llm-average": 7.5
       }
     ]
   },
@@ -2345,15 +2345,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SKIL",
-        "llm-average": 14.68
+        "llm-average": 7.3
       },
       {
         "entity_name": "SMURF2",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "SMAD3",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -2365,11 +2365,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ATR",
-        "llm-average": 14.59
+        "llm-average": 7.3
       },
       {
         "entity_name": "HDAC2",
-        "llm-average": 7.03
+        "llm-average": 3.5
       }
     ]
   },
@@ -2381,31 +2381,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTPMT1",
-        "llm-average": 17.59
+        "llm-average": 8.8
       },
       {
         "entity_name": "CRLS1",
-        "llm-average": 16.02
+        "llm-average": 8.0
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 14.03
+        "llm-average": 7.0
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "AGPAT5",
-        "llm-average": 12.1
+        "llm-average": 6.1
       },
       {
         "entity_name": "PGS1",
-        "llm-average": 10.91
+        "llm-average": 5.5
       },
       {
         "entity_name": "CDS2",
-        "llm-average": 10.43
+        "llm-average": 5.2
       }
     ]
   },
@@ -2417,11 +2417,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MID1",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "IRF6",
-        "llm-average": 8.39
+        "llm-average": 4.2
       }
     ]
   },
@@ -2433,19 +2433,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTPMT1",
-        "llm-average": 16.83
+        "llm-average": 8.4
       },
       {
         "entity_name": "CRLS1",
-        "llm-average": 12.39
+        "llm-average": 6.2
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 12.13
+        "llm-average": 6.1
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 10.82
+        "llm-average": 5.4
       }
     ]
   },
@@ -2457,19 +2457,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Methotrexate",
-        "llm-average": 18.38
+        "llm-average": 9.2
       },
       {
         "entity_name": "Saxagliptin",
-        "llm-average": 13.24
+        "llm-average": 6.6
       },
       {
         "entity_name": "Zonisamide",
-        "llm-average": 12.89
+        "llm-average": 6.4
       },
       {
         "entity_name": "Fluconazole",
-        "llm-average": 8.15
+        "llm-average": 4.1
       }
     ]
   },
@@ -2481,15 +2481,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CDS2",
-        "llm-average": 11.44
+        "llm-average": 5.7
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 11.39
+        "llm-average": 5.7
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 10.81
+        "llm-average": 5.4
       }
     ]
   },
@@ -2501,19 +2501,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CD40LG",
-        "llm-average": 11.92
+        "llm-average": 6.0
       },
       {
         "entity_name": "CTLA4",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "CD28",
-        "llm-average": 8.4
+        "llm-average": 4.2
       },
       {
         "entity_name": "TNF",
-        "llm-average": 6.03
+        "llm-average": 3.0
       }
     ]
   },
@@ -2525,11 +2525,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "KRAS",
-        "llm-average": 12.6
+        "llm-average": 6.3
       },
       {
         "entity_name": "ERAS",
-        "llm-average": 12.42
+        "llm-average": 6.2
       }
     ]
   },
@@ -2541,11 +2541,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CD44",
-        "llm-average": 15.33
+        "llm-average": 7.7
       },
       {
         "entity_name": "MAPK3",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -2557,11 +2557,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 16.89
+        "llm-average": 8.4
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 13.45
+        "llm-average": 6.7
       }
     ]
   },
@@ -2573,15 +2573,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 10.01
+        "llm-average": 5.0
       }
     ]
   },
@@ -2593,11 +2593,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PSMC3",
-        "llm-average": 10.44
+        "llm-average": 5.2
       },
       {
         "entity_name": "AZIN2",
-        "llm-average": 9.19
+        "llm-average": 4.6
       }
     ]
   },
@@ -2609,19 +2609,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NELFCD",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "TCEA1",
-        "llm-average": 13.71
+        "llm-average": 6.9
       },
       {
         "entity_name": "ELOA3P",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "POLR2A",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -2633,15 +2633,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "AGPAT1",
-        "llm-average": 13.71
+        "llm-average": 6.9
       },
       {
         "entity_name": "LPIN1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -2653,19 +2653,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "FYN",
-        "llm-average": 15.11
+        "llm-average": 7.6
       },
       {
         "entity_name": "MS4A1",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "LYN",
-        "llm-average": 12.05
+        "llm-average": 6.0
       },
       {
         "entity_name": "LCK",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2677,11 +2677,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "C4A",
-        "llm-average": 7.77
+        "llm-average": 3.9
       },
       {
         "entity_name": "C3",
-        "llm-average": 7.03
+        "llm-average": 3.5
       }
     ]
   },
@@ -2693,11 +2693,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NHLRC1",
-        "llm-average": 11.63
+        "llm-average": 5.8
       },
       {
         "entity_name": "KIF6",
-        "llm-average": 10.22
+        "llm-average": 5.1
       }
     ]
   },
@@ -2709,31 +2709,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MTOR",
-        "llm-average": 15.66
+        "llm-average": 7.8
       },
       {
         "entity_name": "TGFB2",
-        "llm-average": 12.0
+        "llm-average": 6.0
       },
       {
         "entity_name": "IL6",
-        "llm-average": 9.95
+        "llm-average": 5.0
       },
       {
         "entity_name": "VEGFA",
-        "llm-average": 9.52
+        "llm-average": 4.8
       },
       {
         "entity_name": "AKT1",
-        "llm-average": 8.55
+        "llm-average": 4.3
       },
       {
         "entity_name": "FGF2",
-        "llm-average": 7.04
+        "llm-average": 3.5
       },
       {
         "entity_name": "CTSL",
-        "llm-average": 3.6
+        "llm-average": 1.8
       }
     ]
   },
@@ -2745,11 +2745,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SENP6",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "SUMO1",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2761,15 +2761,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MMP2",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "DCN",
-        "llm-average": 13.06
+        "llm-average": 6.5
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -2781,15 +2781,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "EMILIN1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "ITGB1",
-        "llm-average": 6.63
+        "llm-average": 3.3
       },
       {
         "entity_name": "ITGA4",
-        "llm-average": 6.27
+        "llm-average": 3.1
       }
     ]
   },
@@ -2801,11 +2801,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ABL1",
-        "llm-average": 13.65
+        "llm-average": 6.8
       },
       {
         "entity_name": "BRCA1",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -2817,11 +2817,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTDSS1",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "CHKA",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -2833,11 +2833,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ESR1",
-        "llm-average": 13.46
+        "llm-average": 6.7
       },
       {
         "entity_name": "EP300",
-        "llm-average": 13.45
+        "llm-average": 6.7
       }
     ]
   },
@@ -2849,11 +2849,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CDK5R1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "CAD",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -2865,23 +2865,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "RHOT2",
-        "llm-average": 11.71
+        "llm-average": 5.9
       },
       {
         "entity_name": "RHOT1",
-        "llm-average": 10.19
+        "llm-average": 5.1
       },
       {
         "entity_name": "BAG3",
-        "llm-average": 9.92
+        "llm-average": 5.0
       },
       {
         "entity_name": "DMPK",
-        "llm-average": 6.44
+        "llm-average": 3.2
       },
       {
         "entity_name": "RIPK3",
-        "llm-average": 5.18
+        "llm-average": 2.6
       }
     ]
   },
@@ -2893,19 +2893,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 7.85
+        "llm-average": 3.9
       }
     ]
   },
@@ -2917,11 +2917,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NOTCH3",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "NOTCH2",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -2933,11 +2933,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ADSL",
-        "llm-average": 13.46
+        "llm-average": 6.7
       },
       {
         "entity_name": "ITPR1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       }
     ]
   },
@@ -2949,11 +2949,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 14.3
+        "llm-average": 7.2
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 12.89
+        "llm-average": 6.4
       }
     ]
   },
@@ -2965,19 +2965,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPAM",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 14.61
+        "llm-average": 7.3
       },
       {
         "entity_name": "LPIN1",
-        "llm-average": 12.71
+        "llm-average": 6.4
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -2989,15 +2989,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "AGPAT5",
-        "llm-average": 15.62
+        "llm-average": 7.8
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 11.92
+        "llm-average": 6.0
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 10.73
+        "llm-average": 5.4
       }
     ]
   },
@@ -3009,19 +3009,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Triamcinolone",
-        "llm-average": 11.25
+        "llm-average": 5.6
       },
       {
         "entity_name": "Dexamethasone",
-        "llm-average": 7.26
+        "llm-average": 3.6
       },
       {
         "entity_name": "Betamethasone",
-        "llm-average": 7.04
+        "llm-average": 3.5
       },
       {
         "entity_name": "Methylprednisolone",
-        "llm-average": 3.6
+        "llm-average": 1.8
       }
     ]
   },
@@ -3033,35 +3033,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SERPIND1",
-        "llm-average": 15.75
+        "llm-average": 7.9
       },
       {
         "entity_name": "PROC",
-        "llm-average": 14.24
+        "llm-average": 7.1
       },
       {
         "entity_name": "F12",
-        "llm-average": 13.38
+        "llm-average": 6.7
       },
       {
         "entity_name": "F2",
-        "llm-average": 9.81
+        "llm-average": 4.9
       },
       {
         "entity_name": "SERPINC1",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "F8",
-        "llm-average": 9.04
+        "llm-average": 4.5
       },
       {
         "entity_name": "VWF",
-        "llm-average": 5.74
+        "llm-average": 2.9
       },
       {
         "entity_name": "KNG1",
-        "llm-average": 4.76
+        "llm-average": 2.4
       }
     ]
   },
@@ -3073,23 +3073,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 18.71
+        "llm-average": 9.4
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 18.38
+        "llm-average": 9.2
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 12.98
+        "llm-average": 6.5
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 10.73
+        "llm-average": 5.4
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 8.93
+        "llm-average": 4.5
       }
     ]
   },
@@ -3101,23 +3101,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "STAG1",
-        "llm-average": 10.69
+        "llm-average": 5.3
       },
       {
         "entity_name": "CD69",
-        "llm-average": 10.28
+        "llm-average": 5.1
       },
       {
         "entity_name": "STAG2",
-        "llm-average": 9.95
+        "llm-average": 5.0
       },
       {
         "entity_name": "H2AC20",
-        "llm-average": 7.16
+        "llm-average": 3.6
       },
       {
         "entity_name": "H2BC21",
-        "llm-average": 3.6
+        "llm-average": 1.8
       }
     ]
   },
@@ -3129,15 +3129,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "HSPA8",
-        "llm-average": 7.66
+        "llm-average": 3.8
       },
       {
         "entity_name": "GAPDH",
-        "llm-average": 7.56
+        "llm-average": 3.8
       },
       {
         "entity_name": "ACTB",
-        "llm-average": 6.25
+        "llm-average": 3.1
       }
     ]
   },
@@ -3149,11 +3149,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PTPMT1",
-        "llm-average": 16.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 10.3
+        "llm-average": 5.2
       }
     ]
   },
@@ -3165,23 +3165,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 15.3
+        "llm-average": 7.7
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 10.86
+        "llm-average": 5.4
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 10.81
+        "llm-average": 5.4
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 6.78
+        "llm-average": 3.4
       }
     ]
   },
@@ -3193,11 +3193,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Hyoscyamine",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "Atropine",
-        "llm-average": 11.5
+        "llm-average": 5.7
       }
     ]
   },
@@ -3209,19 +3209,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 12.72
+        "llm-average": 6.4
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 7.09
+        "llm-average": 3.5
       }
     ]
   },
@@ -3233,11 +3233,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CDS2",
-        "llm-average": 15.27
+        "llm-average": 7.6
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 15.07
+        "llm-average": 7.5
       }
     ]
   },
@@ -3249,15 +3249,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LIFR",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "MAPK14",
-        "llm-average": 11.16
+        "llm-average": 5.6
       },
       {
         "entity_name": "MAPK1",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -3269,15 +3269,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CIT",
-        "llm-average": 14.98
+        "llm-average": 7.5
       },
       {
         "entity_name": "DVL3",
-        "llm-average": 9.19
+        "llm-average": 4.6
       },
       {
         "entity_name": "DVL2",
-        "llm-average": 8.85
+        "llm-average": 4.4
       }
     ]
   },
@@ -3289,15 +3289,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "HTR7",
-        "llm-average": 17.24
+        "llm-average": 8.6
       },
       {
         "entity_name": "CREB1",
-        "llm-average": 10.73
+        "llm-average": 5.4
       },
       {
         "entity_name": "JUN",
-        "llm-average": 10.3
+        "llm-average": 5.2
       }
     ]
   },
@@ -3309,11 +3309,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PGS1",
-        "llm-average": 14.51
+        "llm-average": 7.3
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 10.3
+        "llm-average": 5.2
       }
     ]
   },
@@ -3325,27 +3325,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "RAB8A",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "RHO",
-        "llm-average": 11.63
+        "llm-average": 5.8
       },
       {
         "entity_name": "RAB11A",
-        "llm-average": 10.38
+        "llm-average": 5.2
       },
       {
         "entity_name": "EXOC7",
-        "llm-average": 8.86
+        "llm-average": 4.4
       },
       {
         "entity_name": "EXOC5",
-        "llm-average": 8.47
+        "llm-average": 4.2
       },
       {
         "entity_name": "EXOC4",
-        "llm-average": 7.64
+        "llm-average": 3.8
       }
     ]
   },
@@ -3357,15 +3357,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "YWHAH",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "MAPT",
-        "llm-average": 14.61
+        "llm-average": 7.3
       },
       {
         "entity_name": "PPP3CC",
-        "llm-average": 11.83
+        "llm-average": 5.9
       }
     ]
   },
@@ -3377,19 +3377,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 18.38
+        "llm-average": 9.2
       },
       {
         "entity_name": "DGAT1",
-        "llm-average": 17.27
+        "llm-average": 8.6
       },
       {
         "entity_name": "GPAM",
-        "llm-average": 11.83
+        "llm-average": 5.9
       },
       {
         "entity_name": "AGPAT1",
-        "llm-average": 7.85
+        "llm-average": 3.9
       }
     ]
   },
@@ -3401,19 +3401,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LAMA2",
-        "llm-average": 15.65
+        "llm-average": 7.8
       },
       {
         "entity_name": "DDR1",
-        "llm-average": 12.48
+        "llm-average": 6.2
       },
       {
         "entity_name": "FN1",
-        "llm-average": 9.94
+        "llm-average": 5.0
       },
       {
         "entity_name": "DMD",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -3425,11 +3425,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NOS3",
-        "llm-average": 17.24
+        "llm-average": 8.6
       },
       {
         "entity_name": "CAV1",
-        "llm-average": 9.68
+        "llm-average": 4.8
       }
     ]
   },
@@ -3441,11 +3441,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "LPIN1",
-        "llm-average": 13.45
+        "llm-average": 6.7
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 9.38
+        "llm-average": 4.7
       }
     ]
   },
@@ -3457,15 +3457,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 11.88
+        "llm-average": 5.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -3477,11 +3477,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -3493,15 +3493,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 18.13
+        "llm-average": 9.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "MDM2",
-        "llm-average": 10.01
+        "llm-average": 5.0
       }
     ]
   },
@@ -3513,19 +3513,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TP53",
-        "llm-average": 15.21
+        "llm-average": 7.6
       },
       {
         "entity_name": "BCL2L1",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 7.99
+        "llm-average": 4.0
       }
     ]
   },
@@ -3537,19 +3537,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TP53",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "CBL",
-        "llm-average": 10.6
+        "llm-average": 5.3
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 10.27
+        "llm-average": 5.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 7.24
+        "llm-average": 3.6
       }
     ]
   },
@@ -3561,11 +3561,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GRB2",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       }
     ]
   },
@@ -3577,19 +3577,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GAB2",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "TP53",
-        "llm-average": 8.91
+        "llm-average": 4.5
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 7.09
+        "llm-average": 3.5
       }
     ]
   },
@@ -3601,11 +3601,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -3617,11 +3617,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 8.59
+        "llm-average": 4.3
       }
     ]
   },
@@ -3633,11 +3633,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "MYC",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -3649,19 +3649,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 14.18
+        "llm-average": 7.1
       },
       {
         "entity_name": "TP53",
-        "llm-average": 10.3
+        "llm-average": 5.1
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 9.08
+        "llm-average": 4.5
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -3673,11 +3673,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MYC",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       }
     ]
   },
@@ -3689,11 +3689,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "MYC",
-        "llm-average": 9.86
+        "llm-average": 4.9
       }
     ]
   },
@@ -3705,19 +3705,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SKP2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "STAT5A",
-        "llm-average": 10.99
+        "llm-average": 5.5
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 10.72
+        "llm-average": 5.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       }
     ]
   },
@@ -3729,11 +3729,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MYC",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       }
     ]
   },
@@ -3745,19 +3745,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 17.0
+        "llm-average": 8.5
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "CBL",
-        "llm-average": 9.44
+        "llm-average": 4.7
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       }
     ]
   },
@@ -3769,27 +3769,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 14.48
+        "llm-average": 7.2
       },
       {
         "entity_name": "CBL",
-        "llm-average": 11.39
+        "llm-average": 5.7
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 9.37
+        "llm-average": 4.7
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 8.87
+        "llm-average": 4.4
       }
     ]
   },
@@ -3801,15 +3801,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 13.75
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -3821,15 +3821,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.75
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -3841,19 +3841,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 16.55
+        "llm-average": 8.3
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 7.99
+        "llm-average": 4.0
       }
     ]
   },
@@ -3865,11 +3865,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.64
+        "llm-average": 6.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -3881,15 +3881,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 14.14
+        "llm-average": 7.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "MYC",
-        "llm-average": 11.73
+        "llm-average": 5.9
       }
     ]
   },
@@ -3901,15 +3901,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 19.25
+        "llm-average": 9.6
       },
       {
         "entity_name": "STAT5A",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       }
     ]
   },
@@ -3921,11 +3921,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 12.26
+        "llm-average": 6.1
       }
     ]
   },
@@ -3937,23 +3937,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 19.25
+        "llm-average": 9.6
       },
       {
         "entity_name": "MTOR",
-        "llm-average": 17.72
+        "llm-average": 8.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 9.37
+        "llm-average": 4.7
       }
     ]
   },
@@ -3965,19 +3965,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "BCL2L1",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "TP53",
-        "llm-average": 9.14
+        "llm-average": 4.6
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 7.99
+        "llm-average": 4.0
       }
     ]
   },
@@ -3989,15 +3989,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.96
+        "llm-average": 7.0
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "MYC",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -4009,11 +4009,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 8.74
+        "llm-average": 4.4
       }
     ]
   },
@@ -4025,11 +4025,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.64
+        "llm-average": 6.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -4041,19 +4041,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MTOR",
-        "llm-average": 16.25
+        "llm-average": 8.1
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -4065,35 +4065,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "MDM2",
-        "llm-average": 11.97
+        "llm-average": 6.0
       },
       {
         "entity_name": "TP53",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "MYC",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "CBL",
-        "llm-average": 9.85
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 7.17
+        "llm-average": 3.6
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 6.1
+        "llm-average": 3.0
       }
     ]
   },
@@ -4105,31 +4105,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 16.7
+        "llm-average": 8.4
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 14.96
+        "llm-average": 7.5
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 10.94
+        "llm-average": 5.5
       },
       {
         "entity_name": "CBL",
-        "llm-average": 10.75
+        "llm-average": 5.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 8.03
+        "llm-average": 4.0
       }
     ]
   },
@@ -4141,15 +4141,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 14.18
+        "llm-average": 7.1
       },
       {
         "entity_name": "TP53",
-        "llm-average": 8.74
+        "llm-average": 4.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.21
+        "llm-average": 4.1
       }
     ]
   },
@@ -4161,15 +4161,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 16.05
+        "llm-average": 8.0
       },
       {
         "entity_name": "TP53",
-        "llm-average": 8.74
+        "llm-average": 4.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.21
+        "llm-average": 4.1
       }
     ]
   },
@@ -4181,11 +4181,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -4197,11 +4197,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 14.76
+        "llm-average": 7.4
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 14.33
+        "llm-average": 7.2
       }
     ]
   },
@@ -4213,19 +4213,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "MTOR",
-        "llm-average": 12.21
+        "llm-average": 6.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -4237,11 +4237,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.43
+        "llm-average": 6.7
       }
     ]
   },
@@ -4253,11 +4253,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 8.59
+        "llm-average": 4.3
       }
     ]
   },
@@ -4269,11 +4269,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 14.76
+        "llm-average": 7.4
       },
       {
         "entity_name": "MYC",
-        "llm-average": 14.33
+        "llm-average": 7.2
       }
     ]
   },
@@ -4285,11 +4285,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GRB2",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       }
     ]
   },
@@ -4301,15 +4301,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MYC",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 8.29
+        "llm-average": 4.1
       }
     ]
   },
@@ -4321,15 +4321,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 13.75
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.97
+        "llm-average": 4.5
       }
     ]
   },
@@ -4341,19 +4341,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 15.86
+        "llm-average": 7.9
       },
       {
         "entity_name": "TP53",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 10.76
+        "llm-average": 5.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -4365,11 +4365,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -4381,15 +4381,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 17.9
+        "llm-average": 9.0
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       }
     ]
   },
@@ -4401,15 +4401,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "TP53",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -4421,11 +4421,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -4437,23 +4437,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 12.36
+        "llm-average": 6.2
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 11.02
+        "llm-average": 5.5
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 10.14
+        "llm-average": 5.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 7.62
+        "llm-average": 3.8
       }
     ]
   },
@@ -4465,11 +4465,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 12.26
+        "llm-average": 6.1
       }
     ]
   },
@@ -4481,11 +4481,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 12.68
+        "llm-average": 6.3
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.49
+        "llm-average": 4.7
       }
     ]
   },
@@ -4497,11 +4497,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.64
+        "llm-average": 6.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -4513,19 +4513,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "BCL2L1",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 7.99
+        "llm-average": 4.0
       },
       {
         "entity_name": "TP53",
-        "llm-average": 6.22
+        "llm-average": 3.1
       }
     ]
   },
@@ -4537,31 +4537,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 10.78
+        "llm-average": 5.4
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 10.73
+        "llm-average": 5.4
       },
       {
         "entity_name": "CBL",
-        "llm-average": 10.19
+        "llm-average": 5.1
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 9.82
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 6.79
+        "llm-average": 3.4
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 4.36
+        "llm-average": 2.2
       }
     ]
   },
@@ -4573,19 +4573,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 12.81
+        "llm-average": 6.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 7.99
+        "llm-average": 4.0
       }
     ]
   },
@@ -4597,19 +4597,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TP53",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 13.72
+        "llm-average": 6.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 7.99
+        "llm-average": 4.0
       }
     ]
   },
@@ -4621,11 +4621,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.11
+        "llm-average": 4.6
       }
     ]
   },
@@ -4637,11 +4637,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 14.33
+        "llm-average": 7.2
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -4653,35 +4653,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MTOR",
-        "llm-average": 12.74
+        "llm-average": 6.4
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 12.7
+        "llm-average": 6.3
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 11.37
+        "llm-average": 5.7
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "CBL",
-        "llm-average": 8.94
+        "llm-average": 4.5
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 7.17
+        "llm-average": 3.6
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 7.13
+        "llm-average": 3.6
       }
     ]
   },
@@ -4693,15 +4693,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TP53",
-        "llm-average": 13.98
+        "llm-average": 7.0
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "BCL2L1",
-        "llm-average": 8.74
+        "llm-average": 4.4
       }
     ]
   },
@@ -4713,11 +4713,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 13.86
+        "llm-average": 6.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 12.26
+        "llm-average": 6.1
       }
     ]
   },
@@ -4729,11 +4729,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "MYC",
-        "llm-average": 12.26
+        "llm-average": 6.1
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       }
     ]
   },
@@ -4745,27 +4745,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 14.91
+        "llm-average": 7.5
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 11.92
+        "llm-average": 6.0
       },
       {
         "entity_name": "CBL",
-        "llm-average": 11.39
+        "llm-average": 5.7
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 5.89
+        "llm-average": 2.9
       }
     ]
   },
@@ -4777,19 +4777,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "JAK2",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "STAT5A",
-        "llm-average": 15.83
+        "llm-average": 7.9
       },
       {
         "entity_name": "SKP2",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 6.94
+        "llm-average": 3.5
       }
     ]
   },
@@ -4801,31 +4801,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.64
+        "llm-average": 6.8
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 12.61
+        "llm-average": 6.3
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 11.73
+        "llm-average": 5.9
       },
       {
         "entity_name": "CBL",
-        "llm-average": 11.0
+        "llm-average": 5.5
       },
       {
         "entity_name": "PIK3R1",
-        "llm-average": 8.03
+        "llm-average": 4.0
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 5.0
+        "llm-average": 2.5
       }
     ]
   },
@@ -4837,35 +4837,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 15.86
+        "llm-average": 7.9
       },
       {
         "entity_name": "MTOR",
-        "llm-average": 14.99
+        "llm-average": 7.5
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 11.2
+        "llm-average": 5.6
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 10.29
+        "llm-average": 5.1
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "CBL",
-        "llm-average": 8.94
+        "llm-average": 4.5
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "CRK",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -4877,15 +4877,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "BCL2L1",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "TP53",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.21
+        "llm-average": 4.1
       }
     ]
   },
@@ -4897,15 +4897,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "TP53",
-        "llm-average": 11.21
+        "llm-average": 5.6
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.11
+        "llm-average": 4.6
       }
     ]
   },
@@ -4917,15 +4917,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 19.25
+        "llm-average": 9.6
       },
       {
         "entity_name": "MDM2",
-        "llm-average": 12.63
+        "llm-average": 6.3
       },
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       }
     ]
   },
@@ -4937,11 +4937,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRKL",
-        "llm-average": 13.64
+        "llm-average": 6.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 10.61
+        "llm-average": 5.3
       }
     ]
   },
@@ -4953,15 +4953,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CBL",
-        "llm-average": 16.25
+        "llm-average": 8.1
       },
       {
         "entity_name": "MDM2",
-        "llm-average": 14.7
+        "llm-average": 7.4
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       }
     ]
   },
@@ -4973,11 +4973,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CRK",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 8.59
+        "llm-average": 4.3
       }
     ]
   },
@@ -4989,19 +4989,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SKP2",
-        "llm-average": 13.81
+        "llm-average": 6.9
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 11.77
+        "llm-average": 5.9
       },
       {
         "entity_name": "STAT5A",
-        "llm-average": 10.99
+        "llm-average": 5.5
       },
       {
         "entity_name": "CRK",
-        "llm-average": 9.71
+        "llm-average": 4.9
       }
     ]
   },
@@ -5013,27 +5013,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 13.58
+        "llm-average": 6.8
       },
       {
         "entity_name": "JAK2",
-        "llm-average": 12.12
+        "llm-average": 6.1
       },
       {
         "entity_name": "CBL",
-        "llm-average": 10.67
+        "llm-average": 5.3
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 9.93
+        "llm-average": 5.0
       },
       {
         "entity_name": "RPS6KB1",
-        "llm-average": 7.58
+        "llm-average": 3.8
       },
       {
         "entity_name": "CRK",
-        "llm-average": 5.59
+        "llm-average": 2.8
       }
     ]
   },
@@ -5045,31 +5045,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PIK3R1",
-        "llm-average": 14.24
+        "llm-average": 7.1
       },
       {
         "entity_name": "GAB2",
-        "llm-average": 12.12
+        "llm-average": 6.1
       },
       {
         "entity_name": "GRB2",
-        "llm-average": 11.63
+        "llm-average": 5.8
       },
       {
         "entity_name": "CRKL",
-        "llm-average": 9.82
+        "llm-average": 4.9
       },
       {
         "entity_name": "CRK",
-        "llm-average": 8.36
+        "llm-average": 4.2
       },
       {
         "entity_name": "CBL",
-        "llm-average": 8.12
+        "llm-average": 4.1
       },
       {
         "entity_name": "SOS1",
-        "llm-average": 5.74
+        "llm-average": 2.9
       }
     ]
   },
@@ -5081,19 +5081,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPHB5",
-        "llm-average": 15.15
+        "llm-average": 7.6
       },
       {
         "entity_name": "ADCYAP1R1",
-        "llm-average": 12.61
+        "llm-average": 6.3
       },
       {
         "entity_name": "CGA",
-        "llm-average": 9.65
+        "llm-average": 4.8
       },
       {
         "entity_name": "GNB1",
-        "llm-average": 3.83
+        "llm-average": 1.9
       }
     ]
   },
@@ -5105,15 +5105,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "CYP2C9",
-        "llm-average": 14.84
+        "llm-average": 7.4
       },
       {
         "entity_name": "JUN",
-        "llm-average": 13.86
+        "llm-average": 6.9
       },
       {
         "entity_name": "NR1I2",
-        "llm-average": 7.71
+        "llm-average": 3.9
       }
     ]
   },
@@ -5125,15 +5125,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "NEU3",
-        "llm-average": 13.93
+        "llm-average": 7.0
       },
       {
         "entity_name": "NEU2",
-        "llm-average": 9.27
+        "llm-average": 4.6
       },
       {
         "entity_name": "NEU1",
-        "llm-average": 9.26
+        "llm-average": 4.6
       }
     ]
   },
@@ -5145,11 +5145,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TMEM192",
-        "llm-average": 15.08
+        "llm-average": 7.5
       },
       {
         "entity_name": "CTCF",
-        "llm-average": 14.04
+        "llm-average": 7.0
       }
     ]
   },
@@ -5161,11 +5161,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "negative regulation of cell population proliferation",
-        "llm-average": 11.53
+        "llm-average": 5.8
       },
       {
         "entity_name": "negative regulation of endopeptidase activity",
-        "llm-average": 10.94
+        "llm-average": 5.5
       }
     ]
   },
@@ -5177,11 +5177,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "SLCO1B3",
-        "llm-average": 10.94
+        "llm-average": 5.5
       },
       {
         "entity_name": "ALB",
-        "llm-average": 3.83
+        "llm-average": 1.9
       }
     ]
   },
@@ -5193,35 +5193,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",
-        "llm-average": 16.36
+        "llm-average": 8.2
       },
       {
         "entity_name": "Recycling of bile acids and salts",
-        "llm-average": 15.41
+        "llm-average": 7.7
       },
       {
         "entity_name": "Transport of organic anions",
-        "llm-average": 11.74
+        "llm-average": 5.9
       },
       {
         "entity_name": "Heme degradation",
-        "llm-average": 9.57
+        "llm-average": 4.8
       },
       {
         "entity_name": "Irinotecan Action Pathway",
-        "llm-average": 6.4
+        "llm-average": 3.2
       },
       {
         "entity_name": "Rosiglitazone Metabolism Pathway",
-        "llm-average": 4.33
+        "llm-average": 2.2
       },
       {
         "entity_name": "Irinotecan Metabolism Pathway",
-        "llm-average": 3.61
+        "llm-average": 1.8
       },
       {
         "entity_name": "Mycophenolic Acid Metabolism Pathway",
-        "llm-average": 3.11
+        "llm-average": 1.6
       }
     ]
   },
@@ -5233,19 +5233,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "TRAF6 mediated IRF7 activation",
-        "llm-average": 10.93
+        "llm-average": 5.5
       },
       {
         "entity_name": "Interferon alpha/beta signaling",
-        "llm-average": 8.95
+        "llm-average": 4.5
       },
       {
         "entity_name": "Factors involved in megakaryocyte development and platelet production",
-        "llm-average": 7.83
+        "llm-average": 3.9
       },
       {
         "entity_name": "Regulation of IFNA signaling",
-        "llm-average": 7.33
+        "llm-average": 3.7
       }
     ]
   },
@@ -5257,35 +5257,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "ATP binding cassette subfamily B member 1",
-        "llm-average": 14.2
+        "llm-average": 7.1
       },
       {
         "entity_name": "sphingosine-1-phosphate receptor 4",
-        "llm-average": 13.78
+        "llm-average": 6.9
       },
       {
         "entity_name": "interleukin 15",
-        "llm-average": 13.55
+        "llm-average": 6.8
       },
       {
         "entity_name": "sphingosine-1-phosphate receptor 1",
-        "llm-average": 11.86
+        "llm-average": 5.9
       },
       {
         "entity_name": "interleukin 2 receptor subunit alpha",
-        "llm-average": 8.63
+        "llm-average": 4.3
       },
       {
         "entity_name": "progesterone receptor",
-        "llm-average": 5.5
+        "llm-average": 2.8
       },
       {
         "entity_name": "kallikrein related peptidase 3",
-        "llm-average": 5.38
+        "llm-average": 2.7
       },
       {
         "entity_name": "estrogen receptor 1",
-        "llm-average": 4.34
+        "llm-average": 2.2
       }
     ]
   },
@@ -5297,11 +5297,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Signaling by Retinoic Acid",
-        "llm-average": 15.15
+        "llm-average": 7.6
       },
       {
         "entity_name": "Nuclear Receptor transcription pathway",
-        "llm-average": 7.97
+        "llm-average": 4.0
       }
     ]
   },
@@ -5313,35 +5313,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "solute carrier family 47 member 1",
-        "llm-average": 16.24
+        "llm-average": 8.1
       },
       {
         "entity_name": "solute carrier family 29 member 4",
-        "llm-average": 15.36
+        "llm-average": 7.7
       },
       {
         "entity_name": "leucine rich repeat containing G protein-coupled receptor 4",
-        "llm-average": 12.5
+        "llm-average": 6.2
       },
       {
         "entity_name": "leucine rich repeat containing G protein-coupled receptor 5",
-        "llm-average": 12.5
+        "llm-average": 6.2
       },
       {
         "entity_name": "Fc fragment of IgG receptor IIIa",
-        "llm-average": 12.11
+        "llm-average": 6.1
       },
       {
         "entity_name": "actin gamma 1 pseudogene 4",
-        "llm-average": 10.86
+        "llm-average": 5.4
       },
       {
         "entity_name": "nitric oxide synthase 1",
-        "llm-average": 8.22
+        "llm-average": 4.1
       },
       {
         "entity_name": "histamine receptor H2",
-        "llm-average": 5.56
+        "llm-average": 2.8
       }
     ]
   },
@@ -5353,15 +5353,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "hepatic veno-occlusive disease",
-        "llm-average": 13.18
+        "llm-average": 6.6
       },
       {
         "entity_name": "alcohol dependence",
-        "llm-average": 11.94
+        "llm-average": 6.0
       },
       {
         "entity_name": "liver disease",
-        "llm-average": 8.22
+        "llm-average": 4.1
       }
     ]
   },
@@ -5373,31 +5373,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Autoimmune hemolytic anemia",
-        "llm-average": 17.11
+        "llm-average": 8.6
       },
       {
         "entity_name": "Chronic active hepatitis",
-        "llm-average": 16.77
+        "llm-average": 8.4
       },
       {
         "entity_name": "Crohn's disease",
-        "llm-average": 15.17
+        "llm-average": 7.6
       },
       {
         "entity_name": "Systemic lupus erythematosus",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "Ulcerative colitis",
-        "llm-average": 11.44
+        "llm-average": 5.7
       },
       {
         "entity_name": "Rheumatoid arthritis",
-        "llm-average": 8.22
+        "llm-average": 4.1
       },
       {
         "entity_name": "Inflammation of the large intestine",
-        "llm-average": 5.9
+        "llm-average": 3.0
       }
     ]
   },
@@ -5409,15 +5409,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "hepatic veno-occlusive disease",
-        "llm-average": 11.58
+        "llm-average": 5.8
       },
       {
         "entity_name": "alcohol dependence",
-        "llm-average": 10.73
+        "llm-average": 5.4
       },
       {
         "entity_name": "liver disease",
-        "llm-average": 9.14
+        "llm-average": 4.6
       }
     ]
   },
@@ -5429,11 +5429,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "glomerulonephritis",
-        "llm-average": 13.38
+        "llm-average": 6.7
       },
       {
         "entity_name": "genetic disease",
-        "llm-average": 6.42
+        "llm-average": 3.2
       }
     ]
   },
@@ -5445,19 +5445,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Periodontitis",
-        "llm-average": 13.38
+        "llm-average": 6.7
       },
       {
         "entity_name": "Gingival bleeding",
-        "llm-average": 7.5
+        "llm-average": 3.7
       },
       {
         "entity_name": "Carious teeth",
-        "llm-average": 7.11
+        "llm-average": 3.6
       },
       {
         "entity_name": "Gingivitis",
-        "llm-average": 6.26
+        "llm-average": 3.1
       }
     ]
   },
@@ -5469,11 +5469,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "pituitary gland disease",
-        "llm-average": 13.38
+        "llm-average": 6.7
       },
       {
         "entity_name": "ovarian disease",
-        "llm-average": 7.86
+        "llm-average": 3.9
       }
     ]
   },
@@ -5485,15 +5485,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "infertility",
-        "llm-average": 16.25
+        "llm-average": 8.1
       },
       {
         "entity_name": "endocrine system disease",
-        "llm-average": 9.65
+        "llm-average": 4.8
       },
       {
         "entity_name": "pituitary gland disease",
-        "llm-average": 8.55
+        "llm-average": 4.3
       }
     ]
   },
@@ -5505,19 +5505,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Chronic myelomonocytic leukemia",
-        "llm-average": 14.65
+        "llm-average": 7.3
       },
       {
         "entity_name": "Acute megakaryocytic leukemia",
-        "llm-average": 14.1
+        "llm-average": 7.0
       },
       {
         "entity_name": "Refractory anemia",
-        "llm-average": 6.42
+        "llm-average": 3.2
       },
       {
         "entity_name": "Elevated hepatic transaminase",
-        "llm-average": 5.01
+        "llm-average": 2.5
       }
     ]
   },
@@ -5529,15 +5529,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "alcohol dependence",
-        "llm-average": 13.22
+        "llm-average": 6.6
       },
       {
         "entity_name": "hepatic veno-occlusive disease",
-        "llm-average": 11.58
+        "llm-average": 5.8
       },
       {
         "entity_name": "liver disease",
-        "llm-average": 10.73
+        "llm-average": 5.4
       }
     ]
   },
@@ -5549,19 +5549,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Vomiting",
-        "llm-average": 10.35
+        "llm-average": 5.2
       },
       {
         "entity_name": "Nausea",
-        "llm-average": 9.64
+        "llm-average": 4.8
       },
       {
         "entity_name": "Iridocyclitis",
-        "llm-average": 5.35
+        "llm-average": 2.7
       },
       {
         "entity_name": "Mydriasis",
-        "llm-average": 4.83
+        "llm-average": 2.4
       }
     ]
   },
@@ -5573,11 +5573,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "hepatic veno-occlusive disease",
-        "llm-average": 11.78
+        "llm-average": 5.9
       },
       {
         "entity_name": "liver disease",
-        "llm-average": 5.55
+        "llm-average": 2.8
       }
     ]
   },
@@ -5589,31 +5589,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "cytochrome P450 family 19 subfamily A member 1",
-        "llm-average": 15.72
+        "llm-average": 7.9
       },
       {
         "entity_name": "cytochrome P450 family 11 subfamily A member 1",
-        "llm-average": 14.45
+        "llm-average": 7.2
       },
       {
         "entity_name": "trefoil factor 3",
-        "llm-average": 13.88
+        "llm-average": 6.9
       },
       {
         "entity_name": "gamma-glutamyltransferase 1",
-        "llm-average": 12.46
+        "llm-average": 6.2
       },
       {
         "entity_name": "cytochrome P450 family 1 subfamily B member 1",
-        "llm-average": 11.06
+        "llm-average": 5.5
       },
       {
         "entity_name": "thyroglobulin",
-        "llm-average": 7.13
+        "llm-average": 3.6
       },
       {
         "entity_name": "gonadotropin releasing hormone 1",
-        "llm-average": 6.78
+        "llm-average": 3.4
       }
     ]
   },
@@ -5625,15 +5625,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "infertility",
-        "llm-average": 13.74
+        "llm-average": 6.9
       },
       {
         "entity_name": "endocrine system disease",
-        "llm-average": 10.35
+        "llm-average": 5.2
       },
       {
         "entity_name": "pituitary gland disease",
-        "llm-average": 6.42
+        "llm-average": 3.2
       }
     ]
   },
@@ -5645,15 +5645,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Emphysema",
-        "llm-average": 8.91
+        "llm-average": 4.5
       },
       {
         "entity_name": "Asthma",
-        "llm-average": 7.34
+        "llm-average": 3.7
       },
       {
         "entity_name": "Bronchitis",
-        "llm-average": 7.14
+        "llm-average": 3.6
       }
     ]
   },
@@ -5665,31 +5665,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Airway obstruction",
-        "llm-average": 9.08
+        "llm-average": 4.5
       },
       {
         "entity_name": "Respiratory distress",
-        "llm-average": 8.71
+        "llm-average": 4.4
       },
       {
         "entity_name": "Exercise-induced asthma",
-        "llm-average": 8.22
+        "llm-average": 4.1
       },
       {
         "entity_name": "Emphysema",
-        "llm-average": 8.19
+        "llm-average": 4.1
       },
       {
         "entity_name": "Chronic bronchitis",
-        "llm-average": 7.85
+        "llm-average": 3.9
       },
       {
         "entity_name": "Asthma",
-        "llm-average": 7.34
+        "llm-average": 3.7
       },
       {
         "entity_name": "Chronic pulmonary obstruction",
-        "llm-average": 7.33
+        "llm-average": 3.7
       }
     ]
   },
@@ -5701,19 +5701,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Neoplasm",
-        "llm-average": 10.35
+        "llm-average": 5.2
       },
       {
         "entity_name": "Leukemia",
-        "llm-average": 10.01
+        "llm-average": 5.0
       },
       {
         "entity_name": "Lymphoma",
-        "llm-average": 6.97
+        "llm-average": 3.5
       },
       {
         "entity_name": "Nausea",
-        "llm-average": 0.53
+        "llm-average": 0.3
       },
       {
         "entity_name": "Fever",
@@ -5729,23 +5729,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Gingival bleeding",
-        "llm-average": 8.56
+        "llm-average": 4.3
       },
       {
         "entity_name": "Pneumonia",
-        "llm-average": 7.99
+        "llm-average": 4.0
       },
       {
         "entity_name": "Sinusitis",
-        "llm-average": 7.47
+        "llm-average": 3.7
       },
       {
         "entity_name": "Gingivitis",
-        "llm-average": 6.42
+        "llm-average": 3.2
       },
       {
         "entity_name": "Fever",
-        "llm-average": 2.67
+        "llm-average": 1.3
       }
     ]
   },
@@ -5757,11 +5757,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Reduced factor XI activity",
-        "llm-average": 17.85
+        "llm-average": 8.9
       },
       {
         "entity_name": "Immunodeficiency",
-        "llm-average": 11.06
+        "llm-average": 5.5
       }
     ]
   },
@@ -5773,31 +5773,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Emphysema",
-        "llm-average": 9.31
+        "llm-average": 4.7
       },
       {
         "entity_name": "Nasal obstruction",
-        "llm-average": 8.91
+        "llm-average": 4.5
       },
       {
         "entity_name": "Glaucoma",
-        "llm-average": 8.35
+        "llm-average": 4.2
       },
       {
         "entity_name": "Chronic pulmonary obstruction",
-        "llm-average": 8.07
+        "llm-average": 4.0
       },
       {
         "entity_name": "Chronic bronchitis",
-        "llm-average": 7.34
+        "llm-average": 3.7
       },
       {
         "entity_name": "Asthma",
-        "llm-average": 6.45
+        "llm-average": 3.2
       },
       {
         "entity_name": "Seasonal allergy",
-        "llm-average": 6.41
+        "llm-average": 3.2
       }
     ]
   },
@@ -5809,11 +5809,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "vasculitis",
-        "llm-average": 14.45
+        "llm-average": 7.2
       },
       {
         "entity_name": "autoimmune disease",
-        "llm-average": 7.86
+        "llm-average": 3.9
       }
     ]
   },
@@ -5825,31 +5825,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Hyperhidrosis",
-        "llm-average": 14.45
+        "llm-average": 7.2
       },
       {
         "entity_name": "Peptic ulcer",
-        "llm-average": 12.01
+        "llm-average": 6.0
       },
       {
         "entity_name": "Cholecystitis",
-        "llm-average": 7.31
+        "llm-average": 3.7
       },
       {
         "entity_name": "Diarrhea",
-        "llm-average": 6.09
+        "llm-average": 3.0
       },
       {
         "entity_name": "Gastritis",
-        "llm-average": 6.08
+        "llm-average": 3.0
       },
       {
         "entity_name": "Ulcerative colitis",
-        "llm-average": 4.63
+        "llm-average": 2.3
       },
       {
         "entity_name": "Pancreatitis",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5861,15 +5861,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "hereditary fructose intolerance syndrome",
-        "llm-average": 18.92
+        "llm-average": 9.5
       },
       {
         "entity_name": "disease of metabolism",
-        "llm-average": 9.65
+        "llm-average": 4.8
       },
       {
         "entity_name": "gastrointestinal system disease",
-        "llm-average": 4.83
+        "llm-average": 2.4
       }
     ]
   },
@@ -5881,11 +5881,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "glomerulonephritis",
-        "llm-average": 14.45
+        "llm-average": 7.2
       },
       {
         "entity_name": "genetic disease",
-        "llm-average": 7.86
+        "llm-average": 3.9
       }
     ]
   },
@@ -5897,11 +5897,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Psoriasiform dermatitis",
-        "llm-average": 11.06
+        "llm-average": 5.5
       },
       {
         "entity_name": "Abnormality of the skin",
-        "llm-average": 4.3
+        "llm-average": 2.1
       }
     ]
   },
@@ -5913,31 +5913,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Vitiligo",
-        "llm-average": 17.33
+        "llm-average": 8.7
       },
       {
         "entity_name": "Hyperpigmentation of the skin",
-        "llm-average": 8.92
+        "llm-average": 4.5
       },
       {
         "entity_name": "Cafe-au-lait spot",
-        "llm-average": 8.72
+        "llm-average": 4.4
       },
       {
         "entity_name": "Cutaneous melanoma",
-        "llm-average": 8.51
+        "llm-average": 4.3
       },
       {
         "entity_name": "Nevus",
-        "llm-average": 6.04
+        "llm-average": 3.0
       },
       {
         "entity_name": "Hypopigmentation of the skin",
-        "llm-average": 5.35
+        "llm-average": 2.7
       },
       {
         "entity_name": "Inflammatory abnormality of the skin",
-        "llm-average": 4.1
+        "llm-average": 2.0
       }
     ]
   },
@@ -5949,19 +5949,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Acute megakaryocytic leukemia",
-        "llm-average": 12.3
+        "llm-average": 6.2
       },
       {
         "entity_name": "Chronic myelomonocytic leukemia",
-        "llm-average": 12.14
+        "llm-average": 6.1
       },
       {
         "entity_name": "Refractory anemia",
-        "llm-average": 6.42
+        "llm-average": 3.2
       },
       {
         "entity_name": "Elevated hepatic transaminase",
-        "llm-average": 3.58
+        "llm-average": 1.8
       }
     ]
   },
@@ -5973,15 +5973,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Neoplasm",
-        "llm-average": 11.42
+        "llm-average": 5.7
       },
       {
         "entity_name": "Chronic pain",
-        "llm-average": 8.58
+        "llm-average": 4.3
       },
       {
         "entity_name": "Pain",
-        "llm-average": 5.55
+        "llm-average": 2.8
       }
     ]
   },
@@ -5993,11 +5993,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "glomerulonephritis",
-        "llm-average": 13.38
+        "llm-average": 6.7
       },
       {
         "entity_name": "genetic disease",
-        "llm-average": 6.42
+        "llm-average": 3.2
       }
     ]
   },
@@ -6009,27 +6009,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "transient receptor potential cation channel subfamily M member 8",
-        "llm-average": 16.42
+        "llm-average": 8.2
       },
       {
         "entity_name": "transient receptor potential cation channel subfamily M member 2",
-        "llm-average": 15.17
+        "llm-average": 7.6
       },
       {
         "entity_name": "transient receptor potential cation channel subfamily M member 4",
-        "llm-average": 13.92
+        "llm-average": 7.0
       },
       {
         "entity_name": "nuclear receptor subfamily 1 group I member 3",
-        "llm-average": 13.22
+        "llm-average": 6.6
       },
       {
         "entity_name": "potassium calcium-activated channel subfamily N member 4",
-        "llm-average": 9.65
+        "llm-average": 4.8
       },
       {
         "entity_name": "cytochrome P450 family 3 subfamily A member 4",
-        "llm-average": 6.98
+        "llm-average": 3.5
       }
     ]
   },
@@ -6041,35 +6041,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Moxifloxacin",
-        "llm-average": 9.46
+        "llm-average": 4.7
       },
       {
         "entity_name": "Doxycycline",
-        "llm-average": 8.64
+        "llm-average": 4.3
       },
       {
         "entity_name": "Clindamycin",
-        "llm-average": 8.01
+        "llm-average": 4.0
       },
       {
         "entity_name": "Azithromycin",
-        "llm-average": 7.91
+        "llm-average": 4.0
       },
       {
         "entity_name": "Erythromycin",
-        "llm-average": 7.75
+        "llm-average": 3.9
       },
       {
         "entity_name": "D-Levofloxacin",
-        "llm-average": 7.62
+        "llm-average": 3.8
       },
       {
         "entity_name": "Ofloxacin",
-        "llm-average": 7.39
+        "llm-average": 3.7
       },
       {
         "entity_name": "Levofloxacin",
-        "llm-average": 7.19
+        "llm-average": 3.6
       }
     ]
   },
@@ -6081,23 +6081,23 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GOT2",
-        "llm-average": 12.27
+        "llm-average": 6.1
       },
       {
         "entity_name": "GOT1",
-        "llm-average": 10.06
+        "llm-average": 5.0
       },
       {
         "entity_name": "GPT2",
-        "llm-average": 9.56
+        "llm-average": 4.8
       },
       {
         "entity_name": "ALPL",
-        "llm-average": 8.67
+        "llm-average": 4.3
       },
       {
         "entity_name": "GPT",
-        "llm-average": 7.36
+        "llm-average": 3.7
       }
     ]
   },
@@ -6109,35 +6109,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Clodronic acid",
-        "llm-average": 14.52
+        "llm-average": 7.3
       },
       {
         "entity_name": "Cyanocobalamin",
-        "llm-average": 13.31
+        "llm-average": 6.7
       },
       {
         "entity_name": "Metronidazole",
-        "llm-average": 13.29
+        "llm-average": 6.6
       },
       {
         "entity_name": "Azathioprine",
-        "llm-average": 12.6
+        "llm-average": 6.3
       },
       {
         "entity_name": "Mesalazine",
-        "llm-average": 11.49
+        "llm-average": 5.7
       },
       {
         "entity_name": "Budesonide",
-        "llm-average": 10.49
+        "llm-average": 5.2
       },
       {
         "entity_name": "Sulfasalazine",
-        "llm-average": 9.28
+        "llm-average": 4.6
       },
       {
         "entity_name": "Prednisone",
-        "llm-average": 9.15
+        "llm-average": 4.6
       }
     ]
   },
@@ -6149,15 +6149,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Ranolazine",
-        "llm-average": 12.41
+        "llm-average": 6.2
       },
       {
         "entity_name": "Ziprasidone",
-        "llm-average": 8.67
+        "llm-average": 4.3
       },
       {
         "entity_name": "Phenylephrine",
-        "llm-average": 3.79
+        "llm-average": 1.9
       }
     ]
   },
@@ -6169,11 +6169,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "GPT2",
-        "llm-average": 8.94
+        "llm-average": 4.5
       },
       {
         "entity_name": "GPT",
-        "llm-average": 7.1
+        "llm-average": 3.5
       }
     ]
   },
@@ -6185,15 +6185,15 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "PLA2G1B",
-        "llm-average": 16.86
+        "llm-average": 8.4
       },
       {
         "entity_name": "C1R",
-        "llm-average": 13.27
+        "llm-average": 6.6
       },
       {
         "entity_name": "C1S",
-        "llm-average": 12.34
+        "llm-average": 6.2
       }
     ]
   },
@@ -6205,19 +6205,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Dopamine",
-        "llm-average": 13.24
+        "llm-average": 6.6
       },
       {
         "entity_name": "Buspirone",
-        "llm-average": 12.27
+        "llm-average": 6.1
       },
       {
         "entity_name": "Epinephrine",
-        "llm-average": 11.48
+        "llm-average": 5.7
       },
       {
         "entity_name": "Dihydroergotamine",
-        "llm-average": 8.94
+        "llm-average": 4.5
       }
     ]
   },
@@ -6229,11 +6229,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Arginine",
-        "llm-average": 12.34
+        "llm-average": 6.2
       },
       {
         "entity_name": "D-arginine",
-        "llm-average": 11.88
+        "llm-average": 5.9
       }
     ]
   },
@@ -6245,27 +6245,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Methylprednisolone",
-        "llm-average": 13.03
+        "llm-average": 6.5
       },
       {
         "entity_name": "Prednisone",
-        "llm-average": 9.7
+        "llm-average": 4.9
       },
       {
         "entity_name": "Dexamethasone",
-        "llm-average": 9.6
+        "llm-average": 4.8
       },
       {
         "entity_name": "Prednisolone",
-        "llm-average": 8.17
+        "llm-average": 4.1
       },
       {
         "entity_name": "Hydrocortisone",
-        "llm-average": 5.81
+        "llm-average": 2.9
       },
       {
         "entity_name": "Betamethasone",
-        "llm-average": 5.71
+        "llm-average": 2.9
       }
     ]
   },
@@ -6277,27 +6277,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Bosentan",
-        "llm-average": 17.52
+        "llm-average": 8.8
       },
       {
         "entity_name": "Epoprostenol",
-        "llm-average": 16.09
+        "llm-average": 8.0
       },
       {
         "entity_name": "Cimetidine",
-        "llm-average": 5.87
+        "llm-average": 2.9
       },
       {
         "entity_name": "Ranitidine",
-        "llm-average": 5.64
+        "llm-average": 2.8
       },
       {
         "entity_name": "Dexamethasone",
-        "llm-average": 5.29
+        "llm-average": 2.6
       },
       {
         "entity_name": "Betamethasone",
-        "llm-average": 4.33
+        "llm-average": 2.2
       }
     ]
   },
@@ -6309,19 +6309,19 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Dorsomorphin",
-        "llm-average": 14.96
+        "llm-average": 7.5
       },
       {
         "entity_name": "Regorafenib",
-        "llm-average": 11.31
+        "llm-average": 5.7
       },
       {
         "entity_name": "Dasatinib",
-        "llm-average": 9.2
+        "llm-average": 4.6
       },
       {
         "entity_name": "Vandetanib",
-        "llm-average": 9.03
+        "llm-average": 4.5
       }
     ]
   },
@@ -6333,31 +6333,31 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "complement activation, classical pathway",
-        "llm-average": 13.37
+        "llm-average": 6.7
       },
       {
         "entity_name": "positive regulation of B cell activation",
-        "llm-average": 11.45
+        "llm-average": 5.7
       },
       {
         "entity_name": "B cell receptor signaling pathway",
-        "llm-average": 11.09
+        "llm-average": 5.5
       },
       {
         "entity_name": "phagocytosis, engulfment",
-        "llm-average": 9.04
+        "llm-average": 4.5
       },
       {
         "entity_name": "defense response to bacterium",
-        "llm-average": 7.72
+        "llm-average": 3.9
       },
       {
         "entity_name": "innate immune response",
-        "llm-average": 4.32
+        "llm-average": 2.2
       },
       {
         "entity_name": "phagocytosis, recognition",
-        "llm-average": 3.7
+        "llm-average": 1.8
       }
     ]
   },
@@ -6369,11 +6369,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "gastrin releasing peptide receptor",
-        "llm-average": 6.44
+        "llm-average": 3.2
       },
       {
         "entity_name": "neuromedin B receptor",
-        "llm-average": 6.2
+        "llm-average": 3.1
       }
     ]
   },
@@ -6385,11 +6385,11 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "respiratory burst",
-        "llm-average": 15.74
+        "llm-average": 7.9
       },
       {
         "entity_name": "positive regulation of cytosolic calcium ion concentration",
-        "llm-average": 10.5
+        "llm-average": 5.2
       }
     ]
   },
@@ -6401,35 +6401,35 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "peroxisome proliferator activated receptor alpha",
-        "llm-average": 20.0
+        "llm-average": 10.0
       },
       {
         "entity_name": "stearoyl-CoA desaturase",
-        "llm-average": 14.82
+        "llm-average": 7.4
       },
       {
         "entity_name": "solute carrier organic anion transporter family member 1B1",
-        "llm-average": 10.63
+        "llm-average": 5.3
       },
       {
         "entity_name": "lipoprotein lipase",
-        "llm-average": 10.5
+        "llm-average": 5.2
       },
       {
         "entity_name": "solute carrier family 2 member 4",
-        "llm-average": 9.01
+        "llm-average": 4.5
       },
       {
         "entity_name": "fatty acid binding protein 1",
-        "llm-average": 8.12
+        "llm-average": 4.1
       },
       {
         "entity_name": "kinase insert domain receptor",
-        "llm-average": 7.79
+        "llm-average": 3.9
       },
       {
         "entity_name": "MET proto-oncogene, receptor tyrosine kinase",
-        "llm-average": 4.49
+        "llm-average": 2.2
       }
     ]
   },
@@ -6441,27 +6441,27 @@ export const batch5: Question[] = [
     "llm_ranking": [
       {
         "entity_name": "Tie signaling pathway",
-        "llm-average": 14.52
+        "llm-average": 7.3
       },
       {
         "entity_name": "lymph vessel morphogenesis",
-        "llm-average": 13.27
+        "llm-average": 6.6
       },
       {
         "entity_name": "lymph circulation",
-        "llm-average": 8.78
+        "llm-average": 4.4
       },
       {
         "entity_name": "epidermis development",
-        "llm-average": 6.96
+        "llm-average": 3.5
       },
       {
         "entity_name": "cell adhesion",
-        "llm-average": 5.31
+        "llm-average": 2.7
       },
       {
         "entity_name": "tight junction organization",
-        "llm-average": 4.32
+        "llm-average": 2.2
       },
       {
         "entity_name": "gene expression",
