@@ -62,7 +62,9 @@ const Header = () => {
       }}>
         <DialogContent className="sm:max-w-[725px] max-h-[85%] overflow-auto">
           <DialogHeader>
-            <DialogTitle>Examples for &quot;Serendipty&quot; in Drug Discovery</DialogTitle>
+            <DialogTitle>Examples</DialogTitle>
+              A serendipitous answer to a question refers to one that introduces unexpected insights or discoveries, often accompanied by a sense of novelty in scientific research.
+              We provide two examples of serendipity in drug discovery. Please see the images below for reference.
           </DialogHeader>
           <div className="space-y-8 scroll-auto">
             <Image src={img1} alt="image1"/>
