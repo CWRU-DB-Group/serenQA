@@ -4,60 +4,44 @@ export const batch6_test: Question[] = [
   {
     "question_number": 1,
     "qid": -1,
-    "text": "Which protein is a subunit of the BBS-chaperonin complex, which is associated with intraciliary transport and lateral meningocele syndrome?",
-    "category": "musculoskeletal system disease:bone disease",
+    "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with IRS4.",
+    "category": "urinary system disease:nephritis",
     "llm_ranking": [
-  {
-    "entity_name": "Darifenacin",
-    "llm-average": 6.8
-  },
-  {
-    "entity_name": "Trospium",
-    "llm-average": 2.6
-  },
-  {
-    "entity_name": "Oxybutynin",
-    "llm-average": 7.8
-  }
-]
+      {
+        "entity_name": "MTOR",
+        "llm-average": 8.6
+      },
+      {
+        "entity_name": "CRK",
+        "llm-average": 4.9
+      },
+      {
+        "entity_name": "GRB2",
+        "llm-average": 4.5
+      }
+    ]
   },
   {
     "question_number": 2,
     "qid": -2,
-    "text": "Which transcript translates into HOGA1, which is detected in pathology samples of endometrial cancer, and is located on chromosome 10?",
-    "category": "immune system disease:gastrointestinal allergy",
+    "text": "Which proteins are curated as interacting with GLOD4, which is associated with hepatocellular carcinoma and is detected in pathology samples of kidney cancer?",
+    "category": "cancer:carcinoma",
     "llm_ranking": [
       {
-        "entity_name": "free fatty acid receptor 2",
-        "llm-average": 7.3
+        "entity_name": "BCL2L1",
+        "llm-average": 8.8
       },
       {
-        "entity_name": "hydroxycarboxylic acid receptor 2",
+        "entity_name": "LTB4R2",
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "SCLT1",
         "llm-average": 5.9
       },
       {
-        "entity_name": "5-hydroxytryptamine receptor 5A",
-        "llm-average": 4.1
-      },
-      {
-        "entity_name": "histone deacetylase 1",
-        "llm-average": 4.5
-      },
-      {
-        "entity_name": "histone deacetylase 2",
-        "llm-average": 7.0
-      },
-      {
-        "entity_name": "histone deacetylase 3",
-        "llm-average": 8.0
-      },
-      {
-        "entity_name": "adenosine deaminase RNA specific B2 (inactive)",
-        "llm-average": 8.02
-      },
-      {
-        "entity_name": "histone deacetylase 8",
-        "llm-average": 6.1
+        "entity_name": "MAX",
+        "llm-average": 5.8
       }
     ]
   },
