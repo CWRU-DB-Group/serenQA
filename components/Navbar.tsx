@@ -15,9 +15,12 @@ const Navbar = () => {
       <div className="text-white">SerenQA</div>
 
         <div className="flex items-center">
-        <ul className="hidden md:flex items-center gap-10 text-card-foreground">
+        <ul className="hidden md:flex items-center gap-6 text-card-foreground">
           <li className="text-primary font-medium">
             <Link href="/" className="text-white hover:text-gray-300">Home</Link>
+          </li>
+          <li>
+            <Link href="/leaderboard" className="text-white hover:text-gray-300">Leaderboard</Link>
           </li>
           <li>
             <Link href="/questionnaire" className="text-white hover:text-gray-300">Questionnaire</Link>
@@ -35,6 +38,9 @@ const Navbar = () => {
             <DropdownMenuContent align="end">
               <DropdownMenuItem>
                 <Link href="/">Home</Link>
+              </DropdownMenuItem>
+              <DropdownMenuItem>
+                <Link href="/leaderboard">Leaderboard</Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
                 <Link href="/questionnaire">Questionnaire</Link>
