@@ -1,6 +1,6 @@
 import {Question} from "@/components/Batch";
 
-export const batch1: Question[] = [
+const b1: Question[] = [
   {
     "question_number": 1,
     "qid": 1066,
@@ -8198,3 +8198,18 @@ export const batch1: Question[] = [
     ]
   }
 ]
+
+export const batch1: Question[] = b1.map(item => {
+  return {
+    question_number: item.question_number,
+    qid: item.qid,
+    text: item.text,
+    category: item.category,
+    llm_ranking: item.llm_ranking.map((r, ind) => {
+      return {
+        entity_name: r.entity_name,
+        "llm-average": ind + 1
+      }
+    })
+  }
+})
