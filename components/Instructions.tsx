@@ -14,13 +14,13 @@ export const Instructions = () => {
         </div>
 
         <div>
-          <h4 className="text-xl font-semibold mb-3">How the Default Scores are Generated</h4>
+          <h4 className="text-xl font-semibold mb-3">How the Default Ranks are Generated</h4>
           <p className="text-gray-700">
             To evaluate the serendipity of each answer within a question, we utilize three <strong>Large Language Models (LLMs)</strong>: GPT-4O,
             GPT-4O-mini, and Claude-3.5-Sonnet,
             following a specific <a href="https://cwru-db-group.github.io/serenQA/prompt.txt" target="_blank" className="text-blue-600">prompt</a>.
-            The scores are normalized, combined using a weighted average, and scaled to a range of <strong>0</strong> to <strong>10</strong>, representing the serendipity level of each answer.
-            The processed LLM scores are provided as default scores for your reference.
+            We then aggregate the LLM rankings to generate the default ranks, which are provided as the initial rankings for your evaluation.
+            The <strong>rank 1</strong> indicates the most serendipitous answer for the question.
           </p>
         </div>
 
@@ -33,16 +33,16 @@ export const Instructions = () => {
               <p className="font-semibold">1. Review the Question and Rankings:</p>
               <ul className="list-disc ml-8 space-y-1 text-gray-700">
                 <li>Select at least 1 batch that align with your interest or expertise to evaluate.</li>
-                <li>Carefully review the <strong>LLM scores</strong> for each question in your selected batch.</li>
-                <li>Assess whether you agree with the provided score.</li>
+                <li>Carefully review the <strong>LLM ranks</strong> for each question in your selected batch.</li>
+                <li>Assess whether you agree with the provided rank.</li>
               </ul>
             </div>
 
             <div>
               <p className="font-semibold">2. Provide Your Input:</p>
               <ul className="list-disc ml-8 space-y-1 text-gray-700">
-                <li>If you agree with the scores, keep them <strong>unchanged</strong>.</li>
-                <li>If you disagree with any default score, please <strong>adjust</strong> it by providing a new score that better reflects the serendipity based on your expertise.</li>
+                <li>If you agree with the ranks, keep them <strong>unchanged</strong>.</li>
+                <li>If you find any default ranking disagreeable, please <strong>modify</strong> it to better capture the serendipity based on your expertise.</li>
               </ul>
             </div>
 
