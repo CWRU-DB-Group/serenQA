@@ -10,7 +10,7 @@
     },
     {
         "batch_id": 2,
-        "total": 290,
+        "total": 289,
         "categories": {
             "Abnormality of the cardiovascular system": {
                 "Abnormal systemic blood pressure": 105,
@@ -50,43 +50,46 @@
                 "Abnormal glucose homeostasis": 4,
                 "Abnormality of acid-base homeostasis": 1
             },
-            "others": {
-                "None": 8
+            "respiratory system disease": {
+                "None": 3,
+                "bronchial disease": 1,
+                "lower respiratory tract disease": 1,
+                "respiratory system benign neoplasm": 1,
+                "lung disease": 1
             },
-            "Abnormality of blood and blood-forming tissues": {
-                "Anemia": 1,
-                "Venous thrombosis": 1,
-                "Abnormal platelet count": 1,
-                "Abnormality of the coagulation cascade": 1
+            "endocrine system disease": {
+                "pancreatitis": 2,
+                "adrenal cortex disease": 1,
+                "thyroid gland disease": 1,
+                "pituitary gland disease": 1
             },
-            "disease of metabolism": {
-                "carbohydrate metabolism disease": 2,
-                "None": 1,
-                "nutrition disease": 1
+            "Abnormality of the eye": {
+                "Abnormal anterior eye segment morphology": 1,
+                "Abnormal posterior eye segment morphology": 1,
+                "Abnormal uvea morphology": 1,
+                "Glaucoma": 1
             },
-            "disease by infectious agent": {
-                "parasitic protozoa infectious disease": 1,
-                "viral infectious disease": 1,
+            "hematopoietic system disease": {
+                "normocytic anemia": 1,
+                "pancytopenia": 1
+            },
+            "Age of death": {
+                "Stillbirth": 2
+            },
+            "Abnormality of the endocrine system": {
+                "Abnormality of thyroid physiology": 1
+            },
+            "chronic fatigue syndrome": {
                 "None": 1
-            },
-            "disease": {
-                "disease of cellular proliferation": 1,
-                "disease of anatomical entity": 1
-            },
-            "VACTERL association": {
-                "None": 1
-            },
-            "Abnormality of the respiratory system": {
-                "Abnormal pattern of respiration": 1
             }
         }
     },
     {
         "batch_id": 3,
-        "total": 351,
+        "total": 349,
         "categories": {
             "cancer": {
-                "organ system cancer": 351
+                "organ system cancer": 349
             }
         }
     },
@@ -102,7 +105,6 @@
                 "endocrine gland cancer": 5,
                 "cell type cancer": 3,
                 "malignant adenoma": 1,
-                "germ cell cancer": 1,
                 "melanoma": 1,
                 "nervous system cancer": 1,
                 "sarcoma": 1
@@ -150,37 +152,30 @@
                 "Abnormality of skeletal morphology": 8,
                 "Abnormal muscle physiology": 2
             },
-            "respiratory system disease": {
-                "None": 3,
-                "bronchial disease": 1,
-                "lower respiratory tract disease": 1,
-                "respiratory system benign neoplasm": 1,
-                "lung disease": 1
+            "others": {
+                "None": 8
             },
-            "endocrine system disease": {
-                "pancreatitis": 2,
-                "adrenal cortex disease": 1,
-                "thyroid gland disease": 1,
-                "pituitary gland disease": 1
+            "Abnormality of the integument": {
+                "Abnormality of skin morphology": 4,
+                "Abnormal hair morphology": 1
             },
-            "Abnormality of the eye": {
-                "Abnormal anterior eye segment morphology": 1,
-                "Abnormal posterior eye segment morphology": 1,
-                "Abnormal uvea morphology": 1,
-                "Glaucoma": 1
+            "Neoplasm": {
+                "None": 2,
+                "Hematological neoplasm": 1
             },
-            "hematopoietic system disease": {
-                "normocytic anemia": 1,
-                "pancytopenia": 1
+            "integumentary system disease": {
+                "skin disease": 2,
+                "hypotrichosis": 1
             },
-            "Age of death": {
-                "Stillbirth": 2
+            "Abnormality of the head": {
+                "Abnormal facial expression": 1,
+                "Abnormality of the mouth": 1
             },
-            "Abnormality of the endocrine system": {
-                "Abnormality of thyroid physiology": 1
+            "Constitutional symptom": {
+                "Chronic pain": 1
             },
-            "chronic fatigue syndrome": {
-                "None": 1
+            "Growth abnormality": {
+                "Decreased body weight": 1
             }
         }
     },
@@ -249,27 +244,31 @@
                 "mood disorder": 1,
                 "substance dependence": 1
             },
-            "Abnormality of the integument": {
-                "Abnormality of skin morphology": 4,
-                "Abnormal hair morphology": 1
+            "Abnormality of blood and blood-forming tissues": {
+                "Anemia": 1,
+                "Venous thrombosis": 1,
+                "Abnormal platelet count": 1,
+                "Abnormality of the coagulation cascade": 1
             },
-            "Neoplasm": {
-                "None": 2,
-                "Hematological neoplasm": 1
+            "disease of metabolism": {
+                "carbohydrate metabolism disease": 2,
+                "None": 1,
+                "nutrition disease": 1
             },
-            "integumentary system disease": {
-                "skin disease": 2,
-                "hypotrichosis": 1
+            "disease by infectious agent": {
+                "parasitic protozoa infectious disease": 1,
+                "viral infectious disease": 1,
+                "None": 1
             },
-            "Abnormality of the head": {
-                "Abnormal facial expression": 1,
-                "Abnormality of the mouth": 1
+            "disease": {
+                "disease of cellular proliferation": 1,
+                "disease of anatomical entity": 1
             },
-            "Constitutional symptom": {
-                "Chronic pain": 1
+            "VACTERL association": {
+                "None": 1
             },
-            "Growth abnormality": {
-                "Decreased body weight": 1
+            "Abnormality of the respiratory system": {
+                "Abnormal pattern of respiration": 1
             }
         }
     }
