@@ -67,7 +67,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 3,
-    "qid": 578,
+    "qid": 577,
     "text": "Which drugs act on TRA2B, which is annotated in pathway RHOBTB1 GTPase cycle and is associated with type 2 diabetes mellitus?",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -87,7 +87,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 4,
-    "qid": 580,
+    "qid": 579,
     "text": "Which drugs act on ITGA11, which is annotated in pathway Integrin cell surface interactions and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -111,7 +111,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 5,
-    "qid": 583,
+    "qid": 582,
     "text": "Which drugs have TFDP2 as a compiled target, which is annotated in pathway Oncogene Induced Senescence and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -127,7 +127,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 6,
-    "qid": 584,
+    "qid": 583,
     "text": "Which proteins are curated as interacting with TDGF1, which is annotated in pathway Signaling by NODAL and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -151,7 +151,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 7,
-    "qid": 587,
+    "qid": 586,
     "text": "Which drugs have RPS7 as a compiled target, which is annotated in pathway SRP-dependent cotranslational protein targeting to membrane and is associated with Griscelli syndrome type 2?",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -187,7 +187,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 8,
-    "qid": 597,
+    "qid": 596,
     "text": "Which drugs have NUP188 as a compiled target, which is annotated in pathway SUMOylation of chromatin organization proteins and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -223,7 +223,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 9,
-    "qid": 601,
+    "qid": 600,
     "text": "Which drugs act on CACNG3, which is annotated in pathway Trafficking of AMPA receptors and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -243,7 +243,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 10,
-    "qid": 607,
+    "qid": 606,
     "text": "Which proteins are curated as interacting with GMPPB, which is annotated in pathway Fructosuria and is associated with bone disease?",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -259,7 +259,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 11,
-    "qid": 608,
+    "qid": 607,
     "text": "Which functional regions are found in protein FLRT2, which is annotated in pathway Downstream signaling of activated FGFR1 and is associated with type 2 diabetes mellitus?",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -275,7 +275,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 12,
-    "qid": 615,
+    "qid": 614,
     "text": "Which drugs act on ADAMTSL5, which is associated with geleophysic dysplasia and is compiled as interacting with NTN4?",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -291,7 +291,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 13,
-    "qid": 618,
+    "qid": 617,
     "text": "Which functional regions are found in protein SQLE, which is annotated in pathway Smith-Lemli-Opitz Syndrome (SLOS) and is associated with Griscelli syndrome type 2?",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -307,7 +307,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 14,
-    "qid": 633,
+    "qid": 632,
     "text": "Which proteins are curated as interacting with HOPX, which is annotated in pathway Hop Pathway in Cardiac Development and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -335,7 +335,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 15,
-    "qid": 636,
+    "qid": 635,
     "text": "Which drugs act on LMOD1, which is annotated in pathway Smooth Muscle Contraction and is associated with distal arthrogryposis type 2B?",
     "category": "musculoskeletal system disease:muscle tissue disease",
     "llm_ranking": [
@@ -375,7 +375,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 16,
-    "qid": 645,
+    "qid": 644,
     "text": "Which proteins are curated as interacting with KCNJ10, which is annotated in pathway Activation of G protein gated Potassium channels and is associated with type 2 diabetes mellitus?",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -391,7 +391,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 17,
-    "qid": 653,
+    "qid": 652,
     "text": "Which drugs act on L2HGDH, which is annotated in pathway Interconversion of 2-oxoglutarate and 2-hydroxyglutarate and is associated with combined D-2- and L-2-hydroxyglutaric aciduria?",
     "category": "genetic disease:amino acid metabolic disorder",
     "llm_ranking": [
@@ -431,7 +431,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 18,
-    "qid": 654,
+    "qid": 653,
     "text": "Which drugs have PLEKHA8 as a compiled target, which is annotated in pathway Synthesis of PIPs at the plasma membrane and is associated with oculocerebrorenal syndrome?",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -451,7 +451,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 19,
-    "qid": 659,
+    "qid": 658,
     "text": "Which drugs act on DYNLRB1, which is annotated in pathway Intraflagellar transport and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -467,7 +467,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 20,
-    "qid": 662,
+    "qid": 661,
     "text": "Which proteins are curated as interacting with MAG, which is annotated in pathway Axonal growth inhibition (RHOA activation) and is associated with PCWH syndrome?",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -483,7 +483,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 21,
-    "qid": 685,
+    "qid": 684,
     "text": "Which functional regions are found in protein KPNA7, which is annotated in pathway ISG15 antiviral mechanism and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -503,7 +503,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 22,
-    "qid": 690,
+    "qid": 689,
     "text": "Which proteins act on IL1RL2, which is annotated in pathway Interleukin-38 signaling and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -527,7 +527,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 23,
-    "qid": 698,
+    "qid": 697,
     "text": "Which metabolites are associated with B4GALT3, which is annotated in pathway N-Glycan antennae elongation and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -555,7 +555,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 24,
-    "qid": 705,
+    "qid": 704,
     "text": "Which metabolites are associated with MTMR1, which is annotated in pathway Synthesis of PIPs at the plasma membrane and is associated with oculocerebrorenal syndrome?",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -595,7 +595,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 25,
-    "qid": 707,
+    "qid": 706,
     "text": "Which drugs have DEPDC1B as a compiled target, which is annotated in pathway RND1 GTPase cycle and is associated with oculocerebrorenal syndrome?",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -615,7 +615,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 26,
-    "qid": 718,
+    "qid": 717,
     "text": "Which proteins are curated as interacting with SRD5A1, which is annotated in pathway Androgen biosynthesis and is associated with PCWH syndrome?",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -631,7 +631,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 27,
-    "qid": 723,
+    "qid": 722,
     "text": "Which proteins are curated as interacting with FMO1, which is annotated in pathway Tamoxifen Action Pathway and is associated with type 2 diabetes mellitus?",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -659,7 +659,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 28,
-    "qid": 725,
+    "qid": 724,
     "text": "Which proteins are curated as interacting with FUCA2, which is annotated in pathway Post-translational protein phosphorylation and is associated with geleophysic dysplasia?",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -695,7 +695,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 29,
-    "qid": 735,
+    "qid": 734,
     "text": "Which drugs have SRSF11 as a compiled target, which is annotated in pathway mRNA Splicing - Major Pathway and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -711,7 +711,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 30,
-    "qid": 740,
+    "qid": 739,
     "text": "Which proteins act on TRAT1, which is annotated in pathway PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -743,7 +743,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 31,
-    "qid": 745,
+    "qid": 744,
     "text": "Which drugs have FTMT as a compiled target, which is annotated in pathway Hereditary Coproporphyria (HCP) and is associated with Griscelli syndrome type 2?",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -775,7 +775,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 32,
-    "qid": 748,
+    "qid": 747,
     "text": "Which functional regions are found in protein PLXNA1, which is annotated in pathway RND1 GTPase cycle and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -795,7 +795,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 33,
-    "qid": 767,
+    "qid": 766,
     "text": "Which proteins act on LOXL1, which is annotated in pathway Elastic fibre formation and is associated with type 2 diabetes mellitus?",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -819,7 +819,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 34,
-    "qid": 779,
+    "qid": 776,
     "text": "Which drugs have RAB33B as a compiled target, which is annotated in pathway TBC/RABGAPs and is associated with bone disease?",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -851,7 +851,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 35,
-    "qid": 783,
+    "qid": 780,
     "text": "Which drugs have PTDSS1 as a compiled target, which is annotated in pathway Phosphatidylethanolamine Biosynthesis PE(22:4(7Z,10Z,13Z,16Z)/18:1(9Z)) and is associated with chromosomal deletion syndrome?",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -875,7 +875,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 36,
-    "qid": 785,
+    "qid": 782,
     "text": "Which drugs have TAF7L as a compiled target, which is annotated in pathway RNA Polymerase II Transcription Initiation And Promoter Clearance and is associated with X-linked dystonia-parkinsonism?",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -899,7 +899,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 37,
-    "qid": 788,
+    "qid": 785,
     "text": "Which proteins act on B4GALT2, which is annotated in pathway N-Glycan antennae elongation and is associated with ovarian disease?",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -927,7 +927,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 38,
-    "qid": 797,
+    "qid": 794,
     "text": "Which drugs act on RNF34, which is annotated in pathway Regulation of TP53 Degradation and is associated with bone disease?",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -947,7 +947,31 @@ export const b5: Question[] = [
   },
   {
     "question_number": 39,
-    "qid": 1525,
+    "qid": 1519,
+    "text": "Find all drugs that are indicated for Refractory anemia and interact with Varicella Zoster Vaccine (Recombinant), and also find the drugs that have the side effect Refractory anemia and interact with Varicella Zoster Vaccine (Recombinant).",
+    "category": "Abnormality of blood and blood-forming tissues:Anemia",
+    "llm_ranking": [
+      {
+        "entity_name": "Lenalidomide",
+        "llm-average": 10.0
+      },
+      {
+        "entity_name": "Decitabine",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "Azacitidine",
+        "llm-average": 6.6
+      },
+      {
+        "entity_name": "Lomustine",
+        "llm-average": 5.0
+      }
+    ]
+  },
+  {
+    "question_number": 40,
+    "qid": 1522,
     "text": "Find all proteins that are associated with retinitis pigmentosa 23 and act on BTF3L4, and also find the proteins that are associated with retinitis pigmentosa 23 and are curated as interacting with BTF3L4.",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -962,8 +986,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 40,
-    "qid": 1529,
+    "question_number": 41,
+    "qid": 1526,
     "text": "Find all drugs that are indicated for Pustule and interact with Chlorcyclizine, and also find the drugs that have the side effect Pustule and interact with Chlorcyclizine.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
     "llm_ranking": [
@@ -977,26 +1001,6 @@ export const b5: Question[] = [
       },
       {
         "entity_name": "Metronidazole",
-        "llm-average": 3.3
-      }
-    ]
-  },
-  {
-    "question_number": 41,
-    "qid": 1530,
-    "text": "Find all drugs that are indicated for Cutaneous T-cell lymphoma and interact with Gentamicin C1a, and also find the drugs that have the side effect Cutaneous T-cell lymphoma and interact with Gentamicin C1a.",
-    "category": "Neoplasm:Hematological neoplasm",
-    "llm_ranking": [
-      {
-        "entity_name": "Tacrolimus",
-        "llm-average": 7.8
-      },
-      {
-        "entity_name": "Methoxsalen",
-        "llm-average": 7.2
-      },
-      {
-        "entity_name": "Methotrexate",
         "llm-average": 3.3
       }
     ]
@@ -1315,7 +1319,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 57,
-    "qid": 803,
+    "qid": 800,
     "text": "List the proteins that are associated with dilated cardiomyopathy 1DD and are subunits of NOS3-HSP90 complex, VEGF induced.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1331,7 +1335,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 58,
-    "qid": 804,
+    "qid": 801,
     "text": "List the proteins that are associated with Charcot-Marie-Tooth disease axonal type 2H and are subunits of CTNNB1-ESR1 complex.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1347,7 +1351,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 59,
-    "qid": 806,
+    "qid": 803,
     "text": "List the proteins that are associated with dilated cardiomyopathy 1NN and are compiled as interacting with OR6C65.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1363,23 +1367,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 60,
-    "qid": 807,
-    "text": "List the drugs that interact with Ceftibuten and have the side effect Chronic pain.",
-    "category": "Constitutional symptom:Chronic pain",
-    "llm_ranking": [
-      {
-        "entity_name": "Fentanyl",
-        "llm-average": 7.0
-      },
-      {
-        "entity_name": "Etoricoxib",
-        "llm-average": 4.8
-      }
-    ]
-  },
-  {
-    "question_number": 61,
-    "qid": 808,
+    "qid": 805,
     "text": "List the proteins that are associated with hepatic vascular disease and are subunits of SERPINA1-CTSG complex.",
     "category": "gastrointestinal system disease:liver disease",
     "llm_ranking": [
@@ -1394,32 +1382,36 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 62,
-    "qid": 820,
-    "text": "List the proteins that are associated with skin disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z)).",
-    "category": "integumentary system disease:skin disease",
+    "question_number": 61,
+    "qid": 807,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:0/20:1(11Z)/20:3(5Z,8Z,11Z)) and are associated with carbohydrate metabolism disease.",
+    "category": "disease of metabolism:carbohydrate metabolism disease",
     "llm_ranking": [
       {
         "entity_name": "DGAT1",
-        "llm-average": 7.3
-      },
-      {
-        "entity_name": "GPAM",
-        "llm-average": 7.0
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 6.7
+        "llm-average": 9.2
       },
       {
         "entity_name": "LPIN1",
-        "llm-average": 6.4
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "AGPAT1",
+        "llm-average": 3.4
       }
     ]
   },
   {
-    "question_number": 63,
-    "qid": 825,
+    "question_number": 62,
+    "qid": 822,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(16:0/16:0/16:1(9Z)/18:1(9Z)) and are associated with familial hyperlipidemia.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -1434,8 +1426,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 64,
-    "qid": 829,
+    "question_number": 63,
+    "qid": 826,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-13:0/a-17:0/i-12:0) and are associated with glucose metabolism disease.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -1466,8 +1458,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 65,
-    "qid": 830,
+    "question_number": 64,
+    "qid": 827,
     "text": "List the proteins that are annotated in the pathway RUNX1 regulates transcription of genes involved in differentiation of myeloid cells and are associated with cone-rod dystrophy 2.",
     "category": "genetic disease:monogenic disease",
     "llm_ranking": [
@@ -1482,8 +1474,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 66,
-    "qid": 831,
+    "question_number": 65,
+    "qid": 828,
     "text": "List the proteins that are compiled as interacting with ELP3 and are associated with non-alcoholic fatty liver.",
     "category": "genetic disease:lysosomal storage disease",
     "llm_ranking": [
@@ -1510,8 +1502,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 67,
-    "qid": 832,
+    "question_number": 66,
+    "qid": 829,
     "text": "List the proteins that are compiled as interacting with FAM186A and are associated with X-linked monogenic disease.",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -1534,8 +1526,48 @@ export const b5: Question[] = [
     ]
   },
   {
+    "question_number": 67,
+    "qid": 830,
+    "text": "List the proteins that are associated with VACTERL association and are compiled as interacting with IRS4.",
+    "category": "VACTERL association:None",
+    "llm_ranking": [
+      {
+        "entity_name": "PTPN11",
+        "llm-average": 7.9
+      },
+      {
+        "entity_name": "IKBKG",
+        "llm-average": 7.7
+      },
+      {
+        "entity_name": "PTPN18",
+        "llm-average": 6.5
+      },
+      {
+        "entity_name": "PIK3CA",
+        "llm-average": 6.4
+      },
+      {
+        "entity_name": "CRKL",
+        "llm-average": 6.2
+      },
+      {
+        "entity_name": "AKT1",
+        "llm-average": 5.5
+      },
+      {
+        "entity_name": "MAPK8",
+        "llm-average": 4.7
+      },
+      {
+        "entity_name": "IGF2",
+        "llm-average": 3.5
+      }
+    ]
+  },
+  {
     "question_number": 68,
-    "qid": 838,
+    "qid": 835,
     "text": "List the proteins that are compiled as interacting with TRHDE and are associated with bone structure disease.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -1555,7 +1587,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 69,
-    "qid": 840,
+    "qid": 837,
     "text": "List the proteins that are associated with atrophic gastritis and are compiled as interacting with ANKRA2.",
     "category": "gastrointestinal system disease:gastritis",
     "llm_ranking": [
@@ -1575,7 +1607,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 70,
-    "qid": 845,
+    "qid": 842,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:1(11Z)/24:0/24:1(15Z)) and are associated with carnitine palmitoyltransferase II deficiency.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -1595,7 +1627,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 71,
-    "qid": 846,
+    "qid": 843,
     "text": "List the proteins that are associated with reading disorder and are curated as interacting with UBE2I.",
     "category": "disease of mental health:specific developmental disorder",
     "llm_ranking": [
@@ -1619,43 +1651,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 72,
-    "qid": 847,
-    "text": "List the drugs that have the side effect Hordeolum and interact with Testosterone cypionate.",
-    "category": "Abnormality of the integument:Abnormality of skin morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Bortezomib",
-        "llm-average": 6.8
-      },
-      {
-        "entity_name": "Lenalidomide",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "Pramipexole",
-        "llm-average": 4.7
-      },
-      {
-        "entity_name": "Bupropion",
-        "llm-average": 4.3
-      },
-      {
-        "entity_name": "Tramadol",
-        "llm-average": 2.3
-      },
-      {
-        "entity_name": "Clonazepam",
-        "llm-average": 1.8
-      },
-      {
-        "entity_name": "Ciprofloxacin",
-        "llm-average": 1.6
-      }
-    ]
-  },
-  {
-    "question_number": 73,
-    "qid": 849,
+    "qid": 846,
     "text": "List the metabolites that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-16:0/a-15:0/i-15:0) and are associated with Alzheimer's disease 1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1674,8 +1670,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 74,
-    "qid": 854,
+    "question_number": 73,
+    "qid": 851,
     "text": "List the proteins that are associated with endometriosis and are subunits of ITGA4-ITGB1-CD81 complex.",
     "category": "reproductive system disease:endometriosis",
     "llm_ranking": [
@@ -1694,8 +1690,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 75,
-    "qid": 858,
+    "question_number": 74,
+    "qid": 855,
     "text": "List the drugs that interact with Tucidinostat and have the side effect Erysipelas.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
     "llm_ranking": [
@@ -1714,8 +1710,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 76,
-    "qid": 860,
+    "question_number": 75,
+    "qid": 857,
     "text": "List the proteins that are compiled as interacting with MSL3 and are associated with distal muscular dystrophy with anterior tibial onset.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1738,8 +1734,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 77,
-    "qid": 861,
+    "question_number": 76,
+    "qid": 858,
     "text": "List the proteins that are associated with otosclerosis and act on CNTN1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1754,8 +1750,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 78,
-    "qid": 863,
+    "question_number": 77,
+    "qid": 860,
     "text": "List the proteins that are curated as interacting with JAK2 and are associated with familial hyperinsulinemic hypoglycemia 5.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1770,8 +1766,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 79,
-    "qid": 864,
+    "question_number": 78,
+    "qid": 861,
     "text": "List the proteins that are associated with mucopolysaccharidosis Ih and are compiled as interacting with PIGZ.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1790,24 +1786,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 80,
-    "qid": 866,
-    "text": "List the drugs that interact with Ubidecarenone and have the side effect Facial tics.",
-    "category": "Abnormality of the head:Abnormal facial expression",
-    "llm_ranking": [
-      {
-        "entity_name": "Citalopram",
-        "llm-average": 4.6
-      },
-      {
-        "entity_name": "Escitalopram",
-        "llm-average": 4.2
-      }
-    ]
-  },
-  {
-    "question_number": 81,
-    "qid": 867,
+    "question_number": 79,
+    "qid": 864,
     "text": "List the proteins that are associated with Griscelli syndrome and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(i-20:0/i-16:0/10:0).",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1822,8 +1802,40 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 82,
-    "qid": 871,
+    "question_number": 80,
+    "qid": 866,
+    "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-18:0/i-21:0/i-17:0) and are associated with carbohydrate metabolism disease.",
+    "category": "disease of metabolism:carbohydrate metabolism disease",
+    "llm_ranking": [
+      {
+        "entity_name": "PTPMT1",
+        "llm-average": 8.4
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 7.6
+      },
+      {
+        "entity_name": "CRLS1",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "AGPAT5",
+        "llm-average": 7.2
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "PGS1",
+        "llm-average": 3.9
+      }
+    ]
+  },
+  {
+    "question_number": 81,
+    "qid": 868,
     "text": "List the proteins that are associated with granulomatous gastritis and are compiled as interacting with POU5F1.",
     "category": "gastrointestinal system disease:gastritis",
     "llm_ranking": [
@@ -1850,8 +1862,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 83,
-    "qid": 876,
+    "question_number": 82,
+    "qid": 873,
     "text": "List the proteins that are curated as interacting with HTT and are associated with postgastrectomy syndrome.",
     "category": "gastrointestinal system disease:functional gastric disease",
     "llm_ranking": [
@@ -1870,8 +1882,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 84,
-    "qid": 877,
+    "question_number": 83,
+    "qid": 874,
     "text": "List the proteins that are associated with Walker-Warburg syndrome and are compiled as interacting with CDH19.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1890,8 +1902,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 85,
-    "qid": 878,
+    "question_number": 84,
+    "qid": 875,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(24:1(15Z)/22:0/20:3(8Z,11Z,14Z)) and are associated with hepatobiliary disease.",
     "category": "gastrointestinal system disease:hepatobiliary disease",
     "llm_ranking": [
@@ -1918,8 +1930,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 86,
-    "qid": 880,
+    "question_number": 85,
+    "qid": 877,
     "text": "List the proteins that are compiled as interacting with ULK4 and are associated with karyomegalic interstitial nephritis.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -1934,8 +1946,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 87,
-    "qid": 882,
+    "question_number": 86,
+    "qid": 879,
     "text": "List the proteins that are compiled as interacting with CYP39A1 and are associated with Jacobsen Syndrome.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -1954,8 +1966,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 88,
-    "qid": 883,
+    "question_number": 87,
+    "qid": 880,
     "text": "List the proteins that are compiled as interacting with NR2F6 and are associated with fragile X syndrome.",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -1986,8 +1998,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 89,
-    "qid": 884,
+    "question_number": 88,
+    "qid": 881,
     "text": "List the proteins that are associated with vulvovaginitis and act on RNF185.",
     "category": "reproductive system disease:vulvovaginitis",
     "llm_ranking": [
@@ -2002,8 +2014,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 90,
-    "qid": 886,
+    "question_number": 89,
+    "qid": 883,
     "text": "List the proteins that are associated with vitamin B12 deficiency and are compiled as interacting with UBE3D.",
     "category": "genetic disease:vitamin metabolic disorder",
     "llm_ranking": [
@@ -2026,8 +2038,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 91,
-    "qid": 888,
+    "question_number": 90,
+    "qid": 885,
     "text": "List the proteins that are associated with cholecystitis and are compiled as interacting with TRDN.",
     "category": "gastrointestinal system disease:biliary tract disease",
     "llm_ranking": [
@@ -2046,8 +2058,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 92,
-    "qid": 891,
+    "question_number": 91,
+    "qid": 888,
     "text": "List the proteins that are curated as interacting with FYN and are associated with Bardet-Biedl syndrome.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2062,24 +2074,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 93,
-    "qid": 892,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(8:0/i-16:0/12:0) and are associated with hypotrichosis.",
-    "category": "integumentary system disease:hypotrichosis",
-    "llm_ranking": [
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 7.6
-      },
-      {
-        "entity_name": "GPAM",
-        "llm-average": 4.8
-      }
-    ]
-  },
-  {
-    "question_number": 94,
-    "qid": 893,
+    "question_number": 92,
+    "qid": 890,
     "text": "List the proteins that act on F3 and are associated with congenital muscular dystrophy due to LMNA mutation.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2094,8 +2090,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 95,
-    "qid": 898,
+    "question_number": 93,
+    "qid": 895,
     "text": "List the proteins that are curated as interacting with KANK1 and are associated with Charcot-Marie-Tooth disease type 4A.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2110,8 +2106,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 96,
-    "qid": 899,
+    "question_number": 94,
+    "qid": 896,
     "text": "List the proteins that are associated with carnitine palmitoyltransferase II deficiency and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/20:3(5Z,8Z,11Z)/20:1(11Z)).",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -2130,8 +2126,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 97,
-    "qid": 902,
+    "question_number": 95,
+    "qid": 899,
     "text": "List the proteins that are associated with hereditary spastic paraplegia 4 and are subunits of ArPIKfyve-Sac3-Sph1 complex.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2146,8 +2142,32 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 98,
-    "qid": 908,
+    "question_number": 96,
+    "qid": 903,
+    "text": "List the proteins that are annotated in the pathway Regulation of PTEN stability and activity and are associated with sleeping sickness.",
+    "category": "disease by infectious agent:parasitic protozoa infectious disease",
+    "llm_ranking": [
+      {
+        "entity_name": "FRK",
+        "llm-average": 7.8
+      },
+      {
+        "entity_name": "CSNK2B",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "PSMD5",
+        "llm-average": 5.8
+      },
+      {
+        "entity_name": "AKT1",
+        "llm-average": 4.6
+      }
+    ]
+  },
+  {
+    "question_number": 97,
+    "qid": 905,
     "text": "List the proteins that are compiled as interacting with CLC and are associated with personality disorder.",
     "category": "disease of mental health:personality disorder",
     "llm_ranking": [
@@ -2162,8 +2182,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 99,
-    "qid": 911,
+    "question_number": 98,
+    "qid": 908,
     "text": "List the proteins that act on RAB33B and are associated with spinocerebellar ataxia type 11.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2186,8 +2206,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 100,
-    "qid": 913,
+    "question_number": 99,
+    "qid": 910,
     "text": "List the proteins that are associated with allergic disease and act on GLI1.",
     "category": "immune system disease:allergic disease",
     "llm_ranking": [
@@ -2218,8 +2238,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 101,
-    "qid": 915,
+    "question_number": 100,
+    "qid": 912,
     "text": "List the proteins that are associated with RIDDLE syndrome and are curated as interacting with MOV10.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2250,8 +2270,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 102,
-    "qid": 917,
+    "question_number": 101,
+    "qid": 914,
     "text": "List the drugs that have the side effect Lymphopenia and interact with Carfecillin.",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
     "llm_ranking": [
@@ -2270,8 +2290,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 103,
-    "qid": 918,
+    "question_number": 102,
+    "qid": 915,
     "text": "List the proteins that are associated with Loeys-Dietz syndrome 2 and are compiled as interacting with RYR3.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2294,8 +2314,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 104,
-    "qid": 920,
+    "question_number": 103,
+    "qid": 917,
     "text": "List the proteins that are associated with MELAS syndrome and are compiled as interacting with WDR77.",
     "category": "musculoskeletal system disease:muscle tissue disease",
     "llm_ranking": [
@@ -2322,8 +2342,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 105,
-    "qid": 921,
+    "question_number": 104,
+    "qid": 918,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(18:0/22:5(7Z,10Z,13Z,16Z,19Z)/22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z)) and are associated with leukoencephalopathy with vanishing white matter.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2338,8 +2358,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 106,
-    "qid": 924,
+    "question_number": 105,
+    "qid": 921,
     "text": "List the proteins that are subunits of Ubiquitin E3 ligase (SMURF2, SMAD3) - SnoN complex, TGF(beta)-dependent and are associated with reproductive system disease.",
     "category": "reproductive system disease:None",
     "llm_ranking": [
@@ -2358,8 +2378,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 107,
-    "qid": 929,
+    "question_number": 106,
+    "qid": 926,
     "text": "List the proteins that are subunits of ATR-HDAC2-CHD4 complex and are associated with neuronal ceroid lipofuscinosis.",
     "category": "genetic disease:lysosomal storage disease",
     "llm_ranking": [
@@ -2374,8 +2394,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 108,
-    "qid": 933,
+    "question_number": 107,
+    "qid": 930,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-16:0/a-17:0/i-16:0) and are associated with genetic disease.",
     "category": "genetic disease:None",
     "llm_ranking": [
@@ -2410,8 +2430,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 109,
-    "qid": 934,
+    "question_number": 108,
+    "qid": 931,
     "text": "List the proteins that are associated with split hand-foot malformation 2 and act on HLA-E.",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -2426,8 +2446,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 110,
-    "qid": 936,
+    "question_number": 109,
+    "qid": 933,
     "text": "List the proteins that are associated with muscle tissue disease and are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/i-14:0/a-17:0/18:2(9Z,11Z)).",
     "category": "musculoskeletal system disease:muscle tissue disease",
     "llm_ranking": [
@@ -2450,8 +2470,28 @@ export const b5: Question[] = [
     ]
   },
   {
+    "question_number": 110,
+    "qid": 934,
+    "text": "List the proteins that are associated with disease of cellular proliferation and are subunits of ITGA6-ITGB4-FYN complex.",
+    "category": "disease:disease of cellular proliferation",
+    "llm_ranking": [
+      {
+        "entity_name": "ITGB4",
+        "llm-average": 6.3
+      },
+      {
+        "entity_name": "ITGA6",
+        "llm-average": 5.4
+      },
+      {
+        "entity_name": "FYN",
+        "llm-average": 4.6
+      }
+    ]
+  },
+  {
     "question_number": 111,
-    "qid": 938,
+    "qid": 935,
     "text": "List the drugs that interact with Epitizide and have the side effect Immunodeficiency.",
     "category": "Abnormality of the immune system:Immunodeficiency",
     "llm_ranking": [
@@ -2475,7 +2515,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 112,
-    "qid": 939,
+    "qid": 936,
     "text": "List the proteins that are associated with hyperinsulinism and are annotated in the pathway Cardiolipin Biosynthesis CL(i-13:0/a-15:0/i-15:0/a-17:0).",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -2495,7 +2535,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 113,
-    "qid": 940,
+    "qid": 937,
     "text": "List the proteins that act on ICOSLG and are associated with paracoccidioidomycosis.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -2519,7 +2559,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 114,
-    "qid": 941,
+    "qid": 938,
     "text": "List the proteins that act on VAV3 and are associated with anal fistula.",
     "category": "gastrointestinal system disease:rectal disease",
     "llm_ranking": [
@@ -2535,7 +2575,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 115,
-    "qid": 944,
+    "qid": 941,
     "text": "List the proteins that are subunits of CD44-ERK1-ERK2-RHAMM complex and are associated with intrahepatic cholestasis.",
     "category": "gastrointestinal system disease:biliary tract disease",
     "llm_ranking": [
@@ -2551,7 +2591,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 116,
-    "qid": 945,
+    "qid": 942,
     "text": "List the proteins that are associated with progeria and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(18:1(11Z)/14:0/18:3(6Z,9Z,12Z)).",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2567,7 +2607,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 117,
-    "qid": 947,
+    "qid": 944,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(8:0/14:0/16:0) and are associated with hyperlipoproteinemia type IV.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -2587,7 +2627,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 118,
-    "qid": 951,
+    "qid": 948,
     "text": "List the proteins that are associated with glucose metabolism disease and are curated as interacting with TPD52L1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -2603,7 +2643,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 119,
-    "qid": 954,
+    "qid": 951,
     "text": "List the proteins that are annotated in the pathway Tat-mediated HIV elongation arrest and recovery and are associated with colorectal adenoma.",
     "category": "gastrointestinal system disease:intestinal disease",
     "llm_ranking": [
@@ -2627,7 +2667,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 120,
-    "qid": 956,
+    "qid": 953,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/16:1(9Z)/18:0) and are associated with congenital generalized lipodystrophy type 1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2647,7 +2687,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 121,
-    "qid": 957,
+    "qid": 954,
     "text": "List the proteins that are subunits of CD20-LCK-LYN-FYN-p75/80 complex, (Raji human B cell line) and are associated with type 2 diabetes mellitus.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -2671,7 +2711,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 122,
-    "qid": 959,
+    "qid": 956,
     "text": "List the proteins that are associated with hematopoietic cell line and are biomarkers of the disease genetic disease.",
     "category": "genetic disease:None",
     "llm_ranking": [
@@ -2687,7 +2727,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 123,
-    "qid": 962,
+    "qid": 959,
     "text": "List the proteins that are associated with warfarin sensitivity and are compiled as interacting with ARFGAP2.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2703,7 +2743,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 124,
-    "qid": 966,
+    "qid": 963,
     "text": "List the proteins that are associated with complement component 3 deficiency and are compiled as interacting with FST.",
     "category": "immune system disease:complement deficiency",
     "llm_ranking": [
@@ -2739,7 +2779,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 125,
-    "qid": 969,
+    "qid": 966,
     "text": "List the proteins that are associated with factor VIII deficiency and are compiled as interacting with RANGAP1.",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -2755,7 +2795,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 126,
-    "qid": 970,
+    "qid": 967,
     "text": "List the proteins that are associated with hypersensitivity reaction disease and act on CCN4.",
     "category": "immune system disease:hypersensitivity reaction disease",
     "llm_ranking": [
@@ -2775,7 +2815,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 127,
-    "qid": 971,
+    "qid": 968,
     "text": "List the proteins that are subunits of ITGA4-ITGB1-EMILIN1 complex and are associated with inflammatory bowel disease.",
     "category": "gastrointestinal system disease:inflammatory bowel disease",
     "llm_ranking": [
@@ -2795,7 +2835,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 128,
-    "qid": 978,
+    "qid": 975,
     "text": "List the proteins that are subunits of BRCA1-cABL complex and are associated with SHORT syndrome.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2811,7 +2851,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 129,
-    "qid": 979,
+    "qid": 976,
     "text": "List the proteins that are annotated in the pathway Phosphatidylethanolamine Biosynthesis PE(22:4(7Z,10Z,13Z,16Z)/18:3(9Z,12Z,15Z)) and are associated with prostate disease.",
     "category": "reproductive system disease:prostate disease",
     "llm_ranking": [
@@ -2827,7 +2867,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 130,
-    "qid": 982,
+    "qid": 979,
     "text": "List the proteins that are associated with cocaine abuse and are subunits of ESR1-TRAP/Mediator coactivator-complex.",
     "category": "disease of mental health:substance abuse",
     "llm_ranking": [
@@ -2843,7 +2883,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 131,
-    "qid": 988,
+    "qid": 985,
     "text": "List the proteins that are associated with cryptosporidiosis and are compiled as interacting with CRMP1.",
     "category": "gastrointestinal system disease:cryptosporidiosis",
     "llm_ranking": [
@@ -2859,7 +2899,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 132,
-    "qid": 993,
+    "qid": 990,
     "text": "List the proteins that act on PDZD2 and are associated with Charcot-Marie-Tooth disease type 1D.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2887,7 +2927,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 133,
-    "qid": 994,
+    "qid": 991,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(i-24:0/i-21:0/12:0) and are associated with colonic disease.",
     "category": "gastrointestinal system disease:colonic disease",
     "llm_ranking": [
@@ -2911,7 +2951,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 134,
-    "qid": 997,
+    "qid": 994,
     "text": "List the proteins that are associated with type 1 diabetes mellitus 23 and act on NEURL1B.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -2927,7 +2967,31 @@ export const b5: Question[] = [
   },
   {
     "question_number": 135,
-    "qid": 999,
+    "qid": 995,
+    "text": "List the proteins that are associated with viral infectious disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/20:2(11Z,14Z)/24:1(15Z)).",
+    "category": "disease by infectious agent:viral infectious disease",
+    "llm_ranking": [
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 8.7
+      },
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 7.1
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 5.7
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 5.4
+      }
+    ]
+  },
+  {
+    "question_number": 136,
+    "qid": 996,
     "text": "List the proteins that are compiled as interacting with PDE1C and are associated with branched-chain keto acid dehydrogenase kinase deficiency.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -2942,8 +3006,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 136,
-    "qid": 1002,
+    "question_number": 137,
+    "qid": 999,
     "text": "List the proteins that are associated with Charcot-Marie-Tooth disease X-linked recessive 5 and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)).",
     "category": "genetic disease:X-linked monogenic disease",
     "llm_ranking": [
@@ -2958,32 +3022,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 137,
-    "qid": 1004,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z)) and are associated with skin disease.",
-    "category": "integumentary system disease:skin disease",
-    "llm_ranking": [
-      {
-        "entity_name": "GPAM",
-        "llm-average": 7.8
-      },
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 7.3
-      },
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 6.4
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 5.9
-      }
-    ]
-  },
-  {
     "question_number": 138,
-    "qid": 1006,
+    "qid": 1003,
     "text": "List the proteins that are associated with complete generalized lipodystrophy and are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/a-13:0/i-14:0/i-15:0).",
     "category": "musculoskeletal system disease:lipodystrophy",
     "llm_ranking": [
@@ -3003,31 +3043,7 @@ export const b5: Question[] = [
   },
   {
     "question_number": 139,
-    "qid": 1008,
-    "text": "List the drugs that interact with Eldecalcitol and are indicated for Patchy alopecia.",
-    "category": "Abnormality of the integument:Abnormal hair morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Triamcinolone",
-        "llm-average": 5.6
-      },
-      {
-        "entity_name": "Dexamethasone",
-        "llm-average": 3.6
-      },
-      {
-        "entity_name": "Betamethasone",
-        "llm-average": 3.5
-      },
-      {
-        "entity_name": "Methylprednisolone",
-        "llm-average": 1.8
-      }
-    ]
-  },
-  {
-    "question_number": 140,
-    "qid": 1010,
+    "qid": 1007,
     "text": "List the proteins that are annotated in the pathway Intrinsic Pathway of Fibrin Clot Formation and are associated with homocystinuria.",
     "category": "genetic disease:amino acid metabolic disorder",
     "llm_ranking": [
@@ -3066,8 +3082,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 141,
-    "qid": 1011,
+    "question_number": 140,
+    "qid": 1008,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)) and are associated with lipodystrophy.",
     "category": "musculoskeletal system disease:lipodystrophy",
     "llm_ranking": [
@@ -3094,8 +3110,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 142,
-    "qid": 1013,
+    "question_number": 141,
+    "qid": 1010,
     "text": "List the proteins that are compiled as interacting with NCAPH2 and are associated with polymyositis.",
     "category": "musculoskeletal system disease:None",
     "llm_ranking": [
@@ -3122,8 +3138,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 143,
-    "qid": 1014,
+    "question_number": 142,
+    "qid": 1011,
     "text": "List the proteins that are associated with hyperphosphatemic familial tumoral calcinosis and are QC markers in the tissue blood plasma.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3142,8 +3158,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 144,
-    "qid": 1016,
+    "question_number": 143,
+    "qid": 1013,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-13:0/i-21:0/i-14:0/a-15:0) and are associated with Bartter disease.",
     "category": "genetic disease:monogenic disease",
     "llm_ranking": [
@@ -3158,8 +3174,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 145,
-    "qid": 1020,
+    "question_number": 144,
+    "qid": 1017,
     "text": "List the proteins that are associated with autosomal genetic disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:1(11Z)/20:1(11Z)/20:4(8Z,11Z,14Z,17Z)).",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3186,24 +3202,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 146,
-    "qid": 1022,
-    "text": "List the drugs that are indicated for Excessive salivation and interact with MK-212.",
-    "category": "Abnormality of the head:Abnormality of the mouth",
-    "llm_ranking": [
-      {
-        "entity_name": "Hyoscyamine",
-        "llm-average": 5.9
-      },
-      {
-        "entity_name": "Atropine",
-        "llm-average": 5.7
-      }
-    ]
-  },
-  {
-    "question_number": 147,
-    "qid": 1023,
+    "question_number": 145,
+    "qid": 1020,
     "text": "List the proteins that are associated with non-alcoholic steatohepatitis and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-25:0/i-18:0/a-21:0).",
     "category": "genetic disease:lysosomal storage disease",
     "llm_ranking": [
@@ -3226,8 +3226,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 148,
-    "qid": 1024,
+    "question_number": 146,
+    "qid": 1021,
     "text": "List the proteins that are associated with distal muscular dystrophy with anterior tibial onset and are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-19:0/a-13:0/a-15:0).",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3242,8 +3242,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 149,
-    "qid": 1025,
+    "question_number": 147,
+    "qid": 1022,
     "text": "List the proteins that act on ZAP70 and are associated with extrahepatic cholestasis.",
     "category": "gastrointestinal system disease:biliary tract disease",
     "llm_ranking": [
@@ -3262,8 +3262,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 150,
-    "qid": 1026,
+    "question_number": 148,
+    "qid": 1023,
     "text": "List the proteins that act on DAAM2 and are associated with primary autosomal recessive microcephaly.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3282,8 +3282,60 @@ export const b5: Question[] = [
     ]
   },
   {
+    "question_number": 149,
+    "qid": 1025,
+    "text": "List the drugs that are indicated for Thrombophlebitis and interact with Perphenazine.",
+    "category": "Abnormality of blood and blood-forming tissues:Venous thrombosis",
+    "llm_ranking": [
+      {
+        "entity_name": "(R)-warfarin",
+        "llm-average": 9.2
+      },
+      {
+        "entity_name": "Estradiol",
+        "llm-average": 6.5
+      },
+      {
+        "entity_name": "Warfarin",
+        "llm-average": 5.6
+      },
+      {
+        "entity_name": "Carbamazepine",
+        "llm-average": 3.5
+      }
+    ]
+  },
+  {
+    "question_number": 150,
+    "qid": 1026,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:2(13Z,16Z)/20:1(11Z)/22:2(13Z,16Z)) and are associated with disease of metabolism.",
+    "category": "disease of metabolism:None",
+    "llm_ranking": [
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 7.7
+      },
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 7.1
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 4.6
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 4.4
+      },
+      {
+        "entity_name": "AGPAT1",
+        "llm-average": 3.4
+      }
+    ]
+  },
+  {
     "question_number": 151,
-    "qid": 1032,
+    "qid": 1029,
     "text": "List the proteins that are associated with gastroparesis and are curated as interacting with H3-4.",
     "category": "gastrointestinal system disease:functional gastric disease",
     "llm_ranking": [
@@ -3303,7 +3355,35 @@ export const b5: Question[] = [
   },
   {
     "question_number": 152,
-    "qid": 1047,
+    "qid": 1039,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/16:0/18:2(9Z,12Z)) and are associated with disease of anatomical entity.",
+    "category": "disease:disease of anatomical entity",
+    "llm_ranking": [
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 6.3
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 4.6
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 4.4
+      },
+      {
+        "entity_name": "AGPAT1",
+        "llm-average": 3.1
+      }
+    ]
+  },
+  {
+    "question_number": 153,
+    "qid": 1044,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-14:0/i-12:0/i-22:0/i-24:0) and are associated with Griscelli syndrome type 2.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3318,8 +3398,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 153,
-    "qid": 1048,
+    "question_number": 154,
+    "qid": 1045,
     "text": "List the proteins that are associated with autosomal recessive hypercholesterolemia and are annotated in the pathway VxPx cargo-targeting to cilium.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -3350,8 +3430,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 154,
-    "qid": 1049,
+    "question_number": 155,
+    "qid": 1046,
     "text": "List the proteins that are curated as interacting with SIK3 and are associated with schizoaffective disorder.",
     "category": "disease of mental health:psychotic disorder",
     "llm_ranking": [
@@ -3370,8 +3450,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 155,
-    "qid": 1053,
+    "question_number": 156,
+    "qid": 1050,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(10:0/a-13:0/17:0) and are associated with non-alcoholic steatohepatitis.",
     "category": "genetic disease:lysosomal storage disease",
     "llm_ranking": [
@@ -3394,8 +3474,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 156,
-    "qid": 1055,
+    "question_number": 157,
+    "qid": 1052,
     "text": "List the proteins that are annotated in the pathway Non-integrin membrane-ECM interactions and are associated with dilated cardiomyopathy 2A.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3418,8 +3498,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 157,
-    "qid": 1056,
+    "question_number": 158,
+    "qid": 1053,
     "text": "List the proteins that are subunits of NOS3-CAV1-NOSTRIN complex and are associated with mood disorder.",
     "category": "disease of mental health:mood disorder",
     "llm_ranking": [
@@ -3434,8 +3514,28 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 158,
-    "qid": 1058,
+    "question_number": 159,
+    "qid": 1054,
+    "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-14:0/i-12:0/i-16:0) and are associated with disease by infectious agent.",
+    "category": "disease by infectious agent:None",
+    "llm_ranking": [
+      {
+        "entity_name": "PTPMT1",
+        "llm-average": 7.8
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 4.8
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 4.6
+      }
+    ]
+  },
+  {
+    "question_number": 160,
+    "qid": 1055,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:0/i-13:0/i-15:0) and are associated with glycogen storage disease V.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3450,8 +3550,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 159,
-    "qid": 1070,
+    "question_number": 161,
+    "qid": 1067,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are curated as interacting with PRAG1.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3470,8 +3570,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 160,
-    "qid": 1071,
+    "question_number": 162,
+    "qid": 1068,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and act on LPXN.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3486,8 +3586,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 161,
-    "qid": 1078,
+    "question_number": 163,
+    "qid": 1075,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and act on FGFR3.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3506,8 +3606,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 162,
-    "qid": 1085,
+    "question_number": 164,
+    "qid": 1082,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and act on MAPK10.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3530,8 +3630,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 163,
-    "qid": 1086,
+    "question_number": 165,
+    "qid": 1083,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and act on BMX.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3554,8 +3654,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 164,
-    "qid": 1090,
+    "question_number": 166,
+    "qid": 1087,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are curated as interacting with CNTNAP1.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -3570,8 +3670,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 165,
-    "qid": 1099,
+    "question_number": 167,
+    "qid": 1096,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are curated as interacting with HTT.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -3594,8 +3694,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 166,
-    "qid": 1101,
+    "question_number": 168,
+    "qid": 1098,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are compiled as interacting with PTK2.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3610,8 +3710,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 167,
-    "qid": 1103,
+    "question_number": 169,
+    "qid": 1100,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and act on LPXN.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3626,8 +3726,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 168,
-    "qid": 1108,
+    "question_number": 170,
+    "qid": 1105,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are compiled as interacting with GOLPH3.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3642,8 +3742,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 169,
-    "qid": 1115,
+    "question_number": 171,
+    "qid": 1112,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on BMX.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -3666,8 +3766,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 170,
-    "qid": 1120,
+    "question_number": 172,
+    "qid": 1117,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with GOLPH3.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -3682,8 +3782,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 171,
-    "qid": 1130,
+    "question_number": 173,
+    "qid": 1127,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with GOLPH3.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -3698,8 +3798,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 172,
-    "qid": 1134,
+    "question_number": 174,
+    "qid": 1131,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are compiled as interacting with SOCS6.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3722,8 +3822,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 173,
-    "qid": 1144,
+    "question_number": 175,
+    "qid": 1141,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with TGFB1I1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -3738,8 +3838,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 174,
-    "qid": 1148,
+    "question_number": 176,
+    "qid": 1145,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are the subunits of CIN85 complex (CIN85, CRK, BCAR1, CBL, PIK3R1, GRB2, SOS1).",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -3762,8 +3862,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 175,
-    "qid": 1156,
+    "question_number": 177,
+    "qid": 1153,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and act on FRS2.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3794,8 +3894,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 176,
-    "qid": 1157,
+    "question_number": 178,
+    "qid": 1154,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are curated as interacting with PTPN4.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3814,8 +3914,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 177,
-    "qid": 1158,
+    "question_number": 179,
+    "qid": 1155,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are curated as interacting with PRAG1.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -3834,8 +3934,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 178,
-    "qid": 1161,
+    "question_number": 180,
+    "qid": 1158,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with RAC3.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -3858,8 +3958,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 179,
-    "qid": 1164,
+    "question_number": 181,
+    "qid": 1161,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are compiled as interacting with DOCK7.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -3874,8 +3974,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 180,
-    "qid": 1166,
+    "question_number": 182,
+    "qid": 1163,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are compiled as interacting with TGFB1I1.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3894,8 +3994,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 181,
-    "qid": 1177,
+    "question_number": 183,
+    "qid": 1174,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are compiled as interacting with SOCS6.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3914,8 +4014,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 182,
-    "qid": 1187,
+    "question_number": 184,
+    "qid": 1184,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are compiled as interacting with BCAR1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -3930,8 +4030,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 183,
-    "qid": 1197,
+    "question_number": 185,
+    "qid": 1194,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with IRS4.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -3958,8 +4058,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 184,
-    "qid": 1201,
+    "question_number": 186,
+    "qid": 1198,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and act on MAPK10.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -3982,8 +4082,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 185,
-    "qid": 1203,
+    "question_number": 187,
+    "qid": 1200,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with TGFB1I1.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4002,8 +4102,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 186,
-    "qid": 1205,
+    "question_number": 188,
+    "qid": 1202,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and act on SHC1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -4018,8 +4118,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 187,
-    "qid": 1206,
+    "question_number": 189,
+    "qid": 1203,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are the subunits of CRKL-PDGFRA-CRK-RAPGEF1 complex.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4034,8 +4134,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 188,
-    "qid": 1226,
+    "question_number": 190,
+    "qid": 1223,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with IRS4.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4058,8 +4158,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 189,
-    "qid": 1232,
+    "question_number": 191,
+    "qid": 1229,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with FGFR3.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4098,8 +4198,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 190,
-    "qid": 1241,
+    "question_number": 192,
+    "qid": 1238,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with BCAR1.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4134,8 +4234,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 191,
-    "qid": 1243,
+    "question_number": 193,
+    "qid": 1240,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and act on BMX.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4154,8 +4254,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 192,
-    "qid": 1253,
+    "question_number": 194,
+    "qid": 1250,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and act on BMX.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4174,8 +4274,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 193,
-    "qid": 1265,
+    "question_number": 195,
+    "qid": 1262,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are curated as interacting with CNTNAP1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4190,8 +4290,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 194,
-    "qid": 1270,
+    "question_number": 196,
+    "qid": 1267,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are curated as interacting with CNTNAP1.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4206,8 +4306,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 195,
-    "qid": 1272,
+    "question_number": 197,
+    "qid": 1269,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with IRS4.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4230,8 +4330,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 196,
-    "qid": 1275,
+    "question_number": 198,
+    "qid": 1272,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with PEAK1.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4246,8 +4346,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 197,
-    "qid": 1277,
+    "question_number": 199,
+    "qid": 1274,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on LPXN.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4262,8 +4362,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 198,
-    "qid": 1291,
+    "question_number": 200,
+    "qid": 1288,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with GOLPH3.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4278,8 +4378,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 199,
-    "qid": 1299,
+    "question_number": 201,
+    "qid": 1296,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are curated as interacting with CNTNAP1.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4294,8 +4394,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 200,
-    "qid": 1306,
+    "question_number": 202,
+    "qid": 1303,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are compiled as interacting with TGFB1I1.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4314,8 +4414,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 201,
-    "qid": 1315,
+    "question_number": 203,
+    "qid": 1312,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are curated as interacting with PTPN4.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4334,8 +4434,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 202,
-    "qid": 1323,
+    "question_number": 204,
+    "qid": 1320,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are curated as interacting with HTT.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4358,8 +4458,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 203,
-    "qid": 1326,
+    "question_number": 205,
+    "qid": 1323,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are curated as interacting with CNTNAP1.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4374,8 +4474,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 204,
-    "qid": 1339,
+    "question_number": 206,
+    "qid": 1336,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are curated as interacting with PTPN4.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4394,8 +4494,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 205,
-    "qid": 1340,
+    "question_number": 207,
+    "qid": 1337,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are curated as interacting with HTT.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4414,8 +4514,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 206,
-    "qid": 1344,
+    "question_number": 208,
+    "qid": 1341,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with PEAK1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4430,8 +4530,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 207,
-    "qid": 1359,
+    "question_number": 209,
+    "qid": 1356,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are the subunits of CIN85 complex (CIN85, CRK, BCAR1, CBL, PIK3R1, GRB2, SOS1).",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4458,8 +4558,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 208,
-    "qid": 1367,
+    "question_number": 210,
+    "qid": 1364,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are compiled as interacting with PEAK1.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4474,8 +4574,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 209,
-    "qid": 1368,
+    "question_number": 211,
+    "qid": 1365,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are curated as interacting with PRAG1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4490,8 +4590,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 210,
-    "qid": 1369,
+    "question_number": 212,
+    "qid": 1366,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are compiled as interacting with DOCK7.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4506,8 +4606,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 211,
-    "qid": 1372,
+    "question_number": 213,
+    "qid": 1369,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on MAPK10.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4530,8 +4630,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 212,
-    "qid": 1377,
+    "question_number": 214,
+    "qid": 1374,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and act on FRS2.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4566,8 +4666,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 213,
-    "qid": 1399,
+    "question_number": 215,
+    "qid": 1396,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with RAC3.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4590,8 +4690,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 214,
-    "qid": 1401,
+    "question_number": 216,
+    "qid": 1398,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are curated as interacting with HTT.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4614,8 +4714,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 215,
-    "qid": 1404,
+    "question_number": 217,
+    "qid": 1401,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are compiled as interacting with IRS1.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -4630,8 +4730,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 216,
-    "qid": 1409,
+    "question_number": 218,
+    "qid": 1406,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are compiled as interacting with FGFR3.",
     "category": "genetic disease:autosomal genetic disease",
     "llm_ranking": [
@@ -4646,8 +4746,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 217,
-    "qid": 1421,
+    "question_number": 219,
+    "qid": 1418,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on SHC1.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4686,8 +4786,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 218,
-    "qid": 1423,
+    "question_number": 220,
+    "qid": 1420,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and act on MAPK10.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4706,8 +4806,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 219,
-    "qid": 1430,
+    "question_number": 221,
+    "qid": 1427,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are curated as interacting with WASL.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4722,8 +4822,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 220,
-    "qid": 1439,
+    "question_number": 222,
+    "qid": 1436,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with TGFB1I1.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4738,8 +4838,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 221,
-    "qid": 1446,
+    "question_number": 223,
+    "qid": 1443,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with familial hyperlipidemia, and are compiled as interacting with BCAR1.",
     "category": "genetic disease:lipid metabolism disorder",
     "llm_ranking": [
@@ -4770,8 +4870,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 222,
-    "qid": 1448,
+    "question_number": 224,
+    "qid": 1445,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with SOCS6.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4794,8 +4894,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 223,
-    "qid": 1449,
+    "question_number": 225,
+    "qid": 1446,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are compiled as interacting with BCAR1.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4830,8 +4930,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 224,
-    "qid": 1451,
+    "question_number": 226,
+    "qid": 1448,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and act on SHC1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4870,8 +4970,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 225,
-    "qid": 1454,
+    "question_number": 227,
+    "qid": 1451,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and act on MAPK10.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4890,8 +4990,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 226,
-    "qid": 1469,
+    "question_number": 228,
+    "qid": 1466,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with chromosomal deletion syndrome, and are curated as interacting with HTT.",
     "category": "genetic disease:chromosomal deletion syndrome",
     "llm_ranking": [
@@ -4910,8 +5010,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 227,
-    "qid": 1470,
+    "question_number": 229,
+    "qid": 1467,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and act on FGFR3.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -4930,8 +5030,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 228,
-    "qid": 1472,
+    "question_number": 230,
+    "qid": 1469,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are the subunits of CRKL-PDGFRA-CRK-RAPGEF1 complex.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4946,8 +5046,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 229,
-    "qid": 1485,
+    "question_number": 231,
+    "qid": 1482,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on FGFR3.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -4966,8 +5066,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 230,
-    "qid": 1489,
+    "question_number": 232,
+    "qid": 1486,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with bone disease, and are curated as interacting with WASL.",
     "category": "musculoskeletal system disease:bone disease",
     "llm_ranking": [
@@ -4982,8 +5082,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 231,
-    "qid": 1491,
+    "question_number": 233,
+    "qid": 1488,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and are compiled as interacting with SOCS6.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -5006,8 +5106,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 232,
-    "qid": 1515,
+    "question_number": 234,
+    "qid": 1512,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with type 2 diabetes mellitus, and are compiled as interacting with BCAR1.",
     "category": "genetic disease:carbohydrate metabolic disorder",
     "llm_ranking": [
@@ -5038,8 +5138,8 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 233,
-    "qid": 1520,
+    "question_number": 235,
+    "qid": 1517,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with ovarian disease, and act on FRS2.",
     "category": "reproductive system disease:ovarian disease",
     "llm_ranking": [
@@ -5074,7 +5174,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 234,
+    "question_number": 236,
     "qid": 287,
     "text": "List the proteins that are acted on by GIPR, which Chenodeoxycholic acid acts on.",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5098,7 +5198,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 235,
+    "question_number": 237,
     "qid": 290,
     "text": "List the proteins that are acted on by Trabectedin, which Trametinib interacts with.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5118,7 +5218,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 236,
+    "question_number": 238,
     "qid": 292,
     "text": "List the proteins that are acted on by Zanamivir, which Trametinib interacts with.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5138,7 +5238,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 237,
+    "question_number": 239,
     "qid": 305,
     "text": "Which proteins are acted on by RARRES1, which is compiled as a target of Tazarotene?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5154,7 +5254,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 238,
+    "question_number": 240,
     "qid": 319,
     "text": "List the biological processes that are associated with RARRES1, which is compiled as a target of Tazarotene.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5170,7 +5270,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 239,
+    "question_number": 241,
     "qid": 322,
     "text": "Which proteins are acted on by SLCO1B1, which Chenodeoxycholic acid acts on?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5186,7 +5286,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 240,
+    "question_number": 242,
     "qid": 323,
     "text": "Which pathways are annotated with SLCO1B1, which Chenodeoxycholic acid acts on?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5226,7 +5326,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 241,
+    "question_number": 243,
     "qid": 324,
     "text": "List the pathways that are annotated with IFNA6, which Chenodeoxycholic acid acts on.",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5250,7 +5350,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 242,
+    "question_number": 244,
     "qid": 336,
     "text": "Which genes are curated as targets of Megestrol acetate, which Trametinib interacts with?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5290,7 +5390,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 243,
+    "question_number": 245,
     "qid": 361,
     "text": "Which pathways are annotated with RXRG, which is compiled as a target of Chenodeoxycholic acid?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5306,7 +5406,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 244,
+    "question_number": 246,
     "qid": 7,
     "text": "Which genes are curated as targets of Cimetidine?",
     "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -5346,7 +5446,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 245,
+    "question_number": 247,
     "qid": 11,
     "text": "Which diseases have GPT2 as a biomarker?",
     "category": "gastrointestinal system disease:liver disease",
@@ -5366,7 +5466,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 246,
+    "question_number": 248,
     "qid": 12,
     "text": "Which phenotypes is Azathioprine indicated for?",
     "category": "Abnormality of the immune system:Autoimmunity",
@@ -5402,7 +5502,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 247,
+    "question_number": 249,
     "qid": 26,
     "text": "List the diseases of which GPT2 serve as a biomarker.",
     "category": "gastrointestinal system disease:liver disease",
@@ -5422,7 +5522,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 248,
+    "question_number": 250,
     "qid": 32,
     "text": "List the diseases of which C4A serve as a biomarker.",
     "category": "genetic disease:None",
@@ -5438,7 +5538,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 249,
+    "question_number": 251,
     "qid": 39,
     "text": "Which phenotypes is Chlorhexidine indicated for?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5462,7 +5562,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 250,
+    "question_number": 252,
     "qid": 43,
     "text": "What diseases is FSHB a biomarker of?",
     "category": "reproductive system disease:ovarian disease",
@@ -5478,7 +5578,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 251,
+    "question_number": 253,
     "qid": 46,
     "text": "Which diseases have SHBG as a biomarker?",
     "category": "reproductive system disease:infertility",
@@ -5498,7 +5598,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 252,
+    "question_number": 254,
     "qid": 49,
     "text": "What phenotypes is Decitabine indicated for?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5522,7 +5622,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 253,
+    "question_number": 255,
     "qid": 51,
     "text": "List the diseases of which GPT serve as a biomarker.",
     "category": "gastrointestinal system disease:liver disease",
@@ -5542,7 +5642,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 254,
+    "question_number": 256,
     "qid": 54,
     "text": "List the phenotypes that Scopolamine are indicated for.",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5566,7 +5666,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 255,
+    "question_number": 257,
     "qid": 55,
     "text": "What diseases is GOT1 a biomarker of?",
     "category": "gastrointestinal system disease:liver disease",
@@ -5582,43 +5682,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 256,
-    "qid": 57,
-    "text": "Which genes are curated as targets of Aminoglutethimide?",
-    "category": "Neoplasm:None",
-    "llm_ranking": [
-      {
-        "entity_name": "cytochrome P450 family 19 subfamily A member 1",
-        "llm-average": 7.9
-      },
-      {
-        "entity_name": "cytochrome P450 family 11 subfamily A member 1",
-        "llm-average": 7.2
-      },
-      {
-        "entity_name": "trefoil factor 3",
-        "llm-average": 6.9
-      },
-      {
-        "entity_name": "gamma-glutamyltransferase 1",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "cytochrome P450 family 1 subfamily B member 1",
-        "llm-average": 5.5
-      },
-      {
-        "entity_name": "thyroglobulin",
-        "llm-average": 3.6
-      },
-      {
-        "entity_name": "gonadotropin releasing hormone 1",
-        "llm-average": 3.4
-      }
-    ]
-  },
-  {
-    "question_number": 257,
+    "question_number": 258,
     "qid": 58,
     "text": "What diseases is SHBG a biomarker of?",
     "category": "reproductive system disease:infertility",
@@ -5638,7 +5702,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 258,
+    "question_number": 259,
     "qid": 60,
     "text": "Which phenotypes is Terbutaline indicated for?",
     "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -5658,7 +5722,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 259,
+    "question_number": 260,
     "qid": 66,
     "text": "Which phenotypes is Salmeterol indicated for?",
     "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -5694,7 +5758,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 260,
+    "question_number": 261,
     "qid": 77,
     "text": "What phenotypes is Cladribine indicated for?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5722,7 +5786,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 261,
+    "question_number": 262,
     "qid": 82,
     "text": "Which phenotypes is Ascorbic acid indicated for?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5750,7 +5814,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 262,
+    "question_number": 263,
     "qid": 89,
     "text": "What phenotypes is Fosamprenavir indicated for?",
     "category": "Abnormality of the immune system:Immunodeficiency",
@@ -5766,7 +5830,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 263,
+    "question_number": 264,
     "qid": 95,
     "text": "What phenotypes is Ipratropium indicated for?",
     "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -5802,7 +5866,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 264,
+    "question_number": 265,
     "qid": 100,
     "text": "Which diseases have MPO as a biomarker?",
     "category": "immune system disease:autoimmune disease",
@@ -5818,7 +5882,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 265,
+    "question_number": 266,
     "qid": 110,
     "text": "What phenotypes is Propantheline indicated for?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5854,7 +5918,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 266,
+    "question_number": 267,
     "qid": 112,
     "text": "Which diseases have ALDOB as a biomarker?",
     "category": "genetic disease:carbohydrate metabolic disorder",
@@ -5874,7 +5938,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 267,
+    "question_number": 268,
     "qid": 117,
     "text": "Which diseases have C4A as a biomarker?",
     "category": "genetic disease:None",
@@ -5890,7 +5954,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 268,
+    "question_number": 269,
     "qid": 118,
     "text": "What phenotypes is Calcipotriol indicated for?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5906,7 +5970,27 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 269,
+    "question_number": 270,
+    "qid": 124,
+    "text": "List the proteins that are compiled as targets of Eltrombopag.",
+    "category": "Abnormality of blood and blood-forming tissues:Abnormal platelet count",
+    "llm_ranking": [
+      {
+        "entity_name": "MPL",
+        "llm-average": 7.2
+      },
+      {
+        "entity_name": "THPO",
+        "llm-average": 4.7
+      },
+      {
+        "entity_name": "SLCO1B1",
+        "llm-average": 3.2
+      }
+    ]
+  },
+  {
+    "question_number": 271,
     "qid": 129,
     "text": "Which phenotypes is Monobenzone indicated for?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -5942,7 +6026,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 270,
+    "question_number": 272,
     "qid": 132,
     "text": "List the phenotypes that Decitabine are indicated for.",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -5966,27 +6050,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 271,
-    "qid": 134,
-    "text": "List the phenotypes that Dihydrocodeine are indicated for.",
-    "category": "Neoplasm:None",
-    "llm_ranking": [
-      {
-        "entity_name": "Neoplasm",
-        "llm-average": 5.7
-      },
-      {
-        "entity_name": "Chronic pain",
-        "llm-average": 4.3
-      },
-      {
-        "entity_name": "Pain",
-        "llm-average": 2.8
-      }
-    ]
-  },
-  {
-    "question_number": 272,
+    "question_number": 273,
     "qid": 138,
     "text": "List the diseases of which C3 serve as a biomarker.",
     "category": "genetic disease:None",
@@ -6002,7 +6066,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 273,
+    "question_number": 274,
     "qid": 147,
     "text": "Which genes are curated as targets of Clotrimazole?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -6034,7 +6098,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 274,
+    "question_number": 275,
     "qid": 166,
     "text": "What drugs are indicated for Acne?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -6074,7 +6138,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 275,
+    "question_number": 276,
     "qid": 170,
     "text": "What proteins are biomarkers of the disease hepatic veno-occlusive disease?",
     "category": "gastrointestinal system disease:liver disease",
@@ -6102,7 +6166,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 276,
+    "question_number": 277,
     "qid": 172,
     "text": "What drugs are indicated for Crohn's disease?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -6142,27 +6206,43 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 277,
-    "qid": 179,
-    "text": "What drugs have Decreased body weight as a side effect?",
-    "category": "Growth abnormality:Decreased body weight",
+    "question_number": 278,
+    "qid": 182,
+    "text": "What drugs are indicated for Apnea?",
+    "category": "Abnormality of the respiratory system:Abnormal pattern of respiration",
     "llm_ranking": [
       {
-        "entity_name": "Ranolazine",
+        "entity_name": "Caffeine",
+        "llm-average": 8.8
+      },
+      {
+        "entity_name": "Doxapram",
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "Modafinil",
         "llm-average": 6.2
       },
       {
-        "entity_name": "Ziprasidone",
-        "llm-average": 4.3
+        "entity_name": "Hydroxocobalamin",
+        "llm-average": 2.5
       },
       {
-        "entity_name": "Phenylephrine",
-        "llm-average": 1.9
+        "entity_name": "Desflurane",
+        "llm-average": 2.2
+      },
+      {
+        "entity_name": "Fentanyl",
+        "llm-average": 1.7
+      },
+      {
+        "entity_name": "Balsalazide",
+        "llm-average": 1.0
       }
     ]
   },
   {
-    "question_number": 278,
+    "question_number": 279,
     "qid": 188,
     "text": "What proteins are biomarkers of the disease alcohol dependence?",
     "category": "disease of mental health:substance dependence",
@@ -6178,7 +6258,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 279,
+    "question_number": 280,
     "qid": 197,
     "text": "What proteins are biomarkers of the disease immune system disease?",
     "category": "immune system disease:None",
@@ -6198,47 +6278,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 280,
-    "qid": 207,
-    "text": "What drugs are indicated for Pallor?",
-    "category": "Abnormality of the integument:Abnormality of skin morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Dopamine",
-        "llm-average": 6.6
-      },
-      {
-        "entity_name": "Buspirone",
-        "llm-average": 6.1
-      },
-      {
-        "entity_name": "Epinephrine",
-        "llm-average": 5.7
-      },
-      {
-        "entity_name": "Dihydroergotamine",
-        "llm-average": 4.5
-      }
-    ]
-  },
-  {
     "question_number": 281,
-    "qid": 217,
-    "text": "What drugs are indicated for Acrocyanosis?",
-    "category": "Abnormality of the integument:Abnormality of skin morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Arginine",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "D-arginine",
-        "llm-average": 5.9
-      }
-    ]
-  },
-  {
-    "question_number": 282,
     "qid": 220,
     "text": "What drugs are indicated for Optic neuritis?",
     "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -6270,39 +6310,23 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 283,
-    "qid": 233,
-    "text": "What drugs are indicated for Scleroderma?",
-    "category": "Abnormality of the integument:Abnormality of skin morphology",
+    "question_number": 282,
+    "qid": 224,
+    "text": "What drugs are indicated for Abnormality of the coagulation cascade?",
+    "category": "Abnormality of blood and blood-forming tissues:Abnormality of the coagulation cascade",
     "llm_ranking": [
       {
-        "entity_name": "Bosentan",
-        "llm-average": 8.8
+        "entity_name": "Tranexamic acid",
+        "llm-average": 7.1
       },
       {
-        "entity_name": "Epoprostenol",
-        "llm-average": 8.0
-      },
-      {
-        "entity_name": "Cimetidine",
-        "llm-average": 2.9
-      },
-      {
-        "entity_name": "Ranitidine",
-        "llm-average": 2.8
-      },
-      {
-        "entity_name": "Dexamethasone",
-        "llm-average": 2.6
-      },
-      {
-        "entity_name": "Betamethasone",
-        "llm-average": 2.2
+        "entity_name": "Phylloquinone",
+        "llm-average": 4.6
       }
     ]
   },
   {
-    "question_number": 284,
+    "question_number": 283,
     "qid": 234,
     "text": "What drugs have EPH receptor A2 as a curated target?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -6326,7 +6350,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 285,
+    "question_number": 284,
     "qid": 394,
     "text": "Which biological processes are associated with IGLL5, which acts on C1R that is the biomarker of disease immune system disease?",
     "category": "immune system disease:None",
@@ -6362,7 +6386,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 286,
+    "question_number": 285,
     "qid": 418,
     "text": "Which genes are curated as targets of Cytidine, which acts on AHNAK that is curated as interacting with ARMH4?",
     "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -6378,7 +6402,7 @@ export const b5: Question[] = [
     ]
   },
   {
-    "question_number": 287,
+    "question_number": 286,
     "qid": 422,
     "text": "Which biological processes are associated with CD52, which acts on ALPL that is the biomarker of disease liver disease?",
     "category": "gastrointestinal system disease:liver disease",
@@ -6390,6 +6414,26 @@ export const b5: Question[] = [
       {
         "entity_name": "positive regulation of cytosolic calcium ion concentration",
         "llm-average": 5.2
+      }
+    ]
+  },
+  {
+    "question_number": 287,
+    "qid": 423,
+    "text": "Which genes are curated as targets of Phencyclidine, which acts on FTH1 that is the biomarker of disease iron deficiency anemia?",
+    "category": "disease of metabolism:nutrition disease",
+    "llm_ranking": [
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
+        "llm-average": 7.1
+      },
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
+        "llm-average": 5.6
+      },
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
+        "llm-average": 3.9
       }
     ]
   },
