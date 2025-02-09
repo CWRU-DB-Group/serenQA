@@ -3,7 +3,31 @@ import {Question} from "@/components/Batch";
 export const b2: Question[] = [
   {
     "question_number": 1,
-    "qid": 603,
+    "qid": 592,
+    "text": "Which drugs are curated as targeting thyroid peroxidase, which is transcribed into thyroid peroxidase isoform X5 and is translated into TPO?",
+    "category": "Abnormality of the endocrine system:Abnormality of thyroid physiology",
+    "llm_ranking": [
+      {
+        "entity_name": "Propylthiouracil",
+        "llm-average": 6.1
+      },
+      {
+        "entity_name": "Methimazole",
+        "llm-average": 5.1
+      },
+      {
+        "entity_name": "Carbimazole",
+        "llm-average": 4.8
+      },
+      {
+        "entity_name": "Tretinoin",
+        "llm-average": 4.5
+      }
+    ]
+  },
+  {
+    "question_number": 2,
+    "qid": 602,
     "text": "Which drugs interact with Colforsin, which acts on PRSS42P and has AQP9 as a compiled target?",
     "category": "Abnormality of the cardiovascular system:Acute coronary syndrome",
     "llm_ranking": [
@@ -18,8 +42,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 2,
-    "qid": 621,
+    "question_number": 3,
+    "qid": 620,
     "text": "Which drugs are curated as targeting dipeptidase 1, which is transcribed into dipeptidase 1, transcript variant 5 and is translated into DPEP1?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
     "llm_ranking": [
@@ -34,28 +58,28 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 3,
-    "qid": 675,
-    "text": "Which drugs are curated as targeting egl-9 family hypoxia inducible factor 1, which is transcribed into egl nine homolog 1 isoform 3 and is translated into EGLN1?",
-    "category": "others:None",
+    "question_number": 4,
+    "qid": 720,
+    "text": "Which drugs act on C12orf76, which is associated with swine influenza and is curated as interacting with FKBP5?",
+    "category": "respiratory system disease:None",
     "llm_ranking": [
       {
-        "entity_name": "Daprodustat",
-        "llm-average": 7.6
+        "entity_name": "Trichostatin A",
+        "llm-average": 8.0
       },
       {
-        "entity_name": "Roxadustat",
-        "llm-average": 7.3
+        "entity_name": "Valproic acid",
+        "llm-average": 5.5
       },
       {
-        "entity_name": "Vadadustat",
-        "llm-average": 6.3
+        "entity_name": "Formaldehyde",
+        "llm-average": 2.9
       }
     ]
   },
   {
-    "question_number": 4,
-    "qid": 727,
+    "question_number": 5,
+    "qid": 726,
     "text": "Which drugs interact with Dipivefrin, which has side effect Arrhythmia and is indicated for Cataract?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -74,32 +98,64 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 5,
-    "qid": 1522,
-    "text": "Find all drugs that are indicated for Refractory anemia and interact with Varicella Zoster Vaccine (Recombinant), and also find the drugs that have the side effect Refractory anemia and interact with Varicella Zoster Vaccine (Recombinant).",
-    "category": "Abnormality of blood and blood-forming tissues:Anemia",
+    "question_number": 6,
+    "qid": 728,
+    "text": "Which proteins are curated as interacting with POLE4, which is annotated in pathway Recognition of DNA damage by PCNA-containing replication complex and is associated with congenital dyserythropoietic anemia type I?",
+    "category": "hematopoietic system disease:normocytic anemia",
     "llm_ranking": [
       {
-        "entity_name": "Lenalidomide",
+        "entity_name": "POLE3",
         "llm-average": 10.0
       },
       {
-        "entity_name": "Decitabine",
-        "llm-average": 7.3
+        "entity_name": "POLE",
+        "llm-average": 9.1
       },
       {
-        "entity_name": "Azacitidine",
-        "llm-average": 6.6
+        "entity_name": "POLE2",
+        "llm-average": 8.6
       },
       {
-        "entity_name": "Lomustine",
-        "llm-average": 5.0
+        "entity_name": "QTRT1",
+        "llm-average": 5.1
+      },
+      {
+        "entity_name": "RPS27",
+        "llm-average": 4.6
+      },
+      {
+        "entity_name": "NFYB",
+        "llm-average": 4.4
+      },
+      {
+        "entity_name": "ARL4C",
+        "llm-average": 3.7
+      },
+      {
+        "entity_name": "FXYD1",
+        "llm-average": 2.8
       }
     ]
   },
   {
-    "question_number": 6,
-    "qid": 1524,
+    "question_number": 7,
+    "qid": 793,
+    "text": "Which drugs act on MCRS1, which is annotated in pathway UCH proteinases and is associated with adrenal cortex disease?",
+    "category": "endocrine system disease:adrenal cortex disease",
+    "llm_ranking": [
+      {
+        "entity_name": "Coenzyme A",
+        "llm-average": 4.2
+      },
+      {
+        "entity_name": "Vitamin E",
+        "llm-average": 3.5
+      }
+    ]
+  },
+  {
+    "question_number": 8,
+    "qid": 1521,
     "text": "Find all drugs that interact with Pirfenidone and are indicated for Neoplasm of the pancreas, and also find the drugs that interact with Pirfenidone and have the side effect Neoplasm of the pancreas.",
     "category": "Abnormality of the digestive system:Abnormality of the pancreas",
     "llm_ranking": [
@@ -130,8 +186,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 7,
-    "qid": 1526,
+    "question_number": 9,
+    "qid": 1523,
     "text": "Find all drugs that have the side effect Diabetes mellitus and interact with VTP-27999, and also find the drugs that are indicated for Diabetes mellitus and interact with VTP-27999.",
     "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
     "llm_ranking": [
@@ -158,8 +214,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 8,
-    "qid": 1527,
+    "question_number": 10,
+    "qid": 1524,
     "text": "Find all drugs that are indicated for Neoplasm of the liver and interact with Darifenacin, and also find the drugs that have the side effect Neoplasm of the liver and interact with Darifenacin.",
     "category": "Abnormality of the digestive system:Abnormality of the liver",
     "llm_ranking": [
@@ -174,7 +230,47 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 9,
+    "question_number": 11,
+    "qid": 1528,
+    "text": "Find all drugs that have the side effect Stillbirth and interact with Coumaphos, and also find the drugs that are indicated for Stillbirth and interact with Coumaphos.",
+    "category": "Age of death:Stillbirth",
+    "llm_ranking": [
+      {
+        "entity_name": "Mifepristone",
+        "llm-average": 7.1
+      },
+      {
+        "entity_name": "Felbamate",
+        "llm-average": 5.3
+      },
+      {
+        "entity_name": "Paliperidone",
+        "llm-average": 2.7
+      },
+      {
+        "entity_name": "Citalopram",
+        "llm-average": 2.6
+      },
+      {
+        "entity_name": "Escitalopram",
+        "llm-average": 2.2
+      },
+      {
+        "entity_name": "Risperidone",
+        "llm-average": 2.1
+      },
+      {
+        "entity_name": "Cetirizine",
+        "llm-average": 0.9
+      },
+      {
+        "entity_name": "Bisoprolol",
+        "llm-average": 0.0
+      }
+    ]
+  },
+  {
+    "question_number": 12,
     "qid": 455,
     "text": "Which drugs act on GPCPD1, which is associated with SAS acetyltransferase complex, and are compiled as targeting FTMT?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -190,7 +286,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 10,
+    "question_number": 13,
     "qid": 458,
     "text": "Which drugs act on CHRM5, which is associated with gastric acid secretion, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -214,7 +310,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 11,
+    "question_number": 14,
     "qid": 463,
     "text": "Which drugs act on STRIP2, which is associated with sarcolemma, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -230,7 +326,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 12,
+    "question_number": 15,
     "qid": 467,
     "text": "Which drugs are curated as targeting potassium voltage-gated channel subfamily Q member 1, which is translated into KCNQ1, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -246,7 +342,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 13,
+    "question_number": 16,
     "qid": 474,
     "text": "Which drugs are compiled as targeting ORM2, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -270,7 +366,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 14,
+    "question_number": 17,
     "qid": 476,
     "text": "Which drugs are compiled as targeting DNAJA4, which is associated with collagen-containing extracellular matrix, and act on PRDX4?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -286,7 +382,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 15,
+    "question_number": 18,
     "qid": 480,
     "text": "Which drugs act on FAR1, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -302,7 +398,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 16,
+    "question_number": 19,
     "qid": 483,
     "text": "Which drugs act on EMC10, which is associated with blood, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -318,7 +414,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 17,
+    "question_number": 20,
     "qid": 489,
     "text": "Which drugs act on KCTD14, which is associated with neural stem cell, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -334,7 +430,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 18,
+    "question_number": 21,
     "qid": 491,
     "text": "Which drugs are compiled as targeting SLC5A11, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -354,7 +450,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 19,
+    "question_number": 22,
     "qid": 494,
     "text": "Which drugs act on ALCAM, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -370,7 +466,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 20,
+    "question_number": 23,
     "qid": 499,
     "text": "Which drugs are compiled as targeting CYP2D6, which is associated with fruit, and act on ARMC7?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -386,7 +482,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 21,
+    "question_number": 24,
     "qid": 502,
     "text": "Which drugs act on TRIM21, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -402,7 +498,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 22,
+    "question_number": 25,
     "qid": 506,
     "text": "Which drugs are compiled as targeting RHBDL2, which is associated with sarcolemma, and act on PRDX4?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -418,7 +514,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 23,
+    "question_number": 26,
     "qid": 519,
     "text": "Which drugs act on SIRT4, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -442,7 +538,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 24,
+    "question_number": 27,
     "qid": 524,
     "text": "Which drugs act on AGBL1, which is associated with sarcolemma, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -458,7 +554,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 25,
+    "question_number": 28,
     "qid": 525,
     "text": "Which drugs act on MCEE, which is associated with fruit, and are compiled as targeting FTMT?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -474,7 +570,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 26,
+    "question_number": 29,
     "qid": 529,
     "text": "Which drugs act on ACAT1, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -502,7 +598,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 27,
+    "question_number": 30,
     "qid": 531,
     "text": "Which drugs act on DYNLRB1, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -518,7 +614,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 28,
+    "question_number": 31,
     "qid": 534,
     "text": "Which drugs act on DAZL, which is associated with collagen-containing extracellular matrix, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -538,7 +634,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 29,
+    "question_number": 32,
     "qid": 535,
     "text": "Which drugs are compiled as targeting SLC2A2, which is associated with fruit, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -562,7 +658,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 30,
+    "question_number": 33,
     "qid": 536,
     "text": "Which drugs are curated as targeting peroxisome proliferator activated receptor alpha, which is transcribed into peroxisome proliferator-activated receptor alpha isoform X3, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -582,7 +678,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 31,
+    "question_number": 34,
     "qid": 544,
     "text": "Which drugs are compiled as targeting TCEA3, which is associated with fruit, and act on PRDX4?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -602,7 +698,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 32,
+    "question_number": 35,
     "qid": 545,
     "text": "Which drugs act on TPD52L1, which is associated with blood, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -626,7 +722,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 33,
+    "question_number": 36,
     "qid": 547,
     "text": "Which drugs interact with Sumatriptan, which is curated as targeting 5-hydroxytryptamine receptor 6, and are compiled as targeting FTMT?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -642,7 +738,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 34,
+    "question_number": 37,
     "qid": 552,
     "text": "Which drugs interact with Imiquimod, which has the side effect Palpitations, and have the side effect Sensory impairment?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -658,7 +754,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 35,
+    "question_number": 38,
     "qid": 557,
     "text": "Which drugs are compiled as targeting CLDN11, which are compiled as interacting with DYNLT2, and act on ARMC7?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -674,7 +770,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 36,
+    "question_number": 39,
     "qid": 561,
     "text": "Which drugs act on RNF144A, which is associated with sarcolemma, and interact with Phenyl aminosalicylate?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -690,8 +786,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 37,
-    "qid": 809,
+    "question_number": 40,
+    "qid": 806,
     "text": "List the drugs that act on ABHD2 and interact with Oxetacaine.",
     "category": "Abnormality of the cardiovascular system:Abnormal heart valve physiology",
     "llm_ranking": [
@@ -706,36 +802,36 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 38,
-    "qid": 810,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:0/20:1(11Z)/20:3(5Z,8Z,11Z)) and are associated with carbohydrate metabolism disease.",
-    "category": "disease of metabolism:carbohydrate metabolism disease",
+    "question_number": 41,
+    "qid": 808,
+    "text": "List the proteins that are associated with follicular adenoma and act on MRPS6.",
+    "category": "endocrine system disease:thyroid gland disease",
     "llm_ranking": [
       {
-        "entity_name": "DGAT1",
-        "llm-average": 9.2
+        "entity_name": "IMP3",
+        "llm-average": 6.8
       },
       {
-        "entity_name": "LPIN1",
-        "llm-average": 8.2
+        "entity_name": "MRPL28",
+        "llm-average": 5.0
       },
       {
-        "entity_name": "GPAM",
-        "llm-average": 5.9
+        "entity_name": "MRPS2",
+        "llm-average": 4.9
       },
       {
-        "entity_name": "GPD1",
-        "llm-average": 5.9
+        "entity_name": "RPSA",
+        "llm-average": 2.8
       },
       {
-        "entity_name": "AGPAT1",
-        "llm-average": 3.4
+        "entity_name": "RPL10A",
+        "llm-average": 2.6
       }
     ]
   },
   {
-    "question_number": 39,
-    "qid": 819,
+    "question_number": 42,
+    "qid": 816,
     "text": "List the drugs that interact with Quinine and have the curated target adenosine A2a receptor.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -770,8 +866,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 40,
-    "qid": 822,
+    "question_number": 43,
+    "qid": 819,
     "text": "List the drugs that interact with Moricizine and have the compiled target SOCS3.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -786,8 +882,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 41,
-    "qid": 823,
+    "question_number": 44,
+    "qid": 820,
     "text": "List the drugs that act on POFUT2 and interact with Phenglutarimide.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -806,8 +902,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 42,
-    "qid": 824,
+    "question_number": 45,
+    "qid": 821,
     "text": "List the drugs that act on SFPQ and interact with Nitroaspirin.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -830,8 +926,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 43,
-    "qid": 826,
+    "question_number": 46,
+    "qid": 823,
     "text": "List the drugs that interact with Pegaptanib and act on SOCS6.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -850,8 +946,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 44,
-    "qid": 827,
+    "question_number": 47,
+    "qid": 824,
     "text": "List the drugs that act on NCOA3 and interact with Niaprazine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -866,48 +962,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 45,
-    "qid": 833,
-    "text": "List the proteins that are associated with VACTERL association and are compiled as interacting with IRS4.",
-    "category": "VACTERL association:None",
-    "llm_ranking": [
-      {
-        "entity_name": "PTPN11",
-        "llm-average": 7.9
-      },
-      {
-        "entity_name": "IKBKG",
-        "llm-average": 7.7
-      },
-      {
-        "entity_name": "PTPN18",
-        "llm-average": 6.5
-      },
-      {
-        "entity_name": "PIK3CA",
-        "llm-average": 6.4
-      },
-      {
-        "entity_name": "CRKL",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "AKT1",
-        "llm-average": 5.5
-      },
-      {
-        "entity_name": "MAPK8",
-        "llm-average": 4.7
-      },
-      {
-        "entity_name": "IGF2",
-        "llm-average": 3.5
-      }
-    ]
-  },
-  {
-    "question_number": 46,
-    "qid": 834,
+    "question_number": 48,
+    "qid": 831,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/18:3(9Z,12Z,15Z)/22:1(13Z)) and are associated with kidney failure.",
     "category": "urinary system disease:kidney failure",
     "llm_ranking": [
@@ -926,8 +982,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 47,
-    "qid": 835,
+    "question_number": 49,
+    "qid": 832,
     "text": "List the drugs that are indicated for Cerebral hemorrhage and interact with Dotarizine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
     "llm_ranking": [
@@ -950,8 +1006,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 48,
-    "qid": 843,
+    "question_number": 50,
+    "qid": 836,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(10:0/i-18:0/12:0) and are associated with influenza.",
+    "category": "respiratory system disease:None",
+    "llm_ranking": [
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 6.7
+      },
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 5.7
+      }
+    ]
+  },
+  {
+    "question_number": 51,
+    "qid": 840,
     "text": "List the drugs that interact with Sucralfate and act on RSL24D1.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -982,8 +1054,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 49,
-    "qid": 855,
+    "question_number": 52,
+    "qid": 852,
     "text": "List the drugs that interact with Typhoid vaccine and have the curated target TNF receptor superfamily member 1B.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
     "llm_ranking": [
@@ -998,40 +1070,60 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 50,
-    "qid": 869,
-    "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-18:0/i-21:0/i-17:0) and are associated with carbohydrate metabolism disease.",
-    "category": "disease of metabolism:carbohydrate metabolism disease",
+    "question_number": 53,
+    "qid": 853,
+    "text": "List the proteins that are subunits of SHARP-CtBP1-CtIP-RBP-Jkappa corepressor complex and are associated with intrinsic asthma.",
+    "category": "respiratory system disease:bronchial disease",
     "llm_ranking": [
       {
-        "entity_name": "PTPMT1",
-        "llm-average": 8.4
+        "entity_name": "SPEN",
+        "llm-average": 6.7
       },
       {
-        "entity_name": "GPAM",
-        "llm-average": 7.6
+        "entity_name": "RBPJ",
+        "llm-average": 5.4
+      }
+    ]
+  },
+  {
+    "question_number": 54,
+    "qid": 854,
+    "text": "List the proteins that are associated with lower respiratory tract disease and are subunits of Exon junction complex.",
+    "category": "respiratory system disease:lower respiratory tract disease",
+    "llm_ranking": [
+      {
+        "entity_name": "UPF3B",
+        "llm-average": 8.9
       },
       {
-        "entity_name": "CRLS1",
-        "llm-average": 7.3
+        "entity_name": "RNPS1",
+        "llm-average": 7.8
       },
       {
-        "entity_name": "AGPAT5",
-        "llm-average": 7.2
+        "entity_name": "UPF2",
+        "llm-average": 7.5
       },
       {
-        "entity_name": "GPD1",
+        "entity_name": "RBM8A",
         "llm-average": 5.9
       },
       {
-        "entity_name": "PGS1",
+        "entity_name": "ALYREF",
+        "llm-average": 4.3
+      },
+      {
+        "entity_name": "NXF1",
+        "llm-average": 4.1
+      },
+      {
+        "entity_name": "SRRM1",
         "llm-average": 3.9
       }
     ]
   },
   {
-    "question_number": 51,
-    "qid": 887,
+    "question_number": 55,
+    "qid": 884,
     "text": "List the drugs that act on HMGCL and interact with Dihydroetorphine.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1054,8 +1146,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 52,
-    "qid": 889,
+    "question_number": 56,
+    "qid": 886,
     "text": "List the proteins that act on SLC25A27 and are associated with acute cystitis.",
     "category": "urinary system disease:cystitis",
     "llm_ranking": [
@@ -1070,8 +1162,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 53,
-    "qid": 896,
+    "question_number": 57,
+    "qid": 893,
     "text": "List the drugs that have the curated target cadherin 1 and interact with Pefloxacin.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1090,8 +1182,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 54,
-    "qid": 897,
+    "question_number": 58,
+    "qid": 894,
     "text": "List the proteins that act on JUND and are associated with glomerulosclerosis.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1118,32 +1210,44 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 55,
-    "qid": 906,
-    "text": "List the proteins that are annotated in the pathway Regulation of PTEN stability and activity and are associated with sleeping sickness.",
-    "category": "disease by infectious agent:parasitic protozoa infectious disease",
+    "question_number": 59,
+    "qid": 902,
+    "text": "List the proteins that are associated with lung benign neoplasm and are compiled as interacting with NTN4.",
+    "category": "respiratory system disease:respiratory system benign neoplasm",
     "llm_ranking": [
       {
-        "entity_name": "FRK",
-        "llm-average": 7.8
+        "entity_name": "SEMA3F",
+        "llm-average": 8.4
       },
       {
-        "entity_name": "CSNK2B",
+        "entity_name": "DRAXIN",
+        "llm-average": 6.7
+      },
+      {
+        "entity_name": "PTPN11",
         "llm-average": 5.9
-      },
-      {
-        "entity_name": "PSMD5",
-        "llm-average": 5.8
-      },
-      {
-        "entity_name": "AKT1",
-        "llm-average": 4.6
       }
     ]
   },
   {
-    "question_number": 56,
-    "qid": 910,
+    "question_number": 60,
+    "qid": 904,
+    "text": "List the proteins that are subunits of ESR1-RELA-BCL3-NCOA3 complex and are associated with chronic fatigue syndrome.",
+    "category": "chronic fatigue syndrome:None",
+    "llm_ranking": [
+      {
+        "entity_name": "ESR1",
+        "llm-average": 6.8
+      },
+      {
+        "entity_name": "RELA",
+        "llm-average": 4.8
+      }
+    ]
+  },
+  {
+    "question_number": 61,
+    "qid": 907,
     "text": "List the drugs that have the curated target thyroid stimulating hormone subunit beta and interact with Manidipine.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1166,8 +1270,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 57,
-    "qid": 925,
+    "question_number": 62,
+    "qid": 916,
+    "text": "List the proteins that are associated with pancytopenia and are subunits of ADAM12-alphaVbeta3-integrin-MMP-14 complex.",
+    "category": "hematopoietic system disease:pancytopenia",
+    "llm_ranking": [
+      {
+        "entity_name": "ITGB3",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "ITGAV",
+        "llm-average": 4.6
+      }
+    ]
+  },
+  {
+    "question_number": 63,
+    "qid": 922,
     "text": "List the drugs that act on CHP2 and interact with Terfenadine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1194,8 +1314,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 58,
-    "qid": 926,
+    "question_number": 64,
+    "qid": 923,
     "text": "List the proteins that are associated with cystic kidney disease and are compiled as interacting with SMAP2.",
     "category": "urinary system disease:cystic kidney disease",
     "llm_ranking": [
@@ -1226,8 +1346,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 59,
-    "qid": 928,
+    "question_number": 65,
+    "qid": 925,
     "text": "List the proteins that are subunits of NFAT-JUN-FOS DNA-protein complex and are associated with obstructive nephropathy.",
     "category": "urinary system disease:obstructive nephropathy",
     "llm_ranking": [
@@ -1242,8 +1362,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 60,
-    "qid": 930,
+    "question_number": 66,
+    "qid": 927,
     "text": "List the drugs that interact with Dovitinib and have the curated target MPL proto-oncogene, thrombopoietin receptor.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1262,28 +1382,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 61,
-    "qid": 937,
-    "text": "List the proteins that are associated with disease of cellular proliferation and are subunits of ITGA6-ITGB4-FYN complex.",
-    "category": "disease:disease of cellular proliferation",
-    "llm_ranking": [
-      {
-        "entity_name": "ITGB4",
-        "llm-average": 6.3
-      },
-      {
-        "entity_name": "ITGA6",
-        "llm-average": 5.4
-      },
-      {
-        "entity_name": "FYN",
-        "llm-average": 4.6
-      }
-    ]
-  },
-  {
-    "question_number": 62,
-    "qid": 943,
+    "question_number": 67,
+    "qid": 940,
     "text": "List the drugs that interact with Dusigitumab and act on JUN.",
     "category": "Abnormality of the cardiovascular system:None",
     "llm_ranking": [
@@ -1302,8 +1402,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 63,
-    "qid": 946,
+    "question_number": 68,
+    "qid": 943,
     "text": "List the drugs that interact with Barbexaclone and act on IL12RB2.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1318,8 +1418,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 64,
-    "qid": 949,
+    "question_number": 69,
+    "qid": 946,
     "text": "List the drugs that interact with Tolbutamide and have the curated target adrenoceptor alpha 1D.",
     "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
     "llm_ranking": [
@@ -1354,8 +1454,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 65,
-    "qid": 964,
+    "question_number": 70,
+    "qid": 958,
+    "text": "List the proteins that are associated with influenza and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:2(13Z,16Z)).",
+    "category": "respiratory system disease:None",
+    "llm_ranking": [
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 6.2
+      },
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 5.8
+      }
+    ]
+  },
+  {
+    "question_number": 71,
+    "qid": 961,
     "text": "List the drugs that interact with Carbenicillin and are indicated for Hypertension.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1378,8 +1494,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 66,
-    "qid": 965,
+    "question_number": 72,
+    "qid": 962,
     "text": "List the drugs that have the side effect Stroke and interact with Formocortal.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
     "llm_ranking": [
@@ -1414,8 +1530,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 67,
-    "qid": 967,
+    "question_number": 73,
+    "qid": 964,
     "text": "List the drugs that have the compiled target PDE3A and interact with Alogliptin.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1442,8 +1558,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 68,
-    "qid": 968,
+    "question_number": 74,
+    "qid": 965,
     "text": "List the drugs that interact with Tenofovir alafenamide and have the compiled target CD69.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1474,8 +1590,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 69,
-    "qid": 974,
+    "question_number": 75,
+    "qid": 971,
     "text": "List the drugs that have the compiled target ATP4A and interact with Nitrous oxide.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1502,8 +1618,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 70,
-    "qid": 976,
+    "question_number": 76,
+    "qid": 973,
     "text": "List the drugs that have the compiled target CREM and interact with Thyrotropin alfa.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1518,8 +1634,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 71,
-    "qid": 984,
+    "question_number": 77,
+    "qid": 980,
+    "text": "List the proteins that are associated with acute pancreatitis and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(24:0/20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z)).",
+    "category": "endocrine system disease:pancreatitis",
+    "llm_ranking": [
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 8.4
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 5.9
+      }
+    ]
+  },
+  {
+    "question_number": 78,
+    "qid": 981,
     "text": "List the drugs that have the curated target receptor activity modifying protein 3 and interact with Protriptyline.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1534,8 +1666,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 72,
-    "qid": 986,
+    "question_number": 79,
+    "qid": 983,
     "text": "List the proteins that are associated with urethral stricture and are annotated in the pathway Signaling by FGFR1 in disease.",
     "category": "urinary system disease:urethral obstruction",
     "llm_ranking": [
@@ -1550,8 +1682,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 73,
-    "qid": 987,
+    "question_number": 80,
+    "qid": 984,
     "text": "List the drugs that have the curated target polo like kinase 1 and interact with Parecoxib.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1566,8 +1698,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 74,
-    "qid": 992,
+    "question_number": 81,
+    "qid": 986,
+    "text": "List the proteins that are associated with pulmonary emphysema and act on C8B.",
+    "category": "respiratory system disease:lung disease",
+    "llm_ranking": [
+      {
+        "entity_name": "VTN",
+        "llm-average": 6.7
+      },
+      {
+        "entity_name": "CD34",
+        "llm-average": 6.5
+      }
+    ]
+  },
+  {
+    "question_number": 82,
+    "qid": 989,
     "text": "List the drugs that interact with Capravirine and have the curated target glyceraldehyde-3-phosphate dehydrogenase.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1582,32 +1730,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 75,
-    "qid": 998,
-    "text": "List the proteins that are associated with viral infectious disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/20:2(11Z,14Z)/24:1(15Z)).",
-    "category": "disease by infectious agent:viral infectious disease",
-    "llm_ranking": [
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 8.7
-      },
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 7.1
-      },
-      {
-        "entity_name": "GPAM",
-        "llm-average": 5.7
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 5.4
-      }
-    ]
-  },
-  {
-    "question_number": 76,
-    "qid": 1018,
+    "question_number": 83,
+    "qid": 1015,
     "text": "List the drugs that interact with Atracurium and act on SNX18.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1622,8 +1746,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 77,
-    "qid": 1021,
+    "question_number": 84,
+    "qid": 1018,
     "text": "List the drugs that interact with Oxolinic acid and have the compiled target MYLK.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1654,8 +1778,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 78,
-    "qid": 1027,
+    "question_number": 85,
+    "qid": 1024,
     "text": "List the proteins that are associated with nephrotic syndrome and are annotated in the pathway Oxomemazine H1-Antihistamine Action.",
     "category": "urinary system disease:proteinuria",
     "llm_ranking": [
@@ -1670,60 +1794,24 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 79,
-    "qid": 1028,
-    "text": "List the drugs that are indicated for Thrombophlebitis and interact with Perphenazine.",
-    "category": "Abnormality of blood and blood-forming tissues:Venous thrombosis",
+    "question_number": 86,
+    "qid": 1032,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-21:0/i-24:0/22:0) and are associated with acute pancreatitis.",
+    "category": "endocrine system disease:pancreatitis",
     "llm_ranking": [
-      {
-        "entity_name": "(R)-warfarin",
-        "llm-average": 9.2
-      },
-      {
-        "entity_name": "Estradiol",
-        "llm-average": 6.5
-      },
-      {
-        "entity_name": "Warfarin",
-        "llm-average": 5.6
-      },
-      {
-        "entity_name": "Carbamazepine",
-        "llm-average": 3.5
-      }
-    ]
-  },
-  {
-    "question_number": 80,
-    "qid": 1029,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:2(13Z,16Z)/20:1(11Z)/22:2(13Z,16Z)) and are associated with disease of metabolism.",
-    "category": "disease of metabolism:None",
-    "llm_ranking": [
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 7.7
-      },
       {
         "entity_name": "DGAT1",
-        "llm-average": 7.1
+        "llm-average": 6.7
       },
       {
         "entity_name": "GPD1",
-        "llm-average": 4.6
-      },
-      {
-        "entity_name": "GPAM",
-        "llm-average": 4.4
-      },
-      {
-        "entity_name": "AGPAT1",
-        "llm-average": 3.4
+        "llm-average": 5.9
       }
     ]
   },
   {
-    "question_number": 81,
-    "qid": 1036,
+    "question_number": 87,
+    "qid": 1033,
     "text": "List the drugs that interact with Naratriptan and have the side effect Achalasia.",
     "category": "Abnormality of the digestive system:Abnormality of digestive system physiology",
     "llm_ranking": [
@@ -1754,8 +1842,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 82,
-    "qid": 1038,
+    "question_number": 88,
+    "qid": 1035,
     "text": "List the drugs that interact with Indocyanine green acid form and act on ATP8B2.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
     "llm_ranking": [
@@ -1770,8 +1858,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 83,
-    "qid": 1039,
+    "question_number": 89,
+    "qid": 1036,
     "text": "List the drugs that interact with Carbutamide and act on IL1RL1.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
     "llm_ranking": [
@@ -1786,8 +1874,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 84,
-    "qid": 1040,
+    "question_number": 90,
+    "qid": 1037,
     "text": "List the drugs that interact with Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated) and act on FLII.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
     "llm_ranking": [
@@ -1810,8 +1898,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 85,
-    "qid": 1041,
+    "question_number": 91,
+    "qid": 1038,
     "text": "List the drugs that interact with Crizotinib and act on PLEKHA6.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1834,36 +1922,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 86,
-    "qid": 1042,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/16:0/18:2(9Z,12Z)) and are associated with disease of anatomical entity.",
-    "category": "disease:disease of anatomical entity",
-    "llm_ranking": [
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 7.3
-      },
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 6.3
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 4.6
-      },
-      {
-        "entity_name": "GPAM",
-        "llm-average": 4.4
-      },
-      {
-        "entity_name": "AGPAT1",
-        "llm-average": 3.1
-      }
-    ]
-  },
-  {
-    "question_number": 87,
-    "qid": 1051,
+    "question_number": 92,
+    "qid": 1048,
     "text": "List the drugs that act on HIPK3 and interact with Uracil.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
     "llm_ranking": [
@@ -1878,28 +1938,32 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 88,
-    "qid": 1057,
-    "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-14:0/i-12:0/i-16:0) and are associated with disease by infectious agent.",
-    "category": "disease by infectious agent:None",
+    "question_number": 93,
+    "qid": 1049,
+    "text": "List the drugs that interact with Anastrozole and have the side effect Corneal opacity.",
+    "category": "Abnormality of the eye:Abnormal anterior eye segment morphology",
     "llm_ranking": [
       {
-        "entity_name": "PTPMT1",
-        "llm-average": 7.8
+        "entity_name": "Chloroquine",
+        "llm-average": 8.9
       },
       {
-        "entity_name": "GPD1",
-        "llm-average": 4.8
+        "entity_name": "Rabeprazole",
+        "llm-average": 5.2
       },
       {
-        "entity_name": "GPAM",
-        "llm-average": 4.6
+        "entity_name": "Diclofenac",
+        "llm-average": 3.7
+      },
+      {
+        "entity_name": "Naproxen",
+        "llm-average": 3.0
       }
     ]
   },
   {
-    "question_number": 89,
-    "qid": 1088,
+    "question_number": 94,
+    "qid": 1085,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and act on MAPK10.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1914,8 +1978,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 90,
-    "qid": 1207,
+    "question_number": 95,
+    "qid": 1204,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with IRS4.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1934,8 +1998,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 91,
-    "qid": 1229,
+    "question_number": 96,
+    "qid": 1226,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with GOLPH3.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1950,8 +2014,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 92,
-    "qid": 1245,
+    "question_number": 97,
+    "qid": 1242,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with FGFR3.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1978,8 +2042,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 93,
-    "qid": 1288,
+    "question_number": 98,
+    "qid": 1285,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are curated as interacting with HTT.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -1994,8 +2058,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 94,
-    "qid": 1298,
+    "question_number": 99,
+    "qid": 1295,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with PEAK1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2010,8 +2074,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 95,
-    "qid": 1305,
+    "question_number": 100,
+    "qid": 1302,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with TGFB1I1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2026,8 +2090,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 96,
-    "qid": 1310,
+    "question_number": 101,
+    "qid": 1307,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are curated as interacting with CNTNAP1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2042,8 +2106,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 97,
-    "qid": 1373,
+    "question_number": 102,
+    "qid": 1370,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and act on BMX.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2058,8 +2122,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 98,
-    "qid": 1375,
+    "question_number": 103,
+    "qid": 1372,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are curated as interacting with WASL.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2074,8 +2138,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 99,
-    "qid": 1408,
+    "question_number": 104,
+    "qid": 1405,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are compiled as interacting with BCAR1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2098,8 +2162,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 100,
-    "qid": 1438,
+    "question_number": 105,
+    "qid": 1435,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and act on SHC1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2126,8 +2190,8 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 101,
-    "qid": 1505,
+    "question_number": 106,
+    "qid": 1502,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are curated as interacting with PRAG1.",
     "category": "urinary system disease:nephritis",
     "llm_ranking": [
@@ -2142,7 +2206,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 102,
+    "question_number": 107,
     "qid": 241,
     "text": "List the proteins that are acted on by Diphenoxylate, which Remifentanil interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2162,7 +2226,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 103,
+    "question_number": 108,
     "qid": 242,
     "text": "Which proteins are curated as targets of Cefdinir, which Furosemide interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2186,7 +2250,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 104,
+    "question_number": 109,
     "qid": 243,
     "text": "List the pathways that are annotated with ADORA2B, which Vidarabine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -2214,7 +2278,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 105,
+    "question_number": 110,
     "qid": 246,
     "text": "List the pathways that are annotated with ADRA1D, which Quinine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2234,7 +2298,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 106,
+    "question_number": 111,
     "qid": 249,
     "text": "Which pathways are annotated with PTGER4, which is compiled as a target of Beraprost?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2254,7 +2318,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 107,
+    "question_number": 112,
     "qid": 251,
     "text": "List the biological processes that are associated with CA14, which is compiled as a target of Furosemide.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2270,7 +2334,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 108,
+    "question_number": 113,
     "qid": 253,
     "text": "Which proteins are acted on by TPSD1, which Perindopril acts on?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2294,7 +2358,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 109,
+    "question_number": 114,
     "qid": 254,
     "text": "Which pathways are annotated with CTSD, which is compiled as a target of Dexpropranolol?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2322,7 +2386,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 110,
+    "question_number": 115,
     "qid": 256,
     "text": "List the proteins that are acted on by Salicylamide, which Remifentanil interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2342,7 +2406,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 111,
+    "question_number": 116,
     "qid": 257,
     "text": "List the pathways that are annotated with PLPP2, which Cocaine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2370,7 +2434,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 112,
+    "question_number": 117,
     "qid": 259,
     "text": "List the proteins that are curated as targets of Diethylpropion, which Atomoxetine interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2398,7 +2462,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 113,
+    "question_number": 118,
     "qid": 261,
     "text": "Which pathways are annotated with MTRR, which is compiled as a target of Cyclosporine?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -2426,7 +2490,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 114,
+    "question_number": 119,
     "qid": 262,
     "text": "Which genes are curated as targets of Aprepitant, which Estradiol valerate interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2442,7 +2506,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 115,
+    "question_number": 120,
     "qid": 263,
     "text": "List the pathways that are annotated with HTR1B, which Octreotide acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -2458,7 +2522,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 116,
+    "question_number": 121,
     "qid": 269,
     "text": "Which proteins are acted on by Clofarabine, which Estradiol valerate interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2498,7 +2562,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 117,
+    "question_number": 122,
     "qid": 271,
     "text": "Which pathways are annotated with GRHPR, which is compiled as a target of Pyruvaldehyde?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2534,7 +2598,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 118,
+    "question_number": 123,
     "qid": 274,
     "text": "List the pathways that are annotated with CASR, which is compiled as a target of Quinine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2554,7 +2618,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 119,
+    "question_number": 124,
     "qid": 277,
     "text": "List the proteins that are acted on by Diethylpropion, which Nabumetone interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2570,7 +2634,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 120,
+    "question_number": 125,
     "qid": 278,
     "text": "List the proteins that are curated as targets of Nadolol, which Atomoxetine interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2606,7 +2670,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 121,
+    "question_number": 126,
     "qid": 283,
     "text": "Which proteins are curated as targets of Anagrelide, which Remifentanil interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2638,7 +2702,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 122,
+    "question_number": 127,
     "qid": 284,
     "text": "List the pathways that are annotated with TAS2R30, which is compiled as a target of Colchicine.",
     "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -2654,7 +2718,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 123,
+    "question_number": 128,
     "qid": 286,
     "text": "List the proteins that are curated as targets of Methadyl acetate, which Furosemide interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2690,7 +2754,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 124,
+    "question_number": 129,
     "qid": 288,
     "text": "Which genes are curated as targets of Lorlatinib, which Esomeprazole interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2722,7 +2786,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 125,
+    "question_number": 130,
     "qid": 289,
     "text": "List the proteins that are curated as targets of Tapentadol, which Furosemide interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2754,7 +2818,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 126,
+    "question_number": 131,
     "qid": 291,
     "text": "List the pathways that are annotated with PABPC1, which is compiled as a target of Genistein.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2790,7 +2854,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 127,
+    "question_number": 132,
     "qid": 294,
     "text": "Which biological processes are associated with GPR22 that Beraprost acts on?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2806,7 +2870,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 128,
+    "question_number": 133,
     "qid": 295,
     "text": "Which pathways are annotated with TAS2R39, which is compiled as a target of Vidarabine?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -2822,7 +2886,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 129,
+    "question_number": 134,
     "qid": 296,
     "text": "List the biological processes that are associated with PRSS37, which Spermine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2858,7 +2922,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 130,
+    "question_number": 135,
     "qid": 299,
     "text": "Which pathways are annotated with CES1, which Cocaine acts on?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2898,7 +2962,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 131,
+    "question_number": 136,
     "qid": 300,
     "text": "List the proteins that are acted on by Palonosetron, which Furosemide interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2922,7 +2986,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 132,
+    "question_number": 137,
     "qid": 308,
     "text": "Which proteins are curated as targets of Diethylpropion, which Nabumetone interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2950,7 +3014,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 133,
+    "question_number": 138,
     "qid": 313,
     "text": "Which pathways are annotated with MAOB, which is compiled as a target of Spermine?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -2970,7 +3034,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 134,
+    "question_number": 139,
     "qid": 314,
     "text": "List the proteins that are acted on by Anagrelide, which Remifentanil interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -2998,7 +3062,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 135,
+    "question_number": 140,
     "qid": 315,
     "text": "Which proteins are curated as targets of Cefoxitin, which Nabumetone interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal heart morphology",
@@ -3022,7 +3086,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 136,
+    "question_number": 141,
     "qid": 316,
     "text": "Which pathways are annotated with NPY1R, which Octreotide acts on?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -3038,7 +3102,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 137,
+    "question_number": 142,
     "qid": 318,
     "text": "List the pathways that are annotated with RAB6A, which is compiled as a target of Risedronic acid.",
     "category": "Abnormality of the digestive system:Abnormality of the gastrointestinal tract",
@@ -3074,7 +3138,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 138,
+    "question_number": 143,
     "qid": 326,
     "text": "Which proteins are curated as targets of Cefuroxime, which Esomeprazole interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3090,7 +3154,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 139,
+    "question_number": 144,
     "qid": 330,
     "text": "Which proteins are acted on by Pipecuronium, which Furosemide interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3118,7 +3182,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 140,
+    "question_number": 145,
     "qid": 331,
     "text": "List the pathways that are annotated with CA4, which Spermine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3138,7 +3202,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 141,
+    "question_number": 146,
     "qid": 337,
     "text": "List the pathways that are annotated with PYY, which Vidarabine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -3154,7 +3218,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 142,
+    "question_number": 147,
     "qid": 338,
     "text": "List the pathways that are annotated with KLK13, which Perindopril acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3170,7 +3234,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 143,
+    "question_number": 148,
     "qid": 339,
     "text": "List the pathways that are annotated with CTRB1, which Spermine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3186,7 +3250,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 144,
+    "question_number": 149,
     "qid": 344,
     "text": "List the pathways that are annotated with SSTR1, which Vidarabine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -3202,7 +3266,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 145,
+    "question_number": 150,
     "qid": 345,
     "text": "List the proteins that are curated as targets of Diphenoxylate, which Remifentanil interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3218,7 +3282,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 146,
+    "question_number": 151,
     "qid": 349,
     "text": "List the biological processes that are associated with PPIG, which is compiled as a target of Phenobarbital.",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -3238,7 +3302,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 147,
+    "question_number": 152,
     "qid": 350,
     "text": "List the proteins that are curated as targets of Gentamicin C1a, which Atomoxetine interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -3254,7 +3318,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 148,
+    "question_number": 153,
     "qid": 353,
     "text": "Which pathways are annotated with CXCL9, which is compiled as a target of Quinine?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3270,7 +3334,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 149,
+    "question_number": 154,
     "qid": 354,
     "text": "List the proteins that are curated as targets of Sulfaphenazole, which Estradiol valerate interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3302,7 +3366,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 150,
+    "question_number": 155,
     "qid": 356,
     "text": "List the pathways that are annotated with CAT, which is compiled as a target of Cyclosporine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -3342,7 +3406,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 151,
+    "question_number": 156,
     "qid": 357,
     "text": "List the proteins that are acted on by Salicylamide, which Estradiol valerate interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3362,7 +3426,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 152,
+    "question_number": 157,
     "qid": 358,
     "text": "Which pathways are annotated with POR, which is compiled as a target of Phenobarbital?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -3378,7 +3442,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 153,
+    "question_number": 158,
     "qid": 359,
     "text": "Which pathways are annotated with CCL2, which is compiled as a target of Cocaine?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3402,7 +3466,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 154,
+    "question_number": 159,
     "qid": 362,
     "text": "Which pathways are annotated with UGT1A6, which is compiled as a target of Phenobarbital?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -3422,7 +3486,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 155,
+    "question_number": 160,
     "qid": 365,
     "text": "Which proteins are curated as targets of Atracurium besylate, which Remifentanil interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3442,7 +3506,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 156,
+    "question_number": 161,
     "qid": 368,
     "text": "Which proteins are curated as targets of Benazepril, which Furosemide interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3458,7 +3522,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 157,
+    "question_number": 162,
     "qid": 370,
     "text": "Which pathways are annotated with EGR1, which is compiled as a target of Dexpropranolol?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3482,7 +3546,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 158,
+    "question_number": 163,
     "qid": 374,
     "text": "List the pathways that are annotated with NPY4R, which Beraprost acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3498,7 +3562,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 159,
+    "question_number": 164,
     "qid": 375,
     "text": "Which proteins are curated as targets of Fenproporex, which Selenious acid interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3522,7 +3586,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 160,
+    "question_number": 165,
     "qid": 379,
     "text": "List the proteins that are curated as targets of Oxacillin, which Selenious acid interacts with.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3542,7 +3606,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 161,
+    "question_number": 166,
     "qid": 383,
     "text": "Which proteins are curated as targets of Hydromorphone, which Trametinib interacts with?",
     "category": "Abnormality of the cardiovascular system:Acute coronary syndrome",
@@ -3582,7 +3646,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 162,
+    "question_number": 167,
     "qid": 386,
     "text": "List the biological processes that are associated with GEM, which Cocaine acts on.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3618,7 +3682,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 163,
+    "question_number": 168,
     "qid": 387,
     "text": "Which proteins are acted on by Nadolol, which Atomoxetine interacts with?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3642,7 +3706,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 164,
+    "question_number": 169,
     "qid": 4,
     "text": "List the genes that are curated as targets of Mepyramine.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3658,7 +3722,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 165,
+    "question_number": 170,
     "qid": 9,
     "text": "List the genes that are curated as targets of Muromonab.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -3690,7 +3754,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 166,
+    "question_number": 171,
     "qid": 10,
     "text": "What proteins does Bethanidine act on?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3726,7 +3790,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 167,
+    "question_number": 172,
     "qid": 16,
     "text": "List the phenotypes that Ruxolitinib are indicated for.",
     "category": "Abnormality of the cardiovascular system:Abnormality of the immune system",
@@ -3742,7 +3806,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 168,
+    "question_number": 173,
     "qid": 18,
     "text": "List the genes that are curated as targets of Diclofenamide.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3766,47 +3830,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 169,
-    "qid": 20,
-    "text": "Which genes are curated as targets of Ipatasertib?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "AKT serine/threonine kinase 1",
-        "llm-average": 7.8
-      },
-      {
-        "entity_name": "AKT serine/threonine kinase 2",
-        "llm-average": 6.5
-      },
-      {
-        "entity_name": "AKT serine/threonine kinase 3",
-        "llm-average": 6.1
-      },
-      {
-        "entity_name": "phosphatase and tensin homolog",
-        "llm-average": 4.6
-      },
-      {
-        "entity_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
-        "llm-average": 3.3
-      },
-      {
-        "entity_name": "KRAS proto-oncogene, GTPase",
-        "llm-average": 2.9
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 2",
-        "llm-average": 1.9
-      },
-      {
-        "entity_name": "protein kinase cGMP-dependent 1",
-        "llm-average": 1.4
-      }
-    ]
-  },
-  {
-    "question_number": 170,
+    "question_number": 174,
     "qid": 21,
     "text": "Which genes are curated as targets of Tandutinib?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3842,7 +3866,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 171,
+    "question_number": 175,
     "qid": 22,
     "text": "Which genes are curated as targets of Lorlatinib?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3874,7 +3898,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 172,
+    "question_number": 176,
     "qid": 25,
     "text": "List the genes that are curated as targets of Hydromorphone.",
     "category": "Abnormality of the cardiovascular system:Acute coronary syndrome",
@@ -3898,27 +3922,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 173,
-    "qid": 29,
-    "text": "What genes is Budiodarone curated to target?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "potassium voltage-gated channel subfamily H member 2",
-        "llm-average": 7.0
-      },
-      {
-        "entity_name": "calcium voltage-gated channel auxiliary subunit alpha2delta 2",
-        "llm-average": 5.2
-      },
-      {
-        "entity_name": "adrenoceptor beta 1",
-        "llm-average": 5.0
-      }
-    ]
-  },
-  {
-    "question_number": 174,
+    "question_number": 177,
     "qid": 30,
     "text": "Which genes are curated as targets of Astemizole?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -3942,7 +3946,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 175,
+    "question_number": 178,
     "qid": 34,
     "text": "What phenotypes is Flucytosine indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormal heart morphology",
@@ -3966,7 +3970,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 176,
+    "question_number": 179,
     "qid": 37,
     "text": "Which genes are curated as targets of Nadolol?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -3990,31 +3994,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 177,
-    "qid": 41,
-    "text": "Which genes are curated as targets of Cebranopadol?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "opioid related nociceptin receptor 1",
-        "llm-average": 7.7
-      },
-      {
-        "entity_name": "opioid receptor mu 1",
-        "llm-average": 5.6
-      },
-      {
-        "entity_name": "opioid receptor delta 1",
-        "llm-average": 4.8
-      },
-      {
-        "entity_name": "opioid receptor kappa 1",
-        "llm-average": 4.3
-      }
-    ]
-  },
-  {
-    "question_number": 178,
+    "question_number": 180,
     "qid": 44,
     "text": "What proteins is Hydroflumethiazide compiled to target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4038,7 +4018,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 179,
+    "question_number": 181,
     "qid": 47,
     "text": "Which proteins are compiled as targets of Allylestrenol?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4058,7 +4038,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 180,
+    "question_number": 182,
     "qid": 50,
     "text": "Which genes are curated as targets of Dacomitinib?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4086,7 +4066,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 181,
+    "question_number": 183,
     "qid": 59,
     "text": "Which phenotypes is Sulfacetamide indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -4118,7 +4098,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 182,
+    "question_number": 184,
     "qid": 63,
     "text": "What phenotypes is Timolol indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -4154,43 +4134,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 183,
-    "qid": 68,
-    "text": "What genes is Bicuculline curated to target?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "potassium calcium-activated channel subfamily N member 1",
-        "llm-average": 8.2
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha4",
-        "llm-average": 6.0
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha5",
-        "llm-average": 5.9
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha6",
-        "llm-average": 5.5
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
-        "llm-average": 5.3
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
-        "llm-average": 5.2
-      },
-      {
-        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
-        "llm-average": 5.2
-      }
-    ]
-  },
-  {
-    "question_number": 184,
+    "question_number": 185,
     "qid": 69,
     "text": "Which proteins are acted on by Remifentanil?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4230,7 +4174,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 185,
+    "question_number": 186,
     "qid": 71,
     "text": "What genes is Bosentan curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4246,7 +4190,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 186,
+    "question_number": 187,
     "qid": 72,
     "text": "Which genes are curated as targets of Macitentan?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4262,7 +4206,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 187,
+    "question_number": 188,
     "qid": 73,
     "text": "What phenotypes is Cilazapril indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4298,7 +4242,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 188,
+    "question_number": 189,
     "qid": 75,
     "text": "List the phenotypes that Pseudoephedrine are indicated for.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4334,34 +4278,6 @@ export const b2: Question[] = [
       {
         "entity_name": "Asthma",
         "llm-average": 1.8
-      }
-    ]
-  },
-  {
-    "question_number": 189,
-    "qid": 78,
-    "text": "Which genes are curated as targets of Poziotinib?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "KRAS proto-oncogene, GTPase",
-        "llm-average": 8.2
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 4",
-        "llm-average": 5.8
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 3",
-        "llm-average": 5.2
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 2",
-        "llm-average": 4.9
-      },
-      {
-        "entity_name": "epidermal growth factor receptor",
-        "llm-average": 4.6
       }
     ]
   },
@@ -4415,34 +4331,6 @@ export const b2: Question[] = [
   },
   {
     "question_number": 192,
-    "qid": 81,
-    "text": "Which genes are curated as targets of Prexasertib?",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "checkpoint kinase 1",
-        "llm-average": 10.0
-      },
-      {
-        "entity_name": "MYC proto-oncogene, bHLH transcription factor",
-        "llm-average": 7.6
-      },
-      {
-        "entity_name": "checkpoint kinase 2",
-        "llm-average": 5.9
-      },
-      {
-        "entity_name": "ribosomal protein S6 kinase A1",
-        "llm-average": 5.0
-      },
-      {
-        "entity_name": "CDP-diacylglycerol synthase 1",
-        "llm-average": 2.3
-      }
-    ]
-  },
-  {
-    "question_number": 193,
     "qid": 83,
     "text": "What phenotypes is 2-deoxy-2-fluoro-\u03b1-D-mannose indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -4462,7 +4350,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 194,
+    "question_number": 193,
     "qid": 85,
     "text": "List the genes that are curated as targets of Ajulemic acid.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -4478,7 +4366,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 195,
+    "question_number": 194,
     "qid": 86,
     "text": "List the genes that are curated as targets of Chlorthalidone.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4518,7 +4406,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 196,
+    "question_number": 195,
     "qid": 88,
     "text": "Which genes are curated as targets of Diclofenamide?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4542,7 +4430,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 197,
+    "question_number": 196,
     "qid": 90,
     "text": "What genes is Urokinase curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4574,7 +4462,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 198,
+    "question_number": 197,
     "qid": 92,
     "text": "Which genes are curated as targets of Proscillaridin?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4598,7 +4486,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 199,
+    "question_number": 198,
     "qid": 94,
     "text": "What phenotypes is Chlorothiazide indicated for?",
     "category": "Abnormality of the cardiovascular system:None",
@@ -4638,7 +4526,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 200,
+    "question_number": 199,
     "qid": 96,
     "text": "What phenotypes is Tolbutamide indicated for?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
@@ -4662,7 +4550,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 201,
+    "question_number": 200,
     "qid": 101,
     "text": "What phenotypes is Ticagrelor indicated for?",
     "category": "Abnormality of the cardiovascular system:Acute coronary syndrome",
@@ -4698,7 +4586,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 202,
+    "question_number": 201,
     "qid": 104,
     "text": "What phenotypes does Macitentan have as side effects?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4730,7 +4618,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 203,
+    "question_number": 202,
     "qid": 105,
     "text": "What phenotypes is Bosentan indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4762,7 +4650,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 204,
+    "question_number": 203,
     "qid": 108,
     "text": "List the phenotypes that Ephedrine are indicated for.",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -4802,7 +4690,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 205,
+    "question_number": 204,
     "qid": 111,
     "text": "What genes is Alteplase curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4818,7 +4706,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 206,
+    "question_number": 205,
     "qid": 113,
     "text": "List the proteins that are compiled as targets of Rivaroxaban.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4846,35 +4734,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 207,
-    "qid": 114,
-    "text": "List the genes that are curated as targets of Poziotinib.",
-    "category": "others:None",
-    "llm_ranking": [
-      {
-        "entity_name": "KRAS proto-oncogene, GTPase",
-        "llm-average": 8.2
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 4",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 3",
-        "llm-average": 6.4
-      },
-      {
-        "entity_name": "erb-b2 receptor tyrosine kinase 2",
-        "llm-average": 6.3
-      },
-      {
-        "entity_name": "epidermal growth factor receptor",
-        "llm-average": 4.8
-      }
-    ]
-  },
-  {
-    "question_number": 208,
+    "question_number": 206,
     "qid": 116,
     "text": "List the genes that are curated as targets of Misoprostol.",
     "category": "Abnormality of the digestive system:Abnormality of digestive system morphology",
@@ -4898,7 +4758,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 209,
+    "question_number": 207,
     "qid": 119,
     "text": "List the phenotypes that Chlorothiazide are indicated for.",
     "category": "Abnormality of the cardiovascular system:None",
@@ -4938,7 +4798,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 210,
+    "question_number": 208,
     "qid": 122,
     "text": "List the phenotypes that Nebivolol are indicated for.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -4978,27 +4838,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 211,
-    "qid": 124,
-    "text": "List the proteins that are compiled as targets of Eltrombopag.",
-    "category": "Abnormality of blood and blood-forming tissues:Abnormal platelet count",
-    "llm_ranking": [
-      {
-        "entity_name": "MPL",
-        "llm-average": 7.2
-      },
-      {
-        "entity_name": "THPO",
-        "llm-average": 4.7
-      },
-      {
-        "entity_name": "SLCO1B1",
-        "llm-average": 3.2
-      }
-    ]
-  },
-  {
-    "question_number": 212,
+    "question_number": 209,
     "qid": 127,
     "text": "List the phenotypes that Isosorbide mononitrate are indicated for.",
     "category": "Abnormality of the cardiovascular system:Angina pectoris",
@@ -5018,7 +4858,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 213,
+    "question_number": 210,
     "qid": 140,
     "text": "Which genes are curated as targets of Acarbose?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
@@ -5058,7 +4898,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 214,
+    "question_number": 211,
     "qid": 141,
     "text": "What phenotypes is Ephedrine indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5098,7 +4938,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 215,
+    "question_number": 212,
     "qid": 142,
     "text": "What diseases is PLA2G1B a biomarker of?",
     "category": "urinary system disease:kidney disease",
@@ -5114,7 +4954,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 216,
+    "question_number": 213,
     "qid": 143,
     "text": "What genes is Latanoprostene bunod curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -5130,7 +4970,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 217,
+    "question_number": 214,
     "qid": 144,
     "text": "List the phenotypes that Minoxidil are indicated for.",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5150,7 +4990,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 218,
+    "question_number": 215,
     "qid": 145,
     "text": "Which phenotypes is Domperidone indicated for?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5186,7 +5026,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 219,
+    "question_number": 216,
     "qid": 149,
     "text": "What genes is Anisotropine methylbromide curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5206,7 +5046,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 220,
+    "question_number": 217,
     "qid": 150,
     "text": "What genes is Tandutinib curated to target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5242,7 +5082,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 221,
+    "question_number": 218,
     "qid": 152,
     "text": "What drugs have folate hydrolase 1 as a curated target?",
     "category": "Abnormality of the cardiovascular system:None",
@@ -5274,7 +5114,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 222,
+    "question_number": 219,
     "qid": 153,
     "text": "What drugs are indicated for Bacterial endocarditis?",
     "category": "Abnormality of the cardiovascular system:Abnormal heart morphology",
@@ -5306,7 +5146,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 223,
+    "question_number": 220,
     "qid": 155,
     "text": "What drugs act on GCC1?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -5334,7 +5174,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 224,
+    "question_number": 221,
     "qid": 157,
     "text": "What drugs have potassium voltage-gated channel subfamily Q member 4 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Angina pectoris",
@@ -5358,7 +5198,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 225,
+    "question_number": 222,
     "qid": 160,
     "text": "What drugs have cathepsin A as a curated target?",
     "category": "Abnormality of the digestive system:Abnormality of the liver",
@@ -5374,7 +5214,39 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 226,
+    "question_number": 223,
+    "qid": 161,
+    "text": "What proteins are biomarkers of the disease pituitary gland disease?",
+    "category": "endocrine system disease:pituitary gland disease",
+    "llm_ranking": [
+      {
+        "entity_name": "INHBA",
+        "llm-average": 6.3
+      },
+      {
+        "entity_name": "TRH",
+        "llm-average": 4.9
+      },
+      {
+        "entity_name": "IGF1",
+        "llm-average": 4.5
+      },
+      {
+        "entity_name": "FSHB",
+        "llm-average": 3.8
+      },
+      {
+        "entity_name": "SHBG",
+        "llm-average": 3.7
+      },
+      {
+        "entity_name": "PRL",
+        "llm-average": 3.2
+      }
+    ]
+  },
+  {
+    "question_number": 224,
     "qid": 162,
     "text": "What drugs are indicated for Hepatocellular carcinoma?",
     "category": "Abnormality of the digestive system:Abnormality of the liver",
@@ -5406,7 +5278,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 227,
+    "question_number": 225,
     "qid": 163,
     "text": "What drugs are indicated for Sinus tachycardia?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5430,7 +5302,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 228,
+    "question_number": 226,
     "qid": 165,
     "text": "What drugs have solute carrier organic anion transporter family member 1A2 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -5446,7 +5318,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 229,
+    "question_number": 227,
     "qid": 171,
     "text": "What drugs have Fc fragment of IgE receptor Ia as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5462,7 +5334,35 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 230,
+    "question_number": 228,
+    "qid": 174,
+    "text": "What drugs are indicated for Stillbirth?",
+    "category": "Age of death:Stillbirth",
+    "llm_ranking": [
+      {
+        "entity_name": "Mifepristone",
+        "llm-average": 7.2
+      },
+      {
+        "entity_name": "Dinoprost tromethamine",
+        "llm-average": 5.3
+      },
+      {
+        "entity_name": "Dinoprostone",
+        "llm-average": 5.0
+      },
+      {
+        "entity_name": "Cabergoline",
+        "llm-average": 4.4
+      },
+      {
+        "entity_name": "Bromocriptine",
+        "llm-average": 2.9
+      }
+    ]
+  },
+  {
+    "question_number": 229,
     "qid": 176,
     "text": "What drugs have discoidin domain receptor tyrosine kinase 2 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -5494,7 +5394,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 231,
+    "question_number": 230,
     "qid": 177,
     "text": "What drugs have fibroblast growth factor receptor 4 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5534,7 +5434,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 232,
+    "question_number": 231,
     "qid": 178,
     "text": "What drugs have carbonic anhydrase 9 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5550,7 +5450,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 233,
+    "question_number": 232,
     "qid": 180,
     "text": "What drugs are indicated for Metabolic alkalosis?",
     "category": "Abnormality of metabolism/homeostasis:Abnormality of acid-base homeostasis",
@@ -5582,43 +5482,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 234,
-    "qid": 182,
-    "text": "What drugs are indicated for Apnea?",
-    "category": "Abnormality of the respiratory system:Abnormal pattern of respiration",
-    "llm_ranking": [
-      {
-        "entity_name": "Caffeine",
-        "llm-average": 8.8
-      },
-      {
-        "entity_name": "Doxapram",
-        "llm-average": 8.2
-      },
-      {
-        "entity_name": "Modafinil",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "Hydroxocobalamin",
-        "llm-average": 2.5
-      },
-      {
-        "entity_name": "Desflurane",
-        "llm-average": 2.2
-      },
-      {
-        "entity_name": "Fentanyl",
-        "llm-average": 1.7
-      },
-      {
-        "entity_name": "Balsalazide",
-        "llm-average": 1.0
-      }
-    ]
-  },
-  {
-    "question_number": 235,
+    "question_number": 233,
     "qid": 184,
     "text": "What drugs act on PDHA2?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5654,7 +5518,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 236,
+    "question_number": 234,
     "qid": 185,
     "text": "What drugs are indicated for Cor pulmonale?",
     "category": "Abnormality of the cardiovascular system:Abnormal heart morphology",
@@ -5674,7 +5538,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 237,
+    "question_number": 235,
     "qid": 191,
     "text": "What drugs have signal transducer and activator of transcription 5B as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5690,7 +5554,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 238,
+    "question_number": 236,
     "qid": 192,
     "text": "What drugs act on UBE2O?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -5718,7 +5582,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 239,
+    "question_number": 237,
     "qid": 193,
     "text": "What drugs have peptidylprolyl isomerase A as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -5738,7 +5602,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 240,
+    "question_number": 238,
     "qid": 195,
     "text": "What drugs are indicated for Varicose veins?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system morphology",
@@ -5762,7 +5626,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 241,
+    "question_number": 239,
     "qid": 196,
     "text": "What drugs have FSCN1 as a compiled target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5802,7 +5666,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 242,
+    "question_number": 240,
     "qid": 198,
     "text": "What drugs have potassium inwardly rectifying channel subfamily J member 8 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5818,7 +5682,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 243,
+    "question_number": 241,
     "qid": 199,
     "text": "What drugs are indicated for Retinal vein occlusion?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -5834,7 +5698,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 244,
+    "question_number": 242,
     "qid": 200,
     "text": "What drugs have haptoglobin as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -5850,7 +5714,39 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 245,
+    "question_number": 243,
+    "qid": 201,
+    "text": "What drugs are indicated for Retinopathy?",
+    "category": "Abnormality of the eye:Abnormal posterior eye segment morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Epicaptopril",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "Captopril",
+        "llm-average": 5.8
+      },
+      {
+        "entity_name": "Atorvastatin",
+        "llm-average": 5.7
+      },
+      {
+        "entity_name": "Minoxidil",
+        "llm-average": 4.9
+      },
+      {
+        "entity_name": "Repaglinide",
+        "llm-average": 3.1
+      },
+      {
+        "entity_name": "Glimepiride",
+        "llm-average": 2.9
+      }
+    ]
+  },
+  {
+    "question_number": 244,
     "qid": 202,
     "text": "What drugs are indicated for Hyponatremia?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -5882,7 +5778,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 246,
+    "question_number": 245,
     "qid": 203,
     "text": "What drugs are indicated for Ventricular extrasystoles?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5918,7 +5814,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 247,
+    "question_number": 246,
     "qid": 205,
     "text": "What drugs are indicated for Renovascular hypertension?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -5954,7 +5850,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 248,
+    "question_number": 247,
     "qid": 206,
     "text": "What drugs have coagulation factor II, thrombin as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -5994,7 +5890,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 249,
+    "question_number": 248,
     "qid": 209,
     "text": "What drugs act on UBE4A?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6022,7 +5918,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 250,
+    "question_number": 249,
     "qid": 212,
     "text": "What drugs have phosphodiesterase 1A as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal cardiovascular system physiology",
@@ -6050,7 +5946,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 251,
+    "question_number": 250,
     "qid": 216,
     "text": "What drugs have interleukin 2 receptor subunit beta as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6074,7 +5970,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 252,
+    "question_number": 251,
     "qid": 219,
     "text": "What proteins are biomarkers of the disease glomerulonephritis?",
     "category": "urinary system disease:nephritis",
@@ -6090,7 +5986,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 253,
+    "question_number": 252,
     "qid": 221,
     "text": "What drugs have GA binding protein transcription factor subunit alpha as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -6106,7 +6002,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 254,
+    "question_number": 253,
     "qid": 223,
     "text": "What drugs act on NEURL1B?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6146,23 +6042,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 255,
-    "qid": 224,
-    "text": "What drugs are indicated for Abnormality of the coagulation cascade?",
-    "category": "Abnormality of blood and blood-forming tissues:Abnormality of the coagulation cascade",
-    "llm_ranking": [
-      {
-        "entity_name": "Tranexamic acid",
-        "llm-average": 7.1
-      },
-      {
-        "entity_name": "Phylloquinone",
-        "llm-average": 4.6
-      }
-    ]
-  },
-  {
-    "question_number": 256,
+    "question_number": 254,
     "qid": 225,
     "text": "What drugs have Prolonged PR interval as a side effect?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6202,7 +6082,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 257,
+    "question_number": 255,
     "qid": 227,
     "text": "What drugs have calcium voltage-gated channel auxiliary subunit alpha2delta 3 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6230,7 +6110,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 258,
+    "question_number": 256,
     "qid": 228,
     "text": "What drugs have cytochrome P450 family 3 subfamily A member 43 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6250,7 +6130,47 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 259,
+    "question_number": 257,
+    "qid": 229,
+    "text": "What drugs are indicated for Iritis?",
+    "category": "Abnormality of the eye:Abnormal uvea morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Hydroxy-Phenyl-Acetic Acid 8-Methyl-8-Aza-Bicyclo[3.2.1]Oct-3-Yl Ester",
+        "llm-average": 9.5
+      },
+      {
+        "entity_name": "Travoprost",
+        "llm-average": 5.4
+      },
+      {
+        "entity_name": "Dexamethasone",
+        "llm-average": 4.1
+      },
+      {
+        "entity_name": "Prednisolone",
+        "llm-average": 3.4
+      },
+      {
+        "entity_name": "Betamethasone",
+        "llm-average": 3.0
+      },
+      {
+        "entity_name": "Prednisone",
+        "llm-average": 2.9
+      },
+      {
+        "entity_name": "Methylprednisolone",
+        "llm-average": 2.9
+      },
+      {
+        "entity_name": "Hydrocortisone",
+        "llm-average": 2.2
+      }
+    ]
+  },
+  {
+    "question_number": 258,
     "qid": 231,
     "text": "What drugs act on FBXL6?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature of the eye",
@@ -6290,7 +6210,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 260,
+    "question_number": 259,
     "qid": 232,
     "text": "What drugs have BRAP as a compiled target?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6310,7 +6230,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 261,
+    "question_number": 260,
     "qid": 235,
     "text": "What drugs have poly(ADP-ribose) polymerase 2 as a curated target?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6338,7 +6258,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 262,
+    "question_number": 261,
     "qid": 391,
     "text": "Which phenotypes are side effects caused by Magnesium cation, which acts on ACADS that is compiled as interacting with ALDH9A1?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -6374,7 +6294,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 263,
+    "question_number": 262,
     "qid": 395,
     "text": "Which genes are curated as targets of Calcitriol, which acts on AIG1 that is curated as interacting with RCHY1?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -6414,7 +6334,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 264,
+    "question_number": 263,
     "qid": 399,
     "text": "Which genes are curated as targets of Quinine, which acts on CHRM5 that is curated as interacting with CHRM5?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6438,7 +6358,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 265,
+    "question_number": 264,
     "qid": 402,
     "text": "Which genes are curated as targets of Nitric Oxide, which acts on AKR1B1 that is annotated in pathway Fructose Intolerance, Hereditary?",
     "category": "Abnormality of the cardiovascular system:Abnormal cardiovascular system physiology",
@@ -6462,7 +6382,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 266,
+    "question_number": 265,
     "qid": 404,
     "text": "Which phenotypes are side effects caused by Tromethamine, which acts on NIF3L1 that is the QC marker in tissue blood plasma?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6494,7 +6414,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 267,
+    "question_number": 266,
     "qid": 406,
     "text": "Which genes are curated as targets of Calcitriol, which acts on RPLP2 that is the subunit of 60S ribosomal subunit, cytoplasmic?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -6534,7 +6454,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 268,
+    "question_number": 267,
     "qid": 408,
     "text": "Which genes are curated as targets of Codeine, which acts on C5 that is the biomarker of disease kidney disease?",
     "category": "urinary system disease:kidney disease",
@@ -6558,7 +6478,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 269,
+    "question_number": 268,
     "qid": 409,
     "text": "Which genes are curated as targets of Codeine, which acts on AP2A1 that is annotated in pathway WNT5A-dependent internalization of FZD4?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6582,7 +6502,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 270,
+    "question_number": 269,
     "qid": 411,
     "text": "Which genes are curated as targets of Acetic acid, which acts on ACTC1 that is curated as interacting with SCYL2?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -6610,7 +6530,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 271,
+    "question_number": 270,
     "qid": 412,
     "text": "Which genes are curated as targets of Dronabinol, which acts on AGO1 that is curated as interacting with RPL21?",
     "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -6630,7 +6550,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 272,
+    "question_number": 271,
     "qid": 413,
     "text": "Which genes are curated as targets of Pyrophosphoric acid, which acts on BRAP that is annotated in pathway Signaling downstream of RAS mutants?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6650,7 +6570,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 273,
+    "question_number": 272,
     "qid": 414,
     "text": "Which genes are curated as targets of Balsalazide, which acts on ATG12 that is annotated in pathway Receptor Mediated Mitophagy?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6674,7 +6594,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 274,
+    "question_number": 273,
     "qid": 416,
     "text": "Which genes are curated as targets of Dronabinol, which acts on AGO1 that is annotated in pathway Regulation of RUNX1 Expression and Activity?",
     "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -6694,7 +6614,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 275,
+    "question_number": 274,
     "qid": 420,
     "text": "Which genes are curated as targets of Phencyclidine, which acts on CCNB1 that is annotated in pathway P53 Signaling Pathway?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6714,7 +6634,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 276,
+    "question_number": 275,
     "qid": 421,
     "text": "Which phenotypes are side effects caused by Magnesium cation, which acts on ATP5PD that is annotated in pathway Formation of ATP by chemiosmotic coupling?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -6750,27 +6670,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 277,
-    "qid": 423,
-    "text": "Which genes are curated as targets of Phencyclidine, which acts on FTH1 that is the biomarker of disease iron deficiency anemia?",
-    "category": "disease of metabolism:nutrition disease",
-    "llm_ranking": [
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
-        "llm-average": 7.1
-      },
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
-        "llm-average": 5.6
-      },
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
-        "llm-average": 3.9
-      }
-    ]
-  },
-  {
-    "question_number": 278,
+    "question_number": 276,
     "qid": 425,
     "text": "Which genes are curated as targets of Penbutolol, which acts on ADRB1 that is annotated in pathway Ibutilide Action Pathway?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6786,7 +6686,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 279,
+    "question_number": 277,
     "qid": 426,
     "text": "Which genes are curated as targets of Pyrophosphoric acid, which acts on CCNH that is annotated in pathway Cyclin E associated events during G1/S transition ?",
     "category": "Abnormality of the cardiovascular system:Abnormality of blood circulation",
@@ -6806,7 +6706,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 280,
+    "question_number": 278,
     "qid": 427,
     "text": "Which genes are curated as targets of Disulfiram, which acts on ALDH1A3 that is annotated in pathway RA biosynthesis pathway?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6834,7 +6734,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 281,
+    "question_number": 279,
     "qid": 428,
     "text": "Which phenotypes are side effects caused by Magnesium cation, which acts on CARD11 that is annotated in pathway FCERI mediated NF-kB activation?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -6870,7 +6770,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 282,
+    "question_number": 280,
     "qid": 429,
     "text": "Which genes are curated as targets of Codeine, which acts on ACYP1 that is annotated in pathway Leigh Syndrome?",
     "category": "Abnormality of the cardiovascular system:Abnormality of cardiovascular system electrophysiology",
@@ -6894,7 +6794,31 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 283,
+    "question_number": 281,
+    "qid": 430,
+    "text": "Which genes are curated as targets of Ketamine, which acts on AGT that is annotated in pathway Quinapril Action Pathway?",
+    "category": "Abnormality of the eye:Glaucoma",
+    "llm_ranking": [
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
+        "llm-average": 7.8
+      },
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
+        "llm-average": 6.8
+      },
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
+        "llm-average": 6.4
+      },
+      {
+        "entity_name": "glutamate ionotropic receptor NMDA type subunit 3A",
+        "llm-average": 5.2
+      }
+    ]
+  },
+  {
+    "question_number": 282,
     "qid": 432,
     "text": "Which genes are curated as targets of Naltrexone, which acts on HTR1A that is curated as interacting with HTR1B?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -6930,7 +6854,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 284,
+    "question_number": 283,
     "qid": 434,
     "text": "Which phenotypes are side effects caused by Magnesium cation, which acts on AZIN2 that is annotated in pathway Agmatine biosynthesis?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -6966,7 +6890,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 285,
+    "question_number": 284,
     "qid": 436,
     "text": "Which genes are curated as targets of Dronabinol, which acts on HTR1F that is compiled as interacting with SSTR4?",
     "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -6986,7 +6910,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 286,
+    "question_number": 285,
     "qid": 439,
     "text": "Which phenotypes are side effects caused by Magnesium cation, which acts on GNG10 that is the subunit of GNAS-L-GNB4-GNG10 complex?",
     "category": "Abnormality of the cardiovascular system:Abnormality of the vasculature",
@@ -7022,7 +6946,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 287,
+    "question_number": 286,
     "qid": 442,
     "text": "Which genes are curated as targets of Ethinylestradiol, which acts on ADAMTS9 that is annotated in pathway Defective B3GALTL causes Peters-plus syndrome (PpS)?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -7062,7 +6986,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 288,
+    "question_number": 287,
     "qid": 444,
     "text": "Which genes are curated as targets of Calcitriol, which acts on ATM that is annotated in pathway HDR through Single Strand Annealing (SSA)?",
     "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -7102,7 +7026,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 289,
+    "question_number": 288,
     "qid": 446,
     "text": "Which genes are curated as targets of Cholesterol, which acts on ADAM10 that is annotated in pathway NOTCH4 Activation and Transmission of Signal to the Nucleus?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",
@@ -7122,7 +7046,7 @@ export const b2: Question[] = [
     ]
   },
   {
-    "question_number": 290,
+    "question_number": 289,
     "qid": 449,
     "text": "Which genes are curated as targets of Balsalazide, which acts on ACOX2 that is compiled as interacting with DECR2?",
     "category": "Abnormality of the cardiovascular system:Abnormal systemic blood pressure",

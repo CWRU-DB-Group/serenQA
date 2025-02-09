@@ -271,23 +271,7 @@ export const b3: Question[] = [
   },
   {
     "question_number": 12,
-    "qid": 577,
-    "text": "Which genes are translated into BBS5, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
-    "category": "cancer:organ system cancer",
-    "llm_ranking": [
-      {
-        "entity_name": "Bardet-Biedl syndrome 5 protein",
-        "llm-average": 3.9
-      },
-      {
-        "entity_name": "Bardet-Biedl syndrome 5",
-        "llm-average": 3.9
-      }
-    ]
-  },
-  {
-    "question_number": 13,
-    "qid": 579,
+    "qid": 578,
     "text": "Which drugs act on MIDN, which is associated with polyneuropathy due to drug and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -310,8 +294,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 14,
-    "qid": 581,
+    "question_number": 13,
+    "qid": 580,
     "text": "Which proteins are curated as interacting with CFAP94, which is associated with autosomal recessive disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -334,8 +318,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 15,
-    "qid": 585,
+    "question_number": 14,
+    "qid": 584,
     "text": "Which proteins are curated as interacting with SEMA4G, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -354,8 +338,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 16,
-    "qid": 586,
+    "question_number": 15,
+    "qid": 585,
     "text": "Which drugs act on ZNF485, which is associated with adrenal cortex disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -394,8 +378,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 17,
-    "qid": 588,
+    "question_number": 16,
+    "qid": 587,
     "text": "Which drugs act on LYG2, which is associated with severe congenital neutropenia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -418,8 +402,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 18,
-    "qid": 589,
+    "question_number": 17,
+    "qid": 588,
     "text": "Which drugs have WDR46 as a compiled target, which is associated with asthma, nasal polyps, and aspirin intolerance and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -438,8 +422,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 19,
-    "qid": 590,
+    "question_number": 18,
+    "qid": 589,
     "text": "Which proteins are compiled as interacting with ZNF257, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -478,8 +462,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 20,
-    "qid": 591,
+    "question_number": 19,
+    "qid": 590,
     "text": "Which proteins act on EVPL, which is associated with peeling skin syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -502,8 +486,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 21,
-    "qid": 592,
+    "question_number": 20,
+    "qid": 591,
     "text": "Which functional regions are found in protein BIRC6, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -518,8 +502,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 22,
-    "qid": 594,
+    "question_number": 21,
+    "qid": 593,
     "text": "Which proteins are curated as interacting with TMEM144, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -546,8 +530,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 23,
-    "qid": 595,
+    "question_number": 22,
+    "qid": 594,
     "text": "Which proteins act on PLEKHM1, which is associated with non-Langerhans-cell histiocytosis and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -570,8 +554,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 24,
-    "qid": 596,
+    "question_number": 23,
+    "qid": 595,
     "text": "Which proteins are compiled as interacting with C1orf185, which is associated with hereditary sensory neuropathy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -606,8 +590,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 25,
-    "qid": 598,
+    "question_number": 24,
+    "qid": 597,
     "text": "Which proteins are curated as interacting with TBCCD1, which is associated with oculocerebrorenal syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -634,8 +618,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 26,
-    "qid": 599,
+    "question_number": 25,
+    "qid": 598,
     "text": "Which drugs act on ISCA1, which is associated with familial hyperlipidemia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -666,8 +650,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 27,
-    "qid": 600,
+    "question_number": 26,
+    "qid": 599,
     "text": "Which proteins are curated as interacting with DAW1, which is associated with sickle cell anemia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -690,8 +674,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 28,
-    "qid": 602,
+    "question_number": 27,
+    "qid": 601,
     "text": "Which proteins act on YBX3, which is associated with hereditary hemorrhagic telangiectasia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -718,8 +702,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 29,
-    "qid": 604,
+    "question_number": 28,
+    "qid": 603,
     "text": "Which proteins act on VPS13A, which is associated with motor neuritis and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -738,8 +722,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 30,
-    "qid": 605,
+    "question_number": 29,
+    "qid": 604,
     "text": "Which drugs have ZACN as a compiled target, which is associated with transient neonatal diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -754,8 +738,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 31,
-    "qid": 609,
+    "question_number": 30,
+    "qid": 608,
     "text": "Which proteins are curated as interacting with TIGD7, which is associated with familial Mediterranean fever and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -774,8 +758,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 32,
-    "qid": 610,
+    "question_number": 31,
+    "qid": 609,
     "text": "Which drugs act on CPLANE1, which is associated with severe congenital neutropenia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -790,8 +774,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 33,
-    "qid": 611,
+    "question_number": 32,
+    "qid": 610,
     "text": "Which drugs act on FAM149A, which is associated with coloboma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -822,8 +806,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 34,
-    "qid": 612,
+    "question_number": 33,
+    "qid": 611,
     "text": "Which functional regions are found in protein ZC3H12A, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -838,8 +822,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 35,
-    "qid": 613,
+    "question_number": 34,
+    "qid": 612,
     "text": "Which drugs act on METTL4, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -854,8 +838,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 36,
-    "qid": 614,
+    "question_number": 35,
+    "qid": 613,
     "text": "Which proteins act on UBASH3A, which is associated with transient neonatal diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -882,8 +866,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 37,
-    "qid": 616,
+    "question_number": 36,
+    "qid": 615,
     "text": "Which drugs act on FAM162B, which is associated with constipation and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -898,8 +882,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 38,
-    "qid": 617,
+    "question_number": 37,
+    "qid": 616,
     "text": "Which drugs act on STXBP3, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -930,8 +914,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 39,
-    "qid": 619,
+    "question_number": 38,
+    "qid": 618,
     "text": "Which proteins are curated as interacting with TRERF1, which is associated with Mulchandani-Bhoj-Conlin syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -950,8 +934,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 40,
-    "qid": 622,
+    "question_number": 39,
+    "qid": 621,
     "text": "Which drugs have CD8B as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -974,8 +958,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 41,
-    "qid": 623,
+    "question_number": 40,
+    "qid": 622,
     "text": "Which proteins are compiled as interacting with RPGRIP1, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1010,8 +994,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 42,
-    "qid": 624,
+    "question_number": 41,
+    "qid": 623,
     "text": "Which proteins act on EQTN, which is associated with heart conduction disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1026,8 +1010,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 43,
-    "qid": 625,
+    "question_number": 42,
+    "qid": 624,
     "text": "Which drugs have UBE2J2 as a compiled target, which is associated with bone disease and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1050,8 +1034,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 44,
-    "qid": 626,
+    "question_number": 43,
+    "qid": 625,
     "text": "Which proteins act on DUSP19, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1074,8 +1058,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 45,
-    "qid": 627,
+    "question_number": 44,
+    "qid": 626,
     "text": "Which drugs have B3GNT7 as a compiled target, which is associated with astigmatism and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1110,8 +1094,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 46,
-    "qid": 628,
+    "question_number": 45,
+    "qid": 627,
     "text": "Which proteins are curated as interacting with PRRG4, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1126,8 +1110,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 47,
-    "qid": 630,
+    "question_number": 46,
+    "qid": 629,
     "text": "Which proteins are curated as interacting with ACBD5, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1158,8 +1142,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 48,
-    "qid": 631,
+    "question_number": 47,
+    "qid": 630,
     "text": "Which drugs act on C1orf109, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1174,8 +1158,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 49,
-    "qid": 632,
+    "question_number": 48,
+    "qid": 631,
     "text": "Which proteins are curated as interacting with ZMAT3, which is associated with central nervous system hematologic cancer and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1214,8 +1198,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 50,
-    "qid": 634,
+    "question_number": 49,
+    "qid": 633,
     "text": "Which functional regions are found in protein ARX, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1230,8 +1214,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 51,
-    "qid": 637,
+    "question_number": 50,
+    "qid": 636,
     "text": "Which metabolites are associated with MAP4K4, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1250,8 +1234,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 52,
-    "qid": 638,
+    "question_number": 51,
+    "qid": 637,
     "text": "Which drugs act on PROP1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1266,8 +1250,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 53,
-    "qid": 639,
+    "question_number": 52,
+    "qid": 638,
     "text": "Which proteins act on IL17RC, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1286,8 +1270,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 54,
-    "qid": 640,
+    "question_number": 53,
+    "qid": 639,
     "text": "Which functional regions are found in protein CDH9, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1302,8 +1286,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 55,
-    "qid": 641,
+    "question_number": 54,
+    "qid": 640,
     "text": "Which proteins are curated as interacting with RILPL1, which is associated with oculocerebrorenal syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1322,8 +1306,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 56,
-    "qid": 642,
+    "question_number": 55,
+    "qid": 641,
     "text": "Which drugs act on PURG, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1342,8 +1326,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 57,
-    "qid": 643,
+    "question_number": 56,
+    "qid": 642,
     "text": "Which proteins act on PRDM6, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1374,8 +1358,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 58,
-    "qid": 644,
+    "question_number": 57,
+    "qid": 643,
     "text": "Which metabolites are associated with ATP2A1, which is associated with cylindrical spirals myopathy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1390,8 +1374,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 59,
-    "qid": 646,
+    "question_number": 58,
+    "qid": 645,
     "text": "Which drugs have LGI1 as a compiled target, which is associated with Landau-Kleffner syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1418,8 +1402,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 60,
-    "qid": 647,
+    "question_number": 59,
+    "qid": 646,
     "text": "Which proteins are curated as interacting with SLC7A11, which is associated with adrenal cortex disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1454,8 +1438,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 61,
-    "qid": 648,
+    "question_number": 60,
+    "qid": 647,
     "text": "Which proteins act on EGFL7, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1494,8 +1478,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 62,
-    "qid": 650,
+    "question_number": 61,
+    "qid": 649,
     "text": "Which drugs have ABCA5 as a compiled target, which is associated with ovarian disease and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1518,8 +1502,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 63,
-    "qid": 651,
+    "question_number": 62,
+    "qid": 650,
     "text": "Which proteins are curated as interacting with TBCD, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1550,8 +1534,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 64,
-    "qid": 652,
+    "question_number": 63,
+    "qid": 651,
     "text": "Which proteins are curated as interacting with FAM228A, which is associated with Rett syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1586,8 +1570,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 65,
-    "qid": 655,
+    "question_number": 64,
+    "qid": 654,
     "text": "Which proteins are curated as interacting with WFIKKN2, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1602,8 +1586,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 66,
-    "qid": 656,
+    "question_number": 65,
+    "qid": 655,
     "text": "Which proteins are curated as interacting with DUX4, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1634,8 +1618,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 67,
-    "qid": 657,
+    "question_number": 66,
+    "qid": 656,
     "text": "Which proteins are curated as interacting with GNLY, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1650,8 +1634,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 68,
-    "qid": 658,
+    "question_number": 67,
+    "qid": 657,
     "text": "Which metabolites are associated with CACNA1I, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1686,8 +1670,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 69,
-    "qid": 661,
+    "question_number": 68,
+    "qid": 660,
     "text": "Which drugs are curated as targeting CD55 molecule (Cromer blood group), which is transcribed into complement decay-accelerating factor isoform 1 preproprotein and is translated into CD55?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1702,8 +1686,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 70,
-    "qid": 663,
+    "question_number": 69,
+    "qid": 662,
     "text": "Which drugs act on MRNIP, which is associated with thymus cancer and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1726,8 +1710,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 71,
-    "qid": 664,
+    "question_number": 70,
+    "qid": 663,
     "text": "Which drugs act on SERINC2, which is associated with astigmatism and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1758,8 +1742,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 72,
-    "qid": 665,
+    "question_number": 71,
+    "qid": 664,
     "text": "Which proteins act on ZSCAN26, which is associated with transient neonatal diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1774,8 +1758,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 73,
-    "qid": 668,
+    "question_number": 72,
+    "qid": 667,
     "text": "Which proteins act on PMP22, which is associated with PCWH syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1802,8 +1786,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 74,
-    "qid": 669,
+    "question_number": 73,
+    "qid": 668,
     "text": "Which proteins are curated as interacting with ATL2, which is associated with thymus cancer and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1822,8 +1806,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 75,
-    "qid": 670,
+    "question_number": 74,
+    "qid": 669,
     "text": "Which functional regions are found in protein ADIPOQ, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1838,8 +1822,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 76,
-    "qid": 671,
+    "question_number": 75,
+    "qid": 670,
     "text": "Which proteins are curated as interacting with TNP1, which is associated with cataract 4 multiple types and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1854,8 +1838,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 77,
-    "qid": 672,
+    "question_number": 76,
+    "qid": 671,
     "text": "Which drugs act on C20orf27, which is associated with disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1882,8 +1866,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 78,
-    "qid": 673,
+    "question_number": 77,
+    "qid": 672,
     "text": "Which functional regions are found in protein KRT81, which is associated with Bamforth-Lazarus syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1898,8 +1882,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 79,
-    "qid": 674,
+    "question_number": 78,
+    "qid": 673,
     "text": "Which proteins are curated as interacting with TRIM52, which is associated with central nervous system disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1914,8 +1898,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 80,
-    "qid": 676,
+    "question_number": 79,
+    "qid": 675,
     "text": "Which proteins are curated as interacting with CUSTOS, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1954,8 +1938,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 81,
-    "qid": 677,
+    "question_number": 80,
+    "qid": 676,
     "text": "Which drugs have PSD2 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -1990,8 +1974,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 82,
-    "qid": 678,
+    "question_number": 81,
+    "qid": 677,
     "text": "Which drugs have VWA5B1 as a compiled target, which is associated with endogenous depression and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2018,8 +2002,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 83,
-    "qid": 679,
+    "question_number": 82,
+    "qid": 678,
     "text": "Which proteins are curated as interacting with SH2B1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2046,8 +2030,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 84,
-    "qid": 680,
+    "question_number": 83,
+    "qid": 679,
     "text": "Which drugs act on PDCD10, which is associated with hereditary hemorrhagic telangiectasia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2066,8 +2050,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 85,
-    "qid": 681,
+    "question_number": 84,
+    "qid": 680,
     "text": "Which drugs act on DCBLD1, which is associated with bile duct disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2082,8 +2066,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 86,
-    "qid": 682,
+    "question_number": 85,
+    "qid": 681,
     "text": "Which drugs act on ZBTB4, which is associated with Mulchandani-Bhoj-Conlin syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2118,8 +2102,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 87,
-    "qid": 684,
+    "question_number": 86,
+    "qid": 683,
     "text": "Which proteins are compiled as interacting with PAGE3, which is associated with normocytic anemia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2146,8 +2130,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 88,
-    "qid": 686,
+    "question_number": 87,
+    "qid": 685,
     "text": "Which drugs act on ELP1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2182,8 +2166,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 89,
-    "qid": 687,
+    "question_number": 88,
+    "qid": 686,
     "text": "Which proteins are curated as interacting with UBE3D, which is associated with acute pericementitis and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2222,8 +2206,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 90,
-    "qid": 688,
+    "question_number": 89,
+    "qid": 687,
     "text": "Which proteins are curated as interacting with LHFPL2, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2242,8 +2226,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 91,
-    "qid": 689,
+    "question_number": 90,
+    "qid": 688,
     "text": "Which functional regions are found in protein MAGEB3, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2258,8 +2242,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 92,
-    "qid": 692,
+    "question_number": 91,
+    "qid": 691,
     "text": "Which metabolites are associated with CHST13, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2282,8 +2266,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 93,
-    "qid": 693,
+    "question_number": 92,
+    "qid": 692,
     "text": "Which drugs act on SLAMF1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2302,8 +2286,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 94,
-    "qid": 694,
+    "question_number": 93,
+    "qid": 693,
     "text": "Which drugs act on KCTD14, which is associated with bile duct disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2330,8 +2314,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 95,
-    "qid": 695,
+    "question_number": 94,
+    "qid": 694,
     "text": "Which drugs act on ZNF346, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2350,8 +2334,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 96,
-    "qid": 696,
+    "question_number": 95,
+    "qid": 695,
     "text": "Which drugs have NUPR1 as a compiled target, which is associated with type 2 diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2370,8 +2354,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 97,
-    "qid": 697,
+    "question_number": 96,
+    "qid": 696,
     "text": "Which drugs have GDPD1 as a compiled target, which is associated with Nasu-Hakola disease and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2410,8 +2394,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 98,
-    "qid": 700,
+    "question_number": 97,
+    "qid": 699,
     "text": "Which drugs act on BCOR, which is associated with cataract 38 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2438,8 +2422,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 99,
-    "qid": 701,
+    "question_number": 98,
+    "qid": 700,
     "text": "Which drugs act on MKRN3, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2458,8 +2442,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 100,
-    "qid": 702,
+    "question_number": 99,
+    "qid": 701,
     "text": "Which proteins are curated as interacting with PLCL1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2474,8 +2458,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 101,
-    "qid": 703,
+    "question_number": 100,
+    "qid": 702,
     "text": "Which drugs have SOX11 as a compiled target, which is associated with PCWH syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2490,8 +2474,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 102,
-    "qid": 704,
+    "question_number": 101,
+    "qid": 703,
     "text": "Which drugs have CHAF1B as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2506,8 +2490,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 103,
-    "qid": 706,
+    "question_number": 102,
+    "qid": 705,
     "text": "Which functional regions are found in protein PTH2R, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2522,8 +2506,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 104,
-    "qid": 708,
+    "question_number": 103,
+    "qid": 707,
     "text": "Which functional regions are found in protein GRM2, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2542,8 +2526,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 105,
-    "qid": 709,
+    "question_number": 104,
+    "qid": 708,
     "text": "Which proteins act on POU4F2, which is associated with retinitis pigmentosa 33 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2566,8 +2550,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 106,
-    "qid": 710,
+    "question_number": 105,
+    "qid": 709,
     "text": "Which proteins are curated as interacting with ACTR3B, which is associated with oculocerebrorenal syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2586,8 +2570,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 107,
-    "qid": 711,
+    "question_number": 106,
+    "qid": 710,
     "text": "Which drugs have EGLN3 as a compiled target, which is associated with type 2 diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2602,8 +2586,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 108,
-    "qid": 712,
+    "question_number": 107,
+    "qid": 711,
     "text": "Which drugs act on TASP1, which is associated with coloboma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2634,8 +2618,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 109,
-    "qid": 713,
+    "question_number": 108,
+    "qid": 712,
     "text": "Which drugs have MAP1A as a compiled target, which is associated with type 2 diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2650,8 +2634,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 110,
-    "qid": 714,
+    "question_number": 109,
+    "qid": 713,
     "text": "Which drugs have NUP98 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2670,8 +2654,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 111,
-    "qid": 715,
+    "question_number": 110,
+    "qid": 714,
     "text": "Which drugs have SMAD5 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2690,8 +2674,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 112,
-    "qid": 716,
+    "question_number": 111,
+    "qid": 715,
     "text": "Which drugs act on CNPY1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2706,8 +2690,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 113,
-    "qid": 719,
+    "question_number": 112,
+    "qid": 718,
     "text": "Which proteins are curated as interacting with TRIM31, which is associated with comedo carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2738,8 +2722,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 114,
-    "qid": 720,
+    "question_number": 113,
+    "qid": 719,
     "text": "Which proteins act on GLRX2, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2758,8 +2742,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 115,
-    "qid": 722,
+    "question_number": 114,
+    "qid": 721,
     "text": "Which drugs have PITPNA as a compiled target, which is associated with peripheral retinal degeneration and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2786,8 +2770,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 116,
-    "qid": 724,
+    "question_number": 115,
+    "qid": 723,
     "text": "Which drugs have WDR1 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2802,8 +2786,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 117,
-    "qid": 726,
+    "question_number": 116,
+    "qid": 725,
     "text": "Which drugs act on TMEM270, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2822,8 +2806,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 118,
-    "qid": 728,
+    "question_number": 117,
+    "qid": 727,
     "text": "Which drugs act on COMMD8, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2838,8 +2822,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 119,
-    "qid": 730,
+    "question_number": 118,
+    "qid": 729,
     "text": "Which proteins are curated as interacting with PCYOX1L, which is associated with endogenous depression and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2878,8 +2862,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 120,
-    "qid": 731,
+    "question_number": 119,
+    "qid": 730,
     "text": "Which proteins are curated as interacting with TRIM45, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2898,8 +2882,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 121,
-    "qid": 732,
+    "question_number": 120,
+    "qid": 731,
     "text": "Which proteins are compiled as interacting with ZNF480, which is associated with transient neonatal diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2934,8 +2918,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 122,
-    "qid": 733,
+    "question_number": 121,
+    "qid": 732,
     "text": "Which proteins are curated as interacting with VAT1L, which is associated with Blau syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2950,8 +2934,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 123,
-    "qid": 734,
+    "question_number": 122,
+    "qid": 733,
     "text": "Which drugs act on TPRA1, which is associated with legume allergy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2966,8 +2950,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 124,
-    "qid": 736,
+    "question_number": 123,
+    "qid": 735,
     "text": "Which drugs have SPRY4 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -2994,8 +2978,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 125,
-    "qid": 737,
+    "question_number": 124,
+    "qid": 736,
     "text": "Which metabolites are associated with DYRK4, which is associated with astigmatism and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3014,8 +2998,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 126,
-    "qid": 738,
+    "question_number": 125,
+    "qid": 737,
     "text": "Which proteins are curated as interacting with NT5C1A, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3038,8 +3022,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 127,
-    "qid": 739,
+    "question_number": 126,
+    "qid": 738,
     "text": "Which drugs act on RILP, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3058,8 +3042,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 128,
-    "qid": 743,
+    "question_number": 127,
+    "qid": 742,
     "text": "Which drugs act on SUSD3, which is associated with familial hyperlipidemia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3098,8 +3082,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 129,
-    "qid": 744,
+    "question_number": 128,
+    "qid": 743,
     "text": "Which functional regions are found in protein CD93, which is associated with Mulchandani-Bhoj-Conlin syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3114,8 +3098,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 130,
-    "qid": 746,
+    "question_number": 129,
+    "qid": 745,
     "text": "Which drugs act on CASD1, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3138,8 +3122,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 131,
-    "qid": 747,
+    "question_number": 130,
+    "qid": 746,
     "text": "Which proteins act on ZNF74, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3158,8 +3142,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 132,
-    "qid": 749,
+    "question_number": 131,
+    "qid": 748,
     "text": "Which functional regions are found in protein ATP5F1B, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3174,8 +3158,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 133,
-    "qid": 750,
+    "question_number": 132,
+    "qid": 749,
     "text": "Which drugs act on BZW1, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3190,8 +3174,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 134,
-    "qid": 751,
+    "question_number": 133,
+    "qid": 750,
     "text": "Which proteins act on NEUROG2, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3226,8 +3210,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 135,
-    "qid": 752,
+    "question_number": 134,
+    "qid": 751,
     "text": "Which proteins are curated as interacting with TCF23, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3242,8 +3226,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 136,
-    "qid": 753,
+    "question_number": 135,
+    "qid": 752,
     "text": "Which drugs have PPTC7 as a compiled target, which is associated with neuronal ceroid lipofuscinosis 2 and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3274,8 +3258,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 137,
-    "qid": 754,
+    "question_number": 136,
+    "qid": 753,
     "text": "Which proteins are curated as interacting with SGSH, which is associated with Ohdo syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3298,8 +3282,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 138,
-    "qid": 755,
+    "question_number": 137,
+    "qid": 754,
     "text": "Which proteins act on CCDC68, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3334,8 +3318,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 139,
-    "qid": 756,
+    "question_number": 138,
+    "qid": 755,
     "text": "Which proteins are curated as interacting with ZFX, which is associated with epithelioid trophoblastic tumor and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3350,8 +3334,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 140,
-    "qid": 757,
+    "question_number": 139,
+    "qid": 756,
     "text": "Which drugs act on LEAP2, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3382,8 +3366,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 141,
-    "qid": 758,
+    "question_number": 140,
+    "qid": 757,
     "text": "Which proteins are curated as interacting with FAIM, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3410,8 +3394,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 142,
-    "qid": 759,
+    "question_number": 141,
+    "qid": 758,
     "text": "Which drugs have RAB28 as a compiled target, which is associated with oculocerebrorenal syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3446,8 +3430,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 143,
-    "qid": 760,
+    "question_number": 142,
+    "qid": 759,
     "text": "Which drugs act on RADX, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3478,8 +3462,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 144,
-    "qid": 761,
+    "question_number": 143,
+    "qid": 760,
     "text": "Which drugs have BCL9L as a compiled target, which is associated with Mulchandani-Bhoj-Conlin syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3494,8 +3478,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 145,
-    "qid": 762,
+    "question_number": 144,
+    "qid": 761,
     "text": "Which drugs have STX10 as a compiled target, which is associated with salmonellosis and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3518,8 +3502,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 146,
-    "qid": 763,
+    "question_number": 145,
+    "qid": 762,
     "text": "Which metabolites are associated with HRH4, which is associated with legume allergy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3538,8 +3522,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 147,
-    "qid": 764,
+    "question_number": 146,
+    "qid": 763,
     "text": "Which drugs have TDRD3 as a compiled target, which is associated with ovarian disease and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3558,8 +3542,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 148,
-    "qid": 765,
+    "question_number": 147,
+    "qid": 764,
     "text": "Which drugs have SLC5A10 as a compiled target, which is associated with type 2 diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3578,8 +3562,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 149,
-    "qid": 766,
+    "question_number": 148,
+    "qid": 765,
     "text": "Which drugs act on ZNF705B, which is detected in pathology samples of kidney cancer and is associated with reproductive system?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3610,24 +3594,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 150,
-    "qid": 768,
-    "text": "Which genes are translated into OXLD1, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
-    "category": "cancer:organ system cancer",
-    "llm_ranking": [
-      {
-        "entity_name": "oxidoreductase-like domain-containing protein 1 isoform a",
-        "llm-average": 5.2
-      },
-      {
-        "entity_name": "oxidoreductase like domain containing 1",
-        "llm-average": 5.0
-      }
-    ]
-  },
-  {
-    "question_number": 151,
-    "qid": 769,
+    "question_number": 149,
+    "qid": 767,
     "text": "Which drugs have ATP6V0E2 as a compiled target, which is associated with chromosomal deletion syndrome and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3650,8 +3618,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 152,
-    "qid": 770,
+    "question_number": 150,
+    "qid": 768,
     "text": "Which proteins are curated as interacting with TPTE2, which is associated with oculocerebrorenal syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3678,8 +3646,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 153,
-    "qid": 772,
+    "question_number": 151,
+    "qid": 770,
     "text": "Which drugs have SLC24A2 as a compiled target, which is associated with gastroesophageal junction adenocarcinoma and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3698,8 +3666,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 154,
-    "qid": 773,
+    "question_number": 152,
+    "qid": 771,
     "text": "Which drugs act on GLT1D1, which is associated with peroxisomal biogenesis disorder and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3726,8 +3694,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 155,
-    "qid": 774,
+    "question_number": 153,
+    "qid": 772,
     "text": "Which proteins are curated as interacting with HS6ST2, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3750,8 +3718,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 156,
-    "qid": 775,
+    "question_number": 154,
+    "qid": 773,
     "text": "Which proteins are curated as interacting with LYPLAL1, which is associated with type 2 diabetes mellitus and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3790,8 +3758,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 157,
-    "qid": 776,
+    "question_number": 155,
+    "qid": 774,
     "text": "Which proteins act on EMC7, which is associated with acanthoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3810,8 +3778,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 158,
-    "qid": 778,
+    "question_number": 156,
+    "qid": 775,
     "text": "Which functional regions are found in protein HHIPL2, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3826,8 +3794,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 159,
-    "qid": 780,
+    "question_number": 157,
+    "qid": 777,
     "text": "Which proteins act on TSPAN4, which is associated with bone disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3858,8 +3826,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 160,
-    "qid": 782,
+    "question_number": 158,
+    "qid": 779,
     "text": "Which drugs act on RNF39, which is associated with portal vein thrombosis and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3894,8 +3862,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 161,
-    "qid": 784,
+    "question_number": 159,
+    "qid": 781,
     "text": "Which proteins act on KASH5, which is associated with severe congenital neutropenia and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3930,8 +3898,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 162,
-    "qid": 787,
+    "question_number": 160,
+    "qid": 784,
     "text": "Which drugs act on ARHGAP36, which is associated with medulloblastoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3954,8 +3922,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 163,
-    "qid": 789,
+    "question_number": 161,
+    "qid": 786,
     "text": "Which genes are translated into BOLA2, which is associated with chromosomal deletion syndrome and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3970,8 +3938,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 164,
-    "qid": 790,
+    "question_number": 162,
+    "qid": 787,
     "text": "Which drugs act on NSMAF, which is associated with olivopontocerebellar atrophy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -3998,8 +3966,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 165,
-    "qid": 791,
+    "question_number": 163,
+    "qid": 788,
     "text": "Which proteins are curated as interacting with MREG, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4018,8 +3986,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 166,
-    "qid": 793,
+    "question_number": 164,
+    "qid": 790,
     "text": "Which drugs have FGF5 as a compiled target, which is associated with type 2 diabetes mellitus and detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4054,8 +4022,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 167,
-    "qid": 794,
+    "question_number": 165,
+    "qid": 791,
     "text": "Which proteins are curated as interacting with DMRTB1, which is associated with heart conduction disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4078,8 +4046,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 168,
-    "qid": 795,
+    "question_number": 166,
+    "qid": 792,
     "text": "Which metabolites are associated with NDST2, which is associated with legume allergy and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4094,8 +4062,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 169,
-    "qid": 798,
+    "question_number": 167,
+    "qid": 795,
     "text": "Which proteins are curated as interacting with CDK10, which is associated with ovarian disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4118,8 +4086,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 170,
-    "qid": 799,
+    "question_number": 168,
+    "qid": 796,
     "text": "Which proteins act on ZNF229, which is associated with monoclonal gammopathy of uncertain significance and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4134,8 +4102,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 171,
-    "qid": 801,
+    "question_number": 169,
+    "qid": 798,
     "text": "Which proteins act on POU2F3, which is associated with Griscelli syndrome type 2 and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4150,8 +4118,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 172,
-    "qid": 802,
+    "question_number": 170,
+    "qid": 799,
     "text": "Which proteins are curated as interacting with NAP1L2, which is associated with autosomal recessive disease and is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4190,8 +4158,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 173,
-    "qid": 821,
+    "question_number": 171,
+    "qid": 818,
     "text": "List the proteins that are associated with peripheral nerve sheath neoplasm and are subunits of AXIN1-APC-CTNNB1-GSK3B complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4210,8 +4178,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 174,
-    "qid": 837,
+    "question_number": 172,
+    "qid": 834,
     "text": "List the proteins that are associated with placenta cancer and act on DOCK5.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4226,8 +4194,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 175,
-    "qid": 844,
+    "question_number": 173,
+    "qid": 841,
     "text": "List the proteins that are subunits of ESR1-JUN-GRIP1 complex and are associated with peripheral nerve sheath neoplasm.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4242,8 +4210,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 176,
-    "qid": 850,
+    "question_number": 174,
+    "qid": 847,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/22:1(13Z)/20:3(8Z,11Z,14Z)) and are associated with renal carcinoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4258,8 +4226,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 177,
-    "qid": 853,
+    "question_number": 175,
+    "qid": 850,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/18:2(9Z,11Z)/i-16:0/a-25:0) and are associated with lymphoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4274,8 +4242,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 178,
-    "qid": 859,
+    "question_number": 176,
+    "qid": 856,
     "text": "List the proteins that are associated with prostate cancer and are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-19:0/i-13:0/a-15:0).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4290,8 +4258,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 179,
-    "qid": 862,
+    "question_number": 177,
+    "qid": 859,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:2(11Z,14Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)) and are associated with lymphatic system cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4310,8 +4278,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 180,
-    "qid": 868,
+    "question_number": 178,
+    "qid": 865,
     "text": "List the drugs that have the compiled target NUP214 and act on ARHGEF4.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4326,8 +4294,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 181,
-    "qid": 870,
+    "question_number": 179,
+    "qid": 867,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(21:0/i-15:0/i-17:0) and are associated with renal carcinoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4342,8 +4310,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 182,
-    "qid": 873,
+    "question_number": 180,
+    "qid": 870,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:4(5Z,8Z,11Z,14Z)/18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)) and are detected in pathology samples of liver cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4370,8 +4338,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 183,
-    "qid": 874,
+    "question_number": 181,
+    "qid": 871,
     "text": "List the proteins that are associated with stomach carcinoma and are subunits of PTIP-DNA damage response complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4390,8 +4358,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 184,
-    "qid": 881,
+    "question_number": 182,
+    "qid": 878,
     "text": "List the proteins that are associated with malignant pleural mesothelioma and are compiled as interacting with PABPC1L.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4426,8 +4394,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 185,
-    "qid": 894,
+    "question_number": 183,
+    "qid": 891,
     "text": "List the proteins that are subunits of ITGA9-ITGB1-SPP1 complex and are associated with invasive ductal carcinoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4442,8 +4410,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 186,
-    "qid": 904,
+    "question_number": 184,
+    "qid": 901,
     "text": "List the proteins that are subunits of CAMK2-delta-MASH1 promoter-coactivator complex and are associated with leiomyosarcoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4462,8 +4430,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 187,
-    "qid": 922,
+    "question_number": 185,
+    "qid": 919,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-13:0/i-12:0/i-14:0/a-13:0) and are detected in pathology samples of prostate cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4498,8 +4466,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 188,
-    "qid": 923,
+    "question_number": 186,
+    "qid": 920,
     "text": "List the proteins that are associated with uterine cancer and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(15:0/18:1(11Z)/22:0).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4514,8 +4482,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 189,
-    "qid": 932,
+    "question_number": 187,
+    "qid": 929,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-14:0/i-16:0/i-12:0/i-20:0) and are associated with B-cell lymphoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4530,8 +4498,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 190,
-    "qid": 935,
+    "question_number": 188,
+    "qid": 932,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:2(13Z,16Z)/18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)) and are detected in pathology samples of prostate cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4558,8 +4526,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 191,
-    "qid": 942,
+    "question_number": 189,
+    "qid": 939,
     "text": "List the proteins that are associated with colorectal cancer and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:4(7Z,10Z,13Z,16Z)).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4582,8 +4550,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 192,
-    "qid": 950,
+    "question_number": 190,
+    "qid": 947,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/20:4(8Z,11Z,14Z,17Z)/20:4(8Z,11Z,14Z,17Z)) and are associated with uterine cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4598,8 +4566,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 193,
-    "qid": 953,
+    "question_number": 191,
+    "qid": 950,
     "text": "List the proteins that are subunits of BRAF-RAF1-14-3-3 complex and are associated with HCL-V.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4614,8 +4582,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 194,
-    "qid": 955,
+    "question_number": 192,
+    "qid": 952,
     "text": "List the proteins that are detected in pathology samples of colorectal cancer and are associated with NIH-3T3-G185 cell.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4638,8 +4606,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 195,
-    "qid": 963,
+    "question_number": 193,
+    "qid": 960,
     "text": "List the proteins that are associated with lymphoma and are subunits of ING1-PCNA complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4654,8 +4622,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 196,
-    "qid": 990,
+    "question_number": 194,
+    "qid": 987,
     "text": "List the proteins that are subunits of TRAP-SMCC mediator complex and are associated with luminal breast carcinoma A.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4670,8 +4638,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 197,
-    "qid": 996,
+    "question_number": 195,
+    "qid": 993,
     "text": "List the proteins that are detected in pathology samples of liver cancer and are associated with succinate dehydrogenase (ubiquinone) activity.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4686,8 +4654,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 198,
-    "qid": 1003,
+    "question_number": 196,
+    "qid": 1000,
     "text": "List the proteins that are associated with oropharynx cancer and are annotated in the pathway ESR-mediated signaling.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4714,8 +4682,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 199,
-    "qid": 1030,
+    "question_number": 197,
+    "qid": 1027,
     "text": "List the proteins that are associated with pleural cancer and are subunits of IKB(alpha)-RELA-cREL complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4730,8 +4698,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 200,
-    "qid": 1031,
+    "question_number": 198,
+    "qid": 1028,
     "text": "List the proteins that are compiled as interacting with AMOTL2 and are associated with spleen cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4746,8 +4714,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 201,
-    "qid": 1037,
+    "question_number": 199,
+    "qid": 1034,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:0/18:3(9Z,12Z,15Z)/22:5(4Z,7Z,10Z,13Z,16Z)) and are associated with kidney cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4762,8 +4730,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 202,
-    "qid": 1043,
+    "question_number": 200,
+    "qid": 1040,
     "text": "List the proteins that are subunits of Brm-associated complex and are associated with childhood leukemia.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4782,8 +4750,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 203,
-    "qid": 1046,
+    "question_number": 201,
+    "qid": 1043,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(i-24:0/18:0/13:0) and are associated with kidney cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4798,8 +4766,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 204,
-    "qid": 1062,
+    "question_number": 202,
+    "qid": 1059,
     "text": "List the proteins that are associated with hepatobiliary system cancer and are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/18:2(9Z,11Z)/i-18:0/i-14:0).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4822,8 +4790,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 205,
-    "qid": 1063,
+    "question_number": 203,
+    "qid": 1060,
     "text": "List the proteins that act on TTI2 and are associated with colorectal cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4842,8 +4810,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 206,
-    "qid": 1064,
+    "question_number": 204,
+    "qid": 1061,
     "text": "List the proteins that are associated with glomangiosarcoma and are compiled as interacting with KBTBD13.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4858,8 +4826,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 207,
-    "qid": 1065,
+    "question_number": 205,
+    "qid": 1062,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-24:0/i-24:0/i-17:0) and are associated with breast cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4890,8 +4858,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 208,
-    "qid": 1069,
+    "question_number": 206,
+    "qid": 1066,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of kidney cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4930,8 +4898,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 209,
-    "qid": 1075,
+    "question_number": 207,
+    "qid": 1072,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of lymphoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4946,8 +4914,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 210,
-    "qid": 1097,
+    "question_number": 208,
+    "qid": 1094,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are curated as interacting with WASL.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4962,8 +4930,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 211,
-    "qid": 1100,
+    "question_number": 209,
+    "qid": 1097,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on LPXN.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4978,8 +4946,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 212,
-    "qid": 1104,
+    "question_number": 210,
+    "qid": 1101,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of prostate cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -4994,8 +4962,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 213,
-    "qid": 1107,
+    "question_number": 211,
+    "qid": 1104,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and act on SHC1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5030,8 +4998,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 214,
-    "qid": 1127,
+    "question_number": 212,
+    "qid": 1124,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with GOLPH3.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5046,8 +5014,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 215,
-    "qid": 1138,
+    "question_number": 213,
+    "qid": 1135,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on MAPK10.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5070,8 +5038,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 216,
-    "qid": 1140,
+    "question_number": 214,
+    "qid": 1137,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of stomach cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5086,8 +5054,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 217,
-    "qid": 1141,
+    "question_number": 215,
+    "qid": 1138,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on SHC1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5122,8 +5090,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 218,
-    "qid": 1142,
+    "question_number": 216,
+    "qid": 1139,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are the subunits of CRKL-PDGFRA-CRK-RAPGEF1 complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5138,8 +5106,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 219,
-    "qid": 1143,
+    "question_number": 217,
+    "qid": 1140,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with IRS4.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5166,8 +5134,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 220,
-    "qid": 1159,
+    "question_number": 218,
+    "qid": 1156,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of kidney cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5182,8 +5150,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 221,
-    "qid": 1174,
+    "question_number": 219,
+    "qid": 1171,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are curated as interacting with PRAG1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5202,8 +5170,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 222,
-    "qid": 1192,
+    "question_number": 220,
+    "qid": 1189,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on FGFR3.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5222,8 +5190,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 223,
-    "qid": 1208,
+    "question_number": 221,
+    "qid": 1205,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are the subunits of CIN85 complex (CIN85, CRK, BCAR1, CBL, PIK3R1, GRB2, SOS1).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5250,8 +5218,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 224,
-    "qid": 1214,
+    "question_number": 222,
+    "qid": 1211,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and act on FRS2.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5282,8 +5250,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 225,
-    "qid": 1218,
+    "question_number": 223,
+    "qid": 1215,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are the subunits of CIN85 complex (CIN85, CRK, BCAR1, CBL, PIK3R1, GRB2, SOS1).",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5310,8 +5278,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 226,
-    "qid": 1231,
+    "question_number": 224,
+    "qid": 1228,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are curated as interacting with HTT.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5330,8 +5298,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 227,
-    "qid": 1246,
+    "question_number": 225,
+    "qid": 1243,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with DOCK7.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5346,8 +5314,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 228,
-    "qid": 1267,
+    "question_number": 226,
+    "qid": 1264,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are curated as interacting with PRAG1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5366,8 +5334,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 229,
-    "qid": 1276,
+    "question_number": 227,
+    "qid": 1273,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on FRS2.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5398,8 +5366,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 230,
-    "qid": 1286,
+    "question_number": 228,
+    "qid": 1283,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are the subunits of CRKL-PDGFRA-CRK-RAPGEF1 complex.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5414,8 +5382,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 231,
-    "qid": 1313,
+    "question_number": 229,
+    "qid": 1310,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with BCAR1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5450,8 +5418,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 232,
-    "qid": 1343,
+    "question_number": 230,
+    "qid": 1340,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of lymphoma.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5490,8 +5458,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 233,
-    "qid": 1362,
+    "question_number": 231,
+    "qid": 1359,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of prostate cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5530,8 +5498,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 234,
-    "qid": 1374,
+    "question_number": 232,
+    "qid": 1371,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with PEAK1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5546,8 +5514,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 235,
-    "qid": 1390,
+    "question_number": 233,
+    "qid": 1387,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and act on LPXN.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5562,8 +5530,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 236,
-    "qid": 1419,
+    "question_number": 234,
+    "qid": 1416,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with IRS4.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5590,8 +5558,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 237,
-    "qid": 1424,
+    "question_number": 235,
+    "qid": 1421,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with RAC3.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5614,8 +5582,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 238,
-    "qid": 1445,
+    "question_number": 236,
+    "qid": 1442,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and act on FGFR3.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5634,8 +5602,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 239,
-    "qid": 1460,
+    "question_number": 237,
+    "qid": 1457,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of lung cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5674,8 +5642,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 240,
-    "qid": 1467,
+    "question_number": 238,
+    "qid": 1464,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and act on BMX.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5698,8 +5666,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 241,
-    "qid": 1468,
+    "question_number": 239,
+    "qid": 1465,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and act on MAPK10.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5722,8 +5690,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 242,
-    "qid": 1477,
+    "question_number": 240,
+    "qid": 1474,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of liver cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5762,8 +5730,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 243,
-    "qid": 1479,
+    "question_number": 241,
+    "qid": 1476,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with GOLPH3.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5778,8 +5746,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 244,
-    "qid": 1488,
+    "question_number": 242,
+    "qid": 1485,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with TGFB1I1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5798,8 +5766,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 245,
-    "qid": 1490,
+    "question_number": 243,
+    "qid": 1487,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with SOCS6.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5822,8 +5790,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 246,
-    "qid": 1492,
+    "question_number": 244,
+    "qid": 1489,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are curated as interacting with HTT.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5842,8 +5810,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 247,
-    "qid": 1493,
+    "question_number": 245,
+    "qid": 1490,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with medulloblastoma, and are compiled as interacting with BCAR1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5878,8 +5846,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 248,
-    "qid": 1510,
+    "question_number": 246,
+    "qid": 1507,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with thymus cancer, and are compiled as interacting with PEAK1.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5894,8 +5862,8 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 249,
-    "qid": 1517,
+    "question_number": 247,
+    "qid": 1514,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of liver cancer.",
     "category": "cancer:organ system cancer",
     "llm_ranking": [
@@ -5910,7 +5878,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 250,
+    "question_number": 248,
     "qid": 236,
     "text": "List the biological processes that are associated with PIGQ, which is compiled as a target of N-[(Aminooxy)Carbonyl]Aniline.",
     "category": "cancer:organ system cancer",
@@ -5930,7 +5898,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 251,
+    "question_number": 249,
     "qid": 237,
     "text": "List the pathways that are annotated with REV3L, which is compiled as a target of 4-(5,11-DIOXO-5H-INDENO[1,2-C]ISOQUINOLIN-6(11H)-YL)BUTANOATE.",
     "category": "cancer:organ system cancer",
@@ -5950,7 +5918,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 252,
+    "question_number": 250,
     "qid": 238,
     "text": "Which biological processes are associated with KLK13 that alpha-L-fucose acts on?",
     "category": "cancer:organ system cancer",
@@ -5966,7 +5934,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 253,
+    "question_number": 251,
     "qid": 239,
     "text": "List the pathways that are annotated with RRH, which Dodecyldimethylamine N-oxide acts on.",
     "category": "cancer:organ system cancer",
@@ -5982,7 +5950,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 254,
+    "question_number": 252,
     "qid": 240,
     "text": "List the proteins that are acted on by MMAA, which is compiled as a target of 2'-Deoxyguanosine-5'-Diphosphate.",
     "category": "cancer:organ system cancer",
@@ -5998,7 +5966,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 255,
+    "question_number": 253,
     "qid": 244,
     "text": "List the proteins that are acted on by ELOVL2, which is compiled as a target of Coenzyme A.",
     "category": "cancer:organ system cancer",
@@ -6018,7 +5986,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 256,
+    "question_number": 254,
     "qid": 245,
     "text": "List the pathways that are annotated with RARS1, which is compiled as a target of Tamibarotene.",
     "category": "cancer:organ system cancer",
@@ -6038,7 +6006,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 257,
+    "question_number": 255,
     "qid": 247,
     "text": "Which proteins are acted on by SDK1, which is compiled as a target of alpha-L-fucose?",
     "category": "cancer:organ system cancer",
@@ -6058,7 +6026,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 258,
+    "question_number": 256,
     "qid": 250,
     "text": "Which proteins are acted on by PHGDH, which is compiled as a target of D-Glutamic Acid?",
     "category": "cancer:organ system cancer",
@@ -6098,7 +6066,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 259,
+    "question_number": 257,
     "qid": 252,
     "text": "Which pathways are annotated with S1PR1, which is compiled as a target of D-Glutamic Acid?",
     "category": "cancer:organ system cancer",
@@ -6118,7 +6086,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 260,
+    "question_number": 258,
     "qid": 255,
     "text": "Which pathways are annotated with COX6B1, which is compiled as a target of Flavin mononucleotide?",
     "category": "cancer:organ system cancer",
@@ -6138,7 +6106,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 261,
+    "question_number": 259,
     "qid": 258,
     "text": "List the pathways that are annotated with CHRM4, which (S)-econazole acts on.",
     "category": "cancer:organ system cancer",
@@ -6154,7 +6122,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 262,
+    "question_number": 260,
     "qid": 264,
     "text": "List the biological processes that are associated with PRPSAP2, which Adenosine phosphate acts on.",
     "category": "cancer:organ system cancer",
@@ -6182,7 +6150,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 263,
+    "question_number": 261,
     "qid": 265,
     "text": "Which pathways are annotated with HTR4, which is compiled as a target of 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol?",
     "category": "cancer:organ system cancer",
@@ -6206,7 +6174,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 264,
+    "question_number": 262,
     "qid": 266,
     "text": "Which pathways are annotated with CTLA4, which is compiled as a target of N-Ethyl-5'-Carboxamido Adenosine?",
     "category": "cancer:organ system cancer",
@@ -6222,7 +6190,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 265,
+    "question_number": 263,
     "qid": 267,
     "text": "Which pathways are annotated with OPRK1, which 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol acts on?",
     "category": "cancer:organ system cancer",
@@ -6246,7 +6214,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 266,
+    "question_number": 264,
     "qid": 268,
     "text": "List the biological processes that are associated with PDF, which is compiled as a target of N-[(2R)-2-{[(2S)-2-(1,3-benzoxazol-2-yl)pyrrolidin-1-yl]carbonyl}hexyl]-N-hydroxyformamide.",
     "category": "cancer:organ system cancer",
@@ -6274,7 +6242,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 267,
+    "question_number": 265,
     "qid": 270,
     "text": "List the pathways that are annotated with FBXL19, which is compiled as a target of (2S)-8-[(tert-butoxycarbonyl)amino]-2-(1H-indol-3-yl)octanoic acid.",
     "category": "cancer:organ system cancer",
@@ -6290,7 +6258,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 268,
+    "question_number": 266,
     "qid": 272,
     "text": "List the biological processes that are associated with OGDHL, which Adenosine phosphate acts on.",
     "category": "cancer:organ system cancer",
@@ -6310,7 +6278,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 269,
+    "question_number": 267,
     "qid": 282,
     "text": "List the pathways that are annotated with GLUD2, which is compiled as a target of D-Glutamic Acid.",
     "category": "cancer:organ system cancer",
@@ -6326,7 +6294,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 270,
+    "question_number": 268,
     "qid": 293,
     "text": "Which pathways are annotated with SLC25A17, which is compiled as a target of Adenosine phosphate?",
     "category": "cancer:organ system cancer",
@@ -6342,7 +6310,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 271,
+    "question_number": 269,
     "qid": 298,
     "text": "List the pathways that are annotated with TTR, which is compiled as a target of 2',6'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID.",
     "category": "cancer:organ system cancer",
@@ -6374,7 +6342,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 272,
+    "question_number": 270,
     "qid": 302,
     "text": "Which pathways are annotated with PRKG1, which is compiled as a target of (S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE?",
     "category": "cancer:organ system cancer",
@@ -6390,7 +6358,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 273,
+    "question_number": 271,
     "qid": 303,
     "text": "Which pathways are annotated with SORD, which alpha-D-Xylopyranose acts on?",
     "category": "cancer:organ system cancer",
@@ -6418,7 +6386,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 274,
+    "question_number": 272,
     "qid": 304,
     "text": "List the proteins that are acted on by OLFML1, which is compiled as a target of alpha-L-fucose.",
     "category": "cancer:organ system cancer",
@@ -6434,7 +6402,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 275,
+    "question_number": 273,
     "qid": 309,
     "text": "List the pathways that are annotated with EXOSC8, which is compiled as a target of Adenosine phosphate.",
     "category": "cancer:organ system cancer",
@@ -6466,7 +6434,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 276,
+    "question_number": 274,
     "qid": 310,
     "text": "List the pathways that are annotated with ALDH1A2, which is compiled as a target of Nicotinamide adenine dinucleotide phosphate.",
     "category": "cancer:organ system cancer",
@@ -6486,7 +6454,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 277,
+    "question_number": 275,
     "qid": 312,
     "text": "List the proteins that are acted on by PSKH1, which 4-[3-Hydroxyanilino]-6,7-Dimethoxyquinazoline acts on.",
     "category": "cancer:organ system cancer",
@@ -6526,7 +6494,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 278,
+    "question_number": 276,
     "qid": 317,
     "text": "Which proteins are acted on by PVR, which is compiled as a target of alpha-L-fucose?",
     "category": "cancer:organ system cancer",
@@ -6546,7 +6514,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 279,
+    "question_number": 277,
     "qid": 320,
     "text": "List the proteins that are acted on by MAFF, which is compiled as a target of 1,4-Dithiothreitol.",
     "category": "cancer:organ system cancer",
@@ -6586,7 +6554,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 280,
+    "question_number": 278,
     "qid": 321,
     "text": "List the proteins that are acted on by PCSK2, which is compiled as a target of alpha-L-fucose.",
     "category": "cancer:organ system cancer",
@@ -6626,7 +6594,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 281,
+    "question_number": 279,
     "qid": 327,
     "text": "Which proteins are acted on by HPD, which is compiled as a target of D-Glutamic Acid?",
     "category": "cancer:organ system cancer",
@@ -6658,7 +6626,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 282,
+    "question_number": 280,
     "qid": 328,
     "text": "Which pathways are annotated with NOX4, which is compiled as a target of Nicotinamide adenine dinucleotide phosphate?",
     "category": "cancer:organ system cancer",
@@ -6682,7 +6650,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 283,
+    "question_number": 281,
     "qid": 329,
     "text": "List the pathways that are annotated with QRFPR, which 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol acts on.",
     "category": "cancer:organ system cancer",
@@ -6698,7 +6666,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 284,
+    "question_number": 282,
     "qid": 332,
     "text": "Which biological processes are associated with RNASEH2A, which is compiled as a target of 2-Methyl-3-(2-Aminothiazolo)Propanal?",
     "category": "cancer:organ system cancer",
@@ -6726,7 +6694,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 285,
+    "question_number": 283,
     "qid": 340,
     "text": "List the pathways that are annotated with VDR, which is compiled as a target of Ergosterol.",
     "category": "cancer:organ system cancer",
@@ -6746,7 +6714,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 286,
+    "question_number": 284,
     "qid": 341,
     "text": "Which pathways are annotated with GRPR, which 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol acts on?",
     "category": "cancer:organ system cancer",
@@ -6762,7 +6730,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 287,
+    "question_number": 285,
     "qid": 342,
     "text": "Which pathways are annotated with ALDH5A1, which Coenzyme A acts on?",
     "category": "cancer:organ system cancer",
@@ -6798,7 +6766,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 288,
+    "question_number": 286,
     "qid": 343,
     "text": "Which proteins are acted on by POR, which Palmitoleic Acid acts on?",
     "category": "cancer:organ system cancer",
@@ -6814,7 +6782,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 289,
+    "question_number": 287,
     "qid": 346,
     "text": "Which pathways are annotated with SERPINE1, which alpha-D-Xylopyranose acts on?",
     "category": "cancer:organ system cancer",
@@ -6842,7 +6810,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 290,
+    "question_number": 288,
     "qid": 347,
     "text": "List the pathways that are annotated with BRS3, which 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol acts on.",
     "category": "cancer:organ system cancer",
@@ -6858,7 +6826,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 291,
+    "question_number": 289,
     "qid": 348,
     "text": "Which pathways are annotated with HLA-B, which Enprofylline acts on?",
     "category": "cancer:organ system cancer",
@@ -6894,7 +6862,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 292,
+    "question_number": 290,
     "qid": 351,
     "text": "List the pathways that are annotated with UGCG, which Dodecyldimethylamine N-oxide acts on.",
     "category": "cancer:organ system cancer",
@@ -6930,7 +6898,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 293,
+    "question_number": 291,
     "qid": 352,
     "text": "List the pathways that are annotated with MTRR, which is compiled as a target of (2S)-2-methyl-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine.",
     "category": "cancer:organ system cancer",
@@ -6958,7 +6926,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 294,
+    "question_number": 292,
     "qid": 360,
     "text": "List the pathways that are annotated with BCHE, which is compiled as a target of DIMETHYL THIOPHOSPHATE.",
     "category": "cancer:organ system cancer",
@@ -6990,7 +6958,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 295,
+    "question_number": 293,
     "qid": 363,
     "text": "Which pathways are annotated with CYP2F1, which Palmitoleic Acid acts on?",
     "category": "cancer:organ system cancer",
@@ -7010,7 +6978,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 296,
+    "question_number": 294,
     "qid": 364,
     "text": "List the proteins that are acted on by CYP8B1, which is compiled as a target of Nicotinamide adenine dinucleotide phosphate.",
     "category": "cancer:organ system cancer",
@@ -7042,7 +7010,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 297,
+    "question_number": 295,
     "qid": 366,
     "text": "List the pathways that are annotated with HCAR3, which Uridine diphosphate glucose acts on.",
     "category": "cancer:organ system cancer",
@@ -7058,7 +7026,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 298,
+    "question_number": 296,
     "qid": 367,
     "text": "List the proteins that are acted on by GCAT, which 1,4-Dithiothreitol acts on.",
     "category": "cancer:organ system cancer",
@@ -7074,7 +7042,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 299,
+    "question_number": 297,
     "qid": 369,
     "text": "Which pathways are annotated with FASN, which 1,4-Dithiothreitol acts on?",
     "category": "cancer:organ system cancer",
@@ -7106,7 +7074,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 300,
+    "question_number": 298,
     "qid": 371,
     "text": "List the pathways that are annotated with ADORA2B, which Dodecyldimethylamine N-oxide acts on.",
     "category": "cancer:organ system cancer",
@@ -7134,7 +7102,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 301,
+    "question_number": 299,
     "qid": 372,
     "text": "Which pathways are annotated with MMP1, which is compiled as a target of N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE?",
     "category": "cancer:organ system cancer",
@@ -7166,7 +7134,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 302,
+    "question_number": 300,
     "qid": 376,
     "text": "Which proteins are acted on by PRPS1, which Adenosine phosphate acts on?",
     "category": "cancer:organ system cancer",
@@ -7206,7 +7174,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 303,
+    "question_number": 301,
     "qid": 377,
     "text": "List the pathways that are annotated with RET, which Palmitoleic Acid acts on.",
     "category": "cancer:organ system cancer",
@@ -7222,7 +7190,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 304,
+    "question_number": 302,
     "qid": 378,
     "text": "List the pathways that are annotated with KNTC1, which is compiled as a target of Coenzyme A.",
     "category": "cancer:organ system cancer",
@@ -7254,7 +7222,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 305,
+    "question_number": 303,
     "qid": 381,
     "text": "Which pathways are annotated with POR, which Palmitoleic Acid acts on?",
     "category": "cancer:organ system cancer",
@@ -7270,7 +7238,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 306,
+    "question_number": 304,
     "qid": 382,
     "text": "List the biological processes that are associated with GPR3, which is compiled as a target of 4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol.",
     "category": "cancer:organ system cancer",
@@ -7294,7 +7262,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 307,
+    "question_number": 305,
     "qid": 384,
     "text": "List the pathways that are annotated with LYZ, which is compiled as a target of Cu-Cyclam.",
     "category": "cancer:organ system cancer",
@@ -7314,7 +7282,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 308,
+    "question_number": 306,
     "qid": 385,
     "text": "Which biological processes are associated with KLK7 that N,N-dimethylformamide acts on?",
     "category": "cancer:organ system cancer",
@@ -7338,7 +7306,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 309,
+    "question_number": 307,
     "qid": 0,
     "text": "Which proteins are compiled as targets of L-Dilinoleoyllecithin?",
     "category": "cancer:organ system cancer",
@@ -7358,7 +7326,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 310,
+    "question_number": 308,
     "qid": 1,
     "text": "What proteins is N-[4-hydroxymethyl-cyclohexan-6-yl-1,2,3-triol]-4,6-dideoxy-4-aminoglucopyranoside compiled to target?",
     "category": "cancer:organ system cancer",
@@ -7378,7 +7346,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 311,
+    "question_number": 309,
     "qid": 5,
     "text": "What proteins is 4-PHENOXY-N-(PYRIDIN-2-YLMETHYL)BENZAMIDE compiled to target?",
     "category": "cancer:organ system cancer",
@@ -7406,7 +7374,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 312,
+    "question_number": 310,
     "qid": 6,
     "text": "List the proteins that are compiled as targets of (2S)-2-methyl-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine.",
     "category": "cancer:organ system cancer",
@@ -7438,7 +7406,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 313,
+    "question_number": 311,
     "qid": 53,
     "text": "Which genes are curated as targets of Piclidenoson?",
     "category": "cancer:organ system cancer",
@@ -7454,7 +7422,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 314,
+    "question_number": 312,
     "qid": 61,
     "text": "Which proteins are compiled as targets of N-(2-Flouro-Benzyl)-4-Sulfamoyl-Benzamide?",
     "category": "cancer:organ system cancer",
@@ -7474,7 +7442,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 315,
+    "question_number": 313,
     "qid": 62,
     "text": "What proteins does N-[(2S)-3-Phenyl-2-sulfanylpropanoyl]-L-phenylalanyl-L-tyrosine act on?",
     "category": "cancer:organ system cancer",
@@ -7514,7 +7482,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 316,
+    "question_number": 314,
     "qid": 74,
     "text": "Which genes are curated as targets of 6-PHENYL[5H]PYRROLO[2,3-B]PYRAZINE?",
     "category": "cancer:organ system cancer",
@@ -7538,7 +7506,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 317,
+    "question_number": 315,
     "qid": 91,
     "text": "What proteins is N2-[(Benzyloxy)carbonyl]-N-[(3R)-1-{N-[(benzyloxy)carbonyl]-L-leucyl}-4-oxo-3-pyrrolidinyl]-L-leucinamide compiled to target?",
     "category": "cancer:organ system cancer",
@@ -7562,7 +7530,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 318,
+    "question_number": 316,
     "qid": 99,
     "text": "What genes is (3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE curated to target?",
     "category": "cancer:organ system cancer",
@@ -7598,7 +7566,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 319,
+    "question_number": 317,
     "qid": 109,
     "text": "What proteins is (2R,4S)-2-[(1R)-1-{[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino}-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid compiled to target?",
     "category": "cancer:organ system cancer",
@@ -7614,7 +7582,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 320,
+    "question_number": 318,
     "qid": 115,
     "text": "What genes is 2-Undecanone curated to target?",
     "category": "cancer:organ system cancer",
@@ -7646,7 +7614,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 321,
+    "question_number": 319,
     "qid": 121,
     "text": "List the genes that are curated as targets of Coenzyme A.",
     "category": "cancer:organ system cancer",
@@ -7674,7 +7642,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 322,
+    "question_number": 320,
     "qid": 125,
     "text": "What proteins is Tirapazamine compiled to target?",
     "category": "cancer:organ system cancer",
@@ -7706,7 +7674,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 323,
+    "question_number": 321,
     "qid": 128,
     "text": "Which proteins are compiled as targets of Docosanol?",
     "category": "cancer:organ system cancer",
@@ -7722,7 +7690,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 324,
+    "question_number": 322,
     "qid": 131,
     "text": "List the proteins that are compiled as targets of 4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid.",
     "category": "cancer:organ system cancer",
@@ -7738,7 +7706,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 325,
+    "question_number": 323,
     "qid": 137,
     "text": "Which proteins are compiled as targets of Tetrachlorodecaoxide?",
     "category": "cancer:organ system cancer",
@@ -7754,7 +7722,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 326,
+    "question_number": 324,
     "qid": 148,
     "text": "List the proteins that are compiled as targets of L-Dilinoleoyllecithin.",
     "category": "cancer:organ system cancer",
@@ -7774,7 +7742,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 327,
+    "question_number": 325,
     "qid": 154,
     "text": "What drugs have ATPase secretory pathway Ca2+ transporting 1 as a curated target?",
     "category": "cancer:organ system cancer",
@@ -7798,7 +7766,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 328,
+    "question_number": 326,
     "qid": 167,
     "text": "What drugs have SH3PXD2B as a compiled target?",
     "category": "cancer:organ system cancer",
@@ -7818,7 +7786,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 329,
+    "question_number": 327,
     "qid": 175,
     "text": "What drugs have gap junction protein beta 2 as a curated target?",
     "category": "cancer:organ system cancer",
@@ -7838,7 +7806,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 330,
+    "question_number": 328,
     "qid": 194,
     "text": "What drugs have COG3 as a compiled target?",
     "category": "cancer:organ system cancer",
@@ -7862,7 +7830,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 331,
+    "question_number": 329,
     "qid": 204,
     "text": "What drugs have maltase-glucoamylase as a curated target?",
     "category": "cancer:organ system cancer",
@@ -7882,7 +7850,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 332,
+    "question_number": 330,
     "qid": 210,
     "text": "What drugs have GAS6 as a compiled target?",
     "category": "cancer:organ system cancer",
@@ -7922,7 +7890,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 333,
+    "question_number": 331,
     "qid": 211,
     "text": "What drugs have gap junction protein beta 6 as a curated target?",
     "category": "cancer:organ system cancer",
@@ -7942,7 +7910,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 334,
+    "question_number": 332,
     "qid": 213,
     "text": "What drugs have ADGRD1 as a compiled target?",
     "category": "cancer:organ system cancer",
@@ -7982,7 +7950,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 335,
+    "question_number": 333,
     "qid": 218,
     "text": "What drugs have HDAC10 as a compiled target?",
     "category": "cancer:organ system cancer",
@@ -8010,7 +7978,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 336,
+    "question_number": 334,
     "qid": 226,
     "text": "What drugs act on DSTN?",
     "category": "cancer:organ system cancer",
@@ -8050,7 +8018,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 337,
+    "question_number": 335,
     "qid": 388,
     "text": "Which genes are curated as targets of Dexfosfoserine, which acts on BRCA1 that is annotated in pathway HDR through Single Strand Annealing (SSA)?",
     "category": "cancer:organ system cancer",
@@ -8078,7 +8046,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 338,
+    "question_number": 336,
     "qid": 389,
     "text": "Which genes are curated as targets of D-Aspartic Acid, which acts on ASPA that is compiled as interacting with GLUD1?",
     "category": "cancer:organ system cancer",
@@ -8098,7 +8066,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 339,
+    "question_number": 337,
     "qid": 392,
     "text": "Which genes are curated as targets of Coenzyme A, which acts on ACLY that is annotated in pathway Fatty acyl-CoA biosynthesis?",
     "category": "cancer:organ system cancer",
@@ -8126,7 +8094,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 340,
+    "question_number": 338,
     "qid": 398,
     "text": "Which genes are curated as targets of Palmitic Acid, which acts on BAX that is annotated in pathway P53 Signaling Pathway?",
     "category": "cancer:organ system cancer",
@@ -8146,7 +8114,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 341,
+    "question_number": 339,
     "qid": 400,
     "text": "Which genes are curated as targets of Adenosine phosphate, which acts on AASS that is annotated in pathway Glutaric Aciduria Type I?",
     "category": "cancer:organ system cancer",
@@ -8170,7 +8138,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 342,
+    "question_number": 340,
     "qid": 401,
     "text": "Which pathways are annotated with APOBEC3A, which acts on APOBEC3H that is detected in pathology samples of kidney cancer?",
     "category": "cancer:organ system cancer",
@@ -8186,7 +8154,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 343,
+    "question_number": 341,
     "qid": 403,
     "text": "Which genes are curated as targets of K-00546, which acts on ACVR1 that is detected in pathology samples of colorectal cancer?",
     "category": "cancer:organ system cancer",
@@ -8206,7 +8174,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 344,
+    "question_number": 342,
     "qid": 405,
     "text": "Which genes are curated as targets of Coenzyme A, which acts on ACBD5 that is compiled as interacting with SLC25A17?",
     "category": "cancer:organ system cancer",
@@ -8234,7 +8202,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 345,
+    "question_number": 343,
     "qid": 407,
     "text": "Which genes are curated as targets of D-Aspartic Acid, which acts on ASPA that is curated as interacting with COPS3?",
     "category": "cancer:organ system cancer",
@@ -8254,7 +8222,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 346,
+    "question_number": 344,
     "qid": 415,
     "text": "Which genes are curated as targets of Isopropyl alcohol, which acts on AGO2 that is curated as interacting with GNL3?",
     "category": "cancer:organ system cancer",
@@ -8274,7 +8242,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 347,
+    "question_number": 345,
     "qid": 424,
     "text": "Which genes are curated as targets of K-00546, which acts on ACVR1 that is compiled as interacting with NCOA3?",
     "category": "cancer:organ system cancer",
@@ -8294,7 +8262,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 348,
+    "question_number": 346,
     "qid": 431,
     "text": "Which genes are curated as targets of D-Aspartic Acid, which acts on APP that is curated as interacting with APBA1?",
     "category": "cancer:organ system cancer",
@@ -8314,7 +8282,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 349,
+    "question_number": 347,
     "qid": 437,
     "text": "Which genes are curated as targets of Isopropyl alcohol, which acts on PGD that is curated as interacting with TERF1?",
     "category": "cancer:organ system cancer",
@@ -8334,7 +8302,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 350,
+    "question_number": 348,
     "qid": 443,
     "text": "Which genes are curated as targets of Coenzyme A, which acts on ACLY that is compiled as interacting with GOT1?",
     "category": "cancer:organ system cancer",
@@ -8362,7 +8330,7 @@ export const b3: Question[] = [
     ]
   },
   {
-    "question_number": 351,
+    "question_number": 349,
     "qid": 447,
     "text": "Which genes are curated as targets of Butyric Acid, which acts on ACAD9 that is curated as interacting with SDHA?",
     "category": "cancer:organ system cancer",

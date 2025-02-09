@@ -27,7 +27,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 2,
-    "qid": 582,
+    "qid": 581,
     "text": "Which proteins act on ZNF420, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -43,31 +43,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 3,
-    "qid": 593,
-    "text": "Which drugs are curated as targeting thyroid peroxidase, which is transcribed into thyroid peroxidase isoform X5 and is translated into TPO?",
-    "category": "Abnormality of the endocrine system:Abnormality of thyroid physiology",
-    "llm_ranking": [
-      {
-        "entity_name": "Propylthiouracil",
-        "llm-average": 6.1
-      },
-      {
-        "entity_name": "Methimazole",
-        "llm-average": 5.1
-      },
-      {
-        "entity_name": "Carbimazole",
-        "llm-average": 4.8
-      },
-      {
-        "entity_name": "Tretinoin",
-        "llm-average": 4.5
-      }
-    ]
-  },
-  {
-    "question_number": 4,
-    "qid": 606,
+    "qid": 605,
     "text": "Which drugs have FSCN1 as a compiled target, which is annotated in pathway Interleukin-4 and Interleukin-13 signaling and is associated with sarcomatoid carcinoma?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -106,8 +82,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 5,
-    "qid": 620,
+    "question_number": 4,
+    "qid": 619,
     "text": "Which proteins act on SPARC, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -146,8 +122,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 6,
-    "qid": 629,
+    "question_number": 5,
+    "qid": 628,
     "text": "Which proteins act on PRSS55, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -166,8 +142,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 7,
-    "qid": 635,
+    "question_number": 6,
+    "qid": 634,
     "text": "Which drugs act on CDC42EP4, which is annotated in pathway CDC42 GTPase cycle and is associated with central nervous system disease?",
     "category": "nervous system disease:central nervous system disease",
     "llm_ranking": [
@@ -186,8 +162,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 8,
-    "qid": 649,
+    "question_number": 7,
+    "qid": 648,
     "text": "Which proteins are curated as interacting with MSMB, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -202,8 +178,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 9,
-    "qid": 660,
+    "question_number": 8,
+    "qid": 659,
     "text": "Which proteins are curated as interacting with MYNN, which is associated with mucinous cystadenocarcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:malignant adenoma",
     "llm_ranking": [
@@ -234,8 +210,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 10,
-    "qid": 666,
+    "question_number": 9,
+    "qid": 665,
     "text": "Which proteins are curated as interacting with AGTR2, which is annotated in pathway Peptide ligand-binding receptors and is associated with sarcomatoid carcinoma?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -250,8 +226,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 11,
-    "qid": 667,
+    "question_number": 10,
+    "qid": 666,
     "text": "Which metabolites are associated with SLC38A1, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -266,8 +242,28 @@ export const b4: Question[] = [
     ]
   },
   {
+    "question_number": 11,
+    "qid": 674,
+    "text": "Which drugs are curated as targeting egl-9 family hypoxia inducible factor 1, which is transcribed into egl nine homolog 1 isoform 3 and is translated into EGLN1?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "Daprodustat",
+        "llm-average": 7.6
+      },
+      {
+        "entity_name": "Roxadustat",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "Vadadustat",
+        "llm-average": 6.3
+      }
+    ]
+  },
+  {
     "question_number": 12,
-    "qid": 683,
+    "qid": 682,
     "text": "Which proteins are curated as interacting with CCDC81, which is associated with pancreatic ductal adenocarcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -287,7 +283,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 13,
-    "qid": 691,
+    "qid": 690,
     "text": "Which proteins are curated as interacting with RAB40B, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -303,7 +299,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 14,
-    "qid": 699,
+    "qid": 698,
     "text": "Which proteins are curated as interacting with EPN3, which is associated with mixed glioma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:cell type cancer",
     "llm_ranking": [
@@ -319,7 +315,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 15,
-    "qid": 717,
+    "qid": 716,
     "text": "Which drugs have BSND as a compiled target, which is associated with sarcomatoid carcinoma and detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -343,67 +339,7 @@ export const b4: Question[] = [
   },
   {
     "question_number": 16,
-    "qid": 721,
-    "text": "Which drugs act on C12orf76, which is associated with swine influenza and is curated as interacting with FKBP5?",
-    "category": "respiratory system disease:None",
-    "llm_ranking": [
-      {
-        "entity_name": "Trichostatin A",
-        "llm-average": 8.0
-      },
-      {
-        "entity_name": "Valproic acid",
-        "llm-average": 5.5
-      },
-      {
-        "entity_name": "Formaldehyde",
-        "llm-average": 2.9
-      }
-    ]
-  },
-  {
-    "question_number": 17,
-    "qid": 729,
-    "text": "Which proteins are curated as interacting with POLE4, which is annotated in pathway Recognition of DNA damage by PCNA-containing replication complex and is associated with congenital dyserythropoietic anemia type I?",
-    "category": "hematopoietic system disease:normocytic anemia",
-    "llm_ranking": [
-      {
-        "entity_name": "POLE3",
-        "llm-average": 10.0
-      },
-      {
-        "entity_name": "POLE",
-        "llm-average": 9.1
-      },
-      {
-        "entity_name": "POLE2",
-        "llm-average": 8.6
-      },
-      {
-        "entity_name": "QTRT1",
-        "llm-average": 5.1
-      },
-      {
-        "entity_name": "RPS27",
-        "llm-average": 4.6
-      },
-      {
-        "entity_name": "NFYB",
-        "llm-average": 4.4
-      },
-      {
-        "entity_name": "ARL4C",
-        "llm-average": 3.7
-      },
-      {
-        "entity_name": "FXYD1",
-        "llm-average": 2.8
-      }
-    ]
-  },
-  {
-    "question_number": 18,
-    "qid": 741,
+    "qid": 740,
     "text": "Which drugs act on ISM2, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -422,8 +358,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 19,
-    "qid": 742,
+    "question_number": 17,
+    "qid": 741,
     "text": "Which drugs have OSMR as a compiled target, which is associated with sarcomatoid carcinoma and detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -438,8 +374,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 20,
-    "qid": 771,
+    "question_number": 18,
+    "qid": 769,
     "text": "Which drugs act on RARS2, which is annotated in pathway Hyperprolinemia Type I and is associated with peripheral retinal degeneration?",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -478,24 +414,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 21,
-    "qid": 777,
-    "text": "Which genes are translated into SPATA12, which is associated with seminoma and is detected in pathology samples of kidney cancer?",
-    "category": "cancer:germ cell cancer",
-    "llm_ranking": [
-      {
-        "entity_name": "spermatogenesis associated 12",
-        "llm-average": 2.9
-      },
-      {
-        "entity_name": "spermatogenesis-associated protein 12",
-        "llm-average": 2.5
-      }
-    ]
-  },
-  {
-    "question_number": 22,
-    "qid": 781,
+    "question_number": 19,
+    "qid": 778,
     "text": "Which drugs interact with Pregnenolone, which is curated as targeting protein arginine methyltransferase 1 and acts on CYP2S1?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
     "llm_ranking": [
@@ -534,8 +454,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 23,
-    "qid": 786,
+    "question_number": 20,
+    "qid": 783,
     "text": "Which drugs act on CLDN7, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -554,8 +474,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 24,
-    "qid": 792,
+    "question_number": 21,
+    "qid": 789,
     "text": "Which genes are translated into MAGEA2, which is associated with sarcomatoid carcinoma and is detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -570,24 +490,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 25,
-    "qid": 796,
-    "text": "Which drugs act on MCRS1, which is annotated in pathway UCH proteinases and is associated with adrenal cortex disease?",
-    "category": "endocrine system disease:adrenal cortex disease",
-    "llm_ranking": [
-      {
-        "entity_name": "Coenzyme A",
-        "llm-average": 4.2
-      },
-      {
-        "entity_name": "Vitamin E",
-        "llm-average": 3.5
-      }
-    ]
-  },
-  {
-    "question_number": 26,
-    "qid": 800,
+    "question_number": 22,
+    "qid": 797,
     "text": "Which drugs have SLC45A3 as a compiled target, which is associated with sarcomatoid carcinoma and detected in pathology samples of kidney cancer?",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -602,8 +506,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 27,
-    "qid": 1521,
+    "question_number": 23,
+    "qid": 1518,
     "text": "Find all drugs that have the side effect Nausea and are indicated for Hepatic encephalopathy, and also find the drugs that are indicated for Nausea and have the side effect Hepatic encephalopathy.",
     "category": "Abnormality of the nervous system:Encephalopathy",
     "llm_ranking": [
@@ -630,8 +534,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 28,
-    "qid": 1523,
+    "question_number": 24,
+    "qid": 1520,
     "text": "Find all drugs that interact with Chlormadinone and have the side effect Obstructive sleep apnea, and also find the drugs that interact with Chlormadinone and are indicated for Obstructive sleep apnea.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
     "llm_ranking": [
@@ -646,8 +550,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 29,
-    "qid": 1528,
+    "question_number": 25,
+    "qid": 1525,
     "text": "Find all drugs that interact with Propafenone and have the side effect Brain abscess, and also find the drugs that interact with Propafenone and are indicated for Brain abscess.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
     "llm_ranking": [
@@ -666,47 +570,27 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 30,
-    "qid": 1531,
-    "text": "Find all drugs that have the side effect Stillbirth and interact with Coumaphos, and also find the drugs that are indicated for Stillbirth and interact with Coumaphos.",
-    "category": "Age of death:Stillbirth",
+    "question_number": 26,
+    "qid": 1527,
+    "text": "Find all drugs that are indicated for Cutaneous T-cell lymphoma and interact with Gentamicin C1a, and also find the drugs that have the side effect Cutaneous T-cell lymphoma and interact with Gentamicin C1a.",
+    "category": "Neoplasm:Hematological neoplasm",
     "llm_ranking": [
       {
-        "entity_name": "Mifepristone",
-        "llm-average": 7.1
+        "entity_name": "Tacrolimus",
+        "llm-average": 7.8
       },
       {
-        "entity_name": "Felbamate",
-        "llm-average": 5.3
+        "entity_name": "Methoxsalen",
+        "llm-average": 7.2
       },
       {
-        "entity_name": "Paliperidone",
-        "llm-average": 2.7
-      },
-      {
-        "entity_name": "Citalopram",
-        "llm-average": 2.6
-      },
-      {
-        "entity_name": "Escitalopram",
-        "llm-average": 2.2
-      },
-      {
-        "entity_name": "Risperidone",
-        "llm-average": 2.1
-      },
-      {
-        "entity_name": "Cetirizine",
-        "llm-average": 0.9
-      },
-      {
-        "entity_name": "Bisoprolol",
-        "llm-average": 0.0
+        "entity_name": "Methotrexate",
+        "llm-average": 3.3
       }
     ]
   },
   {
-    "question_number": 31,
+    "question_number": 27,
     "qid": 450,
     "text": "Which drugs act on ZNF770, which is detected in pathology samples of endometrial cancer, and interact with Phenyl aminosalicylate?",
     "category": "cancer:reproductive organ cancer",
@@ -722,7 +606,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 32,
+    "question_number": 28,
     "qid": 451,
     "text": "Which proteins are compiled as interacting with CBX6, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -762,7 +646,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 33,
+    "question_number": 29,
     "qid": 452,
     "text": "Which proteins are curated as interacting with LMO7, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -778,7 +662,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 34,
+    "question_number": 30,
     "qid": 453,
     "text": "Which proteins are compiled as interacting with NCAPD2, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -814,7 +698,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 35,
+    "question_number": 31,
     "qid": 456,
     "text": "Which proteins act on MAGI3, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -838,7 +722,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 36,
+    "question_number": 32,
     "qid": 457,
     "text": "Which proteins are curated as interacting with LIMCH1, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -858,7 +742,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 37,
+    "question_number": 33,
     "qid": 459,
     "text": "Which proteins act on SEMA4B, which is associated with hepatocellular carcinoma, and are associated with parasympathetic ganglion?",
     "category": "cancer:carcinoma",
@@ -874,7 +758,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 38,
+    "question_number": 34,
     "qid": 461,
     "text": "Which proteins are compiled as interacting with DNAJC9, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -890,7 +774,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 39,
+    "question_number": 35,
     "qid": 462,
     "text": "Which proteins are curated as interacting with TRIM52, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -906,7 +790,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 40,
+    "question_number": 36,
     "qid": 464,
     "text": "Which proteins are curated as interacting with ZMYND8, which is detected in pathology samples of endometrial cancer, and are associated with cystic lymphangioma?",
     "category": "cancer:reproductive organ cancer",
@@ -922,7 +806,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 41,
+    "question_number": 37,
     "qid": 465,
     "text": "Which proteins are curated as interacting with TSEN2, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -938,7 +822,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 42,
+    "question_number": 38,
     "qid": 466,
     "text": "Which proteins act on IL13RA1, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -966,7 +850,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 43,
+    "question_number": 39,
     "qid": 468,
     "text": "Which proteins are curated as interacting with XBP1, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -982,7 +866,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 44,
+    "question_number": 40,
     "qid": 469,
     "text": "Which drugs are compiled as targeting PHF8, which is associated with hepatocellular carcinoma, and act on PRDX4?",
     "category": "cancer:carcinoma",
@@ -998,7 +882,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 45,
+    "question_number": 41,
     "qid": 470,
     "text": "Which proteins act on VPREB1, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1014,7 +898,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 46,
+    "question_number": 42,
     "qid": 471,
     "text": "Which proteins are compiled as interacting with RAET1L, which is associated with hepatocellular carcinoma, and are associated with cystic lymphangioma?",
     "category": "cancer:carcinoma",
@@ -1034,7 +918,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 47,
+    "question_number": 43,
     "qid": 472,
     "text": "Which drugs act on MTHFD2, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -1054,7 +938,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 48,
+    "question_number": 44,
     "qid": 473,
     "text": "Which proteins are compiled as interacting with LIPT1, which is associated with blood, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -1070,7 +954,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 49,
+    "question_number": 45,
     "qid": 477,
     "text": "Which drugs act on NTM, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -1086,7 +970,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 50,
+    "question_number": 46,
     "qid": 478,
     "text": "Which proteins are compiled as interacting with KLHL32, which is detected in pathology samples of endometrial cancer, and are associated with A-427 cell?",
     "category": "cancer:reproductive organ cancer",
@@ -1102,7 +986,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 51,
+    "question_number": 47,
     "qid": 479,
     "text": "Which drugs act on SERPINE2, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -1126,7 +1010,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 52,
+    "question_number": 48,
     "qid": 481,
     "text": "Which proteins are curated as interacting with MFSD12, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1150,7 +1034,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 53,
+    "question_number": 49,
     "qid": 484,
     "text": "Which proteins are subunits of ITGA9-ITGB1-FIGF complex, which is associated with cell migration, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -1166,7 +1050,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 54,
+    "question_number": 50,
     "qid": 485,
     "text": "Which proteins are curated as interacting with CEP63, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1198,7 +1082,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 55,
+    "question_number": 51,
     "qid": 486,
     "text": "Which proteins are curated as interacting with MITD1, which is associated with hepatocellular carcinoma, and are associated with conoid?",
     "category": "cancer:carcinoma",
@@ -1218,7 +1102,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 56,
+    "question_number": 52,
     "qid": 487,
     "text": "Which drugs act on ZNF821, which is detected in pathology samples of endometrial cancer, and interact with Anagrelide?",
     "category": "cancer:reproductive organ cancer",
@@ -1238,7 +1122,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 57,
+    "question_number": 53,
     "qid": 488,
     "text": "Which proteins act on DSE, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1274,7 +1158,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 58,
+    "question_number": 54,
     "qid": 493,
     "text": "Which proteins act on OR7G3, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1298,7 +1182,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 59,
+    "question_number": 55,
     "qid": 495,
     "text": "Which proteins are compiled as interacting with TTYH1, which is associated with hepatocellular carcinoma, and are associated with parasympathetic ganglion?",
     "category": "cancer:carcinoma",
@@ -1314,7 +1198,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 60,
+    "question_number": 56,
     "qid": 496,
     "text": "Which proteins act on PRSS55, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1330,7 +1214,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 61,
+    "question_number": 57,
     "qid": 500,
     "text": "Which proteins act on CBX6, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1346,7 +1230,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 62,
+    "question_number": 58,
     "qid": 501,
     "text": "Which proteins are compiled as interacting with SMYD3, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1382,7 +1266,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 63,
+    "question_number": 59,
     "qid": 503,
     "text": "Which proteins act on APOA1, which is associated with fruit, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -1406,7 +1290,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 64,
+    "question_number": 60,
     "qid": 504,
     "text": "Which proteins are curated as interacting with CALN1, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1430,7 +1314,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 65,
+    "question_number": 61,
     "qid": 505,
     "text": "Which proteins are curated as interacting with MEAF6, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1458,7 +1342,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 66,
+    "question_number": 62,
     "qid": 507,
     "text": "Which proteins are curated as interacting with FMNL2, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1474,7 +1358,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 67,
+    "question_number": 63,
     "qid": 508,
     "text": "Which drugs interact with Clotrimazole, which is indicated for Pruritus, and have side effects Sensory impairment?",
     "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
@@ -1490,7 +1374,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 68,
+    "question_number": 64,
     "qid": 509,
     "text": "Which proteins are curated as interacting with ADAM22, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1510,7 +1394,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 69,
+    "question_number": 65,
     "qid": 510,
     "text": "Which proteins are subunits of C complex spliceosome, which is associated with RNA splicing, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -1530,7 +1414,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 70,
+    "question_number": 66,
     "qid": 513,
     "text": "Which proteins are curated as interacting with EIF4EBP2, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1546,7 +1430,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 71,
+    "question_number": 67,
     "qid": 514,
     "text": "Which proteins are compiled as interacting with EPS8, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1570,7 +1454,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 72,
+    "question_number": 68,
     "qid": 515,
     "text": "Which proteins are curated as interacting with MMTAG2, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1586,7 +1470,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 73,
+    "question_number": 69,
     "qid": 516,
     "text": "Which proteins are curated as interacting with DDT, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1602,7 +1486,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 74,
+    "question_number": 70,
     "qid": 517,
     "text": "Which proteins act on ZNF286A, which is associated with Charcot-Marie-Tooth disease type 1, and are associated with neck?",
     "category": "nervous system disease:neuropathy",
@@ -1618,7 +1502,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 75,
+    "question_number": 71,
     "qid": 518,
     "text": "Which proteins act on H3C15, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1658,7 +1542,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 76,
+    "question_number": 72,
     "qid": 520,
     "text": "Which proteins are compiled as interacting with OR10Z1, which is detected in pathology samples of endometrial cancer, and are associated with adrenal cortex cell line?",
     "category": "cancer:reproductive organ cancer",
@@ -1674,7 +1558,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 77,
+    "question_number": 73,
     "qid": 521,
     "text": "Which proteins act on TSHB, which is associated with hepatocellular carcinoma, and are associated with parasympathetic ganglion?",
     "category": "cancer:carcinoma",
@@ -1698,7 +1582,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 78,
+    "question_number": 74,
     "qid": 522,
     "text": "Which proteins act on RBMX, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1718,7 +1602,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 79,
+    "question_number": 75,
     "qid": 526,
     "text": "Which metabolites are associated with PLEKHA8, which is detected in pathology samples of endometrial cancer, and are annotated in pathway Extra-nuclear estrogen signaling?",
     "category": "cancer:reproductive organ cancer",
@@ -1734,7 +1618,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 80,
+    "question_number": 76,
     "qid": 527,
     "text": "Which proteins are subunits of VEcad-VEGFR complex, which is associated with cellular response to oscillatory fluid shear stress, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -1750,7 +1634,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 81,
+    "question_number": 77,
     "qid": 528,
     "text": "Which proteins are compiled as interacting with SEMA3F, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1774,7 +1658,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 82,
+    "question_number": 78,
     "qid": 530,
     "text": "Which proteins are curated as interacting with PPHLN1, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1790,7 +1674,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 83,
+    "question_number": 79,
     "qid": 532,
     "text": "Which drugs act on IMPDH2, which is associated with hepatocellular carcinoma, and are compiled as targeting FTMT?",
     "category": "cancer:carcinoma",
@@ -1806,7 +1690,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 84,
+    "question_number": 80,
     "qid": 533,
     "text": "Which proteins are curated as interacting with RILPL1, which is detected in pathology samples of endometrial cancer, and are associated with neck?",
     "category": "cancer:reproductive organ cancer",
@@ -1834,7 +1718,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 85,
+    "question_number": 81,
     "qid": 538,
     "text": "Which proteins are curated as interacting with ADRM1, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1850,7 +1734,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 86,
+    "question_number": 82,
     "qid": 539,
     "text": "Which drugs are compiled as targeting AQP10, which is associated with hepatocellular carcinoma, and interact with Anagrelide?",
     "category": "cancer:carcinoma",
@@ -1866,7 +1750,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 87,
+    "question_number": 83,
     "qid": 541,
     "text": "Which drugs are compiled as targeting UNC50, which is associated with hepatocellular carcinoma, and interact with Rifampicin?",
     "category": "cancer:carcinoma",
@@ -1882,7 +1766,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 88,
+    "question_number": 84,
     "qid": 542,
     "text": "Which proteins are compiled as interacting with PCBP4, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -1906,7 +1790,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 89,
+    "question_number": 85,
     "qid": 546,
     "text": "Which drugs act on ING4, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -1922,7 +1806,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 90,
+    "question_number": 86,
     "qid": 548,
     "text": "Which proteins are compiled as interacting with LRIG3, which is associated with hepatocellular carcinoma, and are associated with parasympathetic ganglion?",
     "category": "cancer:carcinoma",
@@ -1942,7 +1826,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 91,
+    "question_number": 87,
     "qid": 549,
     "text": "Which drugs act on ACSS3, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -1958,7 +1842,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 92,
+    "question_number": 88,
     "qid": 550,
     "text": "Which proteins are curated as interacting with CETN1, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -1986,7 +1870,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 93,
+    "question_number": 89,
     "qid": 551,
     "text": "Which proteins act on FZD3, which is associated with hepatocellular carcinoma, and are associated with parasympathetic ganglion?",
     "category": "cancer:carcinoma",
@@ -2002,7 +1886,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 94,
+    "question_number": 90,
     "qid": 553,
     "text": "Which drugs act on CDCA7, which is associated with hepatocellular carcinoma, and interact with Phenyl aminosalicylate?",
     "category": "cancer:carcinoma",
@@ -2018,7 +1902,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 95,
+    "question_number": 91,
     "qid": 554,
     "text": "Which proteins act on DIAPH3, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -2034,7 +1918,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 96,
+    "question_number": 92,
     "qid": 556,
     "text": "Which proteins are compiled as interacting with CCDC170, which is associated with mammary gland cell line, and are associated with cystic lymphangioma?",
     "category": "cardiovascular system disease:benign vascular tumor",
@@ -2054,7 +1938,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 97,
+    "question_number": 93,
     "qid": 558,
     "text": "Which proteins are compiled as interacting with RASA2, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -2070,7 +1954,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 98,
+    "question_number": 94,
     "qid": 559,
     "text": "Which proteins are compiled as interacting with MTMR11, which is associated with hepatocellular carcinoma, and are associated with neck?",
     "category": "cancer:carcinoma",
@@ -2106,7 +1990,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 99,
+    "question_number": 95,
     "qid": 560,
     "text": "Which proteins act on LPAR5, which is associated with hepatocellular carcinoma, and are associated with adrenal cortex cell line?",
     "category": "cancer:carcinoma",
@@ -2130,7 +2014,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 100,
+    "question_number": 96,
     "qid": 562,
     "text": "Which drugs act on RNFT2, which is detected in pathology samples of endometrial cancer, and interact with Phenyl aminosalicylate?",
     "category": "cancer:reproductive organ cancer",
@@ -2150,8 +2034,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 101,
-    "qid": 805,
+    "question_number": 97,
+    "qid": 802,
     "text": "List the drugs that interact with Bisoxatin and have the side effect Hepatic encephalopathy.",
     "category": "Abnormality of the nervous system:Encephalopathy",
     "llm_ranking": [
@@ -2182,36 +2066,24 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 102,
-    "qid": 811,
-    "text": "List the proteins that are associated with follicular adenoma and act on MRPS6.",
-    "category": "endocrine system disease:thyroid gland disease",
+    "question_number": 98,
+    "qid": 804,
+    "text": "List the drugs that interact with Ceftibuten and have the side effect Chronic pain.",
+    "category": "Constitutional symptom:Chronic pain",
     "llm_ranking": [
       {
-        "entity_name": "IMP3",
-        "llm-average": 6.8
+        "entity_name": "Fentanyl",
+        "llm-average": 7.0
       },
       {
-        "entity_name": "MRPL28",
-        "llm-average": 5.0
-      },
-      {
-        "entity_name": "MRPS2",
-        "llm-average": 4.9
-      },
-      {
-        "entity_name": "RPSA",
-        "llm-average": 2.8
-      },
-      {
-        "entity_name": "RPL10A",
-        "llm-average": 2.6
+        "entity_name": "Etoricoxib",
+        "llm-average": 4.8
       }
     ]
   },
   {
-    "question_number": 103,
-    "qid": 812,
+    "question_number": 99,
+    "qid": 809,
     "text": "List the proteins that are compiled as interacting with TAP1 and are associated with peripheral artery disease.",
     "category": "cardiovascular system disease:artery disease",
     "llm_ranking": [
@@ -2230,8 +2102,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 104,
-    "qid": 813,
+    "question_number": 100,
+    "qid": 810,
     "text": "List the drugs that are indicated for Anxiety and have the side effect Myositis.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
     "llm_ranking": [
@@ -2258,8 +2130,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 105,
-    "qid": 814,
+    "question_number": 101,
+    "qid": 811,
     "text": "List the proteins that are associated with endometrial carcinoma and are annotated in the pathway Meclizine H1-Antihistamine Action.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -2278,8 +2150,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 106,
-    "qid": 815,
+    "question_number": 102,
+    "qid": 812,
     "text": "List the proteins that are subunits of NCR3-CD247 complex and are detected in pathology samples of head and neck cancer.",
     "category": "cancer:head and neck cancer",
     "llm_ranking": [
@@ -2294,8 +2166,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 107,
-    "qid": 816,
+    "question_number": 103,
+    "qid": 813,
     "text": "List the proteins that are subunits of MTA2 complex and are associated with lens disease.",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -2310,8 +2182,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 108,
-    "qid": 817,
+    "question_number": 104,
+    "qid": 814,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(10:0/i-19:0/i-14:0) and are associated with heart disease.",
     "category": "cardiovascular system disease:heart disease",
     "llm_ranking": [
@@ -2338,8 +2210,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 109,
-    "qid": 818,
+    "question_number": 105,
+    "qid": 815,
     "text": "List the drugs that interact with Rifampicin and are indicated for Abnormality of movement.",
     "category": "Abnormality of the nervous system:Abnormality of movement",
     "llm_ranking": [
@@ -2354,8 +2226,32 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 110,
-    "qid": 828,
+    "question_number": 106,
+    "qid": 817,
+    "text": "List the proteins that are associated with skin disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z)).",
+    "category": "integumentary system disease:skin disease",
+    "llm_ranking": [
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 7.0
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 6.7
+      },
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 6.4
+      }
+    ]
+  },
+  {
+    "question_number": 107,
+    "qid": 825,
     "text": "List the proteins that are associated with arteriosclerosis and are annotated in the pathway Cardiolipin Biosynthesis CL(i-14:0/i-16:0/a-13:0/a-25:0).",
     "category": "cardiovascular system disease:artery disease",
     "llm_ranking": [
@@ -2370,8 +2266,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 111,
-    "qid": 836,
+    "question_number": 108,
+    "qid": 833,
     "text": "List the proteins that are associated with melanoma and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(18:0/14:1(9Z)/20:3(5Z,8Z,11Z)).",
     "category": "cancer:melanoma",
     "llm_ranking": [
@@ -2390,24 +2286,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 112,
-    "qid": 839,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(10:0/i-18:0/12:0) and are associated with influenza.",
-    "category": "respiratory system disease:None",
-    "llm_ranking": [
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 5.7
-      }
-    ]
-  },
-  {
-    "question_number": 113,
-    "qid": 841,
+    "question_number": 109,
+    "qid": 838,
     "text": "List the proteins that are associated with arteriosclerotic cardiovascular disease and act on NPR3.",
     "category": "cardiovascular system disease:artery disease",
     "llm_ranking": [
@@ -2426,8 +2306,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 114,
-    "qid": 842,
+    "question_number": 110,
+    "qid": 839,
     "text": "List the proteins that are compiled as interacting with AGTR1 and are associated with meningeal melanocytoma.",
     "category": "cancer:nervous system cancer",
     "llm_ranking": [
@@ -2466,8 +2346,44 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 115,
-    "qid": 848,
+    "question_number": 111,
+    "qid": 844,
+    "text": "List the drugs that have the side effect Hordeolum and interact with Testosterone cypionate.",
+    "category": "Abnormality of the integument:Abnormality of skin morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Bortezomib",
+        "llm-average": 6.8
+      },
+      {
+        "entity_name": "Lenalidomide",
+        "llm-average": 6.2
+      },
+      {
+        "entity_name": "Pramipexole",
+        "llm-average": 4.7
+      },
+      {
+        "entity_name": "Bupropion",
+        "llm-average": 4.3
+      },
+      {
+        "entity_name": "Tramadol",
+        "llm-average": 2.3
+      },
+      {
+        "entity_name": "Clonazepam",
+        "llm-average": 1.8
+      },
+      {
+        "entity_name": "Ciprofloxacin",
+        "llm-average": 1.6
+      }
+    ]
+  },
+  {
+    "question_number": 112,
+    "qid": 845,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(16:1(9Z)/18:1(9Z)/16:1(9Z)/18:2(9Z,12Z)) and are associated with lung adenocarcinoma.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -2482,8 +2398,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 116,
-    "qid": 851,
+    "question_number": 113,
+    "qid": 848,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-21:0/18:0/i-22:0) and are associated with Huntington's disease.",
     "category": "nervous system disease:neurodegenerative disease",
     "llm_ranking": [
@@ -2498,8 +2414,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 117,
-    "qid": 852,
+    "question_number": 114,
+    "qid": 849,
     "text": "List the drugs that interact with Regramostim and have the side effect Choreoathetosis.",
     "category": "Abnormality of the nervous system:Abnormality of movement",
     "llm_ranking": [
@@ -2534,60 +2450,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 118,
-    "qid": 856,
-    "text": "List the proteins that are subunits of SHARP-CtBP1-CtIP-RBP-Jkappa corepressor complex and are associated with intrinsic asthma.",
-    "category": "respiratory system disease:bronchial disease",
-    "llm_ranking": [
-      {
-        "entity_name": "SPEN",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "RBPJ",
-        "llm-average": 5.4
-      }
-    ]
-  },
-  {
-    "question_number": 119,
-    "qid": 857,
-    "text": "List the proteins that are associated with lower respiratory tract disease and are subunits of Exon junction complex.",
-    "category": "respiratory system disease:lower respiratory tract disease",
-    "llm_ranking": [
-      {
-        "entity_name": "UPF3B",
-        "llm-average": 8.9
-      },
-      {
-        "entity_name": "RNPS1",
-        "llm-average": 7.8
-      },
-      {
-        "entity_name": "UPF2",
-        "llm-average": 7.5
-      },
-      {
-        "entity_name": "RBM8A",
-        "llm-average": 5.9
-      },
-      {
-        "entity_name": "ALYREF",
-        "llm-average": 4.3
-      },
-      {
-        "entity_name": "NXF1",
-        "llm-average": 4.1
-      },
-      {
-        "entity_name": "SRRM1",
-        "llm-average": 3.9
-      }
-    ]
-  },
-  {
-    "question_number": 120,
-    "qid": 865,
+    "question_number": 115,
+    "qid": 862,
     "text": "List the proteins that are associated with Charcot-Marie-Tooth disease and are curated as interacting with GPN3.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -2606,8 +2470,24 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 121,
-    "qid": 872,
+    "question_number": 116,
+    "qid": 863,
+    "text": "List the drugs that interact with Ubidecarenone and have the side effect Facial tics.",
+    "category": "Abnormality of the head:Abnormal facial expression",
+    "llm_ranking": [
+      {
+        "entity_name": "Citalopram",
+        "llm-average": 4.6
+      },
+      {
+        "entity_name": "Escitalopram",
+        "llm-average": 4.2
+      }
+    ]
+  },
+  {
+    "question_number": 117,
+    "qid": 869,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(a-13:0/i-21:0/i-24:0/i-13:0) and are associated with optic atrophy.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -2630,8 +2510,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 122,
-    "qid": 875,
+    "question_number": 118,
+    "qid": 872,
     "text": "List the proteins that are associated with poliomyelitis and are subunits of ABCB1-ANXA2-RACK1-SRC complex.",
     "category": "nervous system disease:peripheral nervous system disease",
     "llm_ranking": [
@@ -2650,8 +2530,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 123,
-    "qid": 879,
+    "question_number": 119,
+    "qid": 876,
     "text": "List the proteins that are associated with squamous cell carcinoma and are subunits of Stat1-alpha-dimer-CBP DNA-protein complex.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -2666,8 +2546,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 124,
-    "qid": 885,
+    "question_number": 120,
+    "qid": 882,
     "text": "List the drugs that are indicated for Photophobia and interact with Aprepitant.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
     "llm_ranking": [
@@ -2682,8 +2562,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 125,
-    "qid": 890,
+    "question_number": 121,
+    "qid": 887,
     "text": "List the drugs that interact with Pheniprazine and have the side effect Facial palsy.",
     "category": "Abnormality of the nervous system:Abnormal cranial nerve physiology",
     "llm_ranking": [
@@ -2710,8 +2590,24 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 126,
-    "qid": 895,
+    "question_number": 122,
+    "qid": 889,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(8:0/i-16:0/12:0) and are associated with hypotrichosis.",
+    "category": "integumentary system disease:hypotrichosis",
+    "llm_ranking": [
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 7.6
+      },
+      {
+        "entity_name": "GPAM",
+        "llm-average": 4.8
+      }
+    ]
+  },
+  {
+    "question_number": 123,
+    "qid": 892,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/i-20:0/a-21:0/i-13:0) and are associated with cancer.",
     "category": "cancer:None",
     "llm_ranking": [
@@ -2746,8 +2642,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 127,
-    "qid": 900,
+    "question_number": 124,
+    "qid": 897,
     "text": "List the proteins that are subunits of EARP complex and are associated with amyotrophic lateral sclerosis type 18.",
     "category": "nervous system disease:neurodegenerative disease",
     "llm_ranking": [
@@ -2766,8 +2662,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 128,
-    "qid": 901,
+    "question_number": 125,
+    "qid": 898,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-12:0/18:2(9Z,11Z)/i-21:0/i-22:0) and are associated with neuropathy.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -2790,8 +2686,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 129,
-    "qid": 903,
+    "question_number": 126,
+    "qid": 900,
     "text": "List the drugs that interact with Dopamine and are indicated for Tension-type headache.",
     "category": "Abnormality of the nervous system:Headache",
     "llm_ranking": [
@@ -2810,44 +2706,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 130,
-    "qid": 905,
-    "text": "List the proteins that are associated with lung benign neoplasm and are compiled as interacting with NTN4.",
-    "category": "respiratory system disease:respiratory system benign neoplasm",
-    "llm_ranking": [
-      {
-        "entity_name": "SEMA3F",
-        "llm-average": 8.4
-      },
-      {
-        "entity_name": "DRAXIN",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "PTPN11",
-        "llm-average": 5.9
-      }
-    ]
-  },
-  {
-    "question_number": 131,
-    "qid": 907,
-    "text": "List the proteins that are subunits of ESR1-RELA-BCL3-NCOA3 complex and are associated with chronic fatigue syndrome.",
-    "category": "chronic fatigue syndrome:None",
-    "llm_ranking": [
-      {
-        "entity_name": "ESR1",
-        "llm-average": 6.8
-      },
-      {
-        "entity_name": "RELA",
-        "llm-average": 4.8
-      }
-    ]
-  },
-  {
-    "question_number": 132,
-    "qid": 909,
+    "question_number": 127,
+    "qid": 906,
     "text": "List the proteins that act on SRF and are associated with cardiomyopathy.",
     "category": "cardiovascular system disease:cardiomyopathy",
     "llm_ranking": [
@@ -2886,8 +2746,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 133,
-    "qid": 912,
+    "question_number": 128,
+    "qid": 909,
     "text": "List the proteins that are associated with alternating hemiplegia of childhood and are compiled as interacting with MGA.",
     "category": "nervous system disease:hemiplegia",
     "llm_ranking": [
@@ -2910,8 +2770,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 134,
-    "qid": 914,
+    "question_number": 129,
+    "qid": 911,
     "text": "List the proteins that act on SHC1 and are associated with corneal deposit.",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -2930,8 +2790,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 135,
-    "qid": 916,
+    "question_number": 130,
+    "qid": 913,
     "text": "List the proteins that are associated with central nervous system disease and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-25:0/18:0/i-13:0).",
     "category": "nervous system disease:central nervous system disease",
     "llm_ranking": [
@@ -2958,24 +2818,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 136,
-    "qid": 919,
-    "text": "List the proteins that are associated with pancytopenia and are subunits of ADAM12-alphaVbeta3-integrin-MMP-14 complex.",
-    "category": "hematopoietic system disease:pancytopenia",
-    "llm_ranking": [
-      {
-        "entity_name": "ITGB3",
-        "llm-average": 5.9
-      },
-      {
-        "entity_name": "ITGAV",
-        "llm-average": 4.6
-      }
-    ]
-  },
-  {
-    "question_number": 137,
-    "qid": 927,
+    "question_number": 131,
+    "qid": 924,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(20:2(11Z,14Z)/22:5(7Z,10Z,13Z,16Z,19Z)/20:3(8Z,11Z,14Z)) and are associated with eye disease.",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -3002,8 +2846,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 138,
-    "qid": 931,
+    "question_number": 132,
+    "qid": 928,
     "text": "List the proteins that are subunits of Apoptosome-procaspase 9 complex and are associated with high grade glioma.",
     "category": "cancer:cell type cancer",
     "llm_ranking": [
@@ -3022,8 +2866,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 139,
-    "qid": 948,
+    "question_number": 133,
+    "qid": 945,
     "text": "List the proteins that are associated with head and neck carcinoma and are subunits of CSA-POLIIa complex.",
     "category": "cancer:head and neck cancer",
     "llm_ranking": [
@@ -3050,8 +2894,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 140,
-    "qid": 952,
+    "question_number": 134,
+    "qid": 949,
     "text": "List the drugs that have the side effect Hemoglobinuria and interact with Gabapentin enacarbil.",
     "category": "Abnormality of the genitourinary system:Abnormality of the urinary system physiology",
     "llm_ranking": [
@@ -3078,8 +2922,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 141,
-    "qid": 958,
+    "question_number": 135,
+    "qid": 955,
     "text": "List the drugs that are indicated for Glioma and interact with Vitamin D.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
     "llm_ranking": [
@@ -3094,8 +2938,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 142,
-    "qid": 960,
+    "question_number": 136,
+    "qid": 957,
     "text": "List the proteins that are associated with pancreatic signet ring cell adenocarcinoma and are compiled as interacting with TYMS.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -3114,24 +2958,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 143,
-    "qid": 961,
-    "text": "List the proteins that are associated with influenza and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:2(13Z,16Z)).",
-    "category": "respiratory system disease:None",
-    "llm_ranking": [
-      {
-        "entity_name": "LPIN1",
-        "llm-average": 6.2
-      },
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 5.8
-      }
-    ]
-  },
-  {
-    "question_number": 144,
-    "qid": 972,
+    "question_number": 137,
+    "qid": 969,
     "text": "List the proteins that are associated with adrenal cortex cancer and act on TFAM.",
     "category": "cancer:endocrine gland cancer",
     "llm_ranking": [
@@ -3150,8 +2978,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 145,
-    "qid": 973,
+    "question_number": 138,
+    "qid": 970,
     "text": "List the proteins that are curated as interacting with NVL and are associated with focal dystonia.",
     "category": "nervous system disease:brain disease",
     "llm_ranking": [
@@ -3170,8 +2998,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 146,
-    "qid": 975,
+    "question_number": 139,
+    "qid": 972,
     "text": "List the proteins that are annotated in the pathway ADP signalling through P2Y purinoceptor 1 and are associated with neonatal period electroclinical syndrome.",
     "category": "nervous system disease:brain disease",
     "llm_ranking": [
@@ -3194,8 +3022,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 147,
-    "qid": 977,
+    "question_number": 140,
+    "qid": 974,
     "text": "List the proteins that are subunits of Spliceosome and are associated with autoimmune disease of eyes, ear, nose and throat.",
     "category": "nervous system disease:sensory system disease",
     "llm_ranking": [
@@ -3210,8 +3038,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 148,
-    "qid": 980,
+    "question_number": 141,
+    "qid": 977,
     "text": "List the proteins that are annotated in the pathway Integrin cell surface interactions and are associated with cystoid macular edema.",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -3238,8 +3066,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 149,
-    "qid": 981,
+    "question_number": 142,
+    "qid": 978,
     "text": "List the proteins that are associated with motor peripheral neuropathy and act on TGFBR2.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -3278,24 +3106,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 150,
-    "qid": 983,
-    "text": "List the proteins that are associated with acute pancreatitis and are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(24:0/20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z)).",
-    "category": "endocrine system disease:pancreatitis",
-    "llm_ranking": [
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 8.4
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 5.9
-      }
-    ]
-  },
-  {
-    "question_number": 151,
-    "qid": 985,
+    "question_number": 143,
+    "qid": 982,
     "text": "List the proteins that are curated as interacting with FRAS1 and are associated with amyotrophic lateral sclerosis type 9.",
     "category": "nervous system disease:neurodegenerative disease",
     "llm_ranking": [
@@ -3310,24 +3122,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 152,
-    "qid": 989,
-    "text": "List the proteins that are associated with pulmonary emphysema and act on C8B.",
-    "category": "respiratory system disease:lung disease",
-    "llm_ranking": [
-      {
-        "entity_name": "VTN",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "CD34",
-        "llm-average": 6.5
-      }
-    ]
-  },
-  {
-    "question_number": 153,
-    "qid": 991,
+    "question_number": 144,
+    "qid": 988,
     "text": "List the proteins that are subunits of BHC complex and are associated with lung squamous cell carcinoma.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -3346,8 +3142,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 154,
-    "qid": 995,
+    "question_number": 145,
+    "qid": 992,
     "text": "List the proteins that are associated with gastric signet ring cell adenocarcinoma and are compiled as interacting with PMPCB.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -3362,8 +3158,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 155,
-    "qid": 1000,
+    "question_number": 146,
+    "qid": 997,
     "text": "List the drugs that are indicated for Lymphoma and have the side effect Proteinuria.",
     "category": "Abnormality of the genitourinary system:Abnormality of the urinary system physiology",
     "llm_ranking": [
@@ -3402,8 +3198,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 156,
-    "qid": 1001,
+    "question_number": 147,
+    "qid": 998,
     "text": "List the drugs that are indicated for Cerebral palsy and interact with Alverine.",
     "category": "Abnormality of the nervous system:Abnormal central motor function",
     "llm_ranking": [
@@ -3426,8 +3222,32 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 157,
-    "qid": 1005,
+    "question_number": 148,
+    "qid": 1001,
+    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(16:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z)) and are associated with skin disease.",
+    "category": "integumentary system disease:skin disease",
+    "llm_ranking": [
+      {
+        "entity_name": "GPAM",
+        "llm-average": 7.8
+      },
+      {
+        "entity_name": "DGAT1",
+        "llm-average": 7.3
+      },
+      {
+        "entity_name": "LPIN1",
+        "llm-average": 6.4
+      },
+      {
+        "entity_name": "GPD1",
+        "llm-average": 5.9
+      }
+    ]
+  },
+  {
+    "question_number": 149,
+    "qid": 1002,
     "text": "List the proteins that are subunits of HNRNPD(p45)-ZFP36L1 complex and are associated with central nervous system disease.",
     "category": "nervous system disease:central nervous system disease",
     "llm_ranking": [
@@ -3442,8 +3262,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 158,
-    "qid": 1007,
+    "question_number": 150,
+    "qid": 1004,
     "text": "List the proteins that are compiled as interacting with EFNA2 and are associated with constrictive pericarditis.",
     "category": "cardiovascular system disease:pericarditis",
     "llm_ranking": [
@@ -3470,8 +3290,32 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 159,
-    "qid": 1009,
+    "question_number": 151,
+    "qid": 1005,
+    "text": "List the drugs that interact with Eldecalcitol and are indicated for Patchy alopecia.",
+    "category": "Abnormality of the integument:Abnormal hair morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Triamcinolone",
+        "llm-average": 5.6
+      },
+      {
+        "entity_name": "Dexamethasone",
+        "llm-average": 3.6
+      },
+      {
+        "entity_name": "Betamethasone",
+        "llm-average": 3.5
+      },
+      {
+        "entity_name": "Methylprednisolone",
+        "llm-average": 1.8
+      }
+    ]
+  },
+  {
+    "question_number": 152,
+    "qid": 1006,
     "text": "List the proteins that are compiled as interacting with SEMA4F and are associated with hypertensive heart disease.",
     "category": "cardiovascular system disease:hypertensive heart disease",
     "llm_ranking": [
@@ -3510,8 +3354,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 160,
-    "qid": 1012,
+    "question_number": 153,
+    "qid": 1009,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-13:0/i-15:0/i-22:0/i-24:0) and are associated with arteriosclerosis.",
     "category": "cardiovascular system disease:artery disease",
     "llm_ranking": [
@@ -3526,8 +3370,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 161,
-    "qid": 1015,
+    "question_number": 154,
+    "qid": 1012,
     "text": "List the drugs that act on CYP20A1 and have the side effect Dysphonia.",
     "category": "Abnormality of the nervous system:Abnormality of higher mental function",
     "llm_ranking": [
@@ -3554,8 +3398,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 162,
-    "qid": 1017,
+    "question_number": 155,
+    "qid": 1014,
     "text": "List the proteins that are associated with fundus dystrophy and act on NFATC2IP.",
     "category": "nervous system disease:eye disease",
     "llm_ranking": [
@@ -3578,8 +3422,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 163,
-    "qid": 1019,
+    "question_number": 156,
+    "qid": 1016,
     "text": "List the proteins that are annotated in the pathway Cardiolipin Biosynthesis CL(i-13:0/i-22:0/i-14:0/18:2(9Z,11Z)) and are associated with optic atrophy.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -3602,8 +3446,24 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 164,
-    "qid": 1033,
+    "question_number": 157,
+    "qid": 1019,
+    "text": "List the drugs that are indicated for Excessive salivation and interact with MK-212.",
+    "category": "Abnormality of the head:Abnormality of the mouth",
+    "llm_ranking": [
+      {
+        "entity_name": "Hyoscyamine",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "Atropine",
+        "llm-average": 5.7
+      }
+    ]
+  },
+  {
+    "question_number": 158,
+    "qid": 1030,
     "text": "List the proteins that are annotated in the pathway Activated point mutants of FGFR2 and are associated with granular cell carcinoma.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -3638,8 +3498,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 165,
-    "qid": 1034,
+    "question_number": 159,
+    "qid": 1031,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-25:0/a-15:0/16:0) and are associated with sarcoma.",
     "category": "cancer:sarcoma",
     "llm_ranking": [
@@ -3654,24 +3514,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 166,
-    "qid": 1035,
-    "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(a-21:0/i-24:0/22:0) and are associated with acute pancreatitis.",
-    "category": "endocrine system disease:pancreatitis",
-    "llm_ranking": [
-      {
-        "entity_name": "DGAT1",
-        "llm-average": 6.7
-      },
-      {
-        "entity_name": "GPD1",
-        "llm-average": 5.9
-      }
-    ]
-  },
-  {
-    "question_number": 167,
-    "qid": 1044,
+    "question_number": 160,
+    "qid": 1041,
     "text": "List the proteins that are associated with laryngeal squamous cell carcinoma and are compiled as interacting with WNK2.",
     "category": "cancer:carcinoma",
     "llm_ranking": [
@@ -3690,8 +3534,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 168,
-    "qid": 1045,
+    "question_number": 161,
+    "qid": 1042,
     "text": "List the proteins that are compiled as interacting with MGAT2 and are associated with pseudobulbar palsy.",
     "category": "nervous system disease:brain disease",
     "llm_ranking": [
@@ -3710,8 +3554,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 169,
-    "qid": 1050,
+    "question_number": 162,
+    "qid": 1047,
     "text": "List the proteins that are detected in pathology samples of ovarian cancer and are subunits of IL1RAP-IL1RL1-KIT complex.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -3730,32 +3574,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 170,
-    "qid": 1052,
-    "text": "List the drugs that interact with Anastrozole and have the side effect Corneal opacity.",
-    "category": "Abnormality of the eye:Abnormal anterior eye segment morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Chloroquine",
-        "llm-average": 8.9
-      },
-      {
-        "entity_name": "Rabeprazole",
-        "llm-average": 5.2
-      },
-      {
-        "entity_name": "Diclofenac",
-        "llm-average": 3.7
-      },
-      {
-        "entity_name": "Naproxen",
-        "llm-average": 3.0
-      }
-    ]
-  },
-  {
-    "question_number": 171,
-    "qid": 1054,
+    "question_number": 163,
+    "qid": 1051,
     "text": "List the drugs that interact with Tocopherylquinone and have the side effect Osteomalacia.",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
     "llm_ranking": [
@@ -3770,8 +3590,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 172,
-    "qid": 1059,
+    "question_number": 164,
+    "qid": 1056,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)) and are associated with optic nerve disease.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -3786,8 +3606,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 173,
-    "qid": 1060,
+    "question_number": 165,
+    "qid": 1057,
     "text": "List the proteins that are associated with Alzheimer's disease 14 and are subunits of NOS3-HSP90 complex, VEGF induced.",
     "category": "nervous system disease:neurodegenerative disease",
     "llm_ranking": [
@@ -3802,8 +3622,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 174,
-    "qid": 1061,
+    "question_number": 166,
+    "qid": 1058,
     "text": "List the proteins that are annotated in the pathway De Novo Triacylglycerol Biosynthesis TG(14:0/14:0/18:3(9Z,12Z,15Z)) and are associated with cranial nerve disease.",
     "category": "nervous system disease:neuropathy",
     "llm_ranking": [
@@ -3818,8 +3638,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 175,
-    "qid": 1111,
+    "question_number": 167,
+    "qid": 1108,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of cervical cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -3858,8 +3678,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 176,
-    "qid": 1125,
+    "question_number": 168,
+    "qid": 1122,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with mixed glioma, and are compiled as interacting with RAC3.",
     "category": "cancer:cell type cancer",
     "llm_ranking": [
@@ -3878,8 +3698,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 177,
-    "qid": 1147,
+    "question_number": 169,
+    "qid": 1144,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of head and neck cancer.",
     "category": "cancer:head and neck cancer",
     "llm_ranking": [
@@ -3894,8 +3714,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 178,
-    "qid": 1213,
+    "question_number": 170,
+    "qid": 1210,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of pancreatic cancer.",
     "category": "cancer:endocrine gland cancer",
     "llm_ranking": [
@@ -3934,8 +3754,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 179,
-    "qid": 1259,
+    "question_number": 171,
+    "qid": 1256,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of endometrial cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -3974,8 +3794,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 180,
-    "qid": 1279,
+    "question_number": 172,
+    "qid": 1276,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of ovarian cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -3990,8 +3810,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 181,
-    "qid": 1282,
+    "question_number": 173,
+    "qid": 1279,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of testicular cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -4030,8 +3850,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 182,
-    "qid": 1300,
+    "question_number": 174,
+    "qid": 1297,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of endometrial cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -4046,8 +3866,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 183,
-    "qid": 1301,
+    "question_number": 175,
+    "qid": 1298,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of testicular cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -4062,8 +3882,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 184,
-    "qid": 1317,
+    "question_number": 176,
+    "qid": 1314,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of cervical cancer.",
     "category": "cancer:reproductive organ cancer",
     "llm_ranking": [
@@ -4078,8 +3898,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 185,
-    "qid": 1349,
+    "question_number": 177,
+    "qid": 1346,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with glomerulosclerosis, and are detected in pathology samples of head and neck cancer.",
     "category": "cancer:head and neck cancer",
     "llm_ranking": [
@@ -4118,8 +3938,8 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 186,
-    "qid": 1497,
+    "question_number": 178,
+    "qid": 1494,
     "text": "List the proteins that are annotated in the pathway Bosutinib Inhibition of BCR-ABL, are associated with Blau syndrome, and are detected in pathology samples of pancreatic cancer.",
     "category": "cancer:endocrine gland cancer",
     "llm_ranking": [
@@ -4134,7 +3954,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 187,
+    "question_number": 179,
     "qid": 248,
     "text": "Which pathways are annotated with EPHB3, which Vatalanib acts on?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4158,7 +3978,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 188,
+    "question_number": 180,
     "qid": 260,
     "text": "List the proteins that are acted on by Fosfomycin, which Trametinib interacts with.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4174,7 +3994,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 189,
+    "question_number": 181,
     "qid": 273,
     "text": "Which biological processes are associated with EBP that Raloxifene acts on?",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -4210,7 +4030,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 190,
+    "question_number": 182,
     "qid": 275,
     "text": "Which proteins are curated as targets of 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline, which Atomoxetine interacts with?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4238,7 +4058,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 191,
+    "question_number": 183,
     "qid": 276,
     "text": "Which proteins are acted on by TMPRSS11D, which Gadodiamide acts on?",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -4258,7 +4078,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 192,
+    "question_number": 184,
     "qid": 279,
     "text": "List the proteins that are curated as targets of Adefovir dipivoxil, which Nabumetone interacts with.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4278,7 +4098,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 193,
+    "question_number": 185,
     "qid": 280,
     "text": "List the proteins that are acted on by Adefovir dipivoxil, which Nabumetone interacts with.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4294,7 +4114,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 194,
+    "question_number": 186,
     "qid": 281,
     "text": "List the proteins that are acted on by PRSS12, which Gadodiamide acts on.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -4326,7 +4146,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 195,
+    "question_number": 187,
     "qid": 285,
     "text": "Which proteins are curated as targets of Tiludronic acid, which Atomoxetine interacts with?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4366,7 +4186,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 196,
+    "question_number": 188,
     "qid": 297,
     "text": "List the proteins that are acted on by Cabazitaxel, which Trametinib interacts with.",
     "category": "Abnormality of the genitourinary system:Abnormal reproductive system morphology",
@@ -4386,7 +4206,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 197,
+    "question_number": 189,
     "qid": 301,
     "text": "List the pathways that are annotated with PDGFRB, which is compiled as a target of Pazopanib.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4418,7 +4238,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 198,
+    "question_number": 190,
     "qid": 306,
     "text": "List the pathways that are annotated with CYP2A7, which is compiled as a target of Fluconazole.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4446,7 +4266,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 199,
+    "question_number": 191,
     "qid": 307,
     "text": "List the proteins that are curated as targets of Fenproporex, which Nabumetone interacts with.",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -4470,7 +4290,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 200,
+    "question_number": 192,
     "qid": 311,
     "text": "Which proteins are acted on by CYP8B1, which is compiled as a target of Fluconazole?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4502,7 +4322,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 201,
+    "question_number": 193,
     "qid": 325,
     "text": "Which proteins are acted on by Paramethadione, which Atomoxetine interacts with?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4518,7 +4338,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 202,
+    "question_number": 194,
     "qid": 333,
     "text": "List the proteins that are curated as targets of Nalidixic acid, which Atomoxetine interacts with.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4538,7 +4358,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 203,
+    "question_number": 195,
     "qid": 334,
     "text": "Which genes are curated as targets of Erdafitinib, which Nabumetone interacts with?",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -4574,7 +4394,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 204,
+    "question_number": 196,
     "qid": 335,
     "text": "List the proteins that are acted on by CYP2A7, which is compiled as a target of Fluconazole.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4602,7 +4422,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 205,
+    "question_number": 197,
     "qid": 355,
     "text": "Which proteins are acted on by MST1, which Streptozocin acts on?",
     "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
@@ -4622,7 +4442,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 206,
+    "question_number": 198,
     "qid": 373,
     "text": "List the pathways that are annotated with TRPC5, which is compiled as a target of Gadodiamide.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -4638,7 +4458,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 207,
+    "question_number": 199,
     "qid": 380,
     "text": "Which proteins are acted on by Hexobarbital, which Atomoxetine interacts with?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4674,7 +4494,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 208,
+    "question_number": 200,
     "qid": 2,
     "text": "Which proteins are compiled as targets of Lisdexamfetamine?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4694,7 +4514,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 209,
+    "question_number": 201,
     "qid": 3,
     "text": "Which phenotypes is Sitagliptin indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4730,7 +4550,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 210,
+    "question_number": 202,
     "qid": 8,
     "text": "What phenotypes is Goserelin indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormal reproductive system morphology",
@@ -4770,7 +4590,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 211,
+    "question_number": 203,
     "qid": 13,
     "text": "List the phenotypes that Bleomycin are indicated for.",
     "category": "Abnormality of the genitourinary system:Abnormality of the genital system",
@@ -4806,7 +4626,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 212,
+    "question_number": 204,
     "qid": 14,
     "text": "Which genes are curated as targets of Glipizide?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4838,7 +4658,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 213,
+    "question_number": 205,
     "qid": 15,
     "text": "Which phenotypes is Dabrafenib indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4862,7 +4682,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 214,
+    "question_number": 206,
     "qid": 17,
     "text": "List the genes that are curated as targets of Leflunomide.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -4882,7 +4702,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 215,
+    "question_number": 207,
     "qid": 19,
     "text": "What phenotypes is Temozolomide indicated for?",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -4910,7 +4730,47 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 216,
+    "question_number": 208,
+    "qid": 20,
+    "text": "Which genes are curated as targets of Ipatasertib?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "AKT serine/threonine kinase 1",
+        "llm-average": 7.8
+      },
+      {
+        "entity_name": "AKT serine/threonine kinase 2",
+        "llm-average": 6.5
+      },
+      {
+        "entity_name": "AKT serine/threonine kinase 3",
+        "llm-average": 6.1
+      },
+      {
+        "entity_name": "phosphatase and tensin homolog",
+        "llm-average": 4.6
+      },
+      {
+        "entity_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+        "llm-average": 3.3
+      },
+      {
+        "entity_name": "KRAS proto-oncogene, GTPase",
+        "llm-average": 2.9
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 2",
+        "llm-average": 1.9
+      },
+      {
+        "entity_name": "protein kinase cGMP-dependent 1",
+        "llm-average": 1.4
+      }
+    ]
+  },
+  {
+    "question_number": 209,
     "qid": 23,
     "text": "What phenotypes is gamma-Hydroxybutyric acid indicated for?",
     "category": "Abnormality of the nervous system:Abnormal central motor function",
@@ -4926,7 +4786,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 217,
+    "question_number": 210,
     "qid": 24,
     "text": "List the phenotypes that Isocarboxazid are indicated for.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -4954,7 +4814,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 218,
+    "question_number": 211,
     "qid": 27,
     "text": "What phenotypes is Tapentadol indicated for?",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -4978,7 +4838,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 219,
+    "question_number": 212,
     "qid": 28,
     "text": "Which genes are curated as targets of Glimepiride?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5014,7 +4874,27 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 220,
+    "question_number": 213,
+    "qid": 29,
+    "text": "What genes is Budiodarone curated to target?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "potassium voltage-gated channel subfamily H member 2",
+        "llm-average": 7.0
+      },
+      {
+        "entity_name": "calcium voltage-gated channel auxiliary subunit alpha2delta 2",
+        "llm-average": 5.2
+      },
+      {
+        "entity_name": "adrenoceptor beta 1",
+        "llm-average": 5.0
+      }
+    ]
+  },
+  {
+    "question_number": 214,
     "qid": 31,
     "text": "List the diseases of which CALCA serve as a biomarker.",
     "category": "cancer:None",
@@ -5030,7 +4910,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 221,
+    "question_number": 215,
     "qid": 33,
     "text": "Which genes are curated as targets of Itraconazole?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5062,7 +4942,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 222,
+    "question_number": 216,
     "qid": 35,
     "text": "Which phenotypes is Fosphenytoin indicated for?",
     "category": "Abnormality of the nervous system:Seizure",
@@ -5098,7 +4978,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 223,
+    "question_number": 217,
     "qid": 36,
     "text": "What phenotypes is Tetrabenazine indicated for?",
     "category": "Abnormality of the nervous system:Abnormality of movement",
@@ -5122,7 +5002,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 224,
+    "question_number": 218,
     "qid": 38,
     "text": "What genes is Cholecalciferol curated to target?",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -5146,7 +5026,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 225,
+    "question_number": 219,
     "qid": 40,
     "text": "Which phenotypes is Haloperidol indicated for?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -5174,7 +5054,31 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 226,
+    "question_number": 220,
+    "qid": 41,
+    "text": "Which genes are curated as targets of Cebranopadol?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "opioid related nociceptin receptor 1",
+        "llm-average": 7.7
+      },
+      {
+        "entity_name": "opioid receptor mu 1",
+        "llm-average": 5.6
+      },
+      {
+        "entity_name": "opioid receptor delta 1",
+        "llm-average": 4.8
+      },
+      {
+        "entity_name": "opioid receptor kappa 1",
+        "llm-average": 4.3
+      }
+    ]
+  },
+  {
+    "question_number": 221,
     "qid": 42,
     "text": "List the genes that are curated as targets of Oxaprozin.",
     "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -5194,7 +5098,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 227,
+    "question_number": 222,
     "qid": 45,
     "text": "Which phenotypes is Citric acid indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5234,7 +5138,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 228,
+    "question_number": 223,
     "qid": 48,
     "text": "Which phenotypes is Clorazepic acid indicated for?",
     "category": "Abnormality of the nervous system:Seizure",
@@ -5254,7 +5158,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 229,
+    "question_number": 224,
     "qid": 52,
     "text": "List the diseases of which ALPL serve as a biomarker.",
     "category": "cancer:None",
@@ -5274,7 +5178,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 230,
+    "question_number": 225,
     "qid": 56,
     "text": "What phenotypes is Glipizide indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5314,7 +5218,43 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 231,
+    "question_number": 226,
+    "qid": 57,
+    "text": "Which genes are curated as targets of Aminoglutethimide?",
+    "category": "Neoplasm:None",
+    "llm_ranking": [
+      {
+        "entity_name": "cytochrome P450 family 19 subfamily A member 1",
+        "llm-average": 7.9
+      },
+      {
+        "entity_name": "cytochrome P450 family 11 subfamily A member 1",
+        "llm-average": 7.2
+      },
+      {
+        "entity_name": "trefoil factor 3",
+        "llm-average": 6.9
+      },
+      {
+        "entity_name": "gamma-glutamyltransferase 1",
+        "llm-average": 6.2
+      },
+      {
+        "entity_name": "cytochrome P450 family 1 subfamily B member 1",
+        "llm-average": 5.5
+      },
+      {
+        "entity_name": "thyroglobulin",
+        "llm-average": 3.6
+      },
+      {
+        "entity_name": "gonadotropin releasing hormone 1",
+        "llm-average": 3.4
+      }
+    ]
+  },
+  {
+    "question_number": 227,
     "qid": 64,
     "text": "What diseases is ALPL a biomarker of?",
     "category": "cancer:None",
@@ -5334,7 +5274,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 232,
+    "question_number": 228,
     "qid": 65,
     "text": "What phenotypes is Linagliptin indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5362,7 +5302,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 233,
+    "question_number": 229,
     "qid": 67,
     "text": "List the diseases of which LDHA serve as a biomarker.",
     "category": "cancer:None",
@@ -5378,7 +5318,43 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 234,
+    "question_number": 230,
+    "qid": 68,
+    "text": "What genes is Bicuculline curated to target?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "potassium calcium-activated channel subfamily N member 1",
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha4",
+        "llm-average": 6.0
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha5",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha6",
+        "llm-average": 5.5
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
+        "llm-average": 5.3
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+        "llm-average": 5.2
+      },
+      {
+        "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+        "llm-average": 5.2
+      }
+    ]
+  },
+  {
+    "question_number": 231,
     "qid": 70,
     "text": "Which phenotypes is Aztreonam indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the lower urinary tract",
@@ -5418,7 +5394,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 235,
+    "question_number": 232,
     "qid": 76,
     "text": "What genes is Trimethadione curated to target?",
     "category": "Abnormality of the nervous system:Seizure",
@@ -5438,7 +5414,63 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 236,
+    "question_number": 233,
+    "qid": 78,
+    "text": "Which genes are curated as targets of Poziotinib?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "KRAS proto-oncogene, GTPase",
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 4",
+        "llm-average": 5.8
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 3",
+        "llm-average": 5.2
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 2",
+        "llm-average": 4.9
+      },
+      {
+        "entity_name": "epidermal growth factor receptor",
+        "llm-average": 4.6
+      }
+    ]
+  },
+  {
+    "question_number": 234,
+    "qid": 81,
+    "text": "Which genes are curated as targets of Prexasertib?",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "checkpoint kinase 1",
+        "llm-average": 10.0
+      },
+      {
+        "entity_name": "MYC proto-oncogene, bHLH transcription factor",
+        "llm-average": 7.6
+      },
+      {
+        "entity_name": "checkpoint kinase 2",
+        "llm-average": 5.9
+      },
+      {
+        "entity_name": "ribosomal protein S6 kinase A1",
+        "llm-average": 5.0
+      },
+      {
+        "entity_name": "CDP-diacylglycerol synthase 1",
+        "llm-average": 2.3
+      }
+    ]
+  },
+  {
+    "question_number": 235,
     "qid": 84,
     "text": "Which diseases have AFP as a biomarker?",
     "category": "cancer:None",
@@ -5458,7 +5490,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 237,
+    "question_number": 236,
     "qid": 87,
     "text": "List the phenotypes that Alendronic acid are indicated for.",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5494,7 +5526,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 238,
+    "question_number": 237,
     "qid": 93,
     "text": "List the phenotypes that D-arginine are indicated for.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -5522,7 +5554,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 239,
+    "question_number": 238,
     "qid": 97,
     "text": "Which phenotypes is Sorbitol indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5550,7 +5582,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 240,
+    "question_number": 239,
     "qid": 98,
     "text": "Which phenotypes is Tetracycline indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5566,7 +5598,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 241,
+    "question_number": 240,
     "qid": 102,
     "text": "Which phenotypes is Folic acid indicated for?",
     "category": "Abnormality of the nervous system:Seizure",
@@ -5594,7 +5626,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 242,
+    "question_number": 241,
     "qid": 103,
     "text": "List the phenotypes that Cyclobenzaprine are indicated for.",
     "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -5626,7 +5658,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 243,
+    "question_number": 242,
     "qid": 106,
     "text": "Which phenotypes is Alendronic acid indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -5662,7 +5694,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 244,
+    "question_number": 243,
     "qid": 107,
     "text": "Which phenotypes is Solifenacin indicated for?",
     "category": "Abnormality of the genitourinary system:Abnormality of the lower urinary tract",
@@ -5674,6 +5706,34 @@ export const b4: Question[] = [
       {
         "entity_name": "Urinary urgency",
         "llm-average": 3.6
+      }
+    ]
+  },
+  {
+    "question_number": 244,
+    "qid": 114,
+    "text": "List the genes that are curated as targets of Poziotinib.",
+    "category": "others:None",
+    "llm_ranking": [
+      {
+        "entity_name": "KRAS proto-oncogene, GTPase",
+        "llm-average": 8.2
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 4",
+        "llm-average": 6.7
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 3",
+        "llm-average": 6.4
+      },
+      {
+        "entity_name": "erb-b2 receptor tyrosine kinase 2",
+        "llm-average": 6.3
+      },
+      {
+        "entity_name": "epidermal growth factor receptor",
+        "llm-average": 4.8
       }
     ]
   },
@@ -5799,6 +5859,26 @@ export const b4: Question[] = [
   },
   {
     "question_number": 250,
+    "qid": 134,
+    "text": "List the phenotypes that Dihydrocodeine are indicated for.",
+    "category": "Neoplasm:None",
+    "llm_ranking": [
+      {
+        "entity_name": "Neoplasm",
+        "llm-average": 5.7
+      },
+      {
+        "entity_name": "Chronic pain",
+        "llm-average": 4.3
+      },
+      {
+        "entity_name": "Pain",
+        "llm-average": 2.8
+      }
+    ]
+  },
+  {
+    "question_number": 251,
     "qid": 135,
     "text": "Which genes are curated as targets of Phentermine?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -5822,7 +5902,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 251,
+    "question_number": 252,
     "qid": 136,
     "text": "List the diseases of which AFP serve as a biomarker.",
     "category": "cancer:None",
@@ -5842,7 +5922,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 252,
+    "question_number": 253,
     "qid": 139,
     "text": "Which diseases have ALPL as a biomarker?",
     "category": "cancer:None",
@@ -5862,7 +5942,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 253,
+    "question_number": 254,
     "qid": 146,
     "text": "Which phenotypes is Lurasidone indicated for?",
     "category": "Abnormality of the nervous system:Abnormality of higher mental function",
@@ -5886,7 +5966,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 254,
+    "question_number": 255,
     "qid": 151,
     "text": "List the genes that are curated as targets of Phentermine.",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -5910,7 +5990,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 255,
+    "question_number": 256,
     "qid": 156,
     "text": "What drugs are indicated for Menorrhagia?",
     "category": "Abnormality of the genitourinary system:Abnormality of reproductive system physiology",
@@ -5942,7 +6022,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 256,
+    "question_number": 257,
     "qid": 158,
     "text": "What proteins are biomarkers of the disease cardiovascular system disease?",
     "category": "cardiovascular system disease:None",
@@ -5962,7 +6042,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 257,
+    "question_number": 258,
     "qid": 159,
     "text": "What drugs are indicated for Photophobia?",
     "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -5982,38 +6062,6 @@ export const b4: Question[] = [
       {
         "entity_name": "Acetylsalicylic acid",
         "llm-average": 2.2
-      }
-    ]
-  },
-  {
-    "question_number": 258,
-    "qid": 161,
-    "text": "What proteins are biomarkers of the disease pituitary gland disease?",
-    "category": "endocrine system disease:pituitary gland disease",
-    "llm_ranking": [
-      {
-        "entity_name": "INHBA",
-        "llm-average": 6.3
-      },
-      {
-        "entity_name": "TRH",
-        "llm-average": 4.9
-      },
-      {
-        "entity_name": "IGF1",
-        "llm-average": 4.5
-      },
-      {
-        "entity_name": "FSHB",
-        "llm-average": 3.8
-      },
-      {
-        "entity_name": "SHBG",
-        "llm-average": 3.7
-      },
-      {
-        "entity_name": "PRL",
-        "llm-average": 3.2
       }
     ]
   },
@@ -6103,29 +6151,21 @@ export const b4: Question[] = [
   },
   {
     "question_number": 263,
-    "qid": 174,
-    "text": "What drugs are indicated for Stillbirth?",
-    "category": "Age of death:Stillbirth",
+    "qid": 179,
+    "text": "What drugs have Decreased body weight as a side effect?",
+    "category": "Growth abnormality:Decreased body weight",
     "llm_ranking": [
       {
-        "entity_name": "Mifepristone",
-        "llm-average": 7.2
+        "entity_name": "Ranolazine",
+        "llm-average": 6.2
       },
       {
-        "entity_name": "Dinoprost tromethamine",
-        "llm-average": 5.3
+        "entity_name": "Ziprasidone",
+        "llm-average": 4.3
       },
       {
-        "entity_name": "Dinoprostone",
-        "llm-average": 5.0
-      },
-      {
-        "entity_name": "Cabergoline",
-        "llm-average": 4.4
-      },
-      {
-        "entity_name": "Bromocriptine",
-        "llm-average": 2.9
+        "entity_name": "Phenylephrine",
+        "llm-average": 1.9
       }
     ]
   },
@@ -6299,33 +6339,25 @@ export const b4: Question[] = [
   },
   {
     "question_number": 270,
-    "qid": 201,
-    "text": "What drugs are indicated for Retinopathy?",
-    "category": "Abnormality of the eye:Abnormal posterior eye segment morphology",
+    "qid": 207,
+    "text": "What drugs are indicated for Pallor?",
+    "category": "Abnormality of the integument:Abnormality of skin morphology",
     "llm_ranking": [
       {
-        "entity_name": "Epicaptopril",
-        "llm-average": 7.3
+        "entity_name": "Dopamine",
+        "llm-average": 6.6
       },
       {
-        "entity_name": "Captopril",
-        "llm-average": 5.8
+        "entity_name": "Buspirone",
+        "llm-average": 6.1
       },
       {
-        "entity_name": "Atorvastatin",
+        "entity_name": "Epinephrine",
         "llm-average": 5.7
       },
       {
-        "entity_name": "Minoxidil",
-        "llm-average": 4.9
-      },
-      {
-        "entity_name": "Repaglinide",
-        "llm-average": 3.1
-      },
-      {
-        "entity_name": "Glimepiride",
-        "llm-average": 2.9
+        "entity_name": "Dihydroergotamine",
+        "llm-average": 4.5
       }
     ]
   },
@@ -6403,6 +6435,22 @@ export const b4: Question[] = [
   },
   {
     "question_number": 274,
+    "qid": 217,
+    "text": "What drugs are indicated for Acrocyanosis?",
+    "category": "Abnormality of the integument:Abnormality of skin morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Arginine",
+        "llm-average": 6.2
+      },
+      {
+        "entity_name": "D-arginine",
+        "llm-average": 5.9
+      }
+    ]
+  },
+  {
+    "question_number": 275,
     "qid": 222,
     "text": "What drugs are indicated for Typical absence seizure?",
     "category": "Abnormality of the nervous system:Seizure",
@@ -6434,46 +6482,6 @@ export const b4: Question[] = [
       {
         "entity_name": "Carbamazepine",
         "llm-average": 1.6
-      }
-    ]
-  },
-  {
-    "question_number": 275,
-    "qid": 229,
-    "text": "What drugs are indicated for Iritis?",
-    "category": "Abnormality of the eye:Abnormal uvea morphology",
-    "llm_ranking": [
-      {
-        "entity_name": "Hydroxy-Phenyl-Acetic Acid 8-Methyl-8-Aza-Bicyclo[3.2.1]Oct-3-Yl Ester",
-        "llm-average": 9.5
-      },
-      {
-        "entity_name": "Travoprost",
-        "llm-average": 5.4
-      },
-      {
-        "entity_name": "Dexamethasone",
-        "llm-average": 4.1
-      },
-      {
-        "entity_name": "Prednisolone",
-        "llm-average": 3.4
-      },
-      {
-        "entity_name": "Betamethasone",
-        "llm-average": 3.0
-      },
-      {
-        "entity_name": "Prednisone",
-        "llm-average": 2.9
-      },
-      {
-        "entity_name": "Methylprednisolone",
-        "llm-average": 2.9
-      },
-      {
-        "entity_name": "Hydrocortisone",
-        "llm-average": 2.2
       }
     ]
   },
@@ -6511,6 +6519,38 @@ export const b4: Question[] = [
   },
   {
     "question_number": 277,
+    "qid": 233,
+    "text": "What drugs are indicated for Scleroderma?",
+    "category": "Abnormality of the integument:Abnormality of skin morphology",
+    "llm_ranking": [
+      {
+        "entity_name": "Bosentan",
+        "llm-average": 8.8
+      },
+      {
+        "entity_name": "Epoprostenol",
+        "llm-average": 8.0
+      },
+      {
+        "entity_name": "Cimetidine",
+        "llm-average": 2.9
+      },
+      {
+        "entity_name": "Ranitidine",
+        "llm-average": 2.8
+      },
+      {
+        "entity_name": "Dexamethasone",
+        "llm-average": 2.6
+      },
+      {
+        "entity_name": "Betamethasone",
+        "llm-average": 2.2
+      }
+    ]
+  },
+  {
+    "question_number": 278,
     "qid": 390,
     "text": "Which genes are curated as targets of Citric acid, which acts on ABCF1 that is curated as interacting with PCSK4?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -6534,7 +6574,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 278,
+    "question_number": 279,
     "qid": 393,
     "text": "Which pathways are annotated with GPR31, which acts on ADORA1 that is detected in pathology samples of head and neck cancer?",
     "category": "cancer:head and neck cancer",
@@ -6550,7 +6590,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 279,
+    "question_number": 280,
     "qid": 396,
     "text": "Which biological processes are associated with ADGRG5, which is curated as interacting with ACVR1B that is detected in pathology samples of cervical cancer?",
     "category": "cancer:reproductive organ cancer",
@@ -6570,7 +6610,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 280,
+    "question_number": 281,
     "qid": 397,
     "text": "Which biological processes are associated with GPR31, which acts on ADORA1 that is detected in pathology samples of head and neck cancer?",
     "category": "cancer:head and neck cancer",
@@ -6598,7 +6638,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 281,
+    "question_number": 282,
     "qid": 410,
     "text": "Which genes are curated as targets of Acyclovir, which acts on HAAO that is annotated in pathway Disulfiram Action Pathway?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -6622,7 +6662,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 282,
+    "question_number": 283,
     "qid": 417,
     "text": "Which genes are curated as targets of Citric acid, which acts on AMZ1 that is curated as interacting with CYFIP1?",
     "category": "Abnormality of the genitourinary system:Abnormality of the upper urinary tract",
@@ -6646,7 +6686,7 @@ export const b4: Question[] = [
     ]
   },
   {
-    "question_number": 283,
+    "question_number": 284,
     "qid": 419,
     "text": "Which biological processes are associated with PGAM4, which acts on ENO2 that is the biomarker of disease cancer?",
     "category": "cancer:None",
@@ -6658,30 +6698,6 @@ export const b4: Question[] = [
       {
         "entity_name": "glycolytic process",
         "llm-average": 2.6
-      }
-    ]
-  },
-  {
-    "question_number": 284,
-    "qid": 430,
-    "text": "Which genes are curated as targets of Ketamine, which acts on AGT that is annotated in pathway Quinapril Action Pathway?",
-    "category": "Abnormality of the eye:Glaucoma",
-    "llm_ranking": [
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
-        "llm-average": 7.8
-      },
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
-        "llm-average": 6.8
-      },
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
-        "llm-average": 6.4
-      },
-      {
-        "entity_name": "glutamate ionotropic receptor NMDA type subunit 3A",
-        "llm-average": 5.2
       }
     ]
   },
