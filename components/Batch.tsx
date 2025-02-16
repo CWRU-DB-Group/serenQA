@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
+import {Card, CardContent, CardDescription, CardHeader, CardTitle} from "@/components/ui/card"
+import {Button} from "@/components/ui/button"
+import {Input} from "@/components/ui/input"
 import {
   Form,
   FormControl,
@@ -10,10 +10,11 @@ import {
   FormLabel,
   FormMessage,
 } from "@/components/ui/form"
-import { useForm } from "react-hook-form"
-import { zodResolver } from "@hookform/resolvers/zod"
+import {useForm} from "react-hook-form"
+import {zodResolver} from "@hookform/resolvers/zod"
 import * as z from "zod"
-import { useUser } from "@/components/UserContext"
+import {useUser} from "@/components/UserContext"
+import {Checkbox} from "@/components/ui/checkbox"
 
 type LLMRanking = {
   entity_name: string;
@@ -31,7 +32,8 @@ export type Question = {
 const questionResponseSchema = z.object({
   question_id: z.string(),
   question: z.string(),
-  entity_responses: z.record(z.string().min(1, "Please provide a response"))
+  entity_responses: z.record(z.string().min(1, "Please provide a response")),
+  not_sure: z.boolean().optional()
 });
 
 const batchFormSchema = z.object({
@@ -64,8 +66,12 @@ const getDefaultValues = (questions: Question[]): BatchFormValues => {
   };
 };
 
-const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], batchId: number, onComplete: (id: string) => void }) => {
-  const { userEmail } = useUser();
+const BatchForm = ({onComplete, batchId, questions}: {
+  questions: Question[],
+  batchId: number,
+  onComplete: (id: string) => void
+}) => {
+  const {userEmail} = useUser();
   const [currentPage, setCurrentPage] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const questionsPerPage = 10;
@@ -210,7 +216,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
             <FormField
               control={form.control}
               name="confidence"
-              render={({ field }) => (
+              render={({field}) => (
                 <FormItem>
                   <FormLabel>Confidence Level (1-5)</FormLabel>
                   <FormControl>
@@ -222,7 +228,7 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
                       onChange={e => field.onChange(Number(e.target.value))}
                     />
                   </FormControl>
-                  <FormMessage />
+                  <FormMessage/>
                 </FormItem>
               )}
             />
@@ -241,17 +247,36 @@ const BatchForm = ({ onComplete, batchId, questions }: { questions: Question[], 
                         key={entity.entity_name}
                         control={form.control}
                         name={`responses.${responseIndex}.entity_responses.${entity.entity_name}`}
-                        render={({ field }) => (
+                        render={({field}) => (
                           <FormItem className="flex flex-row items-center justify-between">
                             <FormLabel>{entity.entity_name}</FormLabel>
                             <FormControl className="w-1/2">
-                              <Input {...field} value={field.value || ''} />
+                              <Input {...field} value={field.value || ''}/>
                             </FormControl>
-                            <FormMessage />
+                            <FormMessage/>
                           </FormItem>
                         )}
                       />
-                    )): null}
+                    )) : null}
+
+                    <FormField
+                      control={form.control}
+                      name={`responses.${responseIndex}.not_sure`}
+                      render={({field}) => (
+                        <FormItem className="flex flex-row items-center justify-between">
+                          <FormLabel>I am not sure of this question</FormLabel>
+                          <FormControl className='w-1/2'>
+                            <div className="flex items-start">
+                              <Checkbox
+                                checked={field.value}
+                                onCheckedChange={field.onChange}
+                              />
+                            </div>
+                          </FormControl>
+                          <FormMessage/>
+                        </FormItem>
+                      )}
+                    />
                   </div>
                 </div>
               );
