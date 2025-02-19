@@ -1,0 +1,1413 @@
+[
+    {
+        "question_number": 1,
+        "qid": 566,
+        "text": "Which proteins interact with PHC2, a gene involved in the SUMOylation of chromatin organization proteins pathway and linked to bone diseases?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CBX7",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95931/entry"
+            },
+            {
+                "entity_name": "L3MBTL2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q969R5/entry"
+            },
+            {
+                "entity_name": "SCML2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQR0/entry"
+            },
+            {
+                "entity_name": "MAPK14",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16539/entry"
+            },
+            {
+                "entity_name": "PCGF1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BSM1/entry"
+            },
+            {
+                "entity_name": "RBX1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62877/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PHC2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IXK0/entry"
+            },
+            {
+                "entity_name": "SUMOylation of chromatin organization proteins",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-4551638"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 606,
+        "text": "Which proteins interact with GMPPB, a gene involved in the Fructosuria pathway and associated with bone disorders?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "TXNDC5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86UY0/entry"
+            },
+            {
+                "entity_name": "GMPPA",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96IJ6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "GMPPB",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y5P6/entry"
+            },
+            {
+                "entity_name": "Fructosuria",
+                "entity_link": "http://smpdb.ca/view/SMP0000561"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 614,
+        "text": "Which drugs target ADAMTSL5, a gene linked to geleophysic dysplasia and known to interact with NTN4?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Doramapimod",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03044"
+            },
+            {
+                "entity_name": "Bisphenol A",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB06973"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADAMTSL5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6ZMM2/entry"
+            },
+            {
+                "entity_name": "NTN4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HB63/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 635,
+        "text": "Which drugs target LMOD1, a gene involved in the Smooth Muscle Contraction pathway and associated with distal arthrogryposis type 2B?",
+        "category": "musculoskeletal system disease:muscle tissue disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Dasatinib",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01254"
+            },
+            {
+                "entity_name": "Atrazine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB07392"
+            },
+            {
+                "entity_name": "Progesterone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00396"
+            },
+            {
+                "entity_name": "ATP",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            },
+            {
+                "entity_name": "Zinc",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01593"
+            },
+            {
+                "entity_name": "Vitamin E",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00163"
+            },
+            {
+                "entity_name": "Calcium",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01373"
+            },
+            {
+                "entity_name": "Dihydrogenphosphate",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB02831"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LMOD1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29536/entry"
+            },
+            {
+                "entity_name": "Smooth Muscle Contraction",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-445355"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 724,
+        "text": "Which proteins interact with FUCA2, a gene involved in the post-translational protein phosphorylation pathway and associated with geleophysic dysplasia?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "WNT11",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O96014/entry"
+            },
+            {
+                "entity_name": "CUL3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13618/entry"
+            },
+            {
+                "entity_name": "GPR37",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15354/entry"
+            },
+            {
+                "entity_name": "GPRC5B",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NZH0/entry"
+            },
+            {
+                "entity_name": "MEOX2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50222/entry"
+            },
+            {
+                "entity_name": "HSCB",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IWL3/entry"
+            },
+            {
+                "entity_name": "FUCA1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04066/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FUCA2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BTY2/entry"
+            },
+            {
+                "entity_name": "Post-translational protein phosphorylation",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8957275"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 776,
+        "text": "Which drugs target RAB33B, a gene involved in the TBC/RABGAPs pathway and associated with bone diseases?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Phosphoaminophosphonic acid guanylate ester",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02082"
+            },
+            {
+                "entity_name": "Guanosine-5'-Diphosphate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04315"
+            },
+            {
+                "entity_name": "N-Ethylmaleimide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB02967"
+            },
+            {
+                "entity_name": "Tromethamine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB03754"
+            },
+            {
+                "entity_name": "Palmitic Acid",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB03796"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RAB33B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H082/entry"
+            },
+            {
+                "entity_name": "TBC/RABGAPs",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8854214"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 794,
+        "text": "Which drugs target RNF34, a gene involved in the regulation of TP53 degradation pathway and associated with bone diseases?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB08398"
+            },
+            {
+                "entity_name": "Vincristine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00541"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RNF34",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q969K3/entry"
+            },
+            {
+                "entity_name": "Regulation of TP53 Degradation",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6804757"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 835,
+        "text": "Which proteins are known to interact with TRHDE and are associated with bone structure diseases?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "TRH",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20396/entry"
+            },
+            {
+                "entity_name": "ACE",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12821/entry"
+            },
+            {
+                "entity_name": "BLMH",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13867/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TRHDE",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UKU6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 917,
+        "text": "Which proteins are linked to MELAS syndrome and are known to interact with WDR77?",
+        "category": "musculoskeletal system disease:muscle tissue disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CLP1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92989/entry"
+            },
+            {
+                "entity_name": "SIRT7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NRC8/entry"
+            },
+            {
+                "entity_name": "INTS11",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TA45/entry"
+            },
+            {
+                "entity_name": "TOE1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96GM8/entry"
+            },
+            {
+                "entity_name": "RBM5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P52756/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "WDR77",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BQA1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 933,
+        "text": "Which proteins are linked to muscle tissue diseases and are involved in the cardiolipin biosynthesis pathway (CL(i-12:0/i-14:0/a-17:0/18:2(9Z,11Z)))?",
+        "category": "musculoskeletal system disease:muscle tissue disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-12:0/i-14:0/a-17:0/18:2(9Z,11Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0051763"
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "qid": 937,
+        "text": "Which proteins interact with ICOSLG and are linked to paracoccidioidomycosis?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CD40LG",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29965/entry"
+            },
+            {
+                "entity_name": "CTLA4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P16410/entry"
+            },
+            {
+                "entity_name": "CD28",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10747/entry"
+            },
+            {
+                "entity_name": "TNF",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01375/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ICOSLG",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75144/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "qid": 1003,
+        "text": "Which proteins are linked to complete generalized lipodystrophy and are involved in the cardiolipin biosynthesis pathway (CL(i-12:0/a-13:0/i-14:0/i-15:0))?",
+        "category": "musculoskeletal system disease:lipodystrophy",
+        "llm_ranking": [
+            {
+                "entity_name": "AGPAT5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NUQ2/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-12:0/a-13:0/i-14:0/i-15:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0049598"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 1008,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(22:1(13Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)) and are linked to lipodystrophy?",
+        "category": "musculoskeletal system disease:lipodystrophy",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0023748"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 1010,
+        "text": "Which proteins are known to interact with NCAPH2 and are associated with polymyositis?",
+        "category": "musculoskeletal system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "STAG1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WVM7/entry"
+            },
+            {
+                "entity_name": "CD69",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07108/entry"
+            },
+            {
+                "entity_name": "STAG2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N3U4/entry"
+            },
+            {
+                "entity_name": "H2AC20",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16777/entry"
+            },
+            {
+                "entity_name": "H2BC21",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16778/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NCAPH2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6IBW4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 1051,
+        "text": "Which drugs interact with Tocopherylquinone and list osteomalacia as a side effect?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Carbamazepine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00564"
+            },
+            {
+                "entity_name": "Ifosfamide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01181"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tocopherylquinone",
+                "entity_link": "https://go.drugbank.com/drugs/DB14094"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 1067,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PRAG1?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PRAG1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86YV5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "qid": 1082,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with MAPK10?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "TP53",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "MAPK10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P53779/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "qid": 1100,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with LPXN?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "LPXN",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60711/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "qid": 1105,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with GOLPH3?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "MYC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "GOLPH3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H4A6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "qid": 1131,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with SOCS6?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SKP2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13309/entry"
+            },
+            {
+                "entity_name": "STAT5A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42229/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "SOCS6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14544/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "qid": 1154,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PTPN4?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PTPN4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29074/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "qid": 1161,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with DOCK7?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "DOCK7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96N67/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "qid": 1296,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with CNTNAP1?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "CNTNAP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78357/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "qid": 1303,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with TGFB1I1?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "TGFB1I1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43294/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "qid": 1364,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PEAK1?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PEAK1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H792/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "qid": 1374,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with FRS2?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "GAB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQC2/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "SOS1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07889/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FRS2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WU20/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "qid": 1398,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with the HTT protein?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "TP53",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GAB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQC2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "HTT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42858/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "qid": 1469,
+        "text": "Which proteins are part of the CRKL-PDGFRA-CRK-RAPGEF1 complex, are involved in the Bosutinib inhibition of the BCR-ABL pathway, and are associated with bone diseases?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "qid": 1486,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with WASL?",
+        "category": "musculoskeletal system disease:bone disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "WASL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00401/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "qid": 273,
+        "text": "Which biological processes are linked to EBP, the target of Raloxifene?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "skeletal system development",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cholesterol biosynthetic process via lathosterol",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "xenobiotic transport",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cholesterol biosynthetic process via desmosterol",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "sterol biosynthetic process",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cholesterol metabolic process",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cholesterol biosynthetic process",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Raloxifene",
+                "entity_link": "https://go.drugbank.com/drugs/DB00481"
+            },
+            {
+                "entity_name": "EBP",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15125/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "qid": 307,
+        "text": "Which proteins are identified as targets of Fenproporex and are also known to interact with Nabumetone?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "CYP2B6",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20813/entry"
+            },
+            {
+                "entity_name": "CYP3A4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08684/entry"
+            },
+            {
+                "entity_name": "CYP2D6",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10635/entry"
+            },
+            {
+                "entity_name": "CYP1A2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05177/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Nabumetone",
+                "entity_link": "https://go.drugbank.com/drugs/DB00461"
+            },
+            {
+                "entity_name": "Fenproporex",
+                "entity_link": "https://go.drugbank.com/drugs/DB01550"
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "qid": 334,
+        "text": "Which genes are known targets of Erdafitinib and are also associated with interactions involving Nabumetone?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "fibroblast growth factor receptor 3",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "fibroblast growth factor receptor 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "fibroblast growth factor receptor 1",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "epidermal growth factor receptor",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "fibroblast growth factor receptor 4",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "KRAS proto-oncogene, GTPase",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "kinase insert domain receptor",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Nabumetone",
+                "entity_link": "https://go.drugbank.com/drugs/DB00461"
+            },
+            {
+                "entity_name": "Erdafitinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB12147"
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "qid": 27,
+        "text": "What conditions or symptoms is Tapentadol prescribed to treat?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Low back pain",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic pain",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Osteoarthritis",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pain",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tapentadol",
+                "entity_link": "https://go.drugbank.com/drugs/DB06204"
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "qid": 38,
+        "text": "Which genes are targeted by Cholecalciferol?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "glutamate metabotropic receptor 2",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fas cell surface death receptor",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fc fragment of IgG receptor IIIb",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "vitamin D receptor",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cholecalciferol",
+                "entity_link": "https://go.drugbank.com/drugs/DB00169"
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "qid": 42,
+        "text": "Which genes are identified as targets of Oxaprozin?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "carnitine palmitoyltransferase 2",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "prostaglandin-endoperoxide synthase 1",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "prostaglandin-endoperoxide synthase 2",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Oxaprozin",
+                "entity_link": "https://go.drugbank.com/drugs/DB00991"
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "qid": 126,
+        "text": "Which proteins are identified as targets of Pralidoxime?",
+        "category": "Abnormality of the musculoskeletal system:Abnormal muscle physiology",
+        "llm_ranking": [
+            {
+                "entity_name": "TTK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P33981/entry"
+            },
+            {
+                "entity_name": "ACVR1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q04771/entry"
+            },
+            {
+                "entity_name": "PON1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27169/entry"
+            },
+            {
+                "entity_name": "ACVRL1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P37023/entry"
+            },
+            {
+                "entity_name": "ACHE",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22303/entry"
+            },
+            {
+                "entity_name": "BCHE",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06276/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Pralidoxime",
+                "entity_link": "https://go.drugbank.com/drugs/DB00733"
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "qid": 179,
+        "text": "Which drugs list weight loss as a side effect?",
+        "category": "Growth abnormality:Decreased body weight",
+        "llm_ranking": [
+            {
+                "entity_name": "Ranolazine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00243"
+            },
+            {
+                "entity_name": "Ziprasidone",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00246"
+            },
+            {
+                "entity_name": "Phenylephrine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00388"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 38,
+        "qid": 186,
+        "text": "Which drugs are used to treat tetany?",
+        "category": "Abnormality of the musculoskeletal system:Abnormal muscle physiology",
+        "llm_ranking": [
+            {
+                "entity_name": "Calcium",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01373"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            },
+            {
+                "entity_name": "Magnesium sulfate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00653"
+            },
+            {
+                "entity_name": "Erythromycin",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00199"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 39,
+        "qid": 441,
+        "text": "Which genes are identified as targets of Piroxicam, a drug that acts on PPP2R1B, which is known to interact with CDK1?",
+        "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "phospholipase A2 group IIA",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "carnitine palmitoyltransferase 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-glutamyltransferase 1",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cytochrome P450 family 2 subfamily C member 9",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "prostaglandin-endoperoxide synthase 2",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "prostaglandin-endoperoxide synthase 1",
+                "llm_rank": 6,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CDK1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06493/entry"
+            },
+            {
+                "entity_name": "PPP2R1B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30154/entry"
+            },
+            {
+                "entity_name": "Piroxicam",
+                "entity_link": "https://go.drugbank.com/drugs/DB00554"
+            }
+        ]
+    }
+]

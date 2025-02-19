@@ -18,7 +18,8 @@ import {Checkbox} from "@/components/ui/checkbox"
 
 type LLMRanking = {
   entity_name: string;
-  "llm-average": number;
+  "llm_rank": number;
+  "entity_link": string;
 }
 
 export type Question = {
@@ -57,11 +58,12 @@ const getDefaultValues = (questions: Question[]): BatchFormValues => {
       question_id: question.qid.toString(),
       question: `${question.question_number} - ${question.text}`,
       entity_responses: question.llm_ranking.reduce((acc, entity) => {
-        if (entity && typeof entity === 'object' && 'entity_name' in entity && 'llm-average' in entity) {
-          acc[entity.entity_name] = entity["llm-average"].toString();
+        if (entity && typeof entity === 'object' && 'entity_name' in entity && 'llm_rank' in entity) {
+          acc[entity.entity_name] = entity.llm_rank.toString()
         }
         return acc;
-      }, {} as Record<string, string>)
+      }, {} as Record<string, string>),
+      not_sure: false
     }))
   };
 };
@@ -148,8 +150,12 @@ const BatchForm = ({onComplete, batchId, questions}: {
   };
 
   useEffect(() => {
-    loadSavedResponses();
-  }, [batchId]);
+    const timeoutId = setTimeout(() => {
+      loadSavedResponses();
+    }, 300);
+
+    return () => clearTimeout(timeoutId);
+  }, [batchId, questions]);
 
   const totalPages = Math.ceil(questions.length / questionsPerPage);
   const currentQuestions = questions.slice(

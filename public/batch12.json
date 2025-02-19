@@ -1,0 +1,99 @@
+[
+    {
+        "question_number": 1,
+        "qid": 903,
+        "text": "Which proteins are involved in the pathway regulating PTEN stability and activity and are linked to sleeping sickness (African trypanosomiasis)?",
+        "category": "disease by infectious agent:parasitic protozoa infectious disease",
+        "llm_ranking": [
+            {
+                "entity_name": "FRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42685/entry"
+            },
+            {
+                "entity_name": "CSNK2B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P67870/entry"
+            },
+            {
+                "entity_name": "PSMD5",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16401/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Regulation of PTEN stability and activity",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8948751"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 995,
+        "text": "Which proteins are linked to viral infectious diseases and are involved in the De Novo Triacylglycerol Biosynthesis pathway, specifically TG(22:1(13Z)/20:2(11Z,14Z)/24:1(15Z))?",
+        "category": "disease by infectious agent:viral infectious disease",
+        "llm_ranking": [
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/20:2(11Z,14Z)/24:1(15Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0036870"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 1054,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-14:0/i-12:0/i-16:0]) and are linked to diseases caused by infectious agents?",
+        "category": "disease by infectious agent:None",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-14:0/i-12:0/i-16:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0046016"
+            }
+        ]
+    }
+]

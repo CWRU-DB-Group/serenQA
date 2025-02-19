@@ -1,0 +1,243 @@
+[
+    {
+        "question_number": 1,
+        "qid": 720,
+        "text": "Which drugs target the gene C12orf76, which is linked to swine flu (H1N1 influenza) and interacts with FKBP5?",
+        "category": "respiratory system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "Trichostatin A",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04297"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Formaldehyde",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB03843"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C12orf76",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N812/entry"
+            },
+            {
+                "entity_name": "FKBP5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13451/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 836,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(10:0/i-18:0/12:0) and are linked to influenza?",
+        "category": "respiratory system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(10:0/i-18:0/12:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0032236"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 853,
+        "text": "Which proteins are part of the SHARP-CtBP1-CtIP-RBP-Jkappa corepressor complex and are linked to intrinsic asthma?",
+        "category": "respiratory system disease:bronchial disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SPEN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96T58/entry"
+            },
+            {
+                "entity_name": "RBPJ",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q06330/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 4,
+        "qid": 854,
+        "text": "Which proteins are associated with lower respiratory tract diseases and function as subunits of the Exon Junction Complex?",
+        "category": "respiratory system disease:lower respiratory tract disease",
+        "llm_ranking": [
+            {
+                "entity_name": "UPF3B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BZI7/entry"
+            },
+            {
+                "entity_name": "RNPS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15287/entry"
+            },
+            {
+                "entity_name": "UPF2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HAU5/entry"
+            },
+            {
+                "entity_name": "RBM8A",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y5S9/entry"
+            },
+            {
+                "entity_name": "ALYREF",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86V81/entry"
+            },
+            {
+                "entity_name": "NXF1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UBU9/entry"
+            },
+            {
+                "entity_name": "SRRM1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IYB3/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 5,
+        "qid": 902,
+        "text": "Which proteins are linked to benign lung tumors and are known to interact with NTN4?",
+        "category": "respiratory system disease:respiratory system benign neoplasm",
+        "llm_ranking": [
+            {
+                "entity_name": "SEMA3F",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13275/entry"
+            },
+            {
+                "entity_name": "DRAXIN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NBI3/entry"
+            },
+            {
+                "entity_name": "PTPN11",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q06124/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NTN4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HB63/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 958,
+        "text": "Which proteins are associated with influenza and involved in the De Novo Triacylglycerol Biosynthesis pathway, specifically TG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:2(13Z,16Z))?",
+        "category": "respiratory system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:2(13Z,16Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0018854"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 986,
+        "text": "Which proteins are linked to pulmonary emphysema and interact with the C8B gene?",
+        "category": "respiratory system disease:lung disease",
+        "llm_ranking": [
+            {
+                "entity_name": "VTN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04004/entry"
+            },
+            {
+                "entity_name": "CD34",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P28906/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C8B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07358/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 182,
+        "text": "Which drugs are used to treat apnea?",
+        "category": "Abnormality of the respiratory system:Abnormal pattern of respiration",
+        "llm_ranking": [
+            {
+                "entity_name": "Caffeine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00201"
+            },
+            {
+                "entity_name": "Doxapram",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00561"
+            },
+            {
+                "entity_name": "Modafinil",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00745"
+            },
+            {
+                "entity_name": "Hydroxocobalamin",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00200"
+            },
+            {
+                "entity_name": "Desflurane",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01189"
+            },
+            {
+                "entity_name": "Fentanyl",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00813"
+            },
+            {
+                "entity_name": "Balsalazide",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01014"
+            }
+        ],
+        "resource": []
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "question_number": 1,
+        "qid": 674,
+        "text": "Which drugs target EGLN1 (egl-9 family hypoxia-inducible factor 1), which is transcribed into the egl nine homolog 1 isoform 3 and translated into the EGLN1 protein?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "Daprodustat",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB11682"
+            },
+            {
+                "entity_name": "Roxadustat",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04847"
+            },
+            {
+                "entity_name": "Vadadustat",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB12255"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "EGLN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9GZT9-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 1528,
+        "text": "Which drugs are associated with stillbirth as a side effect and interact with Coumaphos? Additionally, which drugs are used to treat stillbirth and interact with Coumaphos?",
+        "category": "Age of death:Stillbirth",
+        "llm_ranking": [
+            {
+                "entity_name": "Mifepristone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00834"
+            },
+            {
+                "entity_name": "Felbamate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00949"
+            },
+            {
+                "entity_name": "Paliperidone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01267"
+            },
+            {
+                "entity_name": "Citalopram",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00215"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            },
+            {
+                "entity_name": "Risperidone",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00734"
+            },
+            {
+                "entity_name": "Cetirizine",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00341"
+            },
+            {
+                "entity_name": "Bisoprolol",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00612"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Coumaphos",
+                "entity_link": "https://go.drugbank.com/drugs/DB11390"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 804,
+        "text": "Which drugs interact with Ceftibuten and list chronic pain as a side effect?",
+        "category": "Constitutional symptom:Chronic pain",
+        "llm_ranking": [
+            {
+                "entity_name": "Fentanyl",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00813"
+            },
+            {
+                "entity_name": "Etoricoxib",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01628"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ceftibuten",
+                "entity_link": "https://go.drugbank.com/drugs/DB01415"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 830,
+        "text": "Which proteins are linked to VACTERL association and are known to interact with IRS4?",
+        "category": "VACTERL association:None",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPN11",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q06124/entry"
+            },
+            {
+                "entity_name": "IKBKG",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y6K9/entry"
+            },
+            {
+                "entity_name": "PTPN18",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99952/entry"
+            },
+            {
+                "entity_name": "PIK3CA",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42336/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            },
+            {
+                "entity_name": "MAPK8",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P45983/entry"
+            },
+            {
+                "entity_name": "IGF2",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01344/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "IRS4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14654/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 904,
+        "text": "Which proteins are part of the ESR1-RELA-BCL3-NCOA3 complex and are linked to chronic fatigue syndrome?",
+        "category": "chronic fatigue syndrome:None",
+        "llm_ranking": [
+            {
+                "entity_name": "ESR1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P03372/entry"
+            },
+            {
+                "entity_name": "RELA",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q04206/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 6,
+        "qid": 934,
+        "text": "Which proteins are associated with diseases involving abnormal cellular proliferation and are subunits of the ITGA6-ITGB4-FYN complex?",
+        "category": "disease:disease of cellular proliferation",
+        "llm_ranking": [
+            {
+                "entity_name": "ITGB4",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P16144/entry"
+            },
+            {
+                "entity_name": "ITGA6",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23229/entry"
+            },
+            {
+                "entity_name": "FYN",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06241/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 7,
+        "qid": 1039,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(14:1(9Z)/16:0/18:2(9Z,12Z)) and are linked to diseases affecting anatomical structures?",
+        "category": "disease:disease of anatomical entity",
+        "llm_ranking": [
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/16:0/18:2(9Z,12Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0020687"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 20,
+        "text": "Which genes are known to be targets of Ipatasertib?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "AKT serine/threonine kinase 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "AKT serine/threonine kinase 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "AKT serine/threonine kinase 3",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "phosphatase and tensin homolog",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "KRAS proto-oncogene, GTPase",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 2",
+                "llm_rank": 7,
+                "entity_link": null
+            },
+            {
+                "entity_name": "protein kinase cGMP-dependent 1",
+                "llm_rank": 8,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ipatasertib",
+                "entity_link": "https://go.drugbank.com/drugs/DB11743"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 29,
+        "text": "Which genes are targeted by Budiodarone?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "potassium voltage-gated channel subfamily H member 2",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "calcium voltage-gated channel auxiliary subunit alpha2delta 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "adrenoceptor beta 1",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Budiodarone",
+                "entity_link": "https://go.drugbank.com/drugs/DB05519"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 41,
+        "text": "Which genes are identified as targets of Cebranopadol?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "opioid related nociceptin receptor 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "opioid receptor mu 1",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "opioid receptor delta 1",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "opioid receptor kappa 1",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cebranopadol",
+                "entity_link": "https://go.drugbank.com/drugs/DB12830"
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "qid": 68,
+        "text": "Which genes are targeted by Bicuculline?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "potassium calcium-activated channel subfamily N member 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha5",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha6",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bicuculline",
+                "entity_link": "https://go.drugbank.com/drugs/DB11562"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "qid": 78,
+        "text": "Which genes are known to be targeted by Poziotinib?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "KRAS proto-oncogene, GTPase",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 3",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 2",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "epidermal growth factor receptor",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Poziotinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB12114"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 81,
+        "text": "Which genes are identified as targets of Prexasertib?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "checkpoint kinase 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "MYC proto-oncogene, bHLH transcription factor",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "checkpoint kinase 2",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "ribosomal protein S6 kinase A1",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "CDP-diacylglycerol synthase 1",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Prexasertib",
+                "entity_link": "https://go.drugbank.com/drugs/DB12008"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 114,
+        "text": "Which genes are identified as targets of Poziotinib?",
+        "category": "others:None",
+        "llm_ranking": [
+            {
+                "entity_name": "KRAS proto-oncogene, GTPase",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 3",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "erb-b2 receptor tyrosine kinase 2",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "epidermal growth factor receptor",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Poziotinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB12114"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 174,
+        "text": "Which drugs are used to manage conditions associated with stillbirth?",
+        "category": "Age of death:Stillbirth",
+        "llm_ranking": [
+            {
+                "entity_name": "Mifepristone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00834"
+            },
+            {
+                "entity_name": "Dinoprost tromethamine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01160"
+            },
+            {
+                "entity_name": "Dinoprostone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00917"
+            },
+            {
+                "entity_name": "Cabergoline",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00248"
+            },
+            {
+                "entity_name": "Bromocriptine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01200"
+            }
+        ],
+        "resource": []
+    }
+]
