@@ -15,6 +15,8 @@ import {zodResolver} from "@hookform/resolvers/zod"
 import * as z from "zod"
 import {useUser} from "@/components/UserContext"
 import {Checkbox} from "@/components/ui/checkbox"
+import Link from "next/link";
+import {LinkIcon} from "lucide-react";
 
 type LLMRanking = {
   entity_name: string;
@@ -255,7 +257,9 @@ const BatchForm = ({onComplete, batchId, questions}: {
                         name={`responses.${responseIndex}.entity_responses.${entity.entity_name}`}
                         render={({field}) => (
                           <FormItem className="flex flex-row items-center justify-between">
-                            <FormLabel>{entity.entity_name}</FormLabel>
+                            <FormLabel><Link href={entity.entity_link.toString()} target="_blank" className="flex gap-x-2 items-center">
+                              {entity.entity_name} <LinkIcon size={16}/>
+                            </Link></FormLabel>
                             <FormControl className="w-1/2">
                               <Input {...field} value={field.value || ''}/>
                             </FormControl>
