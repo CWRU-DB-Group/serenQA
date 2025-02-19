@@ -1,0 +1,2159 @@
+[
+    {
+        "question_number": 1,
+        "qid": 571,
+        "text": "Which drugs target SUPT6H, a gene involved in the RNA Polymerase II pre-transcription events pathway and linked to legume allergy?",
+        "category": "immune system disease:gastrointestinal allergy",
+        "llm_ranking": [
+            {
+                "entity_name": "Bufotenine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01445"
+            },
+            {
+                "entity_name": "2-(N-morpholino)ethanesulfonic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB03814"
+            },
+            {
+                "entity_name": "Balsalazide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01014"
+            },
+            {
+                "entity_name": "Meropenem",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00760"
+            },
+            {
+                "entity_name": "Succinic acid",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00139"
+            },
+            {
+                "entity_name": "Acetic acid",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB03166"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SUPT6H",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q7KZ85/entry"
+            },
+            {
+                "entity_name": "RNA Polymerase II Pre-transcription Events",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-674695"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 1526,
+        "text": "Which drugs are used to treat pustules and interact with Chlorcyclizine, and which drugs cause pustules as a side effect and also interact with Chlorcyclizine?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Erlotinib",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00530"
+            },
+            {
+                "entity_name": "Ketoconazole",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01026"
+            },
+            {
+                "entity_name": "Metronidazole",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00916"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chlorcyclizine",
+                "entity_link": "https://go.drugbank.com/drugs/DB08936"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 454,
+        "text": "Which drugs target neurofibromin 2 (NF2) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Selumetinib",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB11689"
+            },
+            {
+                "entity_name": "Everolimus",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01590"
+            },
+            {
+                "entity_name": "Temsirolimus",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB06287"
+            },
+            {
+                "entity_name": "Octreotide",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00104"
+            },
+            {
+                "entity_name": "Lapatinib",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01259"
+            },
+            {
+                "entity_name": "Erlotinib",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00530"
+            },
+            {
+                "entity_name": "Imatinib",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00619"
+            },
+            {
+                "entity_name": "Carboplatin",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00958"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NF2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16230/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 460,
+        "text": "Which drugs target mitogen-activated protein kinase kinase 7 (MAP2K7) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Binimetinib",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB11967"
+            },
+            {
+                "entity_name": "Selumetinib",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB11689"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MAP2K7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/D6W660/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 475,
+        "text": "Which drugs interact with Ifosfamide, used to treat acute lymphoblastic leukemia, and also target the FTMT gene?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Doxycycline",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00254"
+            },
+            {
+                "entity_name": "Lacosamide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB06218"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ifosfamide",
+                "entity_link": "https://go.drugbank.com/drugs/DB01181"
+            },
+            {
+                "entity_name": "FTMT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N4E7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 482,
+        "text": "Which drugs target the MS4A1 gene (membrane-spanning 4-domains A1) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Tositumomab",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00081"
+            },
+            {
+                "entity_name": "Rituximab",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00073"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MS4A1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11836-1/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 490,
+        "text": "Which drugs target BMP4, a gene associated with fruit fly models, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Sirolimus",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00877"
+            },
+            {
+                "entity_name": "Flutamide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00499"
+            },
+            {
+                "entity_name": "Estradiol",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00783"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "BMP4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12644/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 492,
+        "text": "Which drugs interact with Nelarabine, used to treat acute lymphoblastic leukemia, and target the PRDX4 protein?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Vorinostat",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02546"
+            },
+            {
+                "entity_name": "Gallium nitrate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB05260"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Nelarabine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01280"
+            },
+            {
+                "entity_name": "PRDX4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13162/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 497,
+        "text": "Which drugs target Toll-like receptor 4 (TLR4) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Infliximab",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00065"
+            },
+            {
+                "entity_name": "Nelfinavir",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00220"
+            },
+            {
+                "entity_name": "Ritonavir",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00503"
+            },
+            {
+                "entity_name": "Saquinavir",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01232"
+            },
+            {
+                "entity_name": "Ethanol",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00898"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TLR4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/D2JYI2/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 498,
+        "text": "Which drugs target HKDC1, a gene associated with fructose metabolism, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Estradiol",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00783"
+            },
+            {
+                "entity_name": "Glucosamine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01296"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "HKDC1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q2TB90/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "qid": 511,
+        "text": "Which drugs interact with Epirubicin, used to treat acute lymphoblastic leukemia, and target PRDX4?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Vorinostat",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02546"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            },
+            {
+                "entity_name": "Gallium nitrate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB05260"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Epirubicin",
+                "entity_link": "https://go.drugbank.com/drugs/DB00445"
+            },
+            {
+                "entity_name": "PRDX4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13162/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "qid": 512,
+        "text": "Which drugs target KIF17, a gene associated with fruit fly models, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Docetaxel",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01248"
+            },
+            {
+                "entity_name": "Paclitaxel",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01229"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "KIF17",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P2E2/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 523,
+        "text": "Which drugs target the gene PPIC, which is associated with fruit fly models, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Rabeprazole",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01129"
+            },
+            {
+                "entity_name": "Tacrolimus",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00864"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PPIC",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P45877/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 537,
+        "text": "Which drugs target the potassium voltage-gated channel subfamily H member 1 (KCNH1) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Astemizole",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00637"
+            },
+            {
+                "entity_name": "Dofetilide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00204"
+            },
+            {
+                "entity_name": "Terfenadine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00342"
+            },
+            {
+                "entity_name": "Haloperidol",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00502"
+            },
+            {
+                "entity_name": "Imipramine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00458"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "KCNH1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/A0A1W2PPA2/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 540,
+        "text": "Which drugs target IL21, a gene linked to fruit allergies, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Conjugated estrogens",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00286"
+            },
+            {
+                "entity_name": "Estrone sulfate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04574"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "IL21",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HBE4/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 543,
+        "text": "Which drugs target DAD1, a gene associated with plant-based compounds, and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Haloperidol",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00502"
+            },
+            {
+                "entity_name": "Cocaine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00907"
+            },
+            {
+                "entity_name": "Dopamine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00988"
+            },
+            {
+                "entity_name": "Dextroamphetamine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01576"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DAD1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61803/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "qid": 555,
+        "text": "Which drugs target SMARCB1 (a member of the SWI/SNF chromatin remodeling complex) and interact with Anagrelide?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Vorinostat",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02546"
+            },
+            {
+                "entity_name": "Panobinostat",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB06603"
+            },
+            {
+                "entity_name": "Palbociclib",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB09073"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SMARCB1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/B5MCL5/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "qid": 855,
+        "text": "Which drugs interact with Tucidinostat and list erysipelas as a side effect?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Clarithromycin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01211"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            },
+            {
+                "entity_name": "Citalopram",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00215"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tucidinostat",
+                "entity_link": "https://go.drugbank.com/drugs/DB06334"
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "qid": 910,
+        "text": "Which proteins are linked to allergic diseases and interact with GLI1?",
+        "category": "immune system disease:allergic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SIRT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96EB6/entry"
+            },
+            {
+                "entity_name": "ITGB4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P16144/entry"
+            },
+            {
+                "entity_name": "PSMD5",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16401/entry"
+            },
+            {
+                "entity_name": "MMP2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08253/entry"
+            },
+            {
+                "entity_name": "CCND1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P24385/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "GLI1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08151/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "qid": 914,
+        "text": "Which drugs cause lymphopenia as a side effect and interact with Carfecillin?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Mycophenolic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01024"
+            },
+            {
+                "entity_name": "Levofloxacin",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01137"
+            },
+            {
+                "entity_name": "Ofloxacin",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01165"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Carfecillin",
+                "entity_link": "https://go.drugbank.com/drugs/DB13506"
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "qid": 935,
+        "text": "Which drugs interact with Epitizide and have immunodeficiency as a side effect?",
+        "category": "Abnormality of the immune system:Immunodeficiency",
+        "llm_ranking": [
+            {
+                "entity_name": "Methotrexate",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00563"
+            },
+            {
+                "entity_name": "Saxagliptin",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB06335"
+            },
+            {
+                "entity_name": "Zonisamide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00909"
+            },
+            {
+                "entity_name": "Fluconazole",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00196"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Epitizide",
+                "entity_link": "https://go.drugbank.com/drugs/DB13989"
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "qid": 963,
+        "text": "Which proteins are linked to complement component 3 deficiency and are known to interact with FST?",
+        "category": "immune system disease:complement deficiency",
+        "llm_ranking": [
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "TGFB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61812/entry"
+            },
+            {
+                "entity_name": "IL6",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05231/entry"
+            },
+            {
+                "entity_name": "VEGFA",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P15692/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            },
+            {
+                "entity_name": "FGF2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09038/entry"
+            },
+            {
+                "entity_name": "CTSL",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07711/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FST",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P19883/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "qid": 967,
+        "text": "Which proteins are linked to hypersensitivity reactions and interact with CCN4?",
+        "category": "immune system disease:hypersensitivity reaction disease",
+        "llm_ranking": [
+            {
+                "entity_name": "MMP2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08253/entry"
+            },
+            {
+                "entity_name": "DCN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07585/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CCN4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95388/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "qid": 287,
+        "text": "Which proteins are influenced by GIPR, a receptor targeted by Chenodeoxycholic acid?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "GPHB5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86YW7/entry"
+            },
+            {
+                "entity_name": "ADCYAP1R1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P41586/entry"
+            },
+            {
+                "entity_name": "CGA",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/A0A087WYZ4/entry"
+            },
+            {
+                "entity_name": "GNB1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62873/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chenodeoxycholic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB06777"
+            },
+            {
+                "entity_name": "GIPR",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P48546/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "qid": 290,
+        "text": "Which proteins are targeted by Trabectedin and also interact with Trametinib?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "CYP2C9",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11712/entry"
+            },
+            {
+                "entity_name": "JUN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05412/entry"
+            },
+            {
+                "entity_name": "NR1I2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75469/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Trametinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB08911"
+            },
+            {
+                "entity_name": "Trabectedin",
+                "entity_link": "https://go.drugbank.com/drugs/DB05109"
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "qid": 292,
+        "text": "Which proteins are targeted by Zanamivir and also interact with Trametinib?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "NEU3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQ49/entry"
+            },
+            {
+                "entity_name": "NEU2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y3R4/entry"
+            },
+            {
+                "entity_name": "NEU1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99519/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Trametinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB08911"
+            },
+            {
+                "entity_name": "Zanamivir",
+                "entity_link": "https://go.drugbank.com/drugs/DB00558"
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "qid": 305,
+        "text": "Which proteins are targeted by RARRES1, a known target of Tazarotene?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "TMEM192",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IY95/entry"
+            },
+            {
+                "entity_name": "CTCF",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P49711/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tazarotene",
+                "entity_link": "https://go.drugbank.com/drugs/DB00799"
+            },
+            {
+                "entity_name": "RARRES1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P49788/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "qid": 319,
+        "text": "What biological processes are associated with RARRES1, a target of the drug Tazarotene?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "negative regulation of cell population proliferation",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "negative regulation of endopeptidase activity",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tazarotene",
+                "entity_link": "https://go.drugbank.com/drugs/DB00799"
+            },
+            {
+                "entity_name": "RARRES1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P49788/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "qid": 322,
+        "text": "Which proteins are affected by SLCO1B1, a transporter targeted by chenodeoxycholic acid?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "SLCO1B3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPD5/entry"
+            },
+            {
+                "entity_name": "ALB",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P02768/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chenodeoxycholic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB06777"
+            },
+            {
+                "entity_name": "SLCO1B1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y6L6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "qid": 323,
+        "text": "Which pathways are associated with SLCO1B1, a gene targeted by Chenodeoxycholic acid?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Recycling of bile acids and salts",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Transport of organic anions",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Heme degradation",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Irinotecan Action Pathway",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Rosiglitazone Metabolism Pathway",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Irinotecan Metabolism Pathway",
+                "llm_rank": 7,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Mycophenolic Acid Metabolism Pathway",
+                "llm_rank": 8,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chenodeoxycholic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB06777"
+            },
+            {
+                "entity_name": "SLCO1B1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y6L6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "qid": 324,
+        "text": "Which pathways are associated with IFNA6 and are influenced by Chenodeoxycholic acid?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "TRAF6 mediated IRF7 activation",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Interferon alpha/beta signaling",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Factors involved in megakaryocyte development and platelet production",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Regulation of IFNA signaling",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chenodeoxycholic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB06777"
+            },
+            {
+                "entity_name": "IFNA6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05013/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "qid": 336,
+        "text": "Which genes are identified as targets of Megestrol acetate and also interact with Trametinib?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "ATP binding cassette subfamily B member 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "sphingosine-1-phosphate receptor 4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "interleukin 15",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "sphingosine-1-phosphate receptor 1",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "interleukin 2 receptor subunit alpha",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "progesterone receptor",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "kallikrein related peptidase 3",
+                "llm_rank": 7,
+                "entity_link": null
+            },
+            {
+                "entity_name": "estrogen receptor 1",
+                "llm_rank": 8,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Trametinib",
+                "entity_link": "https://go.drugbank.com/drugs/DB08911"
+            },
+            {
+                "entity_name": "Megestrol acetate",
+                "entity_link": "https://go.drugbank.com/drugs/DB00351"
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "qid": 361,
+        "text": "Which pathways are associated with RXRG, a target of Chenodeoxycholic acid?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Signaling by Retinoic Acid",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Nuclear Receptor transcription pathway",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chenodeoxycholic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB06777"
+            },
+            {
+                "entity_name": "RXRG",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P48443/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "qid": 7,
+        "text": "Which genes are known to be targeted by Cimetidine?",
+        "category": "Abnormality of the immune system:Immunologic hypersensitivity",
+        "llm_ranking": [
+            {
+                "entity_name": "solute carrier family 47 member 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 29 member 4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "leucine rich repeat containing G protein-coupled receptor 4",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "leucine rich repeat containing G protein-coupled receptor 5",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fc fragment of IgG receptor IIIa",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "actin gamma 1 pseudogene 4",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "nitric oxide synthase 1",
+                "llm_rank": 7,
+                "entity_link": null
+            },
+            {
+                "entity_name": "histamine receptor H2",
+                "llm_rank": 8,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cimetidine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00501"
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "qid": 12,
+        "text": "What conditions or diseases is Azathioprine commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Autoimmunity",
+        "llm_ranking": [
+            {
+                "entity_name": "Autoimmune hemolytic anemia",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic active hepatitis",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Crohn's disease",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Systemic lupus erythematosus",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Ulcerative colitis",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Rheumatoid arthritis",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Inflammation of the large intestine",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Azathioprine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00993"
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "qid": 39,
+        "text": "What conditions or symptoms is Chlorhexidine commonly used to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Periodontitis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Gingival bleeding",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Carious teeth",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Gingivitis",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chlorhexidine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00878"
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "qid": 49,
+        "text": "What conditions or diseases is Decitabine commonly used to treat?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Chronic myelomonocytic leukemia",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Acute megakaryocytic leukemia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Refractory anemia",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Elevated hepatic transaminase",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Decitabine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01262"
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "qid": 54,
+        "text": "What conditions or symptoms is Scopolamine commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Vomiting",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Nausea",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Iridocyclitis",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Mydriasis",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Scopolamine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00747"
+            }
+        ]
+    },
+    {
+        "question_number": 39,
+        "qid": 60,
+        "text": "What conditions or symptoms is Terbutaline commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Immunologic hypersensitivity",
+        "llm_ranking": [
+            {
+                "entity_name": "Emphysema",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Asthma",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Bronchitis",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Terbutaline",
+                "entity_link": "https://go.drugbank.com/drugs/DB00871"
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "qid": 66,
+        "text": "What conditions or symptoms is Salmeterol prescribed to treat?",
+        "category": "Abnormality of the immune system:Immunologic hypersensitivity",
+        "llm_ranking": [
+            {
+                "entity_name": "Airway obstruction",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Respiratory distress",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Exercise-induced asthma",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Emphysema",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic bronchitis",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Asthma",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic pulmonary obstruction",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Salmeterol",
+                "entity_link": "https://go.drugbank.com/drugs/DB00938"
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "qid": 77,
+        "text": "What conditions or diseases is Cladribine approved to treat?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Neoplasm",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Leukemia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Lymphoma",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Nausea",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fever",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cladribine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00242"
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "qid": 82,
+        "text": "What conditions or symptoms is ascorbic acid commonly used to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Gingival bleeding",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pneumonia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Sinusitis",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Gingivitis",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fever",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ascorbic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB00126"
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "qid": 89,
+        "text": "What conditions or diseases is Fosamprenavir prescribed to treat?",
+        "category": "Abnormality of the immune system:Immunodeficiency",
+        "llm_ranking": [
+            {
+                "entity_name": "Reduced factor XI activity",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Immunodeficiency",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Fosamprenavir",
+                "entity_link": "https://go.drugbank.com/drugs/DB01319"
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "qid": 95,
+        "text": "What conditions or symptoms is Ipratropium commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Immunologic hypersensitivity",
+        "llm_ranking": [
+            {
+                "entity_name": "Emphysema",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Nasal obstruction",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Glaucoma",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic pulmonary obstruction",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic bronchitis",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Asthma",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Seasonal allergy",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ipratropium",
+                "entity_link": "https://go.drugbank.com/drugs/DB00332"
+            }
+        ]
+    },
+    {
+        "question_number": 45,
+        "qid": 100,
+        "text": "Which diseases use MPO (myeloperoxidase) as a biomarker?",
+        "category": "immune system disease:autoimmune disease",
+        "llm_ranking": [
+            {
+                "entity_name": "vasculitis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "autoimmune disease",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MPO",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05164/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 46,
+        "qid": 110,
+        "text": "What conditions or symptoms is Propantheline commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Hyperhidrosis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Peptic ulcer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cholecystitis",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Diarrhea",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Gastritis",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Ulcerative colitis",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pancreatitis",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Propantheline",
+                "entity_link": "https://go.drugbank.com/drugs/DB00782"
+            }
+        ]
+    },
+    {
+        "question_number": 47,
+        "qid": 118,
+        "text": "What conditions or symptoms is Calcipotriol commonly prescribed to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Psoriasiform dermatitis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Abnormality of the skin",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Calcipotriol",
+                "entity_link": "https://go.drugbank.com/drugs/DB02300"
+            }
+        ]
+    },
+    {
+        "question_number": 48,
+        "qid": 129,
+        "text": "What conditions or symptoms is Monobenzone typically used to treat?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Vitiligo",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hyperpigmentation of the skin",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cafe-au-lait spot",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cutaneous melanoma",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Nevus",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hypopigmentation of the skin",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Inflammatory abnormality of the skin",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Monobenzone",
+                "entity_link": "https://go.drugbank.com/drugs/DB00600"
+            }
+        ]
+    },
+    {
+        "question_number": 49,
+        "qid": 132,
+        "text": "What conditions or phenotypes is Decitabine approved to treat?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Acute megakaryocytic leukemia",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic myelomonocytic leukemia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Refractory anemia",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Elevated hepatic transaminase",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Decitabine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01262"
+            }
+        ]
+    },
+    {
+        "question_number": 50,
+        "qid": 147,
+        "text": "Which genes are identified as targets of Clotrimazole?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "transient receptor potential cation channel subfamily M member 8",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "transient receptor potential cation channel subfamily M member 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "transient receptor potential cation channel subfamily M member 4",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "nuclear receptor subfamily 1 group I member 3",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "potassium calcium-activated channel subfamily N member 4",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cytochrome P450 family 3 subfamily A member 4",
+                "llm_rank": 6,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Clotrimazole",
+                "entity_link": "https://go.drugbank.com/drugs/DB00257"
+            }
+        ]
+    },
+    {
+        "question_number": 51,
+        "qid": 166,
+        "text": "Which drugs are commonly used to treat acne?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Moxifloxacin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00218"
+            },
+            {
+                "entity_name": "Doxycycline",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00254"
+            },
+            {
+                "entity_name": "Clindamycin",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01190"
+            },
+            {
+                "entity_name": "Azithromycin",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00207"
+            },
+            {
+                "entity_name": "Erythromycin",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00199"
+            },
+            {
+                "entity_name": "D-Levofloxacin",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB03034"
+            },
+            {
+                "entity_name": "Ofloxacin",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01165"
+            },
+            {
+                "entity_name": "Levofloxacin",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB01137"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 52,
+        "qid": 172,
+        "text": "Which drugs are used to treat Crohn's disease?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Clodronic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00720"
+            },
+            {
+                "entity_name": "Cyanocobalamin",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00115"
+            },
+            {
+                "entity_name": "Metronidazole",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00916"
+            },
+            {
+                "entity_name": "Azathioprine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00993"
+            },
+            {
+                "entity_name": "Mesalazine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00244"
+            },
+            {
+                "entity_name": "Budesonide",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01222"
+            },
+            {
+                "entity_name": "Sulfasalazine",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00795"
+            },
+            {
+                "entity_name": "Prednisone",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00635"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 53,
+        "qid": 197,
+        "text": "Which proteins are considered biomarkers for immune system diseases?",
+        "category": "immune system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "PLA2G1B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04054/entry"
+            },
+            {
+                "entity_name": "C1R",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00736/entry"
+            },
+            {
+                "entity_name": "C1S",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09871/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 54,
+        "qid": 220,
+        "text": "Which drugs are used to treat optic neuritis?",
+        "category": "Abnormality of the immune system:Abnormal inflammatory response",
+        "llm_ranking": [
+            {
+                "entity_name": "Methylprednisolone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00959"
+            },
+            {
+                "entity_name": "Prednisone",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00635"
+            },
+            {
+                "entity_name": "Dexamethasone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01234"
+            },
+            {
+                "entity_name": "Prednisolone",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00860"
+            },
+            {
+                "entity_name": "Hydrocortisone",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00741"
+            },
+            {
+                "entity_name": "Betamethasone",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00443"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 55,
+        "qid": 234,
+        "text": "Which drugs specifically target the EPH receptor A2?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Dorsomorphin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB08597"
+            },
+            {
+                "entity_name": "Regorafenib",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB08896"
+            },
+            {
+                "entity_name": "Dasatinib",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01254"
+            },
+            {
+                "entity_name": "Vandetanib",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB05294"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 56,
+        "qid": 394,
+        "text": "Which biological processes are linked to IGLL5, a gene that influences C1R, a biomarker for immune system disorders?",
+        "category": "immune system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "complement activation, classical pathway",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "positive regulation of B cell activation",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "B cell receptor signaling pathway",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "phagocytosis, engulfment",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "defense response to bacterium",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "innate immune response",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "phagocytosis, recognition",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C1R",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00736/entry"
+            },
+            {
+                "entity_name": "IGLL5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/B9A064/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 57,
+        "qid": 418,
+        "text": "Which genes are identified as targets of Cytidine, which affects AHNAK and interacts with ARMH4?",
+        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "gastrin releasing peptide receptor",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "neuromedin B receptor",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ARMH4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86TY3-2/entry"
+            },
+            {
+                "entity_name": "AHNAK",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09666/entry"
+            },
+            {
+                "entity_name": "Cytidine",
+                "entity_link": "https://go.drugbank.com/drugs/DB02097"
+            }
+        ]
+    },
+    {
+        "question_number": 58,
+        "qid": 448,
+        "text": "Which biological processes are linked to SVEP1, which interacts with C1S, a biomarker for immune system disorders?",
+        "category": "immune system disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "Tie signaling pathway",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "lymph vessel morphogenesis",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "lymph circulation",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "epidermis development",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cell adhesion",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "tight junction organization",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gene expression",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C1S",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09871/entry"
+            },
+            {
+                "entity_name": "SVEP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q4LDE5/entry"
+            }
+        ]
+    }
+]

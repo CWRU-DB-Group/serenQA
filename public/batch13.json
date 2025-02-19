@@ -1,0 +1,4235 @@
+[
+    {
+        "question_number": 1,
+        "qid": 577,
+        "text": "Which drugs target TRA2B, a gene involved in the RHOBTB1 GTPase cycle pathway and associated with type 2 diabetes?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "Ethinylestradiol",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00977"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            },
+            {
+                "entity_name": "Acetylsalicylic acid",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00945"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TRA2B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62995/entry"
+            },
+            {
+                "entity_name": "RHOBTB1 GTPase cycle",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9013422"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 583,
+        "text": "Which proteins interact with TDGF1, a gene involved in the NODAL signaling pathway and associated with chromosomal deletion syndromes?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "GPC1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35052/entry"
+            },
+            {
+                "entity_name": "FBLN1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23142/entry"
+            },
+            {
+                "entity_name": "FARSA",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y285/entry"
+            },
+            {
+                "entity_name": "AP2S1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P53680/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TDGF1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13385/entry"
+            },
+            {
+                "entity_name": "Signaling by NODAL",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1181150"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 586,
+        "text": "Which drugs target RPS7, a gene involved in the SRP-dependent cotranslational protein targeting to the membrane pathway and associated with Griscelli syndrome type 2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Nα-[(2S)-2-{[(S)-[(1S)-1-{[(Benzyloxy)carbonyl]amino}-2-phenylethyl](hydroxy)phosphoryl]methyl}-5-phenylpentanoyl]-L-tryptophanamide",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04318"
+            },
+            {
+                "entity_name": "Guanosine-5'-Triphosphate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04137"
+            },
+            {
+                "entity_name": "ATP",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            },
+            {
+                "entity_name": "Guanosine-5'-Diphosphate",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB04315"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            },
+            {
+                "entity_name": "Zinc",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01593"
+            },
+            {
+                "entity_name": "Dihydrogenphosphate",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB02831"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RPS7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62081/entry"
+            },
+            {
+                "entity_name": "SRP-dependent cotranslational protein targeting to membrane",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1799339"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 596,
+        "text": "Which drugs target NUP188, a protein involved in the SUMOylation of chromatin organization proteins pathway and linked to chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "7-methyl-5'-guanylic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03593"
+            },
+            {
+                "entity_name": "Guanosine-5'-Triphosphate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04137"
+            },
+            {
+                "entity_name": "Fructose -6-Phosphate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB04277"
+            },
+            {
+                "entity_name": "D-glucitol 6-phosphate",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB02548"
+            },
+            {
+                "entity_name": "Beta-D-Glucose",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB02379"
+            },
+            {
+                "entity_name": "D-Allopyranose",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB03989"
+            },
+            {
+                "entity_name": "ATP",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NUP188",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5SRE5/entry"
+            },
+            {
+                "entity_name": "SUMOylation of chromatin organization proteins",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-4551638"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 600,
+        "text": "Which drugs target CACNG3, a gene involved in the trafficking of AMPA receptors pathway and associated with chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "ATP",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            },
+            {
+                "entity_name": "Dihydrogenphosphate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02831"
+            },
+            {
+                "entity_name": "Calcium",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01373"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CACNG3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60359/entry"
+            },
+            {
+                "entity_name": "Trafficking of AMPA receptors",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-399719"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 607,
+        "text": "What functional regions are present in the protein FLRT2, which is involved in the downstream signaling of activated FGFR1 and linked to type 2 diabetes?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "Leucine rich repeat C-terminal domain",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Leucine rich repeat",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FLRT2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43155/entry"
+            },
+            {
+                "entity_name": "Downstream signaling of activated FGFR1",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5654687"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 617,
+        "text": "What functional regions are present in the protein SQLE, which is involved in the Smith-Lemli-Opitz Syndrome (SLOS) pathway and linked to Griscelli syndrome type 2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Squalene epoxidase",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "NAD(P)-binding Rossmann-like domain",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SQLE",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14534/entry"
+            },
+            {
+                "entity_name": "Smith-Lemli-Opitz Syndrome (SLOS)",
+                "entity_link": "http://smpdb.ca/view/SMP0000389"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 632,
+        "text": "Which proteins interact with HOPX, a gene involved in the Hop pathway in cardiac development and associated with chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "PICK1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NRD5/entry"
+            },
+            {
+                "entity_name": "TCF12",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99081/entry"
+            },
+            {
+                "entity_name": "ZSCAN1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NBB4/entry"
+            },
+            {
+                "entity_name": "PTGER4",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35408/entry"
+            },
+            {
+                "entity_name": "INTS13",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NVM9/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "HOPX",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BPY8/entry"
+            },
+            {
+                "entity_name": "Hop Pathway in Cardiac Development",
+                "entity_link": "http://smpdb.ca/view/SMP0090879"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 644,
+        "text": "Which proteins interact with KCNJ10, a gene involved in the activation of G protein-gated potassium channels and associated with type 2 diabetes mellitus?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "SIAH1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IUQ4/entry"
+            },
+            {
+                "entity_name": "KCNJ16",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPI9/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "KCNJ10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78508/entry"
+            },
+            {
+                "entity_name": "Activation of G protein gated Potassium channels",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1296041"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 652,
+        "text": "Which drugs target L2HGDH, a gene involved in the interconversion of 2-oxoglutarate and 2-hydroxyglutarate, and associated with combined D-2- and L-2-hydroxyglutaric aciduria?",
+        "category": "genetic disease:amino acid metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            },
+            {
+                "entity_name": "Flavin-N7 protonated-adenine dinucleotide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02332"
+            },
+            {
+                "entity_name": "Flavin adenine dinucleotide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB03147"
+            },
+            {
+                "entity_name": "Atrazine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB07392"
+            },
+            {
+                "entity_name": "Estradiol",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00783"
+            },
+            {
+                "entity_name": "D-tartaric acid",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01694"
+            },
+            {
+                "entity_name": "NADH",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00157"
+            },
+            {
+                "entity_name": "Zinc",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB01593"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "L2HGDH",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H9P8/entry"
+            },
+            {
+                "entity_name": "Interconversion of 2-oxoglutarate and 2-hydroxyglutarate",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-880009"
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "qid": 653,
+        "text": "Which drugs target PLEKHA8, a gene involved in the synthesis of PIPs at the plasma membrane and associated with oculocerebrorenal syndrome?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "N-Dimethyl-Lysine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03362"
+            },
+            {
+                "entity_name": "Capric acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB03600"
+            },
+            {
+                "entity_name": "Codeine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00318"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PLEKHA8",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96JA3/entry"
+            },
+            {
+                "entity_name": "Synthesis of PIPs at the plasma membrane",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1660499"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "qid": 661,
+        "text": "Which proteins interact with MAG, a gene involved in the axonal growth inhibition pathway (RHOA activation) and associated with PCWH syndrome?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PRNP",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04156/entry"
+            },
+            {
+                "entity_name": "IQCB1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15051/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MAG",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20916/entry"
+            },
+            {
+                "entity_name": "Axonal growth inhibition (RHOA activation)",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-193634"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 689,
+        "text": "Which proteins interact with IL1RL2, a gene involved in the Interleukin-38 signaling pathway and associated with chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "IL36B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NZH7/entry"
+            },
+            {
+                "entity_name": "IL36G",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NZH8/entry"
+            },
+            {
+                "entity_name": "IL36A",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UHA7/entry"
+            },
+            {
+                "entity_name": "IL2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P60568/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "IL1RL2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HB29/entry"
+            },
+            {
+                "entity_name": "Interleukin-38 signaling",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9007892"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 704,
+        "text": "Which metabolites are linked to MTMR1, a gene involved in the synthesis of PIPs at the plasma membrane and associated with oculocerebrorenal syndrome?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "N-Acetyl-D-mannosamine 6-phosphate",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Beta-D-Fructose 2-phosphate",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "N-Acetylmannosamine",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Phosphate",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "D-Fructose",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "NADP",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "NAD",
+                "llm_rank": 7,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Water",
+                "llm_rank": 8,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MTMR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13613/entry"
+            },
+            {
+                "entity_name": "Synthesis of PIPs at the plasma membrane",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1660499"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 706,
+        "text": "Which drugs target DEPDC1B, a gene involved in the RND1 GTPase cycle pathway and associated with oculocerebrorenal syndrome?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Guanosine-5'-Triphosphate",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04137"
+            },
+            {
+                "entity_name": "Guanosine-5'-Diphosphate",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04315"
+            },
+            {
+                "entity_name": "Dihydrogenphosphate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB02831"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DEPDC1B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUY9/entry"
+            },
+            {
+                "entity_name": "RND1 GTPase cycle",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9696273"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 717,
+        "text": "Which proteins interact with SRD5A1, a gene involved in the androgen biosynthesis pathway and associated with PCWH syndrome?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CCNDBP1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95273/entry"
+            },
+            {
+                "entity_name": "ACTBL2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q562R1/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SRD5A1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P18405/entry"
+            },
+            {
+                "entity_name": "Androgen biosynthesis",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-193048"
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "qid": 722,
+        "text": "Which proteins interact with FMO1, a gene involved in the Tamoxifen Action Pathway and associated with type 2 diabetes?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CREB3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43889-2/entry"
+            },
+            {
+                "entity_name": "GRINA",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q7Z429/entry"
+            },
+            {
+                "entity_name": "SLC10A6",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q3KNW5/entry"
+            },
+            {
+                "entity_name": "MFSD14B",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5SR56/entry"
+            },
+            {
+                "entity_name": "REEP4",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H6H4/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FMO1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q01740/entry"
+            },
+            {
+                "entity_name": "Tamoxifen Action Pathway",
+                "entity_link": "http://smpdb.ca/view/SMP0000471"
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "qid": 734,
+        "text": "Which drugs target SRSF11, a gene involved in the mRNA splicing (major pathway) and associated with chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "Bisphenol A",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB06973"
+            },
+            {
+                "entity_name": "ATP",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SRSF11",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q05519/entry"
+            },
+            {
+                "entity_name": "mRNA Splicing - Major Pathway",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-72163"
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "qid": 739,
+        "text": "Which proteins interact with TRAT1, a gene involved in the PI5P, PP2A, and IER3 regulation of PI3K/AKT signaling pathway and associated with chromosomal deletion syndromes?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00459/entry"
+            },
+            {
+                "entity_name": "PIK3CB",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42338/entry"
+            },
+            {
+                "entity_name": "PIK3CA",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42336/entry"
+            },
+            {
+                "entity_name": "LGALS3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P17931/entry"
+            },
+            {
+                "entity_name": "ZAP70",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43403/entry"
+            },
+            {
+                "entity_name": "CD4",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01730/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TRAT1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6PIZ9/entry"
+            },
+            {
+                "entity_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6811558"
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "qid": 744,
+        "text": "Which drugs target FTMT, a gene involved in the Hereditary Coproporphyria (HCP) pathway and associated with Griscelli syndrome type 2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)ISOXAZOLE-3-CARBOXAMIDE",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB06964"
+            },
+            {
+                "entity_name": "Doxycycline",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00254"
+            },
+            {
+                "entity_name": "Lacosamide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB06218"
+            },
+            {
+                "entity_name": "Iron",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01592"
+            },
+            {
+                "entity_name": "Isopropyl alcohol",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB02325"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FTMT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N4E7/entry"
+            },
+            {
+                "entity_name": "Hereditary Coproporphyria (HCP)",
+                "entity_link": "http://smpdb.ca/view/SMP0000342"
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "qid": 747,
+        "text": "What functional regions are present in the protein PLXNA1, which is involved in the RND1 GTPase cycle pathway and linked to chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "Plexin cytoplasmic RasGAP domain",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Sema domain",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Plexin repeat",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PLXNA1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UIW2/entry"
+            },
+            {
+                "entity_name": "RND1 GTPase cycle",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9696273"
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "qid": 766,
+        "text": "Which proteins interact with LOXL1, a gene involved in the elastic fiber formation pathway and associated with type 2 diabetes mellitus?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "TLL1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43897/entry"
+            },
+            {
+                "entity_name": "PCOLCE",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15113/entry"
+            },
+            {
+                "entity_name": "LOX",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P28300/entry"
+            },
+            {
+                "entity_name": "LOXL4",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96JB6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LOXL1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q08397/entry"
+            },
+            {
+                "entity_name": "Elastic fibre formation",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1566948"
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "qid": 780,
+        "text": "Which drugs target PTDSS1, a gene involved in the phosphatidylethanolamine biosynthesis pathway (PE(22:4/18:1)) and associated with chromosomal deletion syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "Phosphatidyl serine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00144"
+            },
+            {
+                "entity_name": "D-Serine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB03929"
+            },
+            {
+                "entity_name": "Serine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00133"
+            },
+            {
+                "entity_name": "Choline",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00122"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PTDSS1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P48651/entry"
+            },
+            {
+                "entity_name": "Phosphatidylethanolamine Biosynthesis PE(22:4(7Z,10Z,13Z,16Z)/18:1(9Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0015729"
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "qid": 782,
+        "text": "Which drugs target TAF7L, a gene involved in the RNA Polymerase II transcription initiation and promoter clearance pathway and associated with X-linked dystonia-parkinsonism?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Arsenous acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04456"
+            },
+            {
+                "entity_name": "Isobutyric acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02531"
+            },
+            {
+                "entity_name": "Tromethamine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB03754"
+            },
+            {
+                "entity_name": "Zinc",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01593"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TAF7L",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5H9L4/entry"
+            },
+            {
+                "entity_name": "RNA Polymerase II Transcription Initiation And Promoter Clearance",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-76042"
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "qid": 1522,
+        "text": "Which proteins are linked to retinitis pigmentosa 23 and either target BTF3L4 or are known to interact with BTF3L4?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ESR1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P03372/entry"
+            },
+            {
+                "entity_name": "CNOT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/A5YKK6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "BTF3L4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96K17/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "qid": 800,
+        "text": "Which proteins are associated with dilated cardiomyopathy 1DD and function as subunits of the NOS3-HSP90 complex induced by VEGF?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "NOS3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29474/entry"
+            },
+            {
+                "entity_name": "HSP90AA1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07900/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 27,
+        "qid": 801,
+        "text": "Which proteins are linked to Charcot-Marie-Tooth disease axonal type 2H and function as subunits of the CTNNB1-ESR1 complex?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CTNNB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35222/entry"
+            },
+            {
+                "entity_name": "ESR1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P03372/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 28,
+        "qid": 803,
+        "text": "Which proteins are linked to dilated cardiomyopathy 1NN and are known to interact with OR6C65?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GRK3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35626/entry"
+            },
+            {
+                "entity_name": "GRK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25098/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "OR6C65",
+                "entity_link": "https://www.uniprot.org/uniprotkb/A6NJZ3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "qid": 822,
+        "text": "Which proteins are involved in the cardiolipin biosynthesis pathway (CL(16:0/16:0/16:1(9Z)/18:1(9Z))) and are linked to familial hyperlipidemia?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(16:0/16:0/16:1(9Z)/18:1(9Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0026968"
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "qid": 826,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-13:0/a-17:0/i-12:0]) and are linked to glucose metabolism disorders?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "AGPAT5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NUQ2/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-13:0/a-17:0/i-12:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0045637"
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "qid": 827,
+        "text": "Which proteins are involved in the pathway RUNX1 regulates transcription of genes involved in myeloid cell differentiation and are linked to cone-rod dystrophy 2?",
+        "category": "genetic disease:monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LGALS3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P17931/entry"
+            },
+            {
+                "entity_name": "CSF2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04141/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RUNX1 regulates transcription of genes involved in differentiation of myeloid cells",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8939246"
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "qid": 828,
+        "text": "Which proteins are known to interact with ELP3 and are associated with non-alcoholic fatty liver disease (NAFLD)?",
+        "category": "genetic disease:lysosomal storage disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SIRT2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IXJ6/entry"
+            },
+            {
+                "entity_name": "SIRT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96EB6/entry"
+            },
+            {
+                "entity_name": "SIRT3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NTG7/entry"
+            },
+            {
+                "entity_name": "HDAC3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15379/entry"
+            },
+            {
+                "entity_name": "H3-2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TEC6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ELP3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H9T3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "qid": 829,
+        "text": "Which proteins are known to interact with FAM186A and are associated with X-linked monogenic diseases?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "DIP2B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P265/entry"
+            },
+            {
+                "entity_name": "PKD1L2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/H0YEQ7/entry"
+            },
+            {
+                "entity_name": "SH2B3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQQ2/entry"
+            },
+            {
+                "entity_name": "FER1L6",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q2WGJ9/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FAM186A",
+                "entity_link": "https://www.uniprot.org/uniprotkb/A6NE01/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "qid": 842,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(20:1(11Z)/24:0/24:1(15Z)) and are linked to carnitine palmitoyltransferase II deficiency?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(20:1(11Z)/24:0/24:1(15Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0022664"
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "qid": 846,
+        "text": "Which metabolites are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-16:0/a-15:0/i-15:0]) and are linked to Alzheimer's disease type 1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Glycerol 3-phosphate",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Dihydroxyacetone phosphate",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cytidine monophosphate",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-16:0/a-15:0/i-15:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0046590"
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "qid": 857,
+        "text": "Which proteins are known to interact with MSL3 and are associated with distal muscular dystrophy with anterior tibial onset?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "MAP3K7",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43318/entry"
+            },
+            {
+                "entity_name": "ACTB",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P60709/entry"
+            },
+            {
+                "entity_name": "PRKDC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78527/entry"
+            },
+            {
+                "entity_name": "HDAC1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13547/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MSL3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N5Y2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "qid": 858,
+        "text": "Which proteins are linked to otosclerosis and interact with CNTN1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "NOTCH1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46531/entry"
+            },
+            {
+                "entity_name": "ANKRD44",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N8A2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CNTN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q12860/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "qid": 860,
+        "text": "Which proteins interact with JAK2 and are associated with familial hyperinsulinemic hypoglycemia type 5?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            },
+            {
+                "entity_name": "SRC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12931/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "JAK2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 39,
+        "qid": 861,
+        "text": "Which proteins are linked to mucopolysaccharidosis type I (Hurler syndrome) and are known to interact with PIGZ?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "DPM2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O94777/entry"
+            },
+            {
+                "entity_name": "PIGP",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P57054/entry"
+            },
+            {
+                "entity_name": "PIGC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92535/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PIGZ",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86VD9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "qid": 864,
+        "text": "Which proteins are linked to Griscelli syndrome and are involved in the De Novo Triacylglycerol Biosynthesis pathway TG(i-20:0/i-16:0/10:0)?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(i-20:0/i-16:0/10:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0040475"
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "qid": 874,
+        "text": "Which proteins are linked to Walker-Warburg syndrome and are known to interact with CDH19?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "HAPLN2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9GZV7/entry"
+            },
+            {
+                "entity_name": "GFAP",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P14136/entry"
+            },
+            {
+                "entity_name": "EGF",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01133/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CDH19",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H159/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "qid": 877,
+        "text": "Which proteins are known to interact with ULK4 and are associated with karyomegalic interstitial nephritis?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ZNF652",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y2D9/entry"
+            },
+            {
+                "entity_name": "KIF26A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9ULI4/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ULK4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96C45/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "qid": 879,
+        "text": "Which proteins are known to interact with CYP39A1 and are associated with Jacobsen Syndrome?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "SC5D",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75845/entry"
+            },
+            {
+                "entity_name": "DHCR7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UBM7/entry"
+            },
+            {
+                "entity_name": "ACP6",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPH0/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CYP39A1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NYL5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "qid": 880,
+        "text": "Which proteins are known to interact with NR2F6 and are associated with fragile X syndrome?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PPARGC1A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UBK2/entry"
+            },
+            {
+                "entity_name": "SERPINB3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29508/entry"
+            },
+            {
+                "entity_name": "NCOR1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75376/entry"
+            },
+            {
+                "entity_name": "NCKAP5L",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCH0/entry"
+            },
+            {
+                "entity_name": "ASCL1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50553/entry"
+            },
+            {
+                "entity_name": "PHOX2B",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99453/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NR2F6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10588/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 45,
+        "qid": 883,
+        "text": "Which proteins are linked to vitamin B12 deficiency and are known to interact with UBE3D?",
+        "category": "genetic disease:vitamin metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PRKN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60260/entry"
+            },
+            {
+                "entity_name": "TRIM21",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P19474/entry"
+            },
+            {
+                "entity_name": "SNX14",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y5W7/entry"
+            },
+            {
+                "entity_name": "KBTBD6",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86V97/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "UBE3D",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q7Z6J8/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 46,
+        "qid": 888,
+        "text": "Which proteins interact with FYN and are associated with Bardet-Biedl syndrome?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "HOXB5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09067/entry"
+            },
+            {
+                "entity_name": "ACBD7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N6N7/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FYN",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06241-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 47,
+        "qid": 890,
+        "text": "Which proteins interact with F3 and are linked to congenital muscular dystrophy caused by LMNA mutations?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PTX3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26022/entry"
+            },
+            {
+                "entity_name": "FGF2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09038/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "F3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13726/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 48,
+        "qid": 895,
+        "text": "Which proteins interact with KANK1 and are associated with Charcot-Marie-Tooth disease type 4A?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "KIF21A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q7Z4S6/entry"
+            },
+            {
+                "entity_name": "CTNNB1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35222/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "KANK1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14678/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 49,
+        "qid": 896,
+        "text": "Which proteins are linked to carnitine palmitoyltransferase II deficiency and are involved in the De Novo Triacylglycerol Biosynthesis pathway, specifically TG(16:1(9Z)/20:3(5Z,8Z,11Z)/20:1(11Z))?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/20:3(5Z,8Z,11Z)/20:1(11Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0021387"
+            }
+        ]
+    },
+    {
+        "question_number": 50,
+        "qid": 899,
+        "text": "Which proteins are associated with hereditary spastic paraplegia type 4 and function as subunits of the ArPIKfyve-Sac3-Sph1 complex?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "FIG4",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92562/entry"
+            },
+            {
+                "entity_name": "PIKFYVE",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y2I7/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 51,
+        "qid": 908,
+        "text": "Which proteins interact with RAB33B and are linked to spinocerebellar ataxia type 11?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "RAB8A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61006/entry"
+            },
+            {
+                "entity_name": "RAB10",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61026/entry"
+            },
+            {
+                "entity_name": "RAB11A",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62491/entry"
+            },
+            {
+                "entity_name": "RAB5A",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20339/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RAB33B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H082/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 52,
+        "qid": 912,
+        "text": "Which proteins are linked to RIDDLE syndrome and are known to interact with MOV10?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "BMI1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35226/entry"
+            },
+            {
+                "entity_name": "PCGF2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35227/entry"
+            },
+            {
+                "entity_name": "COPS5",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92905/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "RNF2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99496/entry"
+            },
+            {
+                "entity_name": "CUL3",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13618/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MOV10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCE1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 53,
+        "qid": 915,
+        "text": "Which proteins are linked to Loeys-Dietz syndrome type 2 and are known to interact with RYR3?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PRKG1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13976/entry"
+            },
+            {
+                "entity_name": "ATP2A1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14983/entry"
+            },
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            },
+            {
+                "entity_name": "GAPDH",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04406/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RYR3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15413/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 54,
+        "qid": 918,
+        "text": "Which proteins are involved in the cardiolipin biosynthesis pathway (CL(18:0/22:5(7Z,10Z,13Z,16Z,19Z)/22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z))) and are linked to leukoencephalopathy with vanishing white matter?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "AGPAT5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NUQ2/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(18:0/22:5(7Z,10Z,13Z,16Z,19Z)/22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0028367"
+            }
+        ]
+    },
+    {
+        "question_number": 55,
+        "qid": 926,
+        "text": "Which proteins are subunits of the ATR-HDAC2-CHD4 complex and are linked to neuronal ceroid lipofuscinosis?",
+        "category": "genetic disease:lysosomal storage disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ATR",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13535/entry"
+            },
+            {
+                "entity_name": "HDAC2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92769/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 56,
+        "qid": 930,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-16:0/a-17:0/i-16:0]) and are linked to genetic diseases?",
+        "category": "genetic disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "AGPAT5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NUQ2/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            },
+            {
+                "entity_name": "CDS2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95674/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-16:0/a-17:0/i-16:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0046608"
+            }
+        ]
+    },
+    {
+        "question_number": 57,
+        "qid": 931,
+        "text": "Which proteins are linked to split hand-foot malformation 2 and interact with HLA-E?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "MID1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15344/entry"
+            },
+            {
+                "entity_name": "IRF6",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14896/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "HLA-E",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13747/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 58,
+        "qid": 936,
+        "text": "Which proteins are linked to hyperinsulinism and are involved in the Cardiolipin Biosynthesis pathway (CL[i-13:0/a-15:0/i-15:0/a-17:0])?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CDS2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95674/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-13:0/a-15:0/i-15:0/a-17:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0055751"
+            }
+        ]
+    },
+    {
+        "question_number": 59,
+        "qid": 942,
+        "text": "Which proteins are linked to progeria and are involved in the De Novo Triacylglycerol Biosynthesis pathway TG(18:1(11Z)/14:0/18:3(6Z,9Z,12Z))?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(18:1(11Z)/14:0/18:3(6Z,9Z,12Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0021669"
+            }
+        ]
+    },
+    {
+        "question_number": 60,
+        "qid": 944,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(8:0/14:0/16:0)) and are linked to hyperlipoproteinemia type IV?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(8:0/14:0/16:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0026779"
+            }
+        ]
+    },
+    {
+        "question_number": 61,
+        "qid": 948,
+        "text": "Which proteins are linked to glucose metabolism disorders and are known to interact with TPD52L1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PSMC3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P17980/entry"
+            },
+            {
+                "entity_name": "AZIN2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A70/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TPD52L1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16890-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 62,
+        "qid": 953,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(16:1(9Z)/16:1(9Z)/18:0) and are linked to congenital generalized lipodystrophy type 1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            },
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/16:1(9Z)/18:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0015974"
+            }
+        ]
+    },
+    {
+        "question_number": 63,
+        "qid": 954,
+        "text": "Which proteins are subunits of the CD20-LCK-LYN-FYN-p75/80 complex (found in the Raji human B cell line) and are linked to type 2 diabetes mellitus?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "FYN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06241/entry"
+            },
+            {
+                "entity_name": "MS4A1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11836/entry"
+            },
+            {
+                "entity_name": "LYN",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07948/entry"
+            },
+            {
+                "entity_name": "LCK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06239/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 64,
+        "qid": 956,
+        "text": "Which proteins are associated with hematopoietic cell lines and serve as biomarkers for genetic diseases?",
+        "category": "genetic disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "C4A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P0C0L4/entry"
+            },
+            {
+                "entity_name": "C3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01024/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 65,
+        "qid": 959,
+        "text": "Which proteins are linked to warfarin sensitivity and are known to interact with ARFGAP2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "NHLRC1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6VVB1/entry"
+            },
+            {
+                "entity_name": "KIF6",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6ZMV9/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ARFGAP2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N6H7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 66,
+        "qid": 966,
+        "text": "Which proteins are linked to factor VIII deficiency and are known to interact with RANGAP1?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SENP6",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9GZR1/entry"
+            },
+            {
+                "entity_name": "SUMO1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63165/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RANGAP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46060/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 67,
+        "qid": 975,
+        "text": "Which proteins are subunits of the BRCA1-cABL complex and are linked to SHORT syndrome?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ABL1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00519/entry"
+            },
+            {
+                "entity_name": "BRCA1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P38398/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 68,
+        "qid": 990,
+        "text": "Which proteins interact with PDZD2 and are linked to Charcot-Marie-Tooth disease type 1D?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "RHOT2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IXI1/entry"
+            },
+            {
+                "entity_name": "RHOT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IXI2/entry"
+            },
+            {
+                "entity_name": "BAG3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95817/entry"
+            },
+            {
+                "entity_name": "DMPK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09013/entry"
+            },
+            {
+                "entity_name": "RIPK3",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y572/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PDZD2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15018/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 69,
+        "qid": 994,
+        "text": "Which proteins are associated with type 1 diabetes mellitus 23 and interact with NEURL1B?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "NOTCH3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UM47/entry"
+            },
+            {
+                "entity_name": "NOTCH2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q04721/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NEURL1B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/A8MQ27/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 70,
+        "qid": 996,
+        "text": "Which proteins are known to interact with PDE1C and are associated with branched-chain keto acid dehydrogenase kinase deficiency?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ADSL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30566/entry"
+            },
+            {
+                "entity_name": "ITPR1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14643/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PDE1C",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14123/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 71,
+        "qid": 999,
+        "text": "Which proteins are linked to X-linked recessive Charcot-Marie-Tooth disease type 5 and are involved in the de novo triacylglycerol biosynthesis pathway TG(16:1(9Z)/18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))?",
+        "category": "genetic disease:X-linked monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(16:1(9Z)/18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0021565"
+            }
+        ]
+    },
+    {
+        "question_number": 72,
+        "qid": 1007,
+        "text": "Which proteins are involved in the intrinsic pathway of fibrin clot formation and are linked to homocystinuria?",
+        "category": "genetic disease:amino acid metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "SERPIND1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05546/entry"
+            },
+            {
+                "entity_name": "PROC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04070/entry"
+            },
+            {
+                "entity_name": "F12",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00748/entry"
+            },
+            {
+                "entity_name": "F2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00734/entry"
+            },
+            {
+                "entity_name": "SERPINC1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01008/entry"
+            },
+            {
+                "entity_name": "F8",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00451/entry"
+            },
+            {
+                "entity_name": "VWF",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04275/entry"
+            },
+            {
+                "entity_name": "KNG1",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01042/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Intrinsic Pathway of Fibrin Clot Formation",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-140837"
+            }
+        ]
+    },
+    {
+        "question_number": 73,
+        "qid": 1011,
+        "text": "Which proteins are linked to hyperphosphatemic familial tumoral calcinosis and serve as quality control markers in blood plasma?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "HSPA8",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11142/entry"
+            },
+            {
+                "entity_name": "GAPDH",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04406/entry"
+            },
+            {
+                "entity_name": "ACTB",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P60709/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 74,
+        "qid": 1013,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[i-13:0/i-21:0/i-14:0/a-15:0]) and are linked to Bartter disease?",
+        "category": "genetic disease:monogenic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-13:0/i-21:0/i-14:0/a-15:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0059987"
+            }
+        ]
+    },
+    {
+        "question_number": 75,
+        "qid": 1017,
+        "text": "Which proteins are linked to autosomal genetic diseases and are involved in the De Novo Triacylglycerol Biosynthesis pathway TG(20:1(11Z)/20:1(11Z)/20:4(8Z,11Z,14Z,17Z))?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(20:1(11Z)/20:1(11Z)/20:4(8Z,11Z,14Z,17Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0022751"
+            }
+        ]
+    },
+    {
+        "question_number": 76,
+        "qid": 1020,
+        "text": "Which proteins are linked to non-alcoholic steatohepatitis and are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-25:0/i-18:0/a-21:0])?",
+        "category": "genetic disease:lysosomal storage disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(a-25:0/i-18:0/a-21:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0039448"
+            }
+        ]
+    },
+    {
+        "question_number": 77,
+        "qid": 1021,
+        "text": "Which proteins are linked to distal muscular dystrophy with anterior tibial onset and are involved in the cardiolipin biosynthesis pathway (CL[a-13:0/i-19:0/a-13:0/a-15:0])?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CDS2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95674/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-19:0/a-13:0/a-15:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0047533"
+            }
+        ]
+    },
+    {
+        "question_number": 78,
+        "qid": 1023,
+        "text": "Which proteins interact with DAAM2 and are linked to primary autosomal recessive microcephaly?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CIT",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14578/entry"
+            },
+            {
+                "entity_name": "DVL3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92997/entry"
+            },
+            {
+                "entity_name": "DVL2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14641/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DAAM2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86T65/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 79,
+        "qid": 1044,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[i-14:0/i-12:0/i-22:0/i-24:0]) and are linked to Griscelli syndrome type 2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-14:0/i-12:0/i-22:0/i-24:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0061950"
+            }
+        ]
+    },
+    {
+        "question_number": 80,
+        "qid": 1045,
+        "text": "Which proteins are linked to autosomal recessive hypercholesterolemia and are involved in the VxPx cargo-targeting to cilium pathway?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "RAB8A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61006/entry"
+            },
+            {
+                "entity_name": "RHO",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08100/entry"
+            },
+            {
+                "entity_name": "RAB11A",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62491/entry"
+            },
+            {
+                "entity_name": "EXOC7",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UPT5/entry"
+            },
+            {
+                "entity_name": "EXOC5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00471/entry"
+            },
+            {
+                "entity_name": "EXOC4",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A65/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "VxPx cargo-targeting to cilium",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5620916"
+            }
+        ]
+    },
+    {
+        "question_number": 81,
+        "qid": 1050,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(10:0/a-13:0/17:0)) and are linked to non-alcoholic steatohepatitis (NASH)?",
+        "category": "genetic disease:lysosomal storage disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(10:0/a-13:0/17:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0031927"
+            }
+        ]
+    },
+    {
+        "question_number": 82,
+        "qid": 1052,
+        "text": "Which proteins are involved in the Non-integrin membrane-ECM interactions pathway and are linked to dilated cardiomyopathy type 2A?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LAMA2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P24043/entry"
+            },
+            {
+                "entity_name": "DDR1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q08345/entry"
+            },
+            {
+                "entity_name": "FN1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P02751/entry"
+            },
+            {
+                "entity_name": "DMD",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11532/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Non-integrin membrane-ECM interactions",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3000171"
+            }
+        ]
+    },
+    {
+        "question_number": 83,
+        "qid": 1055,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[22:0/i-13:0/i-15:0]) and are linked to glycogen storage disease type V?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(22:0/i-13:0/i-15:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0036528"
+            }
+        ]
+    },
+    {
+        "question_number": 84,
+        "qid": 1068,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with LPXN?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "LPXN",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60711/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 85,
+        "qid": 1075,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with FGFR3?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CBL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "MDM2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q00987/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FGFR3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22607/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 86,
+        "qid": 1083,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with BMX?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "TP53",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BMX",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51813/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 87,
+        "qid": 1087,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with familial hyperlipidemia, and known to interact with CNTNAP1?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "CNTNAP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78357/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 88,
+        "qid": 1098,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and interact with PTK2?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PTK2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q05397/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 89,
+        "qid": 1117,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with GOLPH3?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "GOLPH3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H4A6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 90,
+        "qid": 1141,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with TGFB1I1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "TGFB1I1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43294/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 91,
+        "qid": 1145,
+        "text": "Which proteins are part of the CIN85 complex (CIN85, CRK, BCAR1, CBL, PIK3R1, GRB2, SOS1), are involved in the Bosutinib inhibition of the BCR-ABL pathway, and are associated with familial hyperlipidemia?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 92,
+        "qid": 1153,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with FRS2?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "SOS1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07889/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FRS2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WU20/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 93,
+        "qid": 1158,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with type 2 diabetes, and known to interact with RAC3?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "SOS1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07889/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "RAC3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P60763/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 94,
+        "qid": 1163,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and known to interact with TGFB1I1?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "MYC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "TGFB1I1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43294/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 95,
+        "qid": 1174,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with SOCS6?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "STAT5A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42229/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "SOCS6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14544/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 96,
+        "qid": 1184,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and interact with BCAR1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BCAR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P56945/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 97,
+        "qid": 1198,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with MAPK10?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "MAPK10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P53779/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 98,
+        "qid": 1202,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and interact with SHC1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "SHC1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29353/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 99,
+        "qid": 1203,
+        "text": "Which proteins are part of the CRKL-PDGFRA-CRK-RAPGEF1 complex, are involved in the Bosutinib inhibition of the BCR-ABL pathway, and are associated with chromosomal deletion syndromes?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 100,
+        "qid": 1223,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with IRS4?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "IRS4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14654/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 101,
+        "qid": 1229,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with familial hyperlipidemia, and known to interact with FGFR3?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "MDM2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q00987/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "MYC",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FGFR3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22607/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 102,
+        "qid": 1240,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with BMX?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CBL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BMX",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51813/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 103,
+        "qid": 1250,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to familial hyperlipidemia, and interact with BMX?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CBL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BMX",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51813/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 104,
+        "qid": 1262,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with CNTNAP1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "CNTNAP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78357/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 105,
+        "qid": 1267,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and interact with CNTNAP1?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "CNTNAP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78357/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 106,
+        "qid": 1269,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to familial hyperlipidemia, and interact with IRS4?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "IRS4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14654/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 107,
+        "qid": 1272,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to familial hyperlipidemia, and interact with PEAK1?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PEAK1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H792/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 108,
+        "qid": 1288,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to familial hyperlipidemia, and interact with GOLPH3?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "MYC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "GOLPH3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H4A6/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 109,
+        "qid": 1312,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to chromosomal deletion syndromes, and interact with PTPN4?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PTPN4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29074/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 110,
+        "qid": 1320,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with the HTT protein?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "GAB2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQC2/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "HTT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42858/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 111,
+        "qid": 1337,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with familial hyperlipidemia, and known to interact with the HTT protein?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "HTT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42858/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 112,
+        "qid": 1341,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with PEAK1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PEAK1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H792/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 113,
+        "qid": 1365,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with PRAG1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "PRAG1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86YV5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 114,
+        "qid": 1366,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and known to interact with DOCK7?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "DOCK7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96N67/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 115,
+        "qid": 1401,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and interact with IRS1?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "IRS1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35568/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 116,
+        "qid": 1406,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and known to interact with FGFR3?",
+        "category": "genetic disease:autosomal genetic disease",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FGFR3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22607/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 117,
+        "qid": 1420,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to familial hyperlipidemia, and interact with MAPK10?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "TP53",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "MAPK10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P53779/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 118,
+        "qid": 1427,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and known to interact with WASL?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "WASL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00401/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 119,
+        "qid": 1436,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with familial hyperlipidemia, and known to interact with TGFB1I1?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "TGFB1I1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43294/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 120,
+        "qid": 1443,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with familial hyperlipidemia, and known to interact with BCAR1?",
+        "category": "genetic disease:lipid metabolism disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BCAR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P56945/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 121,
+        "qid": 1445,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with SOCS6?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "STAT5A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42229/entry"
+            },
+            {
+                "entity_name": "SKP2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13309/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "SOCS6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14544/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 122,
+        "qid": 1446,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and known to interact with BCAR1?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "CRKL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46109/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BCAR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P56945/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 123,
+        "qid": 1448,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with SHC1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "GAB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UQC2/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "SOS1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07889/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "SHC1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29353/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 124,
+        "qid": 1451,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with MAPK10?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "MAPK10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P53779/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 125,
+        "qid": 1466,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with chromosomal deletion syndromes, and known to interact with the HTT protein?",
+        "category": "genetic disease:chromosomal deletion syndrome",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "HTT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42858/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 126,
+        "qid": 1467,
+        "text": "Which proteins are involved in the Bosutinib Inhibition of BCR-ABL pathway, are linked to type 2 diabetes, and interact with FGFR3?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "CBL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "MDM2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q00987/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "FGFR3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22607/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 127,
+        "qid": 1512,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to type 2 diabetes, and interact with BCAR1?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CBL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22681/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "BCAR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P56945/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 128,
+        "qid": 32,
+        "text": "Which diseases use C4A as a biomarker?",
+        "category": "genetic disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "glomerulonephritis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "genetic disease",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C4A",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P0C0L4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 129,
+        "qid": 112,
+        "text": "Which diseases use ALDOB as a biomarker?",
+        "category": "genetic disease:carbohydrate metabolic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "hereditary fructose intolerance syndrome",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "disease of metabolism",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gastrointestinal system disease",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ALDOB",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05062/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 130,
+        "qid": 117,
+        "text": "Which diseases use C4A as a biomarker?",
+        "category": "genetic disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "glomerulonephritis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "genetic disease",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C4A",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P0C0L4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 131,
+        "qid": 138,
+        "text": "Which diseases use C3 as a biomarker?",
+        "category": "genetic disease:None",
+        "llm_ranking": [
+            {
+                "entity_name": "glomerulonephritis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "genetic disease",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "C3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01024/entry"
+            }
+        ]
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "question_number": 1,
+        "qid": 817,
+        "text": "Which proteins are linked to skin diseases and are involved in the De Novo Triacylglycerol Biosynthesis pathway, specifically TG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z))?",
+        "category": "integumentary system disease:skin disease",
+        "llm_ranking": [
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0021174"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 844,
+        "text": "Which drugs are associated with the side effect of styes (hordeolum) and interact with testosterone cypionate?",
+        "category": "Abnormality of the integument:Abnormality of skin morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Bortezomib",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00188"
+            },
+            {
+                "entity_name": "Lenalidomide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00480"
+            },
+            {
+                "entity_name": "Pramipexole",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00413"
+            },
+            {
+                "entity_name": "Bupropion",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01156"
+            },
+            {
+                "entity_name": "Tramadol",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00193"
+            },
+            {
+                "entity_name": "Clonazepam",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01068"
+            },
+            {
+                "entity_name": "Ciprofloxacin",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00537"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Testosterone cypionate",
+                "entity_link": "https://go.drugbank.com/drugs/DB13943"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 863,
+        "text": "Which drugs interact with Ubidecarenone (Coenzyme Q10) and list facial tics as a side effect?",
+        "category": "Abnormality of the head:Abnormal facial expression",
+        "llm_ranking": [
+            {
+                "entity_name": "Citalopram",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00215"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ubidecarenone",
+                "entity_link": "https://go.drugbank.com/drugs/DB09270"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 889,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(8:0/i-16:0/12:0)) and are linked to hypotrichosis?",
+        "category": "integumentary system disease:hypotrichosis",
+        "llm_ranking": [
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(8:0/i-16:0/12:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0037634"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 1001,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(16:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z)) and are linked to skin diseases?",
+        "category": "integumentary system disease:skin disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(16:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0018201"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 1005,
+        "text": "Which drugs interact with Eldecalcitol and are used to treat patchy alopecia?",
+        "category": "Abnormality of the integument:Abnormal hair morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Triamcinolone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00620"
+            },
+            {
+                "entity_name": "Dexamethasone",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01234"
+            },
+            {
+                "entity_name": "Betamethasone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00443"
+            },
+            {
+                "entity_name": "Methylprednisolone",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00959"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Eldecalcitol",
+                "entity_link": "https://go.drugbank.com/drugs/DB05295"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 1019,
+        "text": "Which drugs are used to treat excessive salivation and interact with MK-212?",
+        "category": "Abnormality of the head:Abnormality of the mouth",
+        "llm_ranking": [
+            {
+                "entity_name": "Hyoscyamine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00424"
+            },
+            {
+                "entity_name": "Atropine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00572"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MK-212",
+                "entity_link": "https://go.drugbank.com/drugs/DB12111"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 1049,
+        "text": "Which drugs interact with Anastrozole and list corneal opacity as a side effect?",
+        "category": "Abnormality of the eye:Abnormal anterior eye segment morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Chloroquine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00608"
+            },
+            {
+                "entity_name": "Rabeprazole",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01129"
+            },
+            {
+                "entity_name": "Diclofenac",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00586"
+            },
+            {
+                "entity_name": "Naproxen",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00788"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Anastrozole",
+                "entity_link": "https://go.drugbank.com/drugs/DB01217"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 201,
+        "text": "Which drugs are used to treat retinopathy?",
+        "category": "Abnormality of the eye:Abnormal posterior eye segment morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Epicaptopril",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02032"
+            },
+            {
+                "entity_name": "Captopril",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01197"
+            },
+            {
+                "entity_name": "Atorvastatin",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01076"
+            },
+            {
+                "entity_name": "Minoxidil",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00350"
+            },
+            {
+                "entity_name": "Repaglinide",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00912"
+            },
+            {
+                "entity_name": "Glimepiride",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00222"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 10,
+        "qid": 207,
+        "text": "Which drugs are used to treat pallor (unusually pale skin)?",
+        "category": "Abnormality of the integument:Abnormality of skin morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Dopamine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00988"
+            },
+            {
+                "entity_name": "Buspirone",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00490"
+            },
+            {
+                "entity_name": "Epinephrine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00668"
+            },
+            {
+                "entity_name": "Dihydroergotamine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00320"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 11,
+        "qid": 217,
+        "text": "Which drugs are used to treat acrocyanosis?",
+        "category": "Abnormality of the integument:Abnormality of skin morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Arginine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00125"
+            },
+            {
+                "entity_name": "D-arginine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04027"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 12,
+        "qid": 229,
+        "text": "Which drugs are used to treat iritis (inflammation of the iris)?",
+        "category": "Abnormality of the eye:Abnormal uvea morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Hydroxy-Phenyl-Acetic Acid 8-Methyl-8-Aza-Bicyclo[3.2.1]Oct-3-Yl Ester",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02161"
+            },
+            {
+                "entity_name": "Travoprost",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00287"
+            },
+            {
+                "entity_name": "Dexamethasone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01234"
+            },
+            {
+                "entity_name": "Prednisolone",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00860"
+            },
+            {
+                "entity_name": "Betamethasone",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00443"
+            },
+            {
+                "entity_name": "Prednisone",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00635"
+            },
+            {
+                "entity_name": "Methylprednisolone",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00959"
+            },
+            {
+                "entity_name": "Hydrocortisone",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00741"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 13,
+        "qid": 233,
+        "text": "Which drugs are used to treat scleroderma?",
+        "category": "Abnormality of the integument:Abnormality of skin morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Bosentan",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00559"
+            },
+            {
+                "entity_name": "Epoprostenol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01240"
+            },
+            {
+                "entity_name": "Cimetidine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00501"
+            },
+            {
+                "entity_name": "Ranitidine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00863"
+            },
+            {
+                "entity_name": "Dexamethasone",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01234"
+            },
+            {
+                "entity_name": "Betamethasone",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00443"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 14,
+        "qid": 430,
+        "text": "Which genes are identified as targets of Ketamine, which interacts with AGT and is involved in the Quinapril Action Pathway?",
+        "category": "Abnormality of the eye:Glaucoma",
+        "llm_ranking": [
+            {
+                "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "glutamate ionotropic receptor NMDA type subunit 3A",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Quinapril Action Pathway",
+                "entity_link": "http://smpdb.ca/view/SMP0000153"
+            },
+            {
+                "entity_name": "AGT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01019/entry"
+            },
+            {
+                "entity_name": "Ketamine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01221"
+            }
+        ]
+    }
+]

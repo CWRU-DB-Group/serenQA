@@ -18,12 +18,6 @@ import * as z from "zod"
 import {Instructions} from "@/components/Instructions";
 import {useUser, UserContext} from "@/components/UserContext";
 import BatchForm from "@/components/Batch";
-import {batch1} from "@/lib/batches/batch1";
-import {batch2} from "@/lib/batches/batch2";
-import {batch3} from "@/lib/batches/batch3";
-import {batch4} from "@/lib/batches/batch4";
-import {batch5} from "@/lib/batches/batch5";
-import {batch6_test} from "@/lib/batches/batch6_test";
 import Image from "next/image";
 
 import img1 from "@/assets/IMG_0090.png";
@@ -34,6 +28,8 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import CategoryCards from "@/components/CategoryCards";
+import category from "@/lib/category";
 
 // Form Schemas
 const userFormSchema = z.object({
@@ -63,8 +59,9 @@ const Header = () => {
         <DialogContent className="sm:max-w-[725px] max-h-[85%] overflow-auto">
           <DialogHeader>
             <DialogTitle>Examples</DialogTitle>
-              A serendipitous answer to a question refers to one that introduces unexpected insights or discoveries, often accompanied by a sense of novelty in scientific research.
-              We provide two examples of serendipity in drug discovery. Please see the images below for reference.
+            A serendipitous answer to a question refers to one that introduces unexpected insights or discoveries, often
+            accompanied by a sense of novelty in scientific research.
+            We provide two examples of serendipity in drug discovery. Please see the images below for reference.
           </DialogHeader>
           <div className="space-y-8 scroll-auto">
             <Image src={img1} alt="image1"/>
@@ -75,10 +72,11 @@ const Header = () => {
       <h1 className="text-4xl font-bold mb-4">DrugKG Questionnaire</h1>
       <p className="text-gray-600 max-w-2xl mx-auto mb-4">
         We are conducting this evaluation to establish a benchmark for assessing<Button variant="link"
-                                                                                         onClick={(e) => {
-                                                                                           e.preventDefault();
-                                                                                           setImageModal(true);
-                                                                                         }}><span className="text-blue-600 text-lg font-bold">serendipity</span></Button>
+                                                                                        onClick={(e) => {
+                                                                                          e.preventDefault();
+                                                                                          setImageModal(true);
+                                                                                        }}><span
+        className="text-blue-600 text-lg font-bold">serendipity</span></Button>
         in Knowledge Graph Question Answering (KGQA) for Drug Discovery.
         Your feedback is greatly appreciated!
       </p>
@@ -215,18 +213,31 @@ const BatchFormComponent = ({batchId, onComplete}: {
   batchId: number;
   onComplete: (id: string) => void;
 }) => {
-  if (batchId === 1) {
-    return <BatchForm onComplete={onComplete} batchId={1} questions={batch1}/>;
-  } else if (batchId === 2) {
-    return <BatchForm onComplete={onComplete} batchId={2} questions={batch2}/>;
-  } else if (batchId === 3) {
-    return <BatchForm onComplete={onComplete} batchId={3} questions={batch3}/>;
-  } else if (batchId === 4) {
-    return <BatchForm onComplete={onComplete} batchId={4} questions={batch4}/>;
-  } else if (batchId === 5) {
-    return <BatchForm onComplete={onComplete} batchId={5} questions={batch5}/>;
-  }
-  return <></>;
+  const [questions, setQuestions] = useState([]);
+  useEffect(() => {
+    const fetchQuestions = async () => {
+      try {
+        const response = await fetch(`/batch${batchId}.json`);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        setQuestions(data);
+      } catch (error) {
+        console.error('Error fetching questions:', error);
+      }
+    };
+
+    fetchQuestions();
+  }, [batchId]);
+
+  return (
+    <BatchForm
+      questions={questions}
+      batchId={batchId}
+      onComplete={onComplete}
+    />
+  );
 };
 
 const UserProvider = ({children}: { children: React.ReactNode }) => {
@@ -289,11 +300,11 @@ const Questionnaire = () => {
 
       <main className="container mx-auto px-4 py-8">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="space-y-8">
-          <TabsList className="grid w-full grid-cols-7">
+          <TabsList className="grid w-full grid-cols-7 mb-20">
             <TabsTrigger value="instructions">
               Instructions
             </TabsTrigger>
-            {isLoggedIn && [1, 2, 3, 4, 5].map((batch) => (
+            {isLoggedIn && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].map((batch) => (
               <TabsTrigger key={batch} value={`batch${batch}`}>
                 Batch {batch} {completedBatches.includes(`batch${batch}`) && '✓'}
               </TabsTrigger>
@@ -303,10 +314,10 @@ const Questionnaire = () => {
           <TabsContent value="instructions" className="space-y-8">
             <UserForm/>
             <Instructions/>
-            <BatchForm questions={batch6_test} batchId={6} onComplete={handleBatchComplete}/>
+            {isLoggedIn ? <CategoryCards categories={category} onClick={setActiveTab}/> : <CategoryCards categories={category} onClick={console.log}/>}
           </TabsContent>
 
-          {isLoggedIn && [1, 2, 3, 4, 5].map((batch) => (
+          {isLoggedIn && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].map((batch) => (
             <TabsContent key={batch} value={`batch${batch}`}>
               <BatchFormComponent
                 batchId={batch}

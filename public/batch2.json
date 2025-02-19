@@ -1,0 +1,3978 @@
+[
+    {
+        "question_number": 1,
+        "qid": 564,
+        "text": "Which proteins interact with GLOD4, a gene linked to hepatocellular carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "BCL2L1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07817/entry"
+            },
+            {
+                "entity_name": "LTB4R2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPC1/entry"
+            },
+            {
+                "entity_name": "SCLT1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96NL6/entry"
+            },
+            {
+                "entity_name": "MAX",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P61244/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "GLOD4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HC38/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 581,
+        "text": "Which proteins interact with ZNF420, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "ATM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13315/entry"
+            },
+            {
+                "entity_name": "TRIM28",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13263/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ZNF420",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8TAQ5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 605,
+        "text": "Which drugs target FSCN1, a gene involved in the Interleukin-4 and Interleukin-13 signaling pathway and associated with sarcomatoid carcinoma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Paclitaxel",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01229"
+            },
+            {
+                "entity_name": "Mitomycin",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00305"
+            },
+            {
+                "entity_name": "Codeine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00318"
+            },
+            {
+                "entity_name": "Butyric Acid",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB03568"
+            },
+            {
+                "entity_name": "Dithioerythritol",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01692"
+            },
+            {
+                "entity_name": "1,4-Dithiothreitol",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB04447"
+            },
+            {
+                "entity_name": "D-1,4-dithiothreitol",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB02184"
+            },
+            {
+                "entity_name": "Beta-D-Fructopyranose",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB02561"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FSCN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16658/entry"
+            },
+            {
+                "entity_name": "Interleukin-4 and Interleukin-13 signaling",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6785807"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 619,
+        "text": "Which proteins interact with SPARC, a gene linked to sarcomatoid carcinoma and commonly found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "HGF",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P14210/entry"
+            },
+            {
+                "entity_name": "LGALS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09382/entry"
+            },
+            {
+                "entity_name": "C5",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01031/entry"
+            },
+            {
+                "entity_name": "SERPINE1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05121/entry"
+            },
+            {
+                "entity_name": "CHRD",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H2X0/entry"
+            },
+            {
+                "entity_name": "TGFB1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01137/entry"
+            },
+            {
+                "entity_name": "TIMP1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01033/entry"
+            },
+            {
+                "entity_name": "LAMB1",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07942/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SPARC",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09486/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "qid": 628,
+        "text": "Which proteins interact with PRSS55, a gene linked to sarcomatoid carcinoma and found in kidney cancer pathology samples?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "F2R",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25116/entry"
+            },
+            {
+                "entity_name": "F2RL2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00254/entry"
+            },
+            {
+                "entity_name": "F2RL3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96RI0/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PRSS55",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UWB4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 648,
+        "text": "Which proteins interact with MSMB, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "SGTA",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43765/entry"
+            },
+            {
+                "entity_name": "HAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14929/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MSMB",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08118/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 659,
+        "text": "Which proteins interact with MYNN, a gene linked to mucinous cystadenocarcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:malignant adenoma",
+        "llm_ranking": [
+            {
+                "entity_name": "TGFBR2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P37173/entry"
+            },
+            {
+                "entity_name": "CHD4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14839/entry"
+            },
+            {
+                "entity_name": "CDH1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12830/entry"
+            },
+            {
+                "entity_name": "JPH3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WXH2/entry"
+            },
+            {
+                "entity_name": "COPS5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92905/entry"
+            },
+            {
+                "entity_name": "NEK7",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8TDX7/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MYNN",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPC7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 665,
+        "text": "Which proteins interact with AGTR2, a gene involved in the peptide ligand-binding receptor pathway and associated with sarcomatoid carcinoma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "TIMP3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35625/entry"
+            },
+            {
+                "entity_name": "AGT",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01019/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AGTR2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50052/entry"
+            },
+            {
+                "entity_name": "Peptide ligand-binding receptors",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 666,
+        "text": "Which metabolites are linked to SLC38A1, a gene associated with sarcomatoid carcinoma and found in kidney cancer pathology samples?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Lithium",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Sodium",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SLC38A1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H2H9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 682,
+        "text": "Which proteins interact with CCDC81, a gene linked to pancreatic ductal adenocarcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "SCIMP",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UWF3/entry"
+            },
+            {
+                "entity_name": "CD53",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P19397/entry"
+            },
+            {
+                "entity_name": "CD37",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11049/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CCDC81",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6ZN84/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "qid": 690,
+        "text": "Which proteins interact with RAB40B, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CUL5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q93034/entry"
+            },
+            {
+                "entity_name": "WFDC1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HC57/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RAB40B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q12829/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "qid": 698,
+        "text": "Which proteins interact with EPN3, a gene linked to mixed glioma and found in pathology samples of kidney cancer?",
+        "category": "cancer:cell type cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "PLEKHA7",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6IQ23/entry"
+            },
+            {
+                "entity_name": "YWHAE",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62258/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "EPN3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H201/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 716,
+        "text": "Which drugs target the BSND gene, which is linked to sarcomatoid carcinoma and found in kidney cancer pathology samples?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "D-Tyrosine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03839"
+            },
+            {
+                "entity_name": "Tyrosine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00135"
+            },
+            {
+                "entity_name": "Furosemide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00695"
+            },
+            {
+                "entity_name": "Chlorothiazide",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00880"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "BSND",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WZ55/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 740,
+        "text": "Which drugs target ISM2, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Quercetin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04216"
+            },
+            {
+                "entity_name": "Estradiol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00783"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ISM2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6H9L7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 741,
+        "text": "Which drugs target OSMR, a gene linked to sarcomatoid carcinoma and found in kidney cancer pathology samples?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Irinotecan",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00762"
+            },
+            {
+                "entity_name": "Paclitaxel",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01229"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "OSMR",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99650/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 783,
+        "text": "Which drugs target CLDN7, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Plerixafor",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB06809"
+            },
+            {
+                "entity_name": "Trichostatin A",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB04297"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CLDN7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95471/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "qid": 789,
+        "text": "Which genes encode MAGEA2, a protein linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "MAGE family member A2B",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "MAGE family member A2",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MAGEA2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43356/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "qid": 797,
+        "text": "Which drugs target SLC45A3, a gene linked to sarcomatoid carcinoma and found in pathology samples of kidney cancer?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Glutathione disulfide",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03310"
+            },
+            {
+                "entity_name": "Sucrose",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02772"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SLC45A3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96JT2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "qid": 1527,
+        "text": "Which drugs are used to treat cutaneous T-cell lymphoma and interact with Gentamicin C1a? Additionally, which drugs list cutaneous T-cell lymphoma as a side effect and interact with Gentamicin C1a?",
+        "category": "Neoplasm:Hematological neoplasm",
+        "llm_ranking": [
+            {
+                "entity_name": "Tacrolimus",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00864"
+            },
+            {
+                "entity_name": "Methoxsalen",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00553"
+            },
+            {
+                "entity_name": "Methotrexate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00563"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Gentamicin C1a",
+                "entity_link": "https://go.drugbank.com/drugs/DB04729"
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "qid": 450,
+        "text": "Which drugs target ZNF770, a gene found in pathology samples of endometrial cancer, and interact with phenyl aminosalicylate?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ZNF770",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6IQ21/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "qid": 451,
+        "text": "Which proteins interact with CBX6, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "PPARG",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P37231/entry"
+            },
+            {
+                "entity_name": "SFPQ",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23246/entry"
+            },
+            {
+                "entity_name": "EGR1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P18146/entry"
+            },
+            {
+                "entity_name": "YY1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25490/entry"
+            },
+            {
+                "entity_name": "CBX2",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14781/entry"
+            },
+            {
+                "entity_name": "JUN",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05412/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "H3-2",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TEC6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CBX6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95503/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "qid": 452,
+        "text": "Which proteins interact with LMO7, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "DBN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16643/entry"
+            },
+            {
+                "entity_name": "CAPZA2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P47755/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LMO7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/E9PMP7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "qid": 453,
+        "text": "Which proteins interact with NCAPD2, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "PRKAR2B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31323/entry"
+            },
+            {
+                "entity_name": "DNMT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26358/entry"
+            },
+            {
+                "entity_name": "PARP1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09874/entry"
+            },
+            {
+                "entity_name": "BUB1B",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60566/entry"
+            },
+            {
+                "entity_name": "NUP50",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UKX7/entry"
+            },
+            {
+                "entity_name": "CCNA2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20248/entry"
+            },
+            {
+                "entity_name": "MAD2L1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13257/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NCAPD2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15021/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "qid": 456,
+        "text": "Which proteins interact with MAGI3, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "RERG",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A58/entry"
+            },
+            {
+                "entity_name": "IGF1R",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08069/entry"
+            },
+            {
+                "entity_name": "RAF1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04049/entry"
+            },
+            {
+                "entity_name": "KRAS",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01116/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MAGI3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TCQ9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "qid": 457,
+        "text": "Which proteins interact with LIMCH1, a gene found in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "OTUD6B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N6M0/entry"
+            },
+            {
+                "entity_name": "PLEKHA7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6IQ23/entry"
+            },
+            {
+                "entity_name": "KLHL15",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96M94/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LIMCH1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UPQ0-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "qid": 459,
+        "text": "Which proteins interact with SEMA4B, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "PLXNA2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75051/entry"
+            },
+            {
+                "entity_name": "DLG4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78352/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SEMA4B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPR2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "qid": 461,
+        "text": "Which proteins interact with DNAJC9, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "DNMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26358/entry"
+            },
+            {
+                "entity_name": "MAD2L1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13257/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DNAJC9",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WXX5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "qid": 462,
+        "text": "Which proteins interact with TRIM52, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "TRIM41",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WV44/entry"
+            },
+            {
+                "entity_name": "RNF114",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y508/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TRIM52",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A61/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "qid": 464,
+        "text": "Which proteins interact with ZMYND8, a gene found in pathology samples of endometrial cancer and linked to cystic lymphangioma?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "RBM8A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y5S9/entry"
+            },
+            {
+                "entity_name": "ZNF408",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H9D4/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ZMYND8",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9ULU4-12/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "qid": 465,
+        "text": "Which proteins interact with TSEN2, a gene found in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "ZNRF1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8ND25/entry"
+            },
+            {
+                "entity_name": "TSEN15",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WW01/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TSEN2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NCE0-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "qid": 466,
+        "text": "Which proteins interact with IL13RA1, a receptor linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "OSM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13725/entry"
+            },
+            {
+                "entity_name": "PRL",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01236/entry"
+            },
+            {
+                "entity_name": "EGF",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01133/entry"
+            },
+            {
+                "entity_name": "CSF3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09919/entry"
+            },
+            {
+                "entity_name": "IL3",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08700/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "IL13RA1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78552/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "qid": 468,
+        "text": "Which proteins interact with XBP1, a gene found in pathology samples of endometrial cancer and associated with the neck region?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "CROCC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TZA2/entry"
+            },
+            {
+                "entity_name": "CCDC102B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q68D86/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "XBP1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P17861-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "qid": 469,
+        "text": "Which drugs target PHF8, a gene linked to hepatocellular carcinoma, and also affect PRDX4?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Acetic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB03166"
+            },
+            {
+                "entity_name": "Zinc",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01593"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PHF8",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UPP1/entry"
+            },
+            {
+                "entity_name": "PRDX4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13162/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "qid": 470,
+        "text": "Which proteins interact with VPREB1, a gene linked to hepatocellular carcinoma, and are also associated with the neck region?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "IGLL1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P15814/entry"
+            },
+            {
+                "entity_name": "JCHAIN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01591/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "VPREB1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12018/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "qid": 471,
+        "text": "Which proteins interact with RAET1L, a gene linked to hepatocellular carcinoma, and are also associated with cystic lymphangioma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CEACAM5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P06731/entry"
+            },
+            {
+                "entity_name": "CNTN4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IWV2/entry"
+            },
+            {
+                "entity_name": "CD52",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31358/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RAET1L",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5VY80/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "qid": 472,
+        "text": "Which drugs target MTHFD2, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Sulindac",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00605"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MTHFD2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13995/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "qid": 477,
+        "text": "Which drugs target the gene NTM, which is linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NTM",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P121/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "qid": 478,
+        "text": "Which proteins interact with KLHL32, a gene identified in endometrial cancer pathology samples and associated with the A-427 cell line?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "CUL3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13618/entry"
+            },
+            {
+                "entity_name": "CUL1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13616/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "KLHL32",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96NJ5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 39,
+        "qid": 479,
+        "text": "Which drugs target SERPINE2, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Troglitazone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00197"
+            },
+            {
+                "entity_name": "Resveratrol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02709"
+            },
+            {
+                "entity_name": "Balsalazide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01014"
+            },
+            {
+                "entity_name": "Enalapril",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00584"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SERPINE2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07093/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "qid": 481,
+        "text": "Which proteins interact with MFSD12, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "LPAR1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92633/entry"
+            },
+            {
+                "entity_name": "SLC22A9",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IVM8/entry"
+            },
+            {
+                "entity_name": "CD79A",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11912/entry"
+            },
+            {
+                "entity_name": "SSMEM1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WWF3/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MFSD12",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6NUT3-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "qid": 485,
+        "text": "Which proteins interact with CEP63, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "ROGDI",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9GZN7/entry"
+            },
+            {
+                "entity_name": "CAPN7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y6W3/entry"
+            },
+            {
+                "entity_name": "DAXX",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UER7/entry"
+            },
+            {
+                "entity_name": "TSG101",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99816/entry"
+            },
+            {
+                "entity_name": "TBC1D22B",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NU19/entry"
+            },
+            {
+                "entity_name": "POLR3C",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BUI4/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CEP63",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96MT8-3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "qid": 486,
+        "text": "Which proteins interact with MITD1, a gene linked to hepatocellular carcinoma, and are also associated with the conoid structure?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "RAB5C",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51148/entry"
+            },
+            {
+                "entity_name": "XRCC5",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13010/entry"
+            },
+            {
+                "entity_name": "CLTC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q00610/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MITD1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WV92/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "qid": 487,
+        "text": "Which drugs target ZNF821, a gene found in endometrial cancer pathology samples, and interact with Anagrelide?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Conjugated estrogens",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00286"
+            },
+            {
+                "entity_name": "Estradiol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00783"
+            },
+            {
+                "entity_name": "Estrone sulfate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB04574"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ZNF821",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75541/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "qid": 488,
+        "text": "Which proteins interact with DSE, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "NCAN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14594/entry"
+            },
+            {
+                "entity_name": "CSPG4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UVK1/entry"
+            },
+            {
+                "entity_name": "VCAN",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P13611/entry"
+            },
+            {
+                "entity_name": "HMOX1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09601/entry"
+            },
+            {
+                "entity_name": "BCAN",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96GW7/entry"
+            },
+            {
+                "entity_name": "BGN",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21810/entry"
+            },
+            {
+                "entity_name": "DCN",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07585/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DSE",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UL01/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 45,
+        "qid": 493,
+        "text": "Which proteins interact with OR7G3, a gene found in endometrial cancer pathology samples, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "RTP4",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96DX8/entry"
+            },
+            {
+                "entity_name": "GNGT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63211/entry"
+            },
+            {
+                "entity_name": "GNG13",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P2W3/entry"
+            },
+            {
+                "entity_name": "RTP3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BQQ7/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "OR7G3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NG95/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 46,
+        "qid": 495,
+        "text": "Which proteins interact with TTYH1, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "BEST1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O76090/entry"
+            },
+            {
+                "entity_name": "GLRA2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23416/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TTYH1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H313/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 47,
+        "qid": 496,
+        "text": "Which proteins interact with PRSS55, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "F2RL3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96RI0/entry"
+            },
+            {
+                "entity_name": "F2R",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25116/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PRSS55",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UWB4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 48,
+        "qid": 500,
+        "text": "Which proteins interact with CBX6, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CBX2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14781/entry"
+            },
+            {
+                "entity_name": "YY1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25490/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CBX6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95503/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 49,
+        "qid": 501,
+        "text": "Which proteins interact with SMYD3, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "KAT2B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92831/entry"
+            },
+            {
+                "entity_name": "KAT2A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92830/entry"
+            },
+            {
+                "entity_name": "DNMT1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26358/entry"
+            },
+            {
+                "entity_name": "EP300",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09472/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            },
+            {
+                "entity_name": "H3-2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TEC6/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SMYD3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H7B4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 50,
+        "qid": 504,
+        "text": "Which proteins interact with CALN1, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "LIME1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H400/entry"
+            },
+            {
+                "entity_name": "SEC22A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96IW7/entry"
+            },
+            {
+                "entity_name": "DNAJC30",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96LL9/entry"
+            },
+            {
+                "entity_name": "USE1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NZ43/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CALN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BXU9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 51,
+        "qid": 505,
+        "text": "Which proteins interact with MEAF6, a gene found in pathology samples of endometrial cancer, and are associated with conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "MAGEA1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43355/entry"
+            },
+            {
+                "entity_name": "ING4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UNL4/entry"
+            },
+            {
+                "entity_name": "ING3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NXR8/entry"
+            },
+            {
+                "entity_name": "H2BC1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A08/entry"
+            },
+            {
+                "entity_name": "RPL10",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27635/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MEAF6",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HAF1-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 52,
+        "qid": 507,
+        "text": "Which proteins interact with FMNL2, a protein found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "PLEKHA7",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6IQ23/entry"
+            },
+            {
+                "entity_name": "UNC119",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13432/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FMNL2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96PY5-3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 53,
+        "qid": 509,
+        "text": "Which proteins interact with ADAM22, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "YWHAQ",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27348/entry"
+            },
+            {
+                "entity_name": "YWHAB",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31946/entry"
+            },
+            {
+                "entity_name": "HCK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08631/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADAM22",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P0K1-1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 54,
+        "qid": 513,
+        "text": "Which proteins interact with EIF4EBP2, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "RDH12",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96NR8/entry"
+            },
+            {
+                "entity_name": "EIF4E2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60573/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "EIF4EBP2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13542/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 55,
+        "qid": 514,
+        "text": "Which proteins interact with EPS8, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "OSMR",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99650/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            },
+            {
+                "entity_name": "SRC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12931/entry"
+            },
+            {
+                "entity_name": "EGF",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01133/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "EPS8",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q12929/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 56,
+        "qid": 515,
+        "text": "Which proteins interact with MMTAG2, a gene identified in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "HIF1AN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NWT6/entry"
+            },
+            {
+                "entity_name": "ECH1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13011/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MMTAG2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BU76-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 57,
+        "qid": 516,
+        "text": "Which proteins interact with DDT, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "MAD2L2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UI95/entry"
+            },
+            {
+                "entity_name": "ZDHHC5",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9C0B5/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DDT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30046/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 58,
+        "qid": 518,
+        "text": "Which proteins interact with H3C15, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "KAT2B",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92831/entry"
+            },
+            {
+                "entity_name": "KAT2A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92830/entry"
+            },
+            {
+                "entity_name": "EP300",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09472/entry"
+            },
+            {
+                "entity_name": "CBX2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14781/entry"
+            },
+            {
+                "entity_name": "CREBBP",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92793/entry"
+            },
+            {
+                "entity_name": "UBE2I",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63279/entry"
+            },
+            {
+                "entity_name": "DNMT1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26358/entry"
+            },
+            {
+                "entity_name": "MAD2L1",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13257/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "H3C15",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q71DI3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 59,
+        "qid": 520,
+        "text": "Which proteins interact with OR10Z1, a gene identified in endometrial cancer pathology samples and associated with adrenal cortex cell lines?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "ARRB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P49407/entry"
+            },
+            {
+                "entity_name": "GRK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25098/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "OR10Z1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NGY1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 60,
+        "qid": 521,
+        "text": "Which proteins interact with TSHB, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "RAMP2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60895/entry"
+            },
+            {
+                "entity_name": "IAPP",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10997/entry"
+            },
+            {
+                "entity_name": "RAMP1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60894/entry"
+            },
+            {
+                "entity_name": "RAMP3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60896/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TSHB",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01222/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 61,
+        "qid": 522,
+        "text": "Which proteins interact with RBMX, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "PPIG",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13427/entry"
+            },
+            {
+                "entity_name": "KHDRBS3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75525/entry"
+            },
+            {
+                "entity_name": "HNRNPD",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14103/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RBMX",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P38159/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 62,
+        "qid": 526,
+        "text": "Which metabolites are linked to PLEKHA8, a gene found in endometrial cancer pathology samples and involved in the extra-nuclear estrogen signaling pathway?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Sphingosine 1-phosphate",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Sphingosine",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PLEKHA8",
+                "entity_link": "https://www.uniprot.org/uniprotkb/B5MDU3/entry"
+            },
+            {
+                "entity_name": "Extra-nuclear estrogen signaling",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9009391"
+            }
+        ]
+    },
+    {
+        "question_number": 63,
+        "qid": 528,
+        "text": "Which proteins interact with SEMA3F, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "FURIN",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09958/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            },
+            {
+                "entity_name": "FN1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/H0Y4K8/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SEMA3F",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13275/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 64,
+        "qid": 530,
+        "text": "Which proteins interact with PPHLN1, a gene found in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "METTL3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86U44/entry"
+            },
+            {
+                "entity_name": "MATR3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43243/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PPHLN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NEY8-3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 65,
+        "qid": 532,
+        "text": "Which drugs target IMPDH2, a gene linked to hepatocellular carcinoma, and also act on FTMT?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Iron",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01592"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "IMPDH2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12268/entry"
+            },
+            {
+                "entity_name": "FTMT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N4E7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 66,
+        "qid": 533,
+        "text": "Which proteins interact with RILPL1, a protein found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "TRAF3IP3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y228/entry"
+            },
+            {
+                "entity_name": "APPBP2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92624/entry"
+            },
+            {
+                "entity_name": "PIP4P1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86T03/entry"
+            },
+            {
+                "entity_name": "NTAQ1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96HA8/entry"
+            },
+            {
+                "entity_name": "SEC22A",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96IW7/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RILPL1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5EBL4-3/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 67,
+        "qid": 538,
+        "text": "Which proteins interact with ADRM1, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "PRKAR1A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10644/entry"
+            },
+            {
+                "entity_name": "JUN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05412/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADRM1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16186/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 68,
+        "qid": 539,
+        "text": "Which drugs target AQP10, a gene linked to hepatocellular carcinoma, and interact with Anagrelide?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Lithium cation",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01356"
+            },
+            {
+                "entity_name": "Hydrochlorothiazide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00999"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AQP10",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96PS8/entry"
+            },
+            {
+                "entity_name": "Anagrelide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00261"
+            }
+        ]
+    },
+    {
+        "question_number": 69,
+        "qid": 541,
+        "text": "Which drugs target UNC50, a gene linked to hepatocellular carcinoma, and interact with Rifampicin?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "R,S-Warfarin alcohol",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB08735"
+            },
+            {
+                "entity_name": "S,R-Warfarin alcohol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB08736"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "UNC50",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q53HI1/entry"
+            },
+            {
+                "entity_name": "Rifampicin",
+                "entity_link": "https://go.drugbank.com/drugs/DB01045"
+            }
+        ]
+    },
+    {
+        "question_number": 70,
+        "qid": 542,
+        "text": "Which proteins interact with PCBP4, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "TP53",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CCNA1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78396/entry"
+            },
+            {
+                "entity_name": "CDK2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P24941/entry"
+            },
+            {
+                "entity_name": "CCNA2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20248/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PCBP4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P57723/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 71,
+        "qid": 546,
+        "text": "Which drugs target ING4, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Balsalazide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01014"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ING4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UNL4/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 72,
+        "qid": 548,
+        "text": "Which proteins interact with LRIG3, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "RET",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07949/entry"
+            },
+            {
+                "entity_name": "NOTCH1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46531/entry"
+            },
+            {
+                "entity_name": "EGFR",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00533/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LRIG3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UXM1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 73,
+        "qid": 549,
+        "text": "Which drugs target ACSS3, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ACSS3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H6R3/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 74,
+        "qid": 550,
+        "text": "Which proteins interact with CETN1, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CEP290",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15078/entry"
+            },
+            {
+                "entity_name": "USP49",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q70CQ1/entry"
+            },
+            {
+                "entity_name": "POC5",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NA72/entry"
+            },
+            {
+                "entity_name": "TBCCD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NVR7/entry"
+            },
+            {
+                "entity_name": "ZFAND5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O76080/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CETN1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q12798/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 75,
+        "qid": 551,
+        "text": "Which proteins interact with FZD3, a gene linked to hepatocellular carcinoma and associated with the parasympathetic ganglion?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "GNAQ",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50148/entry"
+            },
+            {
+                "entity_name": "WNT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04628/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FZD3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPG1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 76,
+        "qid": 553,
+        "text": "Which drugs target CDCA7, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "Troglitazone",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00197"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CDCA7",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BWT1/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 77,
+        "qid": 554,
+        "text": "Which proteins interact with DIAPH3, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "SRC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12931/entry"
+            },
+            {
+                "entity_name": "BUB1B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60566/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "DIAPH3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NSV4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 78,
+        "qid": 558,
+        "text": "Which proteins interact with RASA2, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "KRAS",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01116/entry"
+            },
+            {
+                "entity_name": "HRAS",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01112/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RASA2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15283/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 79,
+        "qid": 559,
+        "text": "Which proteins interact with MTMR11, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "DUSP10",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y6W6/entry"
+            },
+            {
+                "entity_name": "OTUD7B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6GQQ9/entry"
+            },
+            {
+                "entity_name": "POLD4",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCU8/entry"
+            },
+            {
+                "entity_name": "TRMT9B",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P272/entry"
+            },
+            {
+                "entity_name": "TMEM205",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UW68/entry"
+            },
+            {
+                "entity_name": "ZNF212",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UDV6/entry"
+            },
+            {
+                "entity_name": "ACAD8",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UKU7/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MTMR11",
+                "entity_link": "https://www.uniprot.org/uniprotkb/A4FU01/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 80,
+        "qid": 560,
+        "text": "Which proteins interact with LPAR5, a receptor linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "APP",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05067/entry"
+            },
+            {
+                "entity_name": "P2RY14",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15391/entry"
+            },
+            {
+                "entity_name": "P2RY13",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BPV8/entry"
+            },
+            {
+                "entity_name": "GNRHR",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30968/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LPAR5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H1C0/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 81,
+        "qid": 562,
+        "text": "Which drugs target RNFT2, a gene found in pathology samples of endometrial cancer, and interact with phenyl aminosalicylate?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Resveratrol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB02709"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RNFT2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96EX2/entry"
+            },
+            {
+                "entity_name": "Phenyl aminosalicylate",
+                "entity_link": "https://go.drugbank.com/drugs/DB06807"
+            }
+        ]
+    },
+    {
+        "question_number": 82,
+        "qid": 811,
+        "text": "Which proteins are linked to endometrial carcinoma and are involved in the Meclizine H1-antihistamine action pathway?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "NFKB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P19838/entry"
+            },
+            {
+                "entity_name": "GNAQ",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50148/entry"
+            },
+            {
+                "entity_name": "GNG2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P59768/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Meclizine H1-Antihistamine Action",
+                "entity_link": "http://smpdb.ca/view/SMP0058956"
+            }
+        ]
+    },
+    {
+        "question_number": 83,
+        "qid": 812,
+        "text": "Which proteins are subunits of the NCR3-CD247 complex and have been identified in pathology samples from head and neck cancer?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "NCR3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14931/entry"
+            },
+            {
+                "entity_name": "CD247",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20963/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 84,
+        "qid": 833,
+        "text": "Which proteins are linked to melanoma and involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(18:0/14:1(9Z)/20:3(5Z,8Z,11Z))?",
+        "category": "cancer:melanoma",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(18:0/14:1(9Z)/20:3(5Z,8Z,11Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0018404"
+            }
+        ]
+    },
+    {
+        "question_number": 85,
+        "qid": 839,
+        "text": "Which proteins are known to interact with AGTR1 and are associated with meningeal melanocytoma?",
+        "category": "cancer:nervous system cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "PTGFR",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43088/entry"
+            },
+            {
+                "entity_name": "APLNR",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35414/entry"
+            },
+            {
+                "entity_name": "GRM1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13255/entry"
+            },
+            {
+                "entity_name": "GNAQ",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50148/entry"
+            },
+            {
+                "entity_name": "HRAS",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01112/entry"
+            },
+            {
+                "entity_name": "EDN3",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P14138/entry"
+            },
+            {
+                "entity_name": "GNA11",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29992/entry"
+            },
+            {
+                "entity_name": "EDN2",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20800/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AGTR1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30556/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 86,
+        "qid": 845,
+        "text": "Which proteins are involved in the cardiolipin biosynthesis pathway [CL(16:1(9Z)/18:1(9Z)/16:1(9Z)/18:2(9Z,12Z))] and are linked to lung adenocarcinoma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(16:1(9Z)/18:1(9Z)/16:1(9Z)/18:2(9Z,12Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0027687"
+            }
+        ]
+    },
+    {
+        "question_number": 87,
+        "qid": 876,
+        "text": "Which proteins are associated with squamous cell carcinoma and function as subunits of the Stat1-alpha-dimer-CBP DNA-protein complex?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CREBBP",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92793/entry"
+            },
+            {
+                "entity_name": "STAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42224/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 88,
+        "qid": 892,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway [CL(i-12:0/i-20:0/a-21:0/i-13:0)] and are linked to cancer?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "AGPAT5",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NUQ2/entry"
+            },
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            },
+            {
+                "entity_name": "CDS2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95674/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-12:0/i-20:0/a-21:0/i-13:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0053725"
+            }
+        ]
+    },
+    {
+        "question_number": 89,
+        "qid": 928,
+        "text": "Which proteins are components of the apoptosome-procaspase 9 complex and are linked to high-grade glioma?",
+        "category": "cancer:cell type cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "APAF1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14727/entry"
+            },
+            {
+                "entity_name": "CYCS",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P99999/entry"
+            },
+            {
+                "entity_name": "CASP9",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P55211/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 90,
+        "qid": 945,
+        "text": "Which proteins are associated with head and neck carcinoma and function as subunits of the CSA-POLIIa complex?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "COPS3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UNS2/entry"
+            },
+            {
+                "entity_name": "COPS5",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92905/entry"
+            },
+            {
+                "entity_name": "RBX1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62877/entry"
+            },
+            {
+                "entity_name": "DDB1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16531/entry"
+            },
+            {
+                "entity_name": "POLR2A",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P24928/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 91,
+        "qid": 957,
+        "text": "Which proteins are linked to pancreatic signet ring cell adenocarcinoma and are known to interact with TYMS?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "KRAS",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01116/entry"
+            },
+            {
+                "entity_name": "HRAS",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01112/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TYMS",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04818/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 92,
+        "qid": 969,
+        "text": "Which proteins are linked to adrenal cortex cancer and interact with TFAM?",
+        "category": "cancer:endocrine gland cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "GABPA",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q06546/entry"
+            },
+            {
+                "entity_name": "CYCS",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P99999/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TFAM",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q00059/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 93,
+        "qid": 988,
+        "text": "Which proteins are subunits of the BHC complex and are linked to lung squamous cell carcinoma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "KDM1A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60341/entry"
+            },
+            {
+                "entity_name": "HDAC2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92769/entry"
+            },
+            {
+                "entity_name": "HDAC1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13547/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 94,
+        "qid": 992,
+        "text": "Which proteins are linked to gastric signet ring cell adenocarcinoma and are known to interact with PMPCB?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "FH",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07954/entry"
+            },
+            {
+                "entity_name": "FXN",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16595/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "PMPCB",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75439/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 95,
+        "qid": 1030,
+        "text": "Which proteins are involved in the Activated point mutants of FGFR2 pathway and are linked to granular cell carcinoma?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "FGF9",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31371/entry"
+            },
+            {
+                "entity_name": "FGF18",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O76093/entry"
+            },
+            {
+                "entity_name": "FGFR2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21802/entry"
+            },
+            {
+                "entity_name": "FGF3",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11487/entry"
+            },
+            {
+                "entity_name": "FGF7",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21781/entry"
+            },
+            {
+                "entity_name": "FGF2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09038/entry"
+            },
+            {
+                "entity_name": "FGF1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05230/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Activated point mutants of FGFR2",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2033519"
+            }
+        ]
+    },
+    {
+        "question_number": 96,
+        "qid": 1031,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-25:0/a-15:0/16:0]) and are linked to sarcoma?",
+        "category": "cancer:sarcoma",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(a-25:0/a-15:0/16:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0039146"
+            }
+        ]
+    },
+    {
+        "question_number": 97,
+        "qid": 1041,
+        "text": "Which proteins are linked to laryngeal squamous cell carcinoma and are known to interact with WNK2?",
+        "category": "cancer:carcinoma",
+        "llm_ranking": [
+            {
+                "entity_name": "CKAP4",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07065/entry"
+            },
+            {
+                "entity_name": "WNK1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H4A3/entry"
+            },
+            {
+                "entity_name": "UBC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P0CG48/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "WNK2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y3S1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 98,
+        "qid": 1047,
+        "text": "Which proteins are found in ovarian cancer pathology samples and are subunits of the IL1RAP-IL1RL1-KIT complex?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "IL1RL1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q01638/entry"
+            },
+            {
+                "entity_name": "IL1RAP",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPH3/entry"
+            },
+            {
+                "entity_name": "KIT",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10721/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 99,
+        "qid": 1108,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of cervical cancer?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 100,
+        "qid": 1122,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to mixed glioma, and interact with RAC3?",
+        "category": "cancer:cell type cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "PIK3R1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27986/entry"
+            },
+            {
+                "entity_name": "SOS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07889/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            },
+            {
+                "entity_name": "RAC3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P60763/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 101,
+        "qid": 1144,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of head and neck cancer?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 102,
+        "qid": 1210,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of pancreatic cancer?",
+        "category": "cancer:endocrine gland cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 103,
+        "qid": 1256,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of endometrial cancer?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "MYC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 104,
+        "qid": 1276,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in ovarian cancer pathology samples?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 105,
+        "qid": 1279,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of testicular cancer?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 106,
+        "qid": 1297,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and have been identified in pathology samples of endometrial cancer?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 107,
+        "qid": 1298,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of testicular cancer?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "CRK",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 108,
+        "qid": 1314,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in cervical cancer pathology samples?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 109,
+        "qid": 1346,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of head and neck cancer?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "MYC",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01106/entry"
+            },
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "MTOR",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P42345/entry"
+            },
+            {
+                "entity_name": "TP53",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P04637/entry"
+            },
+            {
+                "entity_name": "RPS6KB1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P23443/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            },
+            {
+                "entity_name": "GRB2",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62993/entry"
+            },
+            {
+                "entity_name": "CDKN1B",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46527/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 110,
+        "qid": 1494,
+        "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of pancreatic cancer?",
+        "category": "cancer:endocrine gland cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "JAK2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60674/entry"
+            },
+            {
+                "entity_name": "CRK",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P46108/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bosutinib Inhibition of BCR-ABL",
+                "entity_link": "http://smpdb.ca/view/SMP0031698"
+            }
+        ]
+    },
+    {
+        "question_number": 111,
+        "qid": 31,
+        "text": "Which diseases is CALCA a biomarker for?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "cancer",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "thyroid gland disease",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CALCA",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01258/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 112,
+        "qid": 52,
+        "text": "Which diseases use ALPL as a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "hepatic veno-occlusive disease",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cancer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "liver disease",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ALPL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05186/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 113,
+        "qid": 57,
+        "text": "Which genes are identified as targets of Aminoglutethimide?",
+        "category": "Neoplasm:None",
+        "llm_ranking": [
+            {
+                "entity_name": "cytochrome P450 family 19 subfamily A member 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cytochrome P450 family 11 subfamily A member 1",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "trefoil factor 3",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gamma-glutamyltransferase 1",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cytochrome P450 family 1 subfamily B member 1",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "thyroglobulin",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "gonadotropin releasing hormone 1",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Aminoglutethimide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00357"
+            }
+        ]
+    },
+    {
+        "question_number": 114,
+        "qid": 64,
+        "text": "For which diseases is ALPL considered a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "hepatic veno-occlusive disease",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cancer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "liver disease",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ALPL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05186/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 115,
+        "qid": 67,
+        "text": "Which diseases use LDHA as a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "cancer",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "ischemia",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LDHA",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00338/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 116,
+        "qid": 84,
+        "text": "Which diseases use AFP (alpha-fetoprotein) as a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "testicular cancer",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "liver cancer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cancer",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AFP",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P02771/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 117,
+        "qid": 123,
+        "text": "For which diseases is LDHA considered a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "cancer",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "ischemia",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "LDHA",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P00338/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 118,
+        "qid": 134,
+        "text": "What conditions or symptoms is Dihydrocodeine commonly prescribed to treat?",
+        "category": "Neoplasm:None",
+        "llm_ranking": [
+            {
+                "entity_name": "Neoplasm",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chronic pain",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pain",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Dihydrocodeine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01551"
+            }
+        ]
+    },
+    {
+        "question_number": 119,
+        "qid": 136,
+        "text": "Which diseases use AFP (alpha-fetoprotein) as a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "testicular cancer",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "liver cancer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cancer",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AFP",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P02771/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 120,
+        "qid": 139,
+        "text": "Which diseases use ALPL as a biomarker?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "hepatic veno-occlusive disease",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cancer",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "liver disease",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ALPL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05186/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 121,
+        "qid": 393,
+        "text": "Which pathways are associated with GPR31, a receptor that interacts with ADORA1 and is found in pathology samples of head and neck cancer?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Free fatty acid receptors",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "G alpha (i) signalling events",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADORA1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30542/entry"
+            },
+            {
+                "entity_name": "GPR31",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00270/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 122,
+        "qid": 396,
+        "text": "Which biological processes are linked to ADGRG5, a gene that interacts with ACVR1B and has been identified in cervical cancer pathology samples?",
+        "category": "cancer:reproductive organ cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "G protein-coupled receptor signaling pathway",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "cell surface receptor signaling pathway",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ACVR1B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P36896-2/entry"
+            },
+            {
+                "entity_name": "ADGRG5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IZF4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 123,
+        "qid": 397,
+        "text": "Which biological processes are linked to GPR31, which interacts with ADORA1 and is found in pathology samples of head and neck cancer?",
+        "category": "cancer:head and neck cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "negative regulation of inflammatory response",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "response to acidic pH",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "response to molecule of bacterial origin",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "G protein-coupled receptor signaling pathway",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "lipid metabolic process",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADORA1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30542/entry"
+            },
+            {
+                "entity_name": "GPR31",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00270/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 124,
+        "qid": 419,
+        "text": "Which biological processes are linked to PGAM4, which interacts with ENO2, a biomarker for cancer?",
+        "category": "cancer:None",
+        "llm_ranking": [
+            {
+                "entity_name": "positive regulation of flagellated sperm motility",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "glycolytic process",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ENO2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09104/entry"
+            },
+            {
+                "entity_name": "PGAM4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N0Y7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 125,
+        "qid": 433,
+        "text": "Which biological processes are linked to UQCRC1, which interacts with APOBEC3D, a protein found in pancreatic cancer pathology samples?",
+        "category": "cancer:endocrine gland cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "response to activity",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "response to alkaloid",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "oxidative phosphorylation",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "mitochondrial electron transport, ubiquinol to cytochrome c",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "aerobic respiration",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "APOBEC3D",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96AK3/entry"
+            },
+            {
+                "entity_name": "UQCRC1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31930/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 126,
+        "qid": 445,
+        "text": "Which pathways involve MYO3B, a protein that interacts with ACTG2, which has been identified in pancreatic cancer pathology samples?",
+        "category": "cancer:endocrine gland cancer",
+        "llm_ranking": [
+            {
+                "entity_name": "Sensory processing of sound by outer hair cells of the cochlea",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Sensory processing of sound by inner hair cells of the cochlea",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ACTG2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63267/entry"
+            },
+            {
+                "entity_name": "MYO3B",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WXR4/entry"
+            }
+        ]
+    }
+]

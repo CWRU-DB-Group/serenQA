@@ -1,0 +1,2776 @@
+[
+    {
+        "question_number": 1,
+        "qid": 634,
+        "text": "Which drugs target CDC42EP4, a gene involved in the CDC42 GTPase cycle pathway and associated with central nervous system disorders?",
+        "category": "nervous system disease:central nervous system disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Vincristine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00541"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            },
+            {
+                "entity_name": "Formaldehyde",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB03843"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CDC42EP4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H3Q1/entry"
+            },
+            {
+                "entity_name": "CDC42 GTPase cycle",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9013148"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "qid": 769,
+        "text": "Which drugs target the gene RARS2, which is involved in the Hyperprolinemia Type I pathway and linked to peripheral retinal degeneration?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "D-arginine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB04027"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Phosphoaminophosphonic Acid-Adenylate Ester",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB04395"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            },
+            {
+                "entity_name": "ATP",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00171"
+            },
+            {
+                "entity_name": "Adenosine phosphate",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00131"
+            },
+            {
+                "entity_name": "Pyrophosphoric acid",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB04160"
+            },
+            {
+                "entity_name": "Arginine",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00125"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "RARS2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5T160/entry"
+            },
+            {
+                "entity_name": "Hyperprolinemia Type I",
+                "entity_link": "http://smpdb.ca/view/SMP0000361"
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "qid": 778,
+        "text": "Which drugs interact with Pregnenolone, a compound that targets protein arginine methyltransferase 1 (PRMT1) and affects CYP2S1 activity?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Abametapir",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB11932"
+            },
+            {
+                "entity_name": "Ritonavir",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00503"
+            },
+            {
+                "entity_name": "Cenobamate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB06119"
+            },
+            {
+                "entity_name": "Tucatinib",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB11652"
+            },
+            {
+                "entity_name": "Satralizumab",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB15762"
+            },
+            {
+                "entity_name": "Pitolisant",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB11642"
+            },
+            {
+                "entity_name": "Metreleptin",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB09046"
+            },
+            {
+                "entity_name": "Haloperidol",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00502"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Pregnenolone",
+                "entity_link": "https://go.drugbank.com/drugs/DB02789"
+            },
+            {
+                "entity_name": "CYP2S1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96SQ9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "qid": 1518,
+        "text": "Which drugs cause nausea as a side effect and are used to treat hepatic encephalopathy? Additionally, which drugs are used to treat nausea and have hepatic encephalopathy as a side effect?",
+        "category": "Abnormality of the nervous system:Encephalopathy",
+        "llm_ranking": [
+            {
+                "entity_name": "Rifaximin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01220"
+            },
+            {
+                "entity_name": "Neomycin",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00994"
+            },
+            {
+                "entity_name": "Omeprazole",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00338"
+            },
+            {
+                "entity_name": "Framycetin",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00452"
+            },
+            {
+                "entity_name": "Lactulose",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00581"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 5,
+        "qid": 1520,
+        "text": "Which drugs interact with Chlormadinone and either cause obstructive sleep apnea as a side effect or are used to treat obstructive sleep apnea?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Modafinil",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00745"
+            },
+            {
+                "entity_name": "Lorazepam",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00186"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Chlormadinone",
+                "entity_link": "https://go.drugbank.com/drugs/DB13528"
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "qid": 1525,
+        "text": "Which drugs interact with Propafenone and are associated with brain abscess as a side effect, and which drugs interact with Propafenone and are used to treat brain abscess?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Clomifene",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00882"
+            },
+            {
+                "entity_name": "Metronidazole",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00916"
+            },
+            {
+                "entity_name": "Carmustine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00262"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Propafenone",
+                "entity_link": "https://go.drugbank.com/drugs/DB01182"
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "qid": 508,
+        "text": "Which drugs interact with Clotrimazole, are used to treat itching, and have sensory impairment as a side effect?",
+        "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Sirolimus",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00877"
+            },
+            {
+                "entity_name": "Tacrolimus",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00864"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Clotrimazole",
+                "entity_link": "https://go.drugbank.com/drugs/DB00257"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "qid": 517,
+        "text": "Which proteins interact with ZNF286A, a gene linked to Charcot-Marie-Tooth disease type 1, and are also associated with the neck?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "LONRF2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q1L5Z9/entry"
+            },
+            {
+                "entity_name": "FBXL19",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6PCT2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ZNF286A",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HBT8/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "qid": 802,
+        "text": "Which drugs interact with Bisoxatin and list hepatic encephalopathy as a side effect?",
+        "category": "Abnormality of the nervous system:Encephalopathy",
+        "llm_ranking": [
+            {
+                "entity_name": "Flutamide",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00499"
+            },
+            {
+                "entity_name": "Bendroflumethiazide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00436"
+            },
+            {
+                "entity_name": "Amiloride",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00594"
+            },
+            {
+                "entity_name": "Indapamide",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00808"
+            },
+            {
+                "entity_name": "Rabeprazole",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01129"
+            },
+            {
+                "entity_name": "Furosemide",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00695"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bisoxatin",
+                "entity_link": "https://go.drugbank.com/drugs/DB09219"
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "qid": 810,
+        "text": "Which drugs are used to treat anxiety and have myositis as a side effect?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "(S)-Fluoxetine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB08544"
+            },
+            {
+                "entity_name": "(R)-Fluoxetine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB08472"
+            },
+            {
+                "entity_name": "Mirtazapine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00370"
+            },
+            {
+                "entity_name": "Paroxetine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00715"
+            },
+            {
+                "entity_name": "Fluoxetine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00472"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 11,
+        "qid": 813,
+        "text": "Which proteins are part of the MTA2 complex and are linked to lens diseases?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "HDAC2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92769/entry"
+            },
+            {
+                "entity_name": "HDAC1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13547/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 12,
+        "qid": 815,
+        "text": "Which drugs interact with Rifampicin and are used to treat movement disorders?",
+        "category": "Abnormality of the nervous system:Abnormality of movement",
+        "llm_ranking": [
+            {
+                "entity_name": "Olanzapine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00334"
+            },
+            {
+                "entity_name": "Paroxetine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00715"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Rifampicin",
+                "entity_link": "https://go.drugbank.com/drugs/DB01045"
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "qid": 843,
+        "text": "Which proteins are linked to reading disorders and are known to interact with UBE2I?",
+        "category": "disease of mental health:specific developmental disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "SETX",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q7Z333/entry"
+            },
+            {
+                "entity_name": "ETV6",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P41212/entry"
+            },
+            {
+                "entity_name": "BHLHE40",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O14503/entry"
+            },
+            {
+                "entity_name": "ELK1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P19419/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "UBE2I",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63279/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "qid": 848,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-21:0/18:0/i-22:0]) and are linked to Huntington's disease?",
+        "category": "nervous system disease:neurodegenerative disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(a-21:0/18:0/i-22:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0038095"
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "qid": 849,
+        "text": "Which drugs interact with Regramostim and have choreoathetosis as a side effect?",
+        "category": "Abnormality of the nervous system:Abnormality of movement",
+        "llm_ranking": [
+            {
+                "entity_name": "Aripiprazole",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01238"
+            },
+            {
+                "entity_name": "Lamotrigine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00555"
+            },
+            {
+                "entity_name": "Ziprasidone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00246"
+            },
+            {
+                "entity_name": "Quetiapine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01224"
+            },
+            {
+                "entity_name": "Olanzapine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00334"
+            },
+            {
+                "entity_name": "Paroxetine",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00715"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Regramostim",
+                "entity_link": "https://go.drugbank.com/drugs/DB05386"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 862,
+        "text": "Which proteins are linked to Charcot-Marie-Tooth disease and are known to interact with GPN3?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "VAPB",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95292/entry"
+            },
+            {
+                "entity_name": "SCN2B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60939/entry"
+            },
+            {
+                "entity_name": "CHRM3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P20309/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "GPN3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UHW5-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "qid": 869,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-21:0/i-24:0/i-13:0]) and are linked to optic atrophy?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(a-13:0/i-21:0/i-24:0/i-13:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0048466"
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "qid": 872,
+        "text": "Which proteins are associated with poliomyelitis and function as subunits of the ABCB1-ANXA2-RACK1-SRC complex?",
+        "category": "nervous system disease:peripheral nervous system disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ANXA2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07355/entry"
+            },
+            {
+                "entity_name": "SRC",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P12931/entry"
+            },
+            {
+                "entity_name": "RACK1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P63244/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 19,
+        "qid": 882,
+        "text": "Which drugs are used to treat photophobia and interact with Aprepitant?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Diclofenac",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00586"
+            },
+            {
+                "entity_name": "Acetylsalicylic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00945"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Aprepitant",
+                "entity_link": "https://go.drugbank.com/drugs/DB00673"
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "qid": 887,
+        "text": "Which drugs interact with Pheniprazine and list facial palsy as a side effect?",
+        "category": "Abnormality of the nervous system:Abnormal cranial nerve physiology",
+        "llm_ranking": [
+            {
+                "entity_name": "Methyldopa",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00968"
+            },
+            {
+                "entity_name": "Cyclobenzaprine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00924"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            },
+            {
+                "entity_name": "Ziprasidone",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00246"
+            },
+            {
+                "entity_name": "Citalopram",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00215"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Pheniprazine",
+                "entity_link": "https://go.drugbank.com/drugs/DB09250"
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "qid": 897,
+        "text": "Which proteins are subunits of the EARP complex and are linked to amyotrophic lateral sclerosis type 18?",
+        "category": "nervous system disease:neurodegenerative disease",
+        "llm_ranking": [
+            {
+                "entity_name": "VPS51",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UID3/entry"
+            },
+            {
+                "entity_name": "VPS52",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N1B4/entry"
+            },
+            {
+                "entity_name": "VPS53",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5VIR6/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 22,
+        "qid": 898,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL(i-12:0/18:2(9Z,11Z)/i-21:0/i-22:0)) and are linked to neuropathy?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-12:0/18:2(9Z,11Z)/i-21:0/i-22:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0049408"
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "qid": 900,
+        "text": "Which drugs interact with dopamine and are used to treat tension-type headaches?",
+        "category": "Abnormality of the nervous system:Headache",
+        "llm_ranking": [
+            {
+                "entity_name": "Diazepam",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00829"
+            },
+            {
+                "entity_name": "Ibuprofen",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01050"
+            },
+            {
+                "entity_name": "Acetaminophen",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00316"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Dopamine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00988"
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "qid": 905,
+        "text": "Which proteins are known to interact with CLC and are associated with personality disorders?",
+        "category": "disease of mental health:personality disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "ISYNA1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NPH2/entry"
+            },
+            {
+                "entity_name": "ADH1A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07327/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CLC",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q05315/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "qid": 909,
+        "text": "Which proteins are linked to alternating hemiplegia of childhood and are known to interact with MGA?",
+        "category": "nervous system disease:hemiplegia",
+        "llm_ranking": [
+            {
+                "entity_name": "EHMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H9B1/entry"
+            },
+            {
+                "entity_name": "SMG1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96Q15/entry"
+            },
+            {
+                "entity_name": "HCFC1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51610/entry"
+            },
+            {
+                "entity_name": "TAF1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21675/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MGA",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8IWI9/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "qid": 911,
+        "text": "Which proteins interact with SHC1 and are linked to corneal deposits?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "NGF",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01138/entry"
+            },
+            {
+                "entity_name": "MAPK8",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P45983/entry"
+            },
+            {
+                "entity_name": "TGFB1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01137/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SHC1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29353/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "qid": 913,
+        "text": "Which proteins are linked to central nervous system diseases and are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(a-25:0/18:0/i-13:0))?",
+        "category": "nervous system disease:central nervous system disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(a-25:0/18:0/i-13:0)",
+                "entity_link": "http://smpdb.ca/view/SMP0038956"
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "qid": 924,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(20:2/22:5/20:3)) and are linked to eye diseases?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPAM",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9HCL2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "DGAT1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O75907/entry"
+            },
+            {
+                "entity_name": "AGPAT1",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q99943/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(20:2(11Z,14Z)/22:5(7Z,10Z,13Z,16Z,19Z)/20:3(8Z,11Z,14Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0034811"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "qid": 955,
+        "text": "Which drugs are used to treat glioma and interact with vitamin D?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Topotecan",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01030"
+            },
+            {
+                "entity_name": "Irinotecan",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00762"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Vitamin D",
+                "entity_link": "https://go.drugbank.com/drugs/DB11094"
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "qid": 970,
+        "text": "Which proteins interact with NVL and are linked to focal dystonia?",
+        "category": "nervous system disease:brain disease",
+        "llm_ranking": [
+            {
+                "entity_name": "MNDA",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P41218/entry"
+            },
+            {
+                "entity_name": "MECP2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51608/entry"
+            },
+            {
+                "entity_name": "CLCN2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P51788/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NVL",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O15381/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "qid": 972,
+        "text": "Which proteins are involved in the ADP signaling pathway through the P2Y purinoceptor 1 and are linked to neonatal electroclinical syndrome?",
+        "category": "nervous system disease:brain disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GNB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P62873/entry"
+            },
+            {
+                "entity_name": "GNAQ",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P50148/entry"
+            },
+            {
+                "entity_name": "GNA11",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29992/entry"
+            },
+            {
+                "entity_name": "GNA15",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P30679/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "ADP signalling through P2Y purinoceptor 1",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418592"
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "qid": 974,
+        "text": "Which proteins are subunits of the spliceosome and are linked to autoimmune diseases affecting the eyes, ears, nose, or throat?",
+        "category": "nervous system disease:sensory system disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SART1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43290/entry"
+            },
+            {
+                "entity_name": "CD2BP2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O95400/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 33,
+        "qid": 977,
+        "text": "Which proteins are involved in the Integrin cell surface interaction pathway and are linked to cystoid macular edema?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "THBS1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07996/entry"
+            },
+            {
+                "entity_name": "COL18A1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P39060/entry"
+            },
+            {
+                "entity_name": "KDR",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35968/entry"
+            },
+            {
+                "entity_name": "ICAM1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P05362/entry"
+            },
+            {
+                "entity_name": "ITGAM",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11215/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Integrin cell surface interactions",
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-216083"
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "qid": 978,
+        "text": "Which proteins are linked to motor peripheral neuropathy and interact with TGFBR2?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "DYNLRB1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NP97/entry"
+            },
+            {
+                "entity_name": "RAC2",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P15153/entry"
+            },
+            {
+                "entity_name": "HSPB8",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJY1/entry"
+            },
+            {
+                "entity_name": "OCLN",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16625/entry"
+            },
+            {
+                "entity_name": "IL1B",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01584/entry"
+            },
+            {
+                "entity_name": "EMP3",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P54852/entry"
+            },
+            {
+                "entity_name": "CTNNB1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35222/entry"
+            },
+            {
+                "entity_name": "EGF",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P01133/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "TGFBR2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P37173/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "qid": 979,
+        "text": "Which proteins are linked to cocaine abuse and function as subunits of the ESR1-TRAP/Mediator coactivator complex?",
+        "category": "disease of mental health:substance abuse",
+        "llm_ranking": [
+            {
+                "entity_name": "ESR1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P03372/entry"
+            },
+            {
+                "entity_name": "EP300",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09472/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 36,
+        "qid": 982,
+        "text": "Which proteins interact with FRAS1 and are linked to amyotrophic lateral sclerosis type 9 (ALS9)?",
+        "category": "nervous system disease:neurodegenerative disease",
+        "llm_ranking": [
+            {
+                "entity_name": "GPHA2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96T91/entry"
+            },
+            {
+                "entity_name": "ST8SIA4",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92187/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FRAS1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q86XX4/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "qid": 998,
+        "text": "Which drugs are used to treat cerebral palsy and interact with Alverine?",
+        "category": "Abnormality of the nervous system:Abnormal central motor function",
+        "llm_ranking": [
+            {
+                "entity_name": "Dantrolene",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01219"
+            },
+            {
+                "entity_name": "Cyclobenzaprine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00924"
+            },
+            {
+                "entity_name": "Baclofen",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00181"
+            },
+            {
+                "entity_name": "Diazepam",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00829"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Alverine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01616"
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "qid": 1002,
+        "text": "Which proteins are subunits of the HNRNPD (p45)-ZFP36L1 complex and are linked to central nervous system diseases?",
+        "category": "nervous system disease:central nervous system disease",
+        "llm_ranking": [
+            {
+                "entity_name": "ZFP36L1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q07352/entry"
+            },
+            {
+                "entity_name": "HNRNPD",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14103/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 39,
+        "qid": 1012,
+        "text": "Which drugs target CYP20A1 and have hoarseness or voice changes (dysphonia) as a side effect?",
+        "category": "Abnormality of the nervous system:Abnormality of higher mental function",
+        "llm_ranking": [
+            {
+                "entity_name": "Itraconazole",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01167"
+            },
+            {
+                "entity_name": "Posaconazole",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01263"
+            },
+            {
+                "entity_name": "Epitestosterone",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB07768"
+            },
+            {
+                "entity_name": "Paroxetine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00715"
+            },
+            {
+                "entity_name": "Testosterone",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00624"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "CYP20A1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q6UW02/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "qid": 1014,
+        "text": "Which proteins are linked to fundus dystrophy and interact with NFATC2IP?",
+        "category": "nervous system disease:eye disease",
+        "llm_ranking": [
+            {
+                "entity_name": "REL",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q04864/entry"
+            },
+            {
+                "entity_name": "EP300",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q09472/entry"
+            },
+            {
+                "entity_name": "ATM",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13315/entry"
+            },
+            {
+                "entity_name": "RANBP2",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P49792/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "NFATC2IP",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NCF5/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "qid": 1016,
+        "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL(i-13:0/i-22:0/i-14:0/18:2(9Z,11Z))) and are linked to optic atrophy?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPMT1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8WUK0/entry"
+            },
+            {
+                "entity_name": "CRLS1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UJA2/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            },
+            {
+                "entity_name": "PGS1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q32NB8/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cardiolipin Biosynthesis CL(i-13:0/i-22:0/i-14:0/18:2(9Z,11Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0060323"
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "qid": 1042,
+        "text": "Which proteins are known to interact with MGAT2 and are associated with pseudobulbar palsy?",
+        "category": "nervous system disease:brain disease",
+        "llm_ranking": [
+            {
+                "entity_name": "SLC35A1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P78382/entry"
+            },
+            {
+                "entity_name": "SRD5A3",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H8P0/entry"
+            },
+            {
+                "entity_name": "SLC35C1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96A29/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "MGAT2",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q10469/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "qid": 1046,
+        "text": "Which proteins interact with SIK3 and are linked to schizoaffective disorder?",
+        "category": "disease of mental health:psychotic disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "YWHAH",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q04917/entry"
+            },
+            {
+                "entity_name": "MAPT",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P10636/entry"
+            },
+            {
+                "entity_name": "PPP3CC",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P48454/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "SIK3",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9Y2K2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "qid": 1053,
+        "text": "Which proteins are part of the NOS3-CAV1-NOSTRIN complex and are linked to mood disorders?",
+        "category": "disease of mental health:mood disorder",
+        "llm_ranking": [
+            {
+                "entity_name": "NOS3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29474/entry"
+            },
+            {
+                "entity_name": "CAV1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q03135/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 45,
+        "qid": 1056,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)) and are linked to optic nerve diseases?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0023691"
+            }
+        ]
+    },
+    {
+        "question_number": 46,
+        "qid": 1057,
+        "text": "Which proteins are associated with Alzheimer's disease 14 and function as subunits of the NOS3-HSP90 complex induced by VEGF?",
+        "category": "nervous system disease:neurodegenerative disease",
+        "llm_ranking": [
+            {
+                "entity_name": "NOS3",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P29474/entry"
+            },
+            {
+                "entity_name": "HSP90AA1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P07900/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 47,
+        "qid": 1058,
+        "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(14:0/14:0/18:3(9Z,12Z,15Z)) and are linked to cranial nerve disorders?",
+        "category": "nervous system disease:neuropathy",
+        "llm_ranking": [
+            {
+                "entity_name": "LPIN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q14693/entry"
+            },
+            {
+                "entity_name": "GPD1",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21695/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "De Novo Triacylglycerol Biosynthesis TG(14:0/14:0/18:3(9Z,12Z,15Z))",
+                "entity_link": "http://smpdb.ca/view/SMP0016214"
+            }
+        ]
+    },
+    {
+        "question_number": 48,
+        "qid": 275,
+        "text": "Which proteins are identified as targets of 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline and also interact with Atomoxetine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "PNMT",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11086/entry"
+            },
+            {
+                "entity_name": "ADRA2A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08913/entry"
+            },
+            {
+                "entity_name": "ADRA2C",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P18825/entry"
+            },
+            {
+                "entity_name": "MAOA",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P21397/entry"
+            },
+            {
+                "entity_name": "MAOB",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P27338/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Atomoxetine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00289"
+            },
+            {
+                "entity_name": "7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",
+                "entity_link": "https://go.drugbank.com/drugs/DB08550"
+            }
+        ]
+    },
+    {
+        "question_number": 49,
+        "qid": 276,
+        "text": "Which proteins are targeted by TMPRSS11D, which is also affected by Gadodiamide?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "F2RL1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P55085/entry"
+            },
+            {
+                "entity_name": "F2R",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25116/entry"
+            },
+            {
+                "entity_name": "F2RL2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00254/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Gadodiamide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00225"
+            },
+            {
+                "entity_name": "TMPRSS11D",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O60235/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 50,
+        "qid": 281,
+        "text": "Which proteins are targeted by PRSS12, which is also affected by Gadodiamide?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "FIBCD1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N539/entry"
+            },
+            {
+                "entity_name": "DOCK8",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8NF50/entry"
+            },
+            {
+                "entity_name": "F2RL2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00254/entry"
+            },
+            {
+                "entity_name": "F2R",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P25116/entry"
+            },
+            {
+                "entity_name": "CHRNA4",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43681/entry"
+            },
+            {
+                "entity_name": "CHRNA2",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15822/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Gadodiamide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00225"
+            },
+            {
+                "entity_name": "PRSS12",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P56730/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 51,
+        "qid": 285,
+        "text": "Which proteins are known targets of Tiludronic acid and also interact with Atomoxetine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "PTPN1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P18031/entry"
+            },
+            {
+                "entity_name": "ATP6V1A",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P38606/entry"
+            },
+            {
+                "entity_name": "MMP13",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P45452/entry"
+            },
+            {
+                "entity_name": "MMP27",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9H306/entry"
+            },
+            {
+                "entity_name": "MMP8",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P22894/entry"
+            },
+            {
+                "entity_name": "MMP3",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P08254/entry"
+            },
+            {
+                "entity_name": "MMP1",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P03956/entry"
+            },
+            {
+                "entity_name": "MMP10",
+                "llm_rank": 8,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P09238/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Atomoxetine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00289"
+            },
+            {
+                "entity_name": "Tiludronic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB01133"
+            }
+        ]
+    },
+    {
+        "question_number": 52,
+        "qid": 325,
+        "text": "Which proteins are targeted by Paramethadione and also interact with Atomoxetine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "CACNA1I",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9P0X4/entry"
+            },
+            {
+                "entity_name": "CACNA1G",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/O43497/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Atomoxetine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00289"
+            },
+            {
+                "entity_name": "Paramethadione",
+                "entity_link": "https://go.drugbank.com/drugs/DB00617"
+            }
+        ]
+    },
+    {
+        "question_number": 53,
+        "qid": 333,
+        "text": "Which proteins are identified as targets of Nalidixic acid and also interact with Atomoxetine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "TOP2A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11388/entry"
+            },
+            {
+                "entity_name": "TOP2B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q02880/entry"
+            },
+            {
+                "entity_name": "NPL",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BXD5/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Atomoxetine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00289"
+            },
+            {
+                "entity_name": "Nalidixic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB00779"
+            }
+        ]
+    },
+    {
+        "question_number": 54,
+        "qid": 355,
+        "text": "Which proteins are targeted by MST1, which is also affected by Streptozocin?",
+        "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "ITGAM",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P11215/entry"
+            },
+            {
+                "entity_name": "VEGFA",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P15692/entry"
+            },
+            {
+                "entity_name": "AKT1",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31749/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Streptozocin",
+                "entity_link": "https://go.drugbank.com/drugs/DB00428"
+            },
+            {
+                "entity_name": "MST1",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P26927/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 55,
+        "qid": 373,
+        "text": "Which pathways are associated with TRPC5, a target of Gadodiamide?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "TRP channels",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Role of second messengers in netrin-1 signaling",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Gadodiamide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00225"
+            },
+            {
+                "entity_name": "TRPC5",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9UL62/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 56,
+        "qid": 380,
+        "text": "Which proteins are targeted by Hexobarbital and also interact with Atomoxetine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "CHRFAM7A",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q494W8/entry"
+            },
+            {
+                "entity_name": "CYP2C19",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P33261/entry"
+            },
+            {
+                "entity_name": "GRIK2",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13002/entry"
+            },
+            {
+                "entity_name": "GABRA4",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P48169/entry"
+            },
+            {
+                "entity_name": "GABRA5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P31644/entry"
+            },
+            {
+                "entity_name": "CHRNA4",
+                "llm_rank": 6,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P43681/entry"
+            },
+            {
+                "entity_name": "GABRA6",
+                "llm_rank": 7,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q16445/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Atomoxetine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00289"
+            },
+            {
+                "entity_name": "Hexobarbital",
+                "entity_link": "https://go.drugbank.com/drugs/DB01355"
+            }
+        ]
+    },
+    {
+        "question_number": 57,
+        "qid": 2,
+        "text": "Which proteins are known to be targets of Lisdexamfetamine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "WTAP",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q15007/entry"
+            },
+            {
+                "entity_name": "ADRA1B",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35368/entry"
+            },
+            {
+                "entity_name": "SLC6A3",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q01959/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Lisdexamfetamine",
+                "entity_link": "https://go.drugbank.com/drugs/DB01255"
+            }
+        ]
+    },
+    {
+        "question_number": 58,
+        "qid": 19,
+        "text": "What conditions or diseases is Temozolomide commonly used to treat?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Glioblastoma multiforme",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Astrocytoma",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Glioma",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cutaneous melanoma",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Neoplasm",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Temozolomide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00853"
+            }
+        ]
+    },
+    {
+        "question_number": 59,
+        "qid": 23,
+        "text": "What conditions or symptoms is gamma-Hydroxybutyric acid (GHB) commonly prescribed or indicated to treat?",
+        "category": "Abnormality of the nervous system:Abnormal central motor function",
+        "llm_ranking": [
+            {
+                "entity_name": "Narcolepsy",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Cataplexy",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "gamma-Hydroxybutyric acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB01440"
+            }
+        ]
+    },
+    {
+        "question_number": 60,
+        "qid": 24,
+        "text": "What conditions or symptoms is Isocarboxazid prescribed to treat?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Agitation",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hypersomnia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Insomnia",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Anxiety",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fatigue",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Isocarboxazid",
+                "entity_link": "https://go.drugbank.com/drugs/DB01247"
+            }
+        ]
+    },
+    {
+        "question_number": 61,
+        "qid": 35,
+        "text": "What conditions or symptoms is Fosphenytoin prescribed to treat?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Status epilepticus",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Seizure",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Encephalopathy",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Psychosis",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Confusion",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Elevated hepatic transaminase",
+                "llm_rank": 6,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hyperglycemia",
+                "llm_rank": 7,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Fosphenytoin",
+                "entity_link": "https://go.drugbank.com/drugs/DB01320"
+            }
+        ]
+    },
+    {
+        "question_number": 62,
+        "qid": 36,
+        "text": "What conditions or symptoms is Tetrabenazine prescribed to treat?",
+        "category": "Abnormality of the nervous system:Abnormality of movement",
+        "llm_ranking": [
+            {
+                "entity_name": "Tardive dyskinesia",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hemiballismus",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Chorea",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Abnormality of movement",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Tetrabenazine",
+                "entity_link": "https://go.drugbank.com/drugs/DB04844"
+            }
+        ]
+    },
+    {
+        "question_number": 63,
+        "qid": 40,
+        "text": "What conditions or symptoms is Haloperidol commonly prescribed to treat?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Hyperkinetic movements",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Behavioral abnormality",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Mood changes",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Schizophrenia",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Psychosis",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Haloperidol",
+                "entity_link": "https://go.drugbank.com/drugs/DB00502"
+            }
+        ]
+    },
+    {
+        "question_number": 64,
+        "qid": 48,
+        "text": "What conditions or symptoms is Clorazepic acid prescribed to treat?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Focal-onset seizure",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Anxiety",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Seizure",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Clorazepic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB00628"
+            }
+        ]
+    },
+    {
+        "question_number": 65,
+        "qid": 76,
+        "text": "Which genes are targeted by Trimethadione?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "calcium voltage-gated channel subunit alpha1 H",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "calcium voltage-gated channel subunit alpha1 I",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "calcium voltage-gated channel subunit alpha1 G",
+                "llm_rank": 3,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Trimethadione",
+                "entity_link": "https://go.drugbank.com/drugs/DB00347"
+            }
+        ]
+    },
+    {
+        "question_number": 66,
+        "qid": 93,
+        "text": "What conditions or phenotypes is D-arginine used to treat or indicated for?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Acrocyanosis",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Growth hormone excess",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Craniopharyngioma",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Panhypopituitarism",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pituitary dwarfism",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "D-arginine",
+                "entity_link": "https://go.drugbank.com/drugs/DB04027"
+            }
+        ]
+    },
+    {
+        "question_number": 67,
+        "qid": 102,
+        "text": "What conditions or symptoms is folic acid commonly prescribed to treat?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Reduced blood folate concentration",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Megaloblastic anemia",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Gluten intolerance",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Seizure",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Anemia",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Folic acid",
+                "entity_link": "https://go.drugbank.com/drugs/DB00158"
+            }
+        ]
+    },
+    {
+        "question_number": 68,
+        "qid": 103,
+        "text": "What conditions or symptoms is Cyclobenzaprine commonly prescribed to treat?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Cerebral palsy",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hyperkinetic movements",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Spasticity",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Myelopathy",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Pain",
+                "llm_rank": 5,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Morphological central nervous system abnormality",
+                "llm_rank": 6,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Cyclobenzaprine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00924"
+            }
+        ]
+    },
+    {
+        "question_number": 69,
+        "qid": 120,
+        "text": "What conditions or symptoms is Ethosuximide prescribed to treat?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Typical absence seizure",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Seizure",
+                "llm_rank": 2,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ethosuximide",
+                "entity_link": "https://go.drugbank.com/drugs/DB00593"
+            }
+        ]
+    },
+    {
+        "question_number": 70,
+        "qid": 133,
+        "text": "What conditions or symptoms is Vilazodone prescribed to treat?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Increased body weight",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Agitation",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Hypersomnia",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Fatigue",
+                "llm_rank": 4,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Insomnia",
+                "llm_rank": 5,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Vilazodone",
+                "entity_link": "https://go.drugbank.com/drugs/DB06684"
+            }
+        ]
+    },
+    {
+        "question_number": 71,
+        "qid": 135,
+        "text": "Which genes are identified as targets of Phentermine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "N-acetyltransferase 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 2",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 3",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 4",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Phentermine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00191"
+            }
+        ]
+    },
+    {
+        "question_number": 72,
+        "qid": 146,
+        "text": "What conditions or symptoms is Lurasidone prescribed to treat?",
+        "category": "Abnormality of the nervous system:Abnormality of higher mental function",
+        "llm_ranking": [
+            {
+                "entity_name": "Schizophrenia",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Bipolar affective disorder",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Mania",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "Dementia",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Lurasidone",
+                "entity_link": "https://go.drugbank.com/drugs/DB08815"
+            }
+        ]
+    },
+    {
+        "question_number": 73,
+        "qid": 151,
+        "text": "Which genes are identified as targets of Phentermine?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "N-acetyltransferase 1",
+                "llm_rank": 1,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 4",
+                "llm_rank": 2,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 2",
+                "llm_rank": 3,
+                "entity_link": null
+            },
+            {
+                "entity_name": "solute carrier family 6 member 3",
+                "llm_rank": 4,
+                "entity_link": null
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Phentermine",
+                "entity_link": "https://go.drugbank.com/drugs/DB00191"
+            }
+        ]
+    },
+    {
+        "question_number": 74,
+        "qid": 159,
+        "text": "Which drugs are used to treat photophobia (sensitivity to light)?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Sumatriptan",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00669"
+            },
+            {
+                "entity_name": "Almotriptan",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00918"
+            },
+            {
+                "entity_name": "Diclofenac",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00586"
+            },
+            {
+                "entity_name": "Acetylsalicylic acid",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00945"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 75,
+        "qid": 164,
+        "text": "Which drugs target the FUS protein?",
+        "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Riluzole",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00740"
+            },
+            {
+                "entity_name": "Gadoteridol",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00597"
+            },
+            {
+                "entity_name": "Gadodiamide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00225"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "FUS",
+                "entity_link": "https://www.uniprot.org/uniprotkb/P35637/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 76,
+        "qid": 168,
+        "text": "Which drugs are used to treat abnormalities in extrapyramidal motor function?",
+        "category": "Abnormality of the nervous system:Abnormal central motor function",
+        "llm_ranking": [
+            {
+                "entity_name": "Olanzapine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00334"
+            },
+            {
+                "entity_name": "Quetiapine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01224"
+            },
+            {
+                "entity_name": "Trihexyphenidyl",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00376"
+            },
+            {
+                "entity_name": "Benzatropine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00245"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 77,
+        "qid": 173,
+        "text": "Which drugs are used to treat excessive daytime sleepiness?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Mirtazapine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00370"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Gabapentin",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00996"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 78,
+        "qid": 181,
+        "text": "Which drugs are used to treat agoraphobia?",
+        "category": "Abnormality of the nervous system:Behavioral abnormality",
+        "llm_ranking": [
+            {
+                "entity_name": "Venlafaxine",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00285"
+            },
+            {
+                "entity_name": "Paroxetine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00715"
+            },
+            {
+                "entity_name": "(S)-Fluoxetine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB08544"
+            },
+            {
+                "entity_name": "(R)-Fluoxetine",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB08472"
+            },
+            {
+                "entity_name": "Fluoxetine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00472"
+            },
+            {
+                "entity_name": "Sertraline",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01104"
+            },
+            {
+                "entity_name": "Clonazepam",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01068"
+            },
+            {
+                "entity_name": "Alprazolam",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00404"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 79,
+        "qid": 183,
+        "text": "Which drugs are used to treat encephalopathy?",
+        "category": "Abnormality of the nervous system:Encephalopathy",
+        "llm_ranking": [
+            {
+                "entity_name": "(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02648"
+            },
+            {
+                "entity_name": "Thiamine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00152"
+            },
+            {
+                "entity_name": "Edetic acid",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00974"
+            },
+            {
+                "entity_name": "Ifosfamide",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB01181"
+            },
+            {
+                "entity_name": "Levocarnitine",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00583"
+            },
+            {
+                "entity_name": "Magnesium cation",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB01378"
+            },
+            {
+                "entity_name": "Fosphenytoin",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB01320"
+            },
+            {
+                "entity_name": "Minoxidil",
+                "llm_rank": 8,
+                "entity_link": "https://go.drugbank.com/drugs/DB00350"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 80,
+        "qid": 188,
+        "text": "Which proteins are considered biomarkers for alcohol dependence?",
+        "category": "disease of mental health:substance dependence",
+        "llm_ranking": [
+            {
+                "entity_name": "GPT2",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8TD30/entry"
+            },
+            {
+                "entity_name": "GPT",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P24298/entry"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 81,
+        "qid": 190,
+        "text": "Which drugs target the mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1 (MT-ND1)?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Desflurane",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01189"
+            },
+            {
+                "entity_name": "Sevoflurane",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01236"
+            },
+            {
+                "entity_name": "Enflurane",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00228"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 82,
+        "qid": 215,
+        "text": "Which drugs target the AGRP (Agouti-Related Protein) gene or its associated pathways?",
+        "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
+        "llm_ranking": [
+            {
+                "entity_name": "Streptozocin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00428"
+            },
+            {
+                "entity_name": "Rosiglitazone",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00412"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "AGRP",
+                "entity_link": "https://www.uniprot.org/uniprotkb/O00253/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 83,
+        "qid": 222,
+        "text": "Which drugs are used to treat typical absence seizures?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Ethosuximide",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00593"
+            },
+            {
+                "entity_name": "Trimethadione",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00347"
+            },
+            {
+                "entity_name": "Methsuximide",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB05246"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Clonazepam",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01068"
+            },
+            {
+                "entity_name": "Acetazolamide",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00819"
+            },
+            {
+                "entity_name": "Carbamazepine",
+                "llm_rank": 7,
+                "entity_link": "https://go.drugbank.com/drugs/DB00564"
+            }
+        ],
+        "resource": []
+    },
+    {
+        "question_number": 84,
+        "qid": 230,
+        "text": "Which drugs target the enzyme 4-aminobutyrate aminotransferase (GABA transaminase)?",
+        "category": "Abnormality of the nervous system:Seizure",
+        "llm_ranking": [
+            {
+                "entity_name": "Vigabatrin",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB01080"
+            },
+            {
+                "entity_name": "Valproic acid",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00313"
+            },
+            {
+                "entity_name": "Tiagabine",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00906"
+            },
+            {
+                "entity_name": "Pyridoxal phosphate",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00114"
+            },
+            {
+                "entity_name": "Pyruvic acid",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB00119"
+            },
+            {
+                "entity_name": "Alanine",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00160"
+            }
+        ],
+        "resource": []
+    }
+]
