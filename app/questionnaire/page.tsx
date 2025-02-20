@@ -47,7 +47,7 @@ const userFormSchema = z.object({
   }),
 })
 
-const Header = () => {
+const Header = ({activeTab}: { activeTab: (value: string) => void }) => {
 
   const [imageModal, setImageModal] = useState(false);
 
@@ -84,6 +84,10 @@ const Header = () => {
         If you have any questions, please contact us at{' '}
         <span className="underline">mxw767@case.edu</span>
       </p>
+      <Button className="mt-4" onClick={(e) => {
+        e.preventDefault()
+        activeTab('instructions')
+      }}>View Instructions</Button>
     </div>
   )
 }
@@ -285,7 +289,7 @@ const Questionnaire = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Header/>
+      <Header activeTab={setActiveTab}/>
 
       {isLoggedIn && (
         <p className="text-center text-green-600 font-bold">You are logged in as {userEmail}. <Button variant="link"
@@ -301,7 +305,7 @@ const Questionnaire = () => {
       <main className="container mx-auto px-4 py-8">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="space-y-8">
           <TabsList className="grid w-full grid-cols-7 mb-20">
-            <TabsTrigger value="instructions">
+            <TabsTrigger value="instructions" className='sr-only'>
               Instructions
             </TabsTrigger>
             {isLoggedIn && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].map((batch) => (
@@ -314,7 +318,8 @@ const Questionnaire = () => {
           <TabsContent value="instructions" className="space-y-8">
             <UserForm/>
             <Instructions/>
-            {isLoggedIn ? <CategoryCards categories={category} onClick={setActiveTab}/> : <CategoryCards categories={category} onClick={console.log}/>}
+            {isLoggedIn ? <CategoryCards categories={category} onClick={setActiveTab}/> :
+              <CategoryCards categories={category} onClick={console.log}/>}
           </TabsContent>
 
           {isLoggedIn && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].map((batch) => (

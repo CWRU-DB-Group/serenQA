@@ -7,7 +7,7 @@ const CategoryDisplay = ({ data, onClick }: { data: Category, onClick: (value: s
     <Card className="mb-6 cursor-pointer" onClick={() => onClick(`batch${data.batch_id}`)}>
       <CardHeader>
         <CardTitle className="flex justify-between items-center">
-          <span>{data.batch_name} (batch #{data.batch_id})</span>
+          <span>{data.batch_name} (batch {data.batch_id})</span>
           <span className="text-sm text-muted-foreground">Total: {data.total}</span>
         </CardTitle>
       </CardHeader>
@@ -19,8 +19,7 @@ const CategoryDisplay = ({ data, onClick }: { data: Category, onClick: (value: s
               <div className="grid grid-cols-2 gap-2 ml-4">
                 {Object.entries(subcategories).map(([subcategory, count]) => (
                   <div key={subcategory} className="flex justify-between items-center">
-                    <span className="text-sm text-muted-foreground">{subcategory}</span>
-                    <span className="text-sm font-medium">{count}</span>
+                    <span className="text-sm text-muted-foreground">{subcategory} ({count})</span>
                   </div>
                 ))}
               </div>
@@ -35,14 +34,14 @@ const CategoryDisplay = ({ data, onClick }: { data: Category, onClick: (value: s
 // Example usage component that handles multiple categories
 const CategoryCards = ({ categories, onClick }: { categories: Category[], onClick: (value: string) => void}) => {
   return (
-    <>
+    <div className="max-w-4xl mx-auto mt-12 p-6 bg-white rounded-lg shadow">
       <h3 className="text-2xl font-bold mb-6">Available Categories</h3>
     <div className="grid gap-6 md:grid-cols-1 lg:grid-cols-1">
       {categories.map((category) => (
         <CategoryDisplay key={category.batch_id} data={category} onClick={onClick} />
       ))}
     </div>
-    </>
+    </div>
   );
 };
 
