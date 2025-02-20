@@ -217,7 +217,7 @@ const BatchFormComponent = ({batchId, onComplete}: {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const response = await fetch(`/batch${batchId}.json`);
+        const response = await fetch(`https://cwru-db-group.github.io/serenQA/batch${batchId}.json`);
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
