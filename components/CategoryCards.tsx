@@ -7,7 +7,7 @@ const CategoryDisplay = ({ data, onClick }: { data: Category, onClick: (value: s
     <Card className="mb-6 cursor-pointer" onClick={() => onClick(`batch${data.batch_id}`)}>
       <CardHeader>
         <CardTitle className="flex justify-between items-center">
-          <span>{data.batch_name}</span>
+          <span>{data.batch_name} (batch #{data.batch_id})</span>
           <span className="text-sm text-muted-foreground">Total: {data.total}</span>
         </CardTitle>
       </CardHeader>
