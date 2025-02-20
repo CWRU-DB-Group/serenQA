@@ -37,7 +37,7 @@ const CategoryCards = ({ categories, onClick }: { categories: Category[], onClic
   return (
     <>
       <h3 className="text-2xl font-bold mb-6">Available Categories</h3>
-    <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-2">
+    <div className="grid gap-6 md:grid-cols-1 lg:grid-cols-1">
       {categories.map((category) => (
         <CategoryDisplay key={category.batch_id} data={category} onClick={onClick} />
       ))}
