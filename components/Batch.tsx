@@ -321,7 +321,7 @@ const BatchForm = ({onComplete, batchId, questions}: {
                     handlePageChange(Math.min(totalPages - 1, currentPage + 1))
                   }}
                 >
-                  Next
+                  Save and next
                 </Button>
               )}
             </div>
