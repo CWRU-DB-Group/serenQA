@@ -7,9 +7,9 @@ export const Instructions = () => {
         <div>
           <h4 className="text-xl font-semibold mb-3">How the Questions are Organized</h4>
           <p className="text-gray-700">
-            The questions are divided into <strong>5 batches</strong> based on drug categories.
-            You can refer to <a href="https://cwru-db-group.github.io/serenQA/batch.json" target="_blank" className="text-blue-600">batch.json</a> to see the categories for each batch.
-            Each {"question's"} category is labeled as <span className="text-gray-600">[Category - Category:Subcategory]</span> following the text question.
+            The questions are grouped into <strong>14 batches</strong> based on drug categories.
+            Each batch&apos;s categories are listed below. Please select the batches that best match your expertise or interest for evaluation.
+            Additionally, each question is labeled with its category in the format: <span className="text-gray-600">[Category - Category:Subcategory]</span>, displayed after the text question.
           </p>
         </div>
 
@@ -32,7 +32,6 @@ export const Instructions = () => {
             <div>
               <p className="font-semibold">1. Review the Question and Rankings:</p>
               <ul className="list-disc ml-8 space-y-1 text-gray-700">
-                <li>Select at least 1 batch that align with your interest or expertise to evaluate.</li>
                 <li>Carefully review the <strong>LLM ranks</strong> for each question in your selected batch.</li>
                 <li>Assess whether you agree with the provided rank.</li>
               </ul>
@@ -45,15 +44,6 @@ export const Instructions = () => {
                 <li>If you find any default ranking disagreeable, please <strong>modify</strong> it to better capture the serendipity based on your expertise.</li>
               </ul>
             </div>
-
-            {/*<div>*/}
-            {/*  <p className="font-semibold">3. Format for Your Ranking:</p>*/}
-            {/*  <ul className="list-disc ml-8 space-y-1 text-gray-700">*/}
-            {/*    <li>Use the numbers corresponding to the answers in the LLM ranking.</li>*/}
-            {/*    <li>Separate the numbers with commas (e.g., <strong>2, 1, 3</strong> for Answer (2) {'>'} Answer (1) {'>'} Answer (3)).</li>*/}
-            {/*    <li>If you are not confident in ranking all answers, you may rank only a subset.</li>*/}
-            {/*  </ul>*/}
-            {/*</div>*/}
 
             <div>
               <p className="font-semibold">3. Confidence Rating:</p>
@@ -71,7 +61,6 @@ export const Instructions = () => {
             <li>If you refresh or reload the page, or return to evaluate more batches, please log in again using the same email.</li>
             <li>Batches submitted successfully will be marked with a {'"✓"'}.</li>
             <li>If you submit a batch multiple times, only the last submission will be recorded.</li>
-            <li>You may take <strong>Batch 6</strong> as a practice batch to familiarize yourself with the evaluation process.</li>
           </ul>
         </div>
       </div>
