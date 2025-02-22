@@ -24,12 +24,18 @@ type LLMRanking = {
   "entity_link": string;
 }
 
+type Resource = {
+  entity_name: string;
+  entity_link: string;
+}
+
 export type Question = {
   question_number: number;
   qid: number;
   text: string;
   category: string;
   llm_ranking: LLMRanking[];
+  resource?: Resource[];
 }
 
 const questionResponseSchema = z.object({
@@ -250,6 +256,12 @@ const BatchForm = ({onComplete, batchId, questions}: {
                       {question.question_number} - {question.text}
                     </p>
                     <p className="text-sm text-gray-500">Category - {question.category}</p>
+                    {question.resource && question.resource.length > 0 ? (
+                      <Link href={question.resource[0].entity_link ? question.resource[0].entity_link.toString() : ''} target="_blank"
+                            className="flex gap-x-2 items-center text-sm text-gray-500">
+                        Resource - {question.resource[0].entity_name} <LinkIcon size={16}/>
+                      </Link>
+                    ): null}
                     {Array.isArray(question.llm_ranking) ? question.llm_ranking.map((entity) => (
                       <FormField
                         key={entity.entity_name}
