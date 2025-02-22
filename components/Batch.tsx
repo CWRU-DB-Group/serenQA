@@ -4,7 +4,7 @@ import {Button} from "@/components/ui/button"
 import {Input} from "@/components/ui/input"
 import {
   Form,
-  FormControl, FormDescription,
+  FormControl,
   FormField,
   FormItem,
   FormLabel,
@@ -269,15 +269,9 @@ const BatchForm = ({onComplete, batchId, questions}: {
                         name={`responses.${responseIndex}.entity_responses.${entity.entity_name}`}
                         render={({field}) => (
                           <FormItem className="flex flex-row items-center justify-between">
-                            <div>
-                              <FormLabel>{entity.entity_name}</FormLabel>
-                              <FormDescription>
-                                <Link href={entity.entity_link ? entity.entity_link.toString() : ''} target="_blank"
-                                      className="flex gap-x-2 items-center">
-                                  Resource <LinkIcon size={16}/>
-                                </Link>
-                              </FormDescription>
-                            </div>
+                            <FormLabel><Link href={entity.entity_link ? entity.entity_link.toString() : ''} target="_blank" className="flex gap-x-2 items-center">
+                              {entity.entity_name} <LinkIcon size={16}/>
+                            </Link></FormLabel>
                             <FormControl className="w-1/2">
                               <Input {...field} value={field.value || ''}/>
                             </FormControl>
