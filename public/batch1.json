@@ -115,22 +115,22 @@
             {
                 "entity_name": "Glycerophosphoinositol",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0011649"
             },
             {
                 "entity_name": "Inositol phosphate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0002985"
             },
             {
                 "entity_name": "Glycerol",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000131"
             },
             {
                 "entity_name": "Water",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0002111"
             }
         ],
         "resource": [
@@ -689,12 +689,12 @@
             {
                 "entity_name": "Inhibitor of Apoptosis domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00653/"
             },
             {
                 "entity_name": "Baculoviral IAP repeat-containing protein 6",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF12356/"
             }
         ],
         "resource": [
@@ -1141,12 +1141,12 @@
             {
                 "entity_name": "Zc3h12a-like Ribonuclease NYN domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF11977/"
             },
             {
                 "entity_name": "Endoribonuclease Regnase 1/ ZC3H12 C-terminal domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF18561/"
             }
         ],
         "resource": [
@@ -1695,12 +1695,12 @@
             {
                 "entity_name": "OAR motif",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF03826/"
             },
             {
                 "entity_name": "Homeodomain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00046/"
             }
         ],
         "resource": [
@@ -1719,17 +1719,17 @@
             {
                 "entity_name": "Magnesium",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000547"
             },
             {
                 "entity_name": "Adenosine triphosphate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000538"
             },
             {
                 "entity_name": "ADP",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001341"
             }
         ],
         "resource": [
@@ -1801,12 +1801,12 @@
             {
                 "entity_name": "Cadherin cytoplasmic region",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01049/"
             },
             {
                 "entity_name": "Cadherin domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00028/"
             }
         ],
         "resource": [
@@ -1927,12 +1927,12 @@
             {
                 "entity_name": "Calcium",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000464"
             },
             {
                 "entity_name": "Magnesium",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000547"
             }
         ],
         "resource": [
@@ -2312,37 +2312,37 @@
             {
                 "entity_name": "O-Desmethylverapamil (D-702)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0013961"
             },
             {
                 "entity_name": "Flunarizine",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0015589"
             },
             {
                 "entity_name": "Paramethadione",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0014755"
             },
             {
                 "entity_name": "Cinnarizine",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0014708"
             },
             {
                 "entity_name": "Verapamil",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001850"
             },
             {
                 "entity_name": "Zonisamide",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0015045"
             },
             {
                 "entity_name": "Calcium",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000464"
             }
         ],
         "resource": [
@@ -2555,12 +2555,12 @@
             {
                 "entity_name": "C1q domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00386/"
             },
             {
                 "entity_name": "Collagen triple helix repeat (20 copies)",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01391/"
             }
         ],
         "resource": [
@@ -2642,12 +2642,12 @@
             {
                 "entity_name": "Intermediate filament protein",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00038/"
             },
             {
                 "entity_name": "Keratin type II head",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF16208/"
             }
         ],
         "resource": [
@@ -3144,12 +3144,12 @@
             {
                 "entity_name": "Melanoma associated antigen family N terminal",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF12440/"
             },
             {
                 "entity_name": "MAGE family",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01454/"
             }
         ],
         "resource": [
@@ -3168,22 +3168,22 @@
             {
                 "entity_name": "Chondroitin 4-sulfate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000652"
             },
             {
                 "entity_name": "Phosphoadenosine phosphosulfate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001134"
             },
             {
                 "entity_name": "Chondroitin",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000629"
             },
             {
                 "entity_name": "Adenosine 3',5'-diphosphate",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000061"
             }
         ],
         "resource": [
@@ -3522,12 +3522,12 @@
             {
                 "entity_name": "7 transmembrane receptor (Secretin family)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00002/"
             },
             {
                 "entity_name": "Hormone receptor domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF02793/"
             }
         ],
         "resource": [
@@ -3546,17 +3546,17 @@
             {
                 "entity_name": "7 transmembrane sweet-taste receptor of 3 GCPR",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00003/"
             },
             {
                 "entity_name": "Nine Cysteines Domain of family 3 GPCR",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF07562/"
             },
             {
                 "entity_name": "Receptor family ligand binding region",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01094/"
             }
         ],
         "resource": [
@@ -4220,17 +4220,17 @@
             {
                 "entity_name": "Magnesium",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000547"
             },
             {
                 "entity_name": "ADP",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001341"
             },
             {
                 "entity_name": "Adenosine triphosphate",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000538"
             }
         ],
         "resource": [
@@ -4366,12 +4366,12 @@
             {
                 "entity_name": "Complement Clr-like EGF-like",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF12662/"
             },
             {
                 "entity_name": "Lectin C-type domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00059/"
             }
         ],
         "resource": [
@@ -4453,12 +4453,12 @@
             {
                 "entity_name": "ATP synthase alpha/beta family, nucleotide-binding domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00006/"
             },
             {
                 "entity_name": "ATP synthase alpha/beta family, beta-barrel domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF02874/"
             }
         ],
         "resource": [
@@ -4959,17 +4959,17 @@
             {
                 "entity_name": "Histamine",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000870"
             },
             {
                 "entity_name": "Cyclic AMP",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000058"
             },
             {
                 "entity_name": "Chlorpheniramine",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001944"
             }
         ],
         "resource": [
@@ -5348,12 +5348,12 @@
             {
                 "entity_name": "Folate receptor family",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF03024/"
             },
             {
                 "entity_name": "Glucose / Sorbosone dehydrogenase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF07995/"
             }
         ],
         "resource": [
@@ -5548,12 +5548,12 @@
             {
                 "entity_name": "bolA family member 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BOLA2"
             },
             {
                 "entity_name": "bolA family member 2B",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BOLA2B"
             }
         ],
         "resource": [
@@ -5723,12 +5723,12 @@
             {
                 "entity_name": "Phosphoadenosine phosphosulfate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001134"
             },
             {
                 "entity_name": "Adenosine 3',5'-diphosphate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000061"
             }
         ],
         "resource": [
@@ -8397,17 +8397,17 @@
             {
                 "entity_name": "preassembly of GPI anchor in ER membrane",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0016254"
             },
             {
                 "entity_name": "GPI anchor biosynthetic process",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006506"
             },
             {
                 "entity_name": "carbohydrate metabolic process",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0005975"
             }
         ],
         "resource": [
@@ -8430,17 +8430,17 @@
             {
                 "entity_name": "Translesion synthesis by REV1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-110312"
             },
             {
                 "entity_name": "Translesion synthesis by POLK",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5655862"
             },
             {
                 "entity_name": "Translesion synthesis by POLI",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5656121"
             }
         ],
         "resource": [
@@ -8463,12 +8463,12 @@
             {
                 "entity_name": "proteolysis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006508"
             },
             {
                 "entity_name": "cornification",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0070268"
             }
         ],
         "resource": [
@@ -8491,12 +8491,12 @@
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Opsins",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-419771"
             }
         ],
         "resource": [
@@ -8580,17 +8580,17 @@
             {
                 "entity_name": "Cytosolic tRNA aminoacylation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-379716"
             },
             {
                 "entity_name": "Protein Synthesis: Arginine",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0111853"
             },
             {
                 "entity_name": "Selenoamino acid metabolism",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2408522"
             }
         ],
         "resource": [
@@ -8704,17 +8704,17 @@
             {
                 "entity_name": "Lysosphingolipid and LPA receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-419408"
             },
             {
                 "entity_name": "Interleukin-4 and Interleukin-13 signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6785807"
             },
             {
                 "entity_name": "Potential therapeutics for SARS",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9679191"
             }
         ],
         "resource": [
@@ -8737,17 +8737,17 @@
             {
                 "entity_name": "Respiratory electron transport",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-611105"
             },
             {
                 "entity_name": "TP53 Regulates Metabolic Genes",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5628897"
             },
             {
                 "entity_name": "Cytoprotection by HMOX1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9707564"
             }
         ],
         "resource": [
@@ -8770,12 +8770,12 @@
             {
                 "entity_name": "Muscarinic acetylcholine receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-390648"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -8798,27 +8798,27 @@
             {
                 "entity_name": "purine nucleotide biosynthetic process",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006164"
             },
             {
                 "entity_name": "negative regulation of catalytic activity",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0043086"
             },
             {
                 "entity_name": "5-phosphoribose 1-diphosphate biosynthetic process",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006015"
             },
             {
                 "entity_name": "nucleoside metabolic process",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0009116"
             },
             {
                 "entity_name": "nucleobase-containing compound metabolic process",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006139"
             }
         ],
         "resource": [
@@ -8841,22 +8841,22 @@
             {
                 "entity_name": "Excitatory Neural Signalling Through 5-HTR 4 and Serotonin",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000309"
             },
             {
                 "entity_name": "G alpha (s) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418555"
             },
             {
                 "entity_name": "ADORA2B mediated anti-inflammatory cytokines production",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9660821"
             },
             {
                 "entity_name": "Serotonin receptors",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-390666"
             }
         ],
         "resource": [
@@ -8879,12 +8879,12 @@
             {
                 "entity_name": "RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8877330"
             },
             {
                 "entity_name": "CTLA4 inhibitory signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-389513"
             }
         ],
         "resource": [
@@ -8907,22 +8907,22 @@
             {
                 "entity_name": "MECP2 regulates neuronal receptors and channels",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9022699"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Nalbuphine Action Pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000691"
             },
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             }
         ],
         "resource": [
@@ -8945,27 +8945,27 @@
             {
                 "entity_name": "peptidyl-methionine modification",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0018206"
             },
             {
                 "entity_name": "N-terminal protein amino acid modification",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0031365"
             },
             {
                 "entity_name": "co-translational protein modification",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0043686"
             },
             {
                 "entity_name": "positive regulation of cell population proliferation",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008284"
             },
             {
                 "entity_name": "translation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006412"
             }
         ],
         "resource": [
@@ -8988,12 +8988,12 @@
             {
                 "entity_name": "Neddylation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8951664"
             },
             {
                 "entity_name": "Antigen processing: Ubiquitination & Proteasome degradation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-983168"
             }
         ],
         "resource": [
@@ -9016,17 +9016,17 @@
             {
                 "entity_name": "2-oxoglutarate metabolic process",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006103"
             },
             {
                 "entity_name": "tricarboxylic acid cycle",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006099"
             },
             {
                 "entity_name": "glycolytic process",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006096"
             }
         ],
         "resource": [
@@ -9049,12 +9049,12 @@
             {
                 "entity_name": "Glutamate and glutamine metabolism",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8964539"
             },
             {
                 "entity_name": "Transcriptional activation of mitochondrial biogenesis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2151201"
             }
         ],
         "resource": [
@@ -9077,12 +9077,12 @@
             {
                 "entity_name": "Class I peroxisomal membrane protein import",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9603798"
             },
             {
                 "entity_name": "Alpha-oxidation of phytanate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-389599"
             }
         ],
         "resource": [
@@ -9105,32 +9105,32 @@
             {
                 "entity_name": "Amyloid fiber formation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-977225"
             },
             {
                 "entity_name": "The canonical retinoid cycle in rods (twilight vision)",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2453902"
             },
             {
                 "entity_name": "Retinoid metabolism and transport",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-975634"
             },
             {
                 "entity_name": "Retinoid cycle disease events",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2453864"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             },
             {
                 "entity_name": "Non-integrin membrane-ECM interactions",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3000171"
             }
         ],
         "resource": [
@@ -9153,12 +9153,12 @@
             {
                 "entity_name": "Ca2+ pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-4086398"
             },
             {
                 "entity_name": "Ion Channels and Their Functional Role in Vascular Endothelium",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0063778"
             }
         ],
         "resource": [
@@ -9181,27 +9181,27 @@
             {
                 "entity_name": "Formation of xylulose-5-phosphate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5661270"
             },
             {
                 "entity_name": "Fructose biosynthesis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5652227"
             },
             {
                 "entity_name": "Fructosuria",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000561"
             },
             {
                 "entity_name": "Fructose and Mannose Degradation",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000064"
             },
             {
                 "entity_name": "Fructose Intolerance, Hereditary",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000725"
             }
         ],
         "resource": [
@@ -9252,32 +9252,32 @@
             {
                 "entity_name": "Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-450513"
             },
             {
                 "entity_name": "Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-450385"
             },
             {
                 "entity_name": "KSRP (KHSRP) binds and destabilizes mRNA",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-450604"
             },
             {
                 "entity_name": "mRNA decay by 3' to 5' exoribonuclease",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-429958"
             },
             {
                 "entity_name": "ATF4 activates genes in response to endoplasmic reticulum  stress",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-380994"
             },
             {
                 "entity_name": "Major pathway of rRNA processing in the nucleolus and cytosol",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6791226"
             }
         ],
         "resource": [
@@ -9300,17 +9300,17 @@
             {
                 "entity_name": "RA biosynthesis pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5365859"
             },
             {
                 "entity_name": "Retinol Metabolism",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000074"
             },
             {
                 "entity_name": "Vitamin A Deficiency",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000336"
             }
         ],
         "resource": [
@@ -9588,22 +9588,22 @@
             {
                 "entity_name": "Detoxification of Reactive Oxygen Species",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3299685"
             },
             {
                 "entity_name": "STAT5 activation downstream of FLT3 ITD mutants",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9702518"
             },
             {
                 "entity_name": "Signaling by FLT3 fusion proteins",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9703465"
             },
             {
                 "entity_name": "Thyroid Hormone Synthesis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000716"
             }
         ],
         "resource": [
@@ -9626,12 +9626,12 @@
             {
                 "entity_name": "Orexin and neuropeptides FF and QRFP bind to their respective receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-389397"
             },
             {
                 "entity_name": "G alpha (q) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416476"
             }
         ],
         "resource": [
@@ -9654,27 +9654,27 @@
             {
                 "entity_name": "RNA catabolic process",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006401"
             },
             {
                 "entity_name": "mismatch repair",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006298"
             },
             {
                 "entity_name": "RNA phosphodiester bond hydrolysis, endonucleolytic",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0090502"
             },
             {
                 "entity_name": "DNA replication",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006260"
             },
             {
                 "entity_name": "DNA replication, removal of RNA primer",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0043137"
             }
         ],
         "resource": [
@@ -9697,17 +9697,17 @@
             {
                 "entity_name": "Vitamin D (calciferol) metabolism",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-196791"
             },
             {
                 "entity_name": "SUMOylation of intracellular receptors",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-4090294"
             },
             {
                 "entity_name": "Nuclear Receptor transcription pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-383280"
             }
         ],
         "resource": [
@@ -9730,12 +9730,12 @@
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             },
             {
                 "entity_name": "G alpha (q) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416476"
             }
         ],
         "resource": [
@@ -9758,37 +9758,37 @@
             {
                 "entity_name": "4-Hydroxybutyric Aciduria/Succinic Semialdehyde Dehydrogenase Deficiency",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000243"
             },
             {
                 "entity_name": "Degradation of GABA",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-916853"
             },
             {
                 "entity_name": "Succinic Semialdehyde Dehydrogenase Deficiency",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000567"
             },
             {
                 "entity_name": "Homocarnosinosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000385"
             },
             {
                 "entity_name": "2-Hydroxyglutric Aciduria (D and L Form)",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000136"
             },
             {
                 "entity_name": "Hyperinsulinism-Hyperammonemia Syndrome",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000339"
             },
             {
                 "entity_name": "Glutamate Metabolism",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000072"
             }
         ],
         "resource": [
@@ -9839,27 +9839,27 @@
             {
                 "entity_name": "BMAL1:CLOCK,NPAS2 activates circadian gene expression",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1368108"
             },
             {
                 "entity_name": "SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2173796"
             },
             {
                 "entity_name": "ECM proteoglycans",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3000178"
             },
             {
                 "entity_name": "Dissolution of Fibrin Clot",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-75205"
             },
             {
                 "entity_name": "Platelet degranulation ",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-114608"
             }
         ],
         "resource": [
@@ -9882,12 +9882,12 @@
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             },
             {
                 "entity_name": "G alpha (q) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416476"
             }
         ],
         "resource": [
@@ -9910,37 +9910,37 @@
             {
                 "entity_name": "Antigen Presentation: Folding, assembly and peptide loading of class I MHC",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-983170"
             },
             {
                 "entity_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-198933"
             },
             {
                 "entity_name": "ER-Phagosome pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1236974"
             },
             {
                 "entity_name": "Endosomal/Vacuolar pathway",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1236977"
             },
             {
                 "entity_name": "Interferon gamma signaling",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-877300"
             },
             {
                 "entity_name": "Interferon alpha/beta signaling",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-909733"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             }
         ],
         "resource": [
@@ -9963,37 +9963,37 @@
             {
                 "entity_name": "Glycosphingolipid metabolism",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1660662"
             },
             {
                 "entity_name": "Sphingolipid Metabolism",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000034"
             },
             {
                 "entity_name": "Globoid Cell Leukodystrophy",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000348"
             },
             {
                 "entity_name": "Gaucher Disease",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000349"
             },
             {
                 "entity_name": "Krabbe Disease",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000526"
             },
             {
                 "entity_name": "Metachromatic Leukodystrophy (MLD)",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000347"
             },
             {
                 "entity_name": "Fabry Disease",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000525"
             }
         ],
         "resource": [
@@ -10016,27 +10016,27 @@
             {
                 "entity_name": "Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3359467"
             },
             {
                 "entity_name": "Defective MTR causes methylmalonic aciduria and homocystinuria type cblG",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3359469"
             },
             {
                 "entity_name": "Cobalamin (Cbl, vitamin B12) transport and metabolism",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-196741"
             },
             {
                 "entity_name": "Sulfur amino acid metabolism",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1614635"
             },
             {
                 "entity_name": "Methylation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-156581"
             }
         ],
         "resource": [
@@ -10059,32 +10059,32 @@
             {
                 "entity_name": "Synthesis, secretion, and deacylation of Ghrelin",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-422085"
             },
             {
                 "entity_name": "Neurotransmitter clearance",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-112311"
             },
             {
                 "entity_name": "Heroin Metabolism Pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000623"
             },
             {
                 "entity_name": "Irinotecan Metabolism Pathway",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000600"
             },
             {
                 "entity_name": "Irinotecan Action Pathway",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000433"
             },
             {
                 "entity_name": "Synthesis of PC",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1483191"
             }
         ],
         "resource": [
@@ -10107,17 +10107,17 @@
             {
                 "entity_name": "CYP2E1 reactions",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211999"
             },
             {
                 "entity_name": "Fatty acids",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211935"
             },
             {
                 "entity_name": "Xenobiotics",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211981"
             }
         ],
         "resource": [
@@ -10188,12 +10188,12 @@
             {
                 "entity_name": "Hydroxycarboxylic acid-binding receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3296197"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -10244,32 +10244,32 @@
             {
                 "entity_name": "NR1H2 & NR1H3 regulate gene expression linked to lipogenesis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9029558"
             },
             {
                 "entity_name": "ChREBP activates metabolic gene expression",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-163765"
             },
             {
                 "entity_name": "Activation of gene expression by SREBF (SREBP)",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2426168"
             },
             {
                 "entity_name": "Fatty Acid Biosynthesis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000456"
             },
             {
                 "entity_name": "Fatty acyl-CoA biosynthesis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-75105"
             },
             {
                 "entity_name": "Vitamin B5 (pantothenate) metabolism",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-199220"
             }
         ],
         "resource": [
@@ -10292,27 +10292,27 @@
             {
                 "entity_name": "ADORA2B mediated anti-inflammatory cytokines production",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9660821"
             },
             {
                 "entity_name": "Intracellular Signalling Through Adenosine Receptor A2b and Adenosine",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000321"
             },
             {
                 "entity_name": "Adenosine P1 receptors",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-417973"
             },
             {
                 "entity_name": "Surfactant metabolism",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5683826"
             },
             {
                 "entity_name": "G alpha (s) signalling events",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418555"
             }
         ],
         "resource": [
@@ -10335,32 +10335,32 @@
             {
                 "entity_name": "Activation of Matrix Metalloproteinases",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1592389"
             },
             {
                 "entity_name": "Basigin interactions",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-210991"
             },
             {
                 "entity_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-381426"
             },
             {
                 "entity_name": "Interleukin-4 and Interleukin-13 signaling",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6785807"
             },
             {
                 "entity_name": "Collagen degradation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1442490"
             },
             {
                 "entity_name": "Degradation of the extracellular matrix",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1474228"
             }
         ],
         "resource": [
@@ -10441,12 +10441,12 @@
             {
                 "entity_name": "RET signaling",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8853659"
             },
             {
                 "entity_name": "RAF/MAP kinase cascade",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5673001"
             }
         ],
         "resource": [
@@ -10469,32 +10469,32 @@
             {
                 "entity_name": "Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-141444"
             },
             {
                 "entity_name": "EML4 and NUDC in mitotic spindle formation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9648025"
             },
             {
                 "entity_name": "Separation of Sister Chromatids",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2467813"
             },
             {
                 "entity_name": "Mitotic Prometaphase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-68877"
             },
             {
                 "entity_name": "Resolution of Sister Chromatid Cohesion",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2500257"
             },
             {
                 "entity_name": "RHO GTPases Activate Formins",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5663220"
             }
         ],
         "resource": [
@@ -10517,12 +10517,12 @@
             {
                 "entity_name": "Cytochrome P450 - arranged by substrate type",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211897"
             },
             {
                 "entity_name": "Doxorubicin Metabolism Pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000650"
             }
         ],
         "resource": [
@@ -10545,22 +10545,22 @@
             {
                 "entity_name": "positive regulation of cold-induced thermogenesis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0120162"
             },
             {
                 "entity_name": "regulation of meiotic nuclear division",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0040020"
             },
             {
                 "entity_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007189"
             },
             {
                 "entity_name": "regulation of metabolic process",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0019222"
             }
         ],
         "resource": [
@@ -10583,17 +10583,17 @@
             {
                 "entity_name": "Antimicrobial peptides",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6803157"
             },
             {
                 "entity_name": "Amyloid fiber formation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-977225"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             }
         ],
         "resource": [
@@ -10616,22 +10616,22 @@
             {
                 "entity_name": "extracellular matrix disassembly",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0022617"
             },
             {
                 "entity_name": "positive regulation of antibacterial peptide production",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0002803"
             },
             {
                 "entity_name": "epidermis development",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008544"
             },
             {
                 "entity_name": "proteolysis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006508"
             }
         ],
         "resource": [
@@ -10795,12 +10795,12 @@
             {
                 "entity_name": "adenosine A3 receptor",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADORA3"
             },
             {
                 "entity_name": "serpin family F member 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SERPINF1"
             }
         ],
         "resource": [
@@ -10902,22 +10902,22 @@
             {
                 "entity_name": "cyclin dependent kinase 5",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK5"
             },
             {
                 "entity_name": "glycogen synthase kinase 3 alpha",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GSK3A"
             },
             {
                 "entity_name": "cyclin dependent kinase 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK2"
             },
             {
                 "entity_name": "cyclin dependent kinase 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK1"
             }
         ],
         "resource": [
@@ -10970,37 +10970,37 @@
             {
                 "entity_name": "LCK proto-oncogene, Src family tyrosine kinase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LCK"
             },
             {
                 "entity_name": "LYN proto-oncogene, Src family tyrosine kinase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LYN"
             },
             {
                 "entity_name": "YES proto-oncogene 1, Src family tyrosine kinase",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=YES1"
             },
             {
                 "entity_name": "aurora kinase C",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AURKC"
             },
             {
                 "entity_name": "SRC proto-oncogene, non-receptor tyrosine kinase",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SRC"
             },
             {
                 "entity_name": "BR serine/threonine kinase 2",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRSK2"
             },
             {
                 "entity_name": "aurora kinase B",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AURKB"
             }
         ],
         "resource": [
@@ -11043,32 +11043,32 @@
             {
                 "entity_name": "checkpoint kinase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHEK1"
             },
             {
                 "entity_name": "Rho associated coiled-coil containing protein kinase 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROCK1"
             },
             {
                 "entity_name": "MAPK activated protein kinase 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPKAPK2"
             },
             {
                 "entity_name": "ribosomal protein S6 kinase A1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KA1"
             },
             {
                 "entity_name": "casein kinase 1 gamma 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CSNK1G1"
             },
             {
                 "entity_name": "protein kinase cAMP-dependent type II regulatory subunit beta",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR2B"
             }
         ],
         "resource": [
@@ -11087,27 +11087,27 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM5"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM2"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 3",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM3"
             }
         ],
         "resource": [
@@ -11636,27 +11636,27 @@
             {
                 "entity_name": "adhesion G protein-coupled receptor B1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADGRB1"
             },
             {
                 "entity_name": "glutamate metabotropic receptor 8",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRM8"
             },
             {
                 "entity_name": "glutamate metabotropic receptor 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRM4"
             },
             {
                 "entity_name": "glutamate metabotropic receptor 7",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRM7"
             },
             {
                 "entity_name": "glutamate metabotropic receptor 6",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRM6"
             }
         ],
         "resource": [
@@ -11683,17 +11683,17 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             }
         ],
         "resource": [
@@ -11720,27 +11720,27 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM5"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 3",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM3"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM2"
             }
         ],
         "resource": [
@@ -11767,17 +11767,17 @@
             {
                 "entity_name": "free fatty acid receptor 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FFAR1"
             },
             {
                 "entity_name": "dopamine receptor D5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD5"
             },
             {
                 "entity_name": "dopamine receptor D1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD1"
             }
         ],
         "resource": [
@@ -11804,22 +11804,22 @@
             {
                 "entity_name": "adenylate cyclase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1"
             },
             {
                 "entity_name": "galanin receptor 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GALR3"
             },
             {
                 "entity_name": "galanin receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GALR1"
             },
             {
                 "entity_name": "galanin receptor 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GALR2"
             }
         ],
         "resource": [
@@ -11846,12 +11846,12 @@
             {
                 "entity_name": "mRNA Editing: C to U Conversion",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-72200"
             },
             {
                 "entity_name": "Formation of the Editosome",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-75094"
             }
         ],
         "resource": [
@@ -11874,17 +11874,17 @@
             {
                 "entity_name": "cyclin dependent kinase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK1"
             },
             {
                 "entity_name": "cyclin dependent kinase 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK2"
             },
             {
                 "entity_name": "fms related receptor tyrosine kinase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT1"
             }
         ],
         "resource": [
@@ -11907,27 +11907,27 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM5"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM2"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 3",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM3"
             }
         ],
         "resource": [
@@ -11954,17 +11954,17 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             }
         ],
         "resource": [
@@ -11991,17 +11991,17 @@
             {
                 "entity_name": "cytochrome P450 family 19 subfamily A member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP19A1"
             },
             {
                 "entity_name": "cytochrome P450 family 3 subfamily A member 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP3A5"
             },
             {
                 "entity_name": "cytochrome P450 family 1 subfamily B member 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP1B1"
             }
         ],
         "resource": [
@@ -12028,17 +12028,17 @@
             {
                 "entity_name": "cyclin dependent kinase 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK2"
             },
             {
                 "entity_name": "fms related receptor tyrosine kinase 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT1"
             },
             {
                 "entity_name": "cyclin dependent kinase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK1"
             }
         ],
         "resource": [
@@ -12065,17 +12065,17 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             }
         ],
         "resource": [
@@ -12102,17 +12102,17 @@
             {
                 "entity_name": "cytochrome P450 family 19 subfamily A member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP19A1"
             },
             {
                 "entity_name": "cytochrome P450 family 3 subfamily A member 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP3A5"
             },
             {
                 "entity_name": "cytochrome P450 family 1 subfamily B member 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP1B1"
             }
         ],
         "resource": [
@@ -12139,27 +12139,27 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 5",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM5"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM2"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 3",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM3"
             }
         ],
         "resource": [
@@ -12186,42 +12186,42 @@
             {
                 "entity_name": "free fatty acid receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FFAR2"
             },
             {
                 "entity_name": "hydroxycarboxylic acid receptor 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HCAR2"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 5A",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR5A"
             },
             {
                 "entity_name": "histone deacetylase 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC1"
             },
             {
                 "entity_name": "histone deacetylase 2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC2"
             },
             {
                 "entity_name": "histone deacetylase 3",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC3"
             },
             {
                 "entity_name": "adenosine deaminase RNA specific B2 (inactive)",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADARB2"
             },
             {
                 "entity_name": "histone deacetylase 8",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC8"
             }
         ],
         "resource": [

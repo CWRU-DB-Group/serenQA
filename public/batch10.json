@@ -440,22 +440,22 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 3A",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN3A"
             }
         ],
         "resource": [

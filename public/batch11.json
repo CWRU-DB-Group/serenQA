@@ -1744,12 +1744,12 @@
             {
                 "entity_name": "TRP channels",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3295583"
             },
             {
                 "entity_name": "Role of second messengers in netrin-1 signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418890"
             }
         ],
         "resource": [
@@ -1854,27 +1854,27 @@
             {
                 "entity_name": "Glioblastoma multiforme",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012174"
             },
             {
                 "entity_name": "Astrocytoma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0009592"
             },
             {
                 "entity_name": "Glioma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0009733"
             },
             {
                 "entity_name": "Cutaneous melanoma",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012056"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             }
         ],
         "resource": [
@@ -1893,12 +1893,12 @@
             {
                 "entity_name": "Narcolepsy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030050"
             },
             {
                 "entity_name": "Cataplexy",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002524"
             }
         ],
         "resource": [
@@ -1917,27 +1917,27 @@
             {
                 "entity_name": "Agitation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000713"
             },
             {
                 "entity_name": "Hypersomnia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100786"
             },
             {
                 "entity_name": "Insomnia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100785"
             },
             {
                 "entity_name": "Anxiety",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000739"
             },
             {
                 "entity_name": "Fatigue",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012378"
             }
         ],
         "resource": [
@@ -1956,37 +1956,37 @@
             {
                 "entity_name": "Status epilepticus",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002133"
             },
             {
                 "entity_name": "Seizure",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001250"
             },
             {
                 "entity_name": "Encephalopathy",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001298"
             },
             {
                 "entity_name": "Psychosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000709"
             },
             {
                 "entity_name": "Confusion",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001289"
             },
             {
                 "entity_name": "Elevated hepatic transaminase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002910"
             },
             {
                 "entity_name": "Hyperglycemia",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003074"
             }
         ],
         "resource": [
@@ -2005,22 +2005,22 @@
             {
                 "entity_name": "Tardive dyskinesia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0040141"
             },
             {
                 "entity_name": "Hemiballismus",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100248"
             },
             {
                 "entity_name": "Chorea",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002072"
             },
             {
                 "entity_name": "Abnormality of movement",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100022"
             }
         ],
         "resource": [
@@ -2039,27 +2039,27 @@
             {
                 "entity_name": "Hyperkinetic movements",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002487"
             },
             {
                 "entity_name": "Behavioral abnormality",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000708"
             },
             {
                 "entity_name": "Mood changes",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001575"
             },
             {
                 "entity_name": "Schizophrenia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100753"
             },
             {
                 "entity_name": "Psychosis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000709"
             }
         ],
         "resource": [
@@ -2078,17 +2078,17 @@
             {
                 "entity_name": "Focal-onset seizure",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0007359"
             },
             {
                 "entity_name": "Anxiety",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000739"
             },
             {
                 "entity_name": "Seizure",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001250"
             }
         ],
         "resource": [
@@ -2107,17 +2107,17 @@
             {
                 "entity_name": "calcium voltage-gated channel subunit alpha1 H",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CACNA1H"
             },
             {
                 "entity_name": "calcium voltage-gated channel subunit alpha1 I",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CACNA1I"
             },
             {
                 "entity_name": "calcium voltage-gated channel subunit alpha1 G",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CACNA1G"
             }
         ],
         "resource": [
@@ -2136,27 +2136,27 @@
             {
                 "entity_name": "Acrocyanosis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001063"
             },
             {
                 "entity_name": "Growth hormone excess",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000845"
             },
             {
                 "entity_name": "Craniopharyngioma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030062"
             },
             {
                 "entity_name": "Panhypopituitarism",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000871"
             },
             {
                 "entity_name": "Pituitary dwarfism",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000839"
             }
         ],
         "resource": [
@@ -2175,27 +2175,27 @@
             {
                 "entity_name": "Reduced blood folate concentration",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100507"
             },
             {
                 "entity_name": "Megaloblastic anemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001889"
             },
             {
                 "entity_name": "Gluten intolerance",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012538"
             },
             {
                 "entity_name": "Seizure",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001250"
             },
             {
                 "entity_name": "Anemia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001903"
             }
         ],
         "resource": [
@@ -2214,32 +2214,32 @@
             {
                 "entity_name": "Cerebral palsy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100021"
             },
             {
                 "entity_name": "Hyperkinetic movements",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002487"
             },
             {
                 "entity_name": "Spasticity",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001257"
             },
             {
                 "entity_name": "Myelopathy",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002196"
             },
             {
                 "entity_name": "Pain",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012531"
             },
             {
                 "entity_name": "Morphological central nervous system abnormality",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002011"
             }
         ],
         "resource": [
@@ -2258,12 +2258,12 @@
             {
                 "entity_name": "Typical absence seizure",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011147"
             },
             {
                 "entity_name": "Seizure",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001250"
             }
         ],
         "resource": [
@@ -2282,27 +2282,27 @@
             {
                 "entity_name": "Increased body weight",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004324"
             },
             {
                 "entity_name": "Agitation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000713"
             },
             {
                 "entity_name": "Hypersomnia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100786"
             },
             {
                 "entity_name": "Fatigue",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012378"
             },
             {
                 "entity_name": "Insomnia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100785"
             }
         ],
         "resource": [
@@ -2321,22 +2321,22 @@
             {
                 "entity_name": "N-acetyltransferase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NAT1"
             },
             {
                 "entity_name": "solute carrier family 6 member 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A2"
             },
             {
                 "entity_name": "solute carrier family 6 member 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A3"
             },
             {
                 "entity_name": "solute carrier family 6 member 4",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A4"
             }
         ],
         "resource": [
@@ -2355,22 +2355,22 @@
             {
                 "entity_name": "Schizophrenia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100753"
             },
             {
                 "entity_name": "Bipolar affective disorder",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0007302"
             },
             {
                 "entity_name": "Mania",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100754"
             },
             {
                 "entity_name": "Dementia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000726"
             }
         ],
         "resource": [
@@ -2389,22 +2389,22 @@
             {
                 "entity_name": "N-acetyltransferase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NAT1"
             },
             {
                 "entity_name": "solute carrier family 6 member 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A4"
             },
             {
                 "entity_name": "solute carrier family 6 member 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A2"
             },
             {
                 "entity_name": "solute carrier family 6 member 3",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC6A3"
             }
         ],
         "resource": [

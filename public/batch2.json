@@ -303,12 +303,12 @@
             {
                 "entity_name": "Lithium",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0005949"
             },
             {
                 "entity_name": "Sodium",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000588"
             }
         ],
         "resource": [
@@ -520,12 +520,12 @@
             {
                 "entity_name": "MAGE family member A2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAGEA2B"
             },
             {
                 "entity_name": "MAGE family member A2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAGEA2B"
             }
         ],
         "resource": [
@@ -1919,12 +1919,12 @@
             {
                 "entity_name": "Sphingosine 1-phosphate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000277"
             },
             {
                 "entity_name": "Sphingosine",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000252"
             }
         ],
         "resource": [
@@ -3486,12 +3486,12 @@
             {
                 "entity_name": "cancer",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "thyroid gland disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:50"
             }
         ],
         "resource": [
@@ -3510,17 +3510,17 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "cancer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -3539,37 +3539,37 @@
             {
                 "entity_name": "cytochrome P450 family 19 subfamily A member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP19A1"
             },
             {
                 "entity_name": "cytochrome P450 family 11 subfamily A member 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP11A1"
             },
             {
                 "entity_name": "trefoil factor 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TFF3"
             },
             {
                 "entity_name": "gamma-glutamyltransferase 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GGT1"
             },
             {
                 "entity_name": "cytochrome P450 family 1 subfamily B member 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP1B1"
             },
             {
                 "entity_name": "thyroglobulin",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TG"
             },
             {
                 "entity_name": "gonadotropin releasing hormone 1",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNRH1"
             }
         ],
         "resource": [
@@ -3588,17 +3588,17 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "cancer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -3617,12 +3617,12 @@
             {
                 "entity_name": "cancer",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "ischemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:326"
             }
         ],
         "resource": [
@@ -3641,17 +3641,17 @@
             {
                 "entity_name": "testicular cancer",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2998"
             },
             {
                 "entity_name": "liver cancer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:3571"
             },
             {
                 "entity_name": "cancer",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             }
         ],
         "resource": [
@@ -3670,12 +3670,12 @@
             {
                 "entity_name": "cancer",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "ischemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:326"
             }
         ],
         "resource": [
@@ -3694,17 +3694,17 @@
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Chronic pain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012532"
             },
             {
                 "entity_name": "Pain",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012531"
             }
         ],
         "resource": [
@@ -3723,17 +3723,17 @@
             {
                 "entity_name": "testicular cancer",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2998"
             },
             {
                 "entity_name": "liver cancer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:3571"
             },
             {
                 "entity_name": "cancer",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             }
         ],
         "resource": [
@@ -3752,17 +3752,17 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "cancer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:162"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -3781,12 +3781,12 @@
             {
                 "entity_name": "Free fatty acid receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-444209"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -3809,17 +3809,17 @@
             {
                 "entity_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007189"
             },
             {
                 "entity_name": "G protein-coupled receptor signaling pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007186"
             },
             {
                 "entity_name": "cell surface receptor signaling pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007166"
             }
         ],
         "resource": [
@@ -3842,27 +3842,27 @@
             {
                 "entity_name": "negative regulation of inflammatory response",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0050728"
             },
             {
                 "entity_name": "response to acidic pH",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0010447"
             },
             {
                 "entity_name": "response to molecule of bacterial origin",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0002237"
             },
             {
                 "entity_name": "G protein-coupled receptor signaling pathway",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007186"
             },
             {
                 "entity_name": "lipid metabolic process",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006629"
             }
         ],
         "resource": [
@@ -3885,12 +3885,12 @@
             {
                 "entity_name": "positive regulation of flagellated sperm motility",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:1902093"
             },
             {
                 "entity_name": "glycolytic process",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006096"
             }
         ],
         "resource": [
@@ -3913,27 +3913,27 @@
             {
                 "entity_name": "response to activity",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0014823"
             },
             {
                 "entity_name": "response to alkaloid",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0043279"
             },
             {
                 "entity_name": "oxidative phosphorylation",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006119"
             },
             {
                 "entity_name": "mitochondrial electron transport, ubiquinol to cytochrome c",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006122"
             },
             {
                 "entity_name": "aerobic respiration",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0009060"
             }
         ],
         "resource": [
@@ -3956,12 +3956,12 @@
             {
                 "entity_name": "Sensory processing of sound by outer hair cells of the cochlea",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9662361"
             },
             {
                 "entity_name": "Sensory processing of sound by inner hair cells of the cochlea",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9662360"
             }
         ],
         "resource": [

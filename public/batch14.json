@@ -251,42 +251,42 @@
             {
                 "entity_name": "AKT serine/threonine kinase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AKT1"
             },
             {
                 "entity_name": "AKT serine/threonine kinase 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AKT2"
             },
             {
                 "entity_name": "AKT serine/threonine kinase 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AKT3"
             },
             {
                 "entity_name": "phosphatase and tensin homolog",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTEN"
             },
             {
                 "entity_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIK3CA"
             },
             {
                 "entity_name": "KRAS proto-oncogene, GTPase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 2",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2"
             },
             {
                 "entity_name": "protein kinase cGMP-dependent 1",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKG1"
             }
         ],
         "resource": [
@@ -305,17 +305,17 @@
             {
                 "entity_name": "potassium voltage-gated channel subfamily H member 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNH2"
             },
             {
                 "entity_name": "calcium voltage-gated channel auxiliary subunit alpha2delta 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CACNA2D2"
             },
             {
                 "entity_name": "adrenoceptor beta 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB1"
             }
         ],
         "resource": [
@@ -334,22 +334,22 @@
             {
                 "entity_name": "opioid related nociceptin receptor 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRL1"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             }
         ],
         "resource": [
@@ -368,37 +368,37 @@
             {
                 "entity_name": "potassium calcium-activated channel subfamily N member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNN1"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA4"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha5",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA5"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha6",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA6"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA2"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA1"
             },
             {
                 "entity_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GABRA3"
             }
         ],
         "resource": [
@@ -417,27 +417,27 @@
             {
                 "entity_name": "KRAS proto-oncogene, GTPase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB4"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB3"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2"
             },
             {
                 "entity_name": "epidermal growth factor receptor",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR"
             }
         ],
         "resource": [
@@ -456,27 +456,27 @@
             {
                 "entity_name": "checkpoint kinase 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHEK1"
             },
             {
                 "entity_name": "MYC proto-oncogene, bHLH transcription factor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC"
             },
             {
                 "entity_name": "checkpoint kinase 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHEK2"
             },
             {
                 "entity_name": "ribosomal protein S6 kinase A1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KA1"
             },
             {
                 "entity_name": "CDP-diacylglycerol synthase 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDS1"
             }
         ],
         "resource": [
@@ -495,27 +495,27 @@
             {
                 "entity_name": "KRAS proto-oncogene, GTPase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB4"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB3"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2"
             },
             {
                 "entity_name": "epidermal growth factor receptor",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR"
             }
         ],
         "resource": [

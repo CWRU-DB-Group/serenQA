@@ -1029,37 +1029,37 @@
             {
                 "entity_name": "skeletal system development",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0001501"
             },
             {
                 "entity_name": "cholesterol biosynthetic process via lathosterol",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0033490"
             },
             {
                 "entity_name": "xenobiotic transport",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0042908"
             },
             {
                 "entity_name": "cholesterol biosynthetic process via desmosterol",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0033489"
             },
             {
                 "entity_name": "sterol biosynthetic process",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0016126"
             },
             {
                 "entity_name": "cholesterol metabolic process",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008203"
             },
             {
                 "entity_name": "cholesterol biosynthetic process",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006695"
             }
         ],
         "resource": [
@@ -1120,37 +1120,37 @@
             {
                 "entity_name": "fibroblast growth factor receptor 3",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR3"
             },
             {
                 "entity_name": "fibroblast growth factor receptor 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR2"
             },
             {
                 "entity_name": "fibroblast growth factor receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1"
             },
             {
                 "entity_name": "epidermal growth factor receptor",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR"
             },
             {
                 "entity_name": "fibroblast growth factor receptor 4",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR4"
             },
             {
                 "entity_name": "KRAS proto-oncogene, GTPase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS"
             },
             {
                 "entity_name": "kinase insert domain receptor",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KDR"
             }
         ],
         "resource": [
@@ -1173,22 +1173,22 @@
             {
                 "entity_name": "Low back pain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003419"
             },
             {
                 "entity_name": "Chronic pain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012532"
             },
             {
                 "entity_name": "Osteoarthritis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002758"
             },
             {
                 "entity_name": "Pain",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012531"
             }
         ],
         "resource": [
@@ -1207,22 +1207,22 @@
             {
                 "entity_name": "glutamate metabotropic receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRM2"
             },
             {
                 "entity_name": "Fas cell surface death receptor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FAS"
             },
             {
                 "entity_name": "Fc fragment of IgG receptor IIIb",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FCGR3B"
             },
             {
                 "entity_name": "vitamin D receptor",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=VDR"
             }
         ],
         "resource": [
@@ -1241,17 +1241,17 @@
             {
                 "entity_name": "carnitine palmitoyltransferase 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CPT2"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS1"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2"
             }
         ],
         "resource": [
@@ -1367,32 +1367,32 @@
             {
                 "entity_name": "phospholipase A2 group IIA",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLA2G2A"
             },
             {
                 "entity_name": "carnitine palmitoyltransferase 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CPT2"
             },
             {
                 "entity_name": "gamma-glutamyltransferase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GGT1"
             },
             {
                 "entity_name": "cytochrome P450 family 2 subfamily C member 9",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C9"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS1"
             }
         ],
         "resource": [

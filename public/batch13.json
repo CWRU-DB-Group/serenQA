@@ -218,12 +218,12 @@
             {
                 "entity_name": "Leucine rich repeat C-terminal domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01463/"
             },
             {
                 "entity_name": "Leucine rich repeat",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF13855/"
             }
         ],
         "resource": [
@@ -246,12 +246,12 @@
             {
                 "entity_name": "Squalene epoxidase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF08491/"
             },
             {
                 "entity_name": "NAD(P)-binding Rossmann-like domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF13450/"
             }
         ],
         "resource": [
@@ -502,42 +502,42 @@
             {
                 "entity_name": "N-Acetyl-D-mannosamine 6-phosphate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001121"
             },
             {
                 "entity_name": "Beta-D-Fructose 2-phosphate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0006800"
             },
             {
                 "entity_name": "N-Acetylmannosamine",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001129"
             },
             {
                 "entity_name": "Phosphate",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001429"
             },
             {
                 "entity_name": "D-Fructose",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000660"
             },
             {
                 "entity_name": "NADP",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000217"
             },
             {
                 "entity_name": "NAD",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000902"
             },
             {
                 "entity_name": "Water",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0002111"
             }
         ],
         "resource": [
@@ -788,17 +788,17 @@
             {
                 "entity_name": "Plexin cytoplasmic RasGAP domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF08337/"
             },
             {
                 "entity_name": "Sema domain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01403/"
             },
             {
                 "entity_name": "Plexin repeat",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01437/"
             }
         ],
         "resource": [
@@ -1215,17 +1215,17 @@
             {
                 "entity_name": "Glycerol 3-phosphate",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000126"
             },
             {
                 "entity_name": "Dihydroxyacetone phosphate",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001473"
             },
             {
                 "entity_name": "Cytidine monophosphate",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000095"
             }
         ],
         "resource": [
@@ -4140,12 +4140,12 @@
             {
                 "entity_name": "glomerulonephritis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2921"
             },
             {
                 "entity_name": "genetic disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:630"
             }
         ],
         "resource": [
@@ -4164,17 +4164,17 @@
             {
                 "entity_name": "hereditary fructose intolerance syndrome",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:9869"
             },
             {
                 "entity_name": "disease of metabolism",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0014667"
             },
             {
                 "entity_name": "gastrointestinal system disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:77"
             }
         ],
         "resource": [
@@ -4193,12 +4193,12 @@
             {
                 "entity_name": "glomerulonephritis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2921"
             },
             {
                 "entity_name": "genetic disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:630"
             }
         ],
         "resource": [
@@ -4217,12 +4217,12 @@
             {
                 "entity_name": "glomerulonephritis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2921"
             },
             {
                 "entity_name": "genetic disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:630"
             }
         ],
         "resource": [

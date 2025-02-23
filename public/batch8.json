@@ -913,12 +913,12 @@
             {
                 "entity_name": "Class C/3 (Metabotropic glutamate/pheromone receptors)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-420499"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -941,37 +941,37 @@
             {
                 "entity_name": "COPI-independent Golgi-to-ER retrograde traffic",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6811436"
             },
             {
                 "entity_name": "Retrograde transport at the Trans-Golgi-Network",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6811440"
             },
             {
                 "entity_name": "Pre-NOTCH Processing in Golgi",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1912420"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             },
             {
                 "entity_name": "RAB geranylgeranylation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8873719"
             },
             {
                 "entity_name": "RAB GEFs exchange GTP for GDP on RABs",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8876198"
             },
             {
                 "entity_name": "TBC/RABGAPs",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8854214"
             }
         ],
         "resource": [
@@ -994,17 +994,17 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "alcohol dependence",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0050741"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -1023,17 +1023,17 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "alcohol dependence",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0050741"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -1052,17 +1052,17 @@
             {
                 "entity_name": "alcohol dependence",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0050741"
             },
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -1081,12 +1081,12 @@
             {
                 "entity_name": "hepatic veno-occlusive disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:0080177"
             },
             {
                 "entity_name": "liver disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:409"
             }
         ],
         "resource": [
@@ -1144,22 +1144,22 @@
             {
                 "entity_name": "Type II diabetes mellitus",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005978"
             },
             {
                 "entity_name": "Obesity",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001513"
             },
             {
                 "entity_name": "Hyperglycemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003074"
             },
             {
                 "entity_name": "Diabetes mellitus",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000819"
             }
         ],
         "resource": [
@@ -1178,22 +1178,22 @@
             {
                 "entity_name": "prostaglandin E receptor 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGER4"
             },
             {
                 "entity_name": "prostaglandin I2 receptor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGIR"
             },
             {
                 "entity_name": "prostaglandin E receptor 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGER3"
             },
             {
                 "entity_name": "prostaglandin E receptor 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGER2"
             }
         ],
         "resource": [
@@ -1212,42 +1212,42 @@
             {
                 "entity_name": "MAX dimerization protein MGA",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MGA"
             },
             {
                 "entity_name": "alpha glucosidase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GAA"
             },
             {
                 "entity_name": "maltase-glucoamylase",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MGAM"
             },
             {
                 "entity_name": "sucrase-isomaltase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SI"
             },
             {
                 "entity_name": "amylase alpha 2A",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AMY2A"
             },
             {
                 "entity_name": "dopamine receptor D2",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD2"
             },
             {
                 "entity_name": "solute carrier family 2 member 4",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC2A4"
             },
             {
                 "entity_name": "lipoprotein lipase",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPL"
             }
         ],
         "resource": [
@@ -1475,42 +1475,42 @@
             {
                 "entity_name": "growth differentiation factor 15",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GDF15"
             },
             {
                 "entity_name": "interleukin 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2"
             },
             {
                 "entity_name": "vitamin D receptor",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=VDR"
             },
             {
                 "entity_name": "plasminogen activator, urokinase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAU"
             },
             {
                 "entity_name": "thyroglobulin",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TG"
             },
             {
                 "entity_name": "MYC proto-oncogene, bHLH transcription factor",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC"
             },
             {
                 "entity_name": "phosphate regulating endopeptidase homolog X-linked",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PHEX"
             },
             {
                 "entity_name": "basic transcription factor 3 pseudogene 11",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BTF3P11"
             }
         ],
         "resource": [
@@ -1537,42 +1537,42 @@
             {
                 "entity_name": "growth differentiation factor 15",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GDF15"
             },
             {
                 "entity_name": "phosphate regulating endopeptidase homolog X-linked",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PHEX"
             },
             {
                 "entity_name": "MYC proto-oncogene, bHLH transcription factor",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC"
             },
             {
                 "entity_name": "interleukin 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2"
             },
             {
                 "entity_name": "vitamin D receptor",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=VDR"
             },
             {
                 "entity_name": "plasminogen activator, urokinase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAU"
             },
             {
                 "entity_name": "thyroglobulin",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TG"
             },
             {
                 "entity_name": "basic transcription factor 3 pseudogene 11",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BTF3P11"
             }
         ],
         "resource": [
@@ -1595,27 +1595,27 @@
             {
                 "entity_name": "free fatty acid receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FFAR2"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 2C",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2C"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 2A",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2A"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 2B",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2B"
             },
             {
                 "entity_name": "adenosine deaminase RNA specific B2 (inactive)",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADARB2"
             }
         ],
         "resource": [
@@ -1642,17 +1642,17 @@
             {
                 "entity_name": "cannabinoid receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR2"
             },
             {
                 "entity_name": "cytochrome P450 family 2 subfamily C member 9",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C9"
             },
             {
                 "entity_name": "cannabinoid receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR1"
             }
         ],
         "resource": [
@@ -1679,17 +1679,17 @@
             {
                 "entity_name": "cytochrome P450 family 2 subfamily C member 9",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C9"
             },
             {
                 "entity_name": "cannabinoid receptor 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR2"
             },
             {
                 "entity_name": "cannabinoid receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR1"
             }
         ],
         "resource": [
@@ -1716,12 +1716,12 @@
             {
                 "entity_name": "respiratory burst",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0045730"
             },
             {
                 "entity_name": "positive regulation of cytosolic calcium ion concentration",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007204"
             }
         ],
         "resource": [
@@ -1744,17 +1744,17 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             }
         ],
         "resource": [
@@ -1777,42 +1777,42 @@
             {
                 "entity_name": "peroxisome proliferator activated receptor alpha",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARA"
             },
             {
                 "entity_name": "stearoyl-CoA desaturase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCD"
             },
             {
                 "entity_name": "solute carrier organic anion transporter family member 1B1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLCO1B1"
             },
             {
                 "entity_name": "lipoprotein lipase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPL"
             },
             {
                 "entity_name": "solute carrier family 2 member 4",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC2A4"
             },
             {
                 "entity_name": "fatty acid binding protein 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FABP1"
             },
             {
                 "entity_name": "kinase insert domain receptor",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KDR"
             },
             {
                 "entity_name": "MET proto-oncogene, receptor tyrosine kinase",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MET"
             }
         ],
         "resource": [
@@ -1835,17 +1835,17 @@
             {
                 "entity_name": "cytochrome P450 family 2 subfamily C member 9",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C9"
             },
             {
                 "entity_name": "cannabinoid receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR1"
             },
             {
                 "entity_name": "cannabinoid receptor 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR2"
             }
         ],
         "resource": [
@@ -1872,42 +1872,42 @@
             {
                 "entity_name": "growth differentiation factor 15",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GDF15"
             },
             {
                 "entity_name": "vitamin D receptor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=VDR"
             },
             {
                 "entity_name": "MYC proto-oncogene, bHLH transcription factor",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC"
             },
             {
                 "entity_name": "interleukin 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2"
             },
             {
                 "entity_name": "plasminogen activator, urokinase",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAU"
             },
             {
                 "entity_name": "phosphate regulating endopeptidase homolog X-linked",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PHEX"
             },
             {
                 "entity_name": "thyroglobulin",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TG"
             },
             {
                 "entity_name": "basic transcription factor 3 pseudogene 11",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BTF3P11"
             }
         ],
         "resource": [

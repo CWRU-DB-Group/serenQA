@@ -102,17 +102,17 @@
             {
                 "entity_name": "Importin beta binding domain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF01749/"
             },
             {
                 "entity_name": "Atypical Arm repeat",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF16186/"
             },
             {
                 "entity_name": "Armadillo/beta-catenin-like repeat",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/interpro/entry/pfam/PF00514/"
             }
         ],
         "resource": [
@@ -135,27 +135,27 @@
             {
                 "entity_name": "N-Acetyllactosamine",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001542"
             },
             {
                 "entity_name": "Uridine diphosphategalactose",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000302"
             },
             {
                 "entity_name": "N-Acetyl-D-glucosamine",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000215"
             },
             {
                 "entity_name": "Uridine 5'-diphosphate",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0000295"
             },
             {
                 "entity_name": "Manganese",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://hmdb.ca/metabolites/HMDB0001333"
             }
         ],
         "resource": [
@@ -1669,22 +1669,22 @@
             {
                 "entity_name": "EPH-ephrin mediated repulsion of cells",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3928665"
             },
             {
                 "entity_name": "EPHB-mediated forward signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3928662"
             },
             {
                 "entity_name": "Ephrin signaling",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3928664"
             },
             {
                 "entity_name": "EPH-Ephrin signaling",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2682334"
             }
         ],
         "resource": [
@@ -1829,32 +1829,32 @@
             {
                 "entity_name": "PIP3 activates AKT signaling",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1257604"
             },
             {
                 "entity_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6811558"
             },
             {
                 "entity_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2219530"
             },
             {
                 "entity_name": "Signaling by PDGF",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-186797"
             },
             {
                 "entity_name": "RAF/MAP kinase cascade",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5673001"
             },
             {
                 "entity_name": "Downstream signal transduction",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-186763"
             }
         ],
         "resource": [
@@ -1877,27 +1877,27 @@
             {
                 "entity_name": "CYP2E1 reactions",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211999"
             },
             {
                 "entity_name": "Xenobiotics",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211981"
             },
             {
                 "entity_name": "Vitamin A Deficiency",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000336"
             },
             {
                 "entity_name": "Retinol Metabolism",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000074"
             },
             {
                 "entity_name": "Fatty acids",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211935"
             }
         ],
         "resource": [
@@ -2011,37 +2011,37 @@
             {
                 "entity_name": "Type II diabetes mellitus",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005978"
             },
             {
                 "entity_name": "Pancreatitis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001733"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Reactive hypoglycemia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012051"
             },
             {
                 "entity_name": "Diabetic ketoacidosis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001953"
             },
             {
                 "entity_name": "Type I diabetes mellitus",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100651"
             },
             {
                 "entity_name": "Hypoglycemia",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001943"
             }
         ],
         "resource": [
@@ -2060,42 +2060,42 @@
             {
                 "entity_name": "Uterine leiomyoma",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000131"
             },
             {
                 "entity_name": "Endometriosis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030127"
             },
             {
                 "entity_name": "Prostate cancer",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012125"
             },
             {
                 "entity_name": "Metrorrhagia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100608"
             },
             {
                 "entity_name": "Menorrhagia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000132"
             },
             {
                 "entity_name": "Anemia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001903"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Pain",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012531"
             }
         ],
         "resource": [
@@ -2114,37 +2114,37 @@
             {
                 "entity_name": "Pleural effusion",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002202"
             },
             {
                 "entity_name": "Choriocarcinoma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100768"
             },
             {
                 "entity_name": "Squamous cell carcinoma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002860"
             },
             {
                 "entity_name": "Hodgkin lymphoma",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012189"
             },
             {
                 "entity_name": "Lymphoma",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002665"
             },
             {
                 "entity_name": "Non-Hodgkin lymphoma",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012539"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             }
         ],
         "resource": [
@@ -2163,32 +2163,32 @@
             {
                 "entity_name": "ATP binding cassette subfamily C member 8",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCC8"
             },
             {
                 "entity_name": "potassium inwardly rectifying channel subfamily J member 11",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNJ11"
             },
             {
                 "entity_name": "potassium inwardly rectifying channel subfamily J member 10",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNJ10"
             },
             {
                 "entity_name": "potassium inwardly rectifying channel subfamily J member 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNJ11"
             },
             {
                 "entity_name": "glucose-6-phosphate dehydrogenase",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=G6PD"
             },
             {
                 "entity_name": "solute carrier family 2 member 4",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC2A4"
             }
         ],
         "resource": [
@@ -2207,22 +2207,22 @@
             {
                 "entity_name": "Cutaneous melanoma",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012056"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Abnormal pulmonary Interstitial morphology",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006530"
             },
             {
                 "entity_name": "Pneumonia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002090"
             }
         ],
         "resource": [
@@ -2241,17 +2241,17 @@
             {
                 "entity_name": "dihydroorotate dehydrogenase (quinone)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DHODH"
             },
             {
                 "entity_name": "C-X-C motif chemokine ligand 8",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL8"
             },
             {
                 "entity_name": "matrix metallopeptidase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMP1"
             }
         ],
         "resource": [
@@ -2270,37 +2270,37 @@
             {
                 "entity_name": "potassium inwardly rectifying channel subfamily J member 11",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNJ11"
             },
             {
                 "entity_name": "ATP binding cassette subfamily C member 8",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCC8"
             },
             {
                 "entity_name": "potassium inwardly rectifying channel subfamily J member 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNJ11"
             },
             {
                 "entity_name": "cholecystokinin A receptor",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCKAR"
             },
             {
                 "entity_name": "insulin receptor substrate 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IRS1"
             },
             {
                 "entity_name": "glucose-6-phosphate dehydrogenase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=G6PD"
             },
             {
                 "entity_name": "tumor necrosis factor",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNF"
             }
         ],
         "resource": [
@@ -2319,32 +2319,32 @@
             {
                 "entity_name": "high mobility group box 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HMGB1"
             },
             {
                 "entity_name": "NAD(P)H quinone dehydrogenase 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NQO1"
             },
             {
                 "entity_name": "luteinizing hormone/choriogonadotropin receptor",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LHCGR"
             },
             {
                 "entity_name": "interleukin 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2"
             },
             {
                 "entity_name": "ATP binding cassette subfamily G member 2 (Junior blood group)",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCG2"
             },
             {
                 "entity_name": "ATP binding cassette subfamily B member 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCB1"
             }
         ],
         "resource": [
@@ -2363,12 +2363,12 @@
             {
                 "entity_name": "pituitary gland disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:53"
             },
             {
                 "entity_name": "ovarian disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:1100"
             }
         ],
         "resource": [
@@ -2387,42 +2387,42 @@
             {
                 "entity_name": "Gout",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001997"
             },
             {
                 "entity_name": "Nephrolithiasis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000787"
             },
             {
                 "entity_name": "Nephropathy",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000112"
             },
             {
                 "entity_name": "Renal tubular acidosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001947"
             },
             {
                 "entity_name": "Agitation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000713"
             },
             {
                 "entity_name": "Metabolic acidosis",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001942"
             },
             {
                 "entity_name": "Alkalosis",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001948"
             },
             {
                 "entity_name": "Acidosis",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001941"
             }
         ],
         "resource": [
@@ -2441,17 +2441,17 @@
             {
                 "entity_name": "infertility",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:5223"
             },
             {
                 "entity_name": "endocrine system disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:28"
             },
             {
                 "entity_name": "pituitary gland disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:53"
             }
         ],
         "resource": [
@@ -2470,42 +2470,42 @@
             {
                 "entity_name": "Type II diabetes mellitus",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005978"
             },
             {
                 "entity_name": "Nephropathy",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000112"
             },
             {
                 "entity_name": "Peripheral neuropathy",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0009830"
             },
             {
                 "entity_name": "Ketosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001946"
             },
             {
                 "entity_name": "Obesity",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001513"
             },
             {
                 "entity_name": "Hyperglycemia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003074"
             },
             {
                 "entity_name": "Diabetes mellitus",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000819"
             },
             {
                 "entity_name": "Type I diabetes mellitus",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100651"
             }
         ],
         "resource": [
@@ -2524,17 +2524,17 @@
             {
                 "entity_name": "infertility",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:5223"
             },
             {
                 "entity_name": "endocrine system disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:28"
             },
             {
                 "entity_name": "pituitary gland disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:53"
             }
         ],
         "resource": [
@@ -2553,27 +2553,27 @@
             {
                 "entity_name": "Type II diabetes mellitus",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005978"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Pancreatitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001733"
             },
             {
                 "entity_name": "Diabetic ketoacidosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001953"
             },
             {
                 "entity_name": "Type I diabetes mellitus",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100651"
             }
         ],
         "resource": [
@@ -2592,42 +2592,42 @@
             {
                 "entity_name": "Pyelonephritis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012330"
             },
             {
                 "entity_name": "Recurrent lower respiratory tract infections",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002783"
             },
             {
                 "entity_name": "Meningitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001287"
             },
             {
                 "entity_name": "Sepsis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100806"
             },
             {
                 "entity_name": "Peritonitis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002586"
             },
             {
                 "entity_name": "Pneumonia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002090"
             },
             {
                 "entity_name": "Urinary bladder inflammation",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100577"
             },
             {
                 "entity_name": "Bronchitis",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012387"
             }
         ],
         "resource": [
@@ -2646,37 +2646,37 @@
             {
                 "entity_name": "Osteopenia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000938"
             },
             {
                 "entity_name": "Generalized osteoporosis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0040160"
             },
             {
                 "entity_name": "Vertebral compression fractures",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002953"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Abnormality of the gastrointestinal tract",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011024"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Peptic ulcer",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004398"
             }
         ],
         "resource": [
@@ -2695,27 +2695,27 @@
             {
                 "entity_name": "Fructose intolerance",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005973"
             },
             {
                 "entity_name": "Cerebral edema",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002181"
             },
             {
                 "entity_name": "Ocular hypertension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0007906"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Acute kidney injury",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001919"
             }
         ],
         "resource": [
@@ -2734,12 +2734,12 @@
             {
                 "entity_name": "Recurrent lower respiratory tract infections",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002783"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             }
         ],
         "resource": [
@@ -2758,37 +2758,37 @@
             {
                 "entity_name": "Vertebral compression fractures",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002953"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Generalized osteoporosis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0040160"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Osteopenia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000938"
             },
             {
                 "entity_name": "Abnormality of the gastrointestinal tract",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011024"
             },
             {
                 "entity_name": "Peptic ulcer",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004398"
             }
         ],
         "resource": [
@@ -2807,12 +2807,12 @@
             {
                 "entity_name": "Pollakisuria",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100515"
             },
             {
                 "entity_name": "Urinary urgency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000012"
             }
         ],
         "resource": [
@@ -2831,27 +2831,27 @@
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Duodenal ulcer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002588"
             },
             {
                 "entity_name": "Gastric ulcer",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002592"
             },
             {
                 "entity_name": "Gastroesophageal reflux",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002020"
             },
             {
                 "entity_name": "Esophagitis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100633"
             }
         ],
         "resource": [
@@ -2870,12 +2870,12 @@
             {
                 "entity_name": "immune system disease",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:2914"
             },
             {
                 "entity_name": "kidney disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:557"
             }
         ],
         "resource": [
@@ -3097,22 +3097,22 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "polycystin 2 like 1, transient receptor potential cation channel",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PKD2L1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "sigma non-opioid intracellular receptor 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SIGMAR1"
             }
         ],
         "resource": [
@@ -3139,22 +3139,22 @@
             {
                 "entity_name": "cytochrome P450 family 2 subfamily D member 6",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2D6"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             }
         ],
         "resource": [
@@ -3177,22 +3177,22 @@
             {
                 "entity_name": "ABL proto-oncogene 1, non-receptor tyrosine kinase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABL1"
             },
             {
                 "entity_name": "interleukin 10",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL10"
             },
             {
                 "entity_name": "solute carrier family 15 member 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC15A1"
             },
             {
                 "entity_name": "DNA nucleotidylexotransferase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNTT"
             }
         ],
         "resource": [
@@ -3219,22 +3219,22 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "polycystin 2 like 1, transient receptor potential cation channel",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PKD2L1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             },
             {
                 "entity_name": "sigma non-opioid intracellular receptor 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SIGMAR1"
             }
         ],
         "resource": [
@@ -3261,22 +3261,22 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "polycystin 2 like 1, transient receptor potential cation channel",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PKD2L1"
             },
             {
                 "entity_name": "sigma non-opioid intracellular receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SIGMAR1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 4",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM4"
             }
         ],
         "resource": [
@@ -3303,17 +3303,17 @@
             {
                 "entity_name": "estrogen receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR2"
             },
             {
                 "entity_name": "estrogen receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR1"
             },
             {
                 "entity_name": "fibroblast growth factor receptor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1"
             }
         ],
         "resource": [

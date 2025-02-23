@@ -941,12 +941,12 @@
             {
                 "entity_name": "negative regulation of cell population proliferation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008285"
             },
             {
                 "entity_name": "negative regulation of endopeptidase activity",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0010951"
             }
         ],
         "resource": [
@@ -997,42 +997,42 @@
             {
                 "entity_name": "Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5619110"
             },
             {
                 "entity_name": "Recycling of bile acids and salts",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-159418"
             },
             {
                 "entity_name": "Transport of organic anions",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-879518"
             },
             {
                 "entity_name": "Heme degradation",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-189483"
             },
             {
                 "entity_name": "Irinotecan Action Pathway",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000433"
             },
             {
                 "entity_name": "Rosiglitazone Metabolism Pathway",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000653"
             },
             {
                 "entity_name": "Irinotecan Metabolism Pathway",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000600"
             },
             {
                 "entity_name": "Mycophenolic Acid Metabolism Pathway",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000652"
             }
         ],
         "resource": [
@@ -1055,22 +1055,22 @@
             {
                 "entity_name": "TRAF6 mediated IRF7 activation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-933541"
             },
             {
                 "entity_name": "Interferon alpha/beta signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-909733"
             },
             {
                 "entity_name": "Factors involved in megakaryocyte development and platelet production",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-983231"
             },
             {
                 "entity_name": "Regulation of IFNA signaling",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-912694"
             }
         ],
         "resource": [
@@ -1093,42 +1093,42 @@
             {
                 "entity_name": "ATP binding cassette subfamily B member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCB1"
             },
             {
                 "entity_name": "sphingosine-1-phosphate receptor 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=S1PR4"
             },
             {
                 "entity_name": "interleukin 15",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL15"
             },
             {
                 "entity_name": "sphingosine-1-phosphate receptor 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=S1PR1"
             },
             {
                 "entity_name": "interleukin 2 receptor subunit alpha",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2RA"
             },
             {
                 "entity_name": "progesterone receptor",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PGR"
             },
             {
                 "entity_name": "kallikrein related peptidase 3",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KLK3"
             },
             {
                 "entity_name": "estrogen receptor 1",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR1"
             }
         ],
         "resource": [
@@ -1151,12 +1151,12 @@
             {
                 "entity_name": "Signaling by Retinoic Acid",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5362517"
             },
             {
                 "entity_name": "Nuclear Receptor transcription pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-383280"
             }
         ],
         "resource": [
@@ -1179,42 +1179,42 @@
             {
                 "entity_name": "solute carrier family 47 member 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC47A1"
             },
             {
                 "entity_name": "solute carrier family 29 member 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC29A4"
             },
             {
                 "entity_name": "leucine rich repeat containing G protein-coupled receptor 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LGR4"
             },
             {
                 "entity_name": "leucine rich repeat containing G protein-coupled receptor 5",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LGR5"
             },
             {
                 "entity_name": "Fc fragment of IgG receptor IIIa",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FCGR3A"
             },
             {
                 "entity_name": "actin gamma 1 pseudogene 4",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTG1P4"
             },
             {
                 "entity_name": "nitric oxide synthase 1",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NOS1"
             },
             {
                 "entity_name": "histamine receptor H2",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HRH2"
             }
         ],
         "resource": [
@@ -1233,37 +1233,37 @@
             {
                 "entity_name": "Autoimmune hemolytic anemia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001890"
             },
             {
                 "entity_name": "Chronic active hepatitis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0200120"
             },
             {
                 "entity_name": "Crohn's disease",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100280"
             },
             {
                 "entity_name": "Systemic lupus erythematosus",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002725"
             },
             {
                 "entity_name": "Ulcerative colitis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100279"
             },
             {
                 "entity_name": "Rheumatoid arthritis",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001370"
             },
             {
                 "entity_name": "Inflammation of the large intestine",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002037"
             }
         ],
         "resource": [
@@ -1282,22 +1282,22 @@
             {
                 "entity_name": "Periodontitis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000704"
             },
             {
                 "entity_name": "Gingival bleeding",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000225"
             },
             {
                 "entity_name": "Carious teeth",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000670"
             },
             {
                 "entity_name": "Gingivitis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000230"
             }
         ],
         "resource": [
@@ -1316,22 +1316,22 @@
             {
                 "entity_name": "Chronic myelomonocytic leukemia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012325"
             },
             {
                 "entity_name": "Acute megakaryocytic leukemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006733"
             },
             {
                 "entity_name": "Refractory anemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005505"
             },
             {
                 "entity_name": "Elevated hepatic transaminase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002910"
             }
         ],
         "resource": [
@@ -1350,22 +1350,22 @@
             {
                 "entity_name": "Vomiting",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002013"
             },
             {
                 "entity_name": "Nausea",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002018"
             },
             {
                 "entity_name": "Iridocyclitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001094"
             },
             {
                 "entity_name": "Mydriasis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011499"
             }
         ],
         "resource": [
@@ -1384,17 +1384,17 @@
             {
                 "entity_name": "Emphysema",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002097"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Bronchitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012387"
             }
         ],
         "resource": [
@@ -1413,37 +1413,37 @@
             {
                 "entity_name": "Airway obstruction",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006536"
             },
             {
                 "entity_name": "Respiratory distress",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002098"
             },
             {
                 "entity_name": "Exercise-induced asthma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012652"
             },
             {
                 "entity_name": "Emphysema",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002097"
             },
             {
                 "entity_name": "Chronic bronchitis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004469"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Chronic pulmonary obstruction",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006510"
             }
         ],
         "resource": [
@@ -1462,27 +1462,27 @@
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Leukemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001909"
             },
             {
                 "entity_name": "Lymphoma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002665"
             },
             {
                 "entity_name": "Nausea",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002018"
             },
             {
                 "entity_name": "Fever",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001945"
             }
         ],
         "resource": [
@@ -1501,27 +1501,27 @@
             {
                 "entity_name": "Gingival bleeding",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000225"
             },
             {
                 "entity_name": "Pneumonia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002090"
             },
             {
                 "entity_name": "Sinusitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000246"
             },
             {
                 "entity_name": "Gingivitis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000230"
             },
             {
                 "entity_name": "Fever",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001945"
             }
         ],
         "resource": [
@@ -1540,12 +1540,12 @@
             {
                 "entity_name": "Reduced factor XI activity",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001929"
             },
             {
                 "entity_name": "Immunodeficiency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002721"
             }
         ],
         "resource": [
@@ -1564,37 +1564,37 @@
             {
                 "entity_name": "Emphysema",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002097"
             },
             {
                 "entity_name": "Nasal obstruction",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001742"
             },
             {
                 "entity_name": "Glaucoma",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000501"
             },
             {
                 "entity_name": "Chronic pulmonary obstruction",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006510"
             },
             {
                 "entity_name": "Chronic bronchitis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004469"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Seasonal allergy",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012395"
             }
         ],
         "resource": [
@@ -1613,12 +1613,12 @@
             {
                 "entity_name": "vasculitis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:865"
             },
             {
                 "entity_name": "autoimmune disease",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://disease-ontology.org/?id=DOID:417"
             }
         ],
         "resource": [
@@ -1637,37 +1637,37 @@
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Peptic ulcer",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004398"
             },
             {
                 "entity_name": "Cholecystitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001082"
             },
             {
                 "entity_name": "Diarrhea",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002014"
             },
             {
                 "entity_name": "Gastritis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005263"
             },
             {
                 "entity_name": "Ulcerative colitis",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100279"
             },
             {
                 "entity_name": "Pancreatitis",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001733"
             }
         ],
         "resource": [
@@ -1686,12 +1686,12 @@
             {
                 "entity_name": "Psoriasiform dermatitis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003765"
             },
             {
                 "entity_name": "Abnormality of the skin",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000951"
             }
         ],
         "resource": [
@@ -1710,37 +1710,37 @@
             {
                 "entity_name": "Vitiligo",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001045"
             },
             {
                 "entity_name": "Hyperpigmentation of the skin",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000953"
             },
             {
                 "entity_name": "Cafe-au-lait spot",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000957"
             },
             {
                 "entity_name": "Cutaneous melanoma",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012056"
             },
             {
                 "entity_name": "Nevus",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003764"
             },
             {
                 "entity_name": "Hypopigmentation of the skin",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001010"
             },
             {
                 "entity_name": "Inflammatory abnormality of the skin",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011123"
             }
         ],
         "resource": [
@@ -1759,22 +1759,22 @@
             {
                 "entity_name": "Acute megakaryocytic leukemia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006733"
             },
             {
                 "entity_name": "Chronic myelomonocytic leukemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012325"
             },
             {
                 "entity_name": "Refractory anemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005505"
             },
             {
                 "entity_name": "Elevated hepatic transaminase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002910"
             }
         ],
         "resource": [
@@ -1793,32 +1793,32 @@
             {
                 "entity_name": "transient receptor potential cation channel subfamily M member 8",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRPM8"
             },
             {
                 "entity_name": "transient receptor potential cation channel subfamily M member 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRPM2"
             },
             {
                 "entity_name": "transient receptor potential cation channel subfamily M member 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRPM4"
             },
             {
                 "entity_name": "nuclear receptor subfamily 1 group I member 3",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NR1I3"
             },
             {
                 "entity_name": "potassium calcium-activated channel subfamily N member 4",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNN4"
             },
             {
                 "entity_name": "cytochrome P450 family 3 subfamily A member 4",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP3A4"
             }
         ],
         "resource": [
@@ -2027,37 +2027,37 @@
             {
                 "entity_name": "complement activation, classical pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006958"
             },
             {
                 "entity_name": "positive regulation of B cell activation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0050871"
             },
             {
                 "entity_name": "B cell receptor signaling pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0050853"
             },
             {
                 "entity_name": "phagocytosis, engulfment",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006911"
             },
             {
                 "entity_name": "defense response to bacterium",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0042742"
             },
             {
                 "entity_name": "innate immune response",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0045087"
             },
             {
                 "entity_name": "phagocytosis, recognition",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006910"
             }
         ],
         "resource": [
@@ -2080,12 +2080,12 @@
             {
                 "entity_name": "gastrin releasing peptide receptor",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRPR"
             },
             {
                 "entity_name": "neuromedin B receptor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NMBR"
             }
         ],
         "resource": [
@@ -2112,37 +2112,37 @@
             {
                 "entity_name": "Tie signaling pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0048014"
             },
             {
                 "entity_name": "lymph vessel morphogenesis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0036303"
             },
             {
                 "entity_name": "lymph circulation",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0003017"
             },
             {
                 "entity_name": "epidermis development",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008544"
             },
             {
                 "entity_name": "cell adhesion",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007155"
             },
             {
                 "entity_name": "tight junction organization",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0120193"
             },
             {
                 "entity_name": "gene expression",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0010467"
             }
         ],
         "resource": [

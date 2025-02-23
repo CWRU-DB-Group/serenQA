@@ -2712,27 +2712,27 @@
             {
                 "entity_name": "Intracellular Signalling Through Adenosine Receptor A2b and Adenosine",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000321"
             },
             {
                 "entity_name": "ADORA2B mediated anti-inflammatory cytokines production",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9660821"
             },
             {
                 "entity_name": "Surfactant metabolism",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-5683826"
             },
             {
                 "entity_name": "Adenosine P1 receptors",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-417973"
             },
             {
                 "entity_name": "G alpha (s) signalling events",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418555"
             }
         ],
         "resource": [
@@ -2755,17 +2755,17 @@
             {
                 "entity_name": "G alpha (q) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416476"
             },
             {
                 "entity_name": "G alpha (12/13) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416482"
             },
             {
                 "entity_name": "Adrenoceptors",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-390696"
             }
         ],
         "resource": [
@@ -2788,17 +2788,17 @@
             {
                 "entity_name": "ADORA2B mediated anti-inflammatory cytokines production",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9660821"
             },
             {
                 "entity_name": "G alpha (s) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418555"
             },
             {
                 "entity_name": "Prostanoid ligand receptors",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-391908"
             }
         ],
         "resource": [
@@ -2821,12 +2821,12 @@
             {
                 "entity_name": "one-carbon metabolic process",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006730"
             },
             {
                 "entity_name": "bicarbonate transport",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0015701"
             }
         ],
         "resource": [
@@ -2887,27 +2887,27 @@
             {
                 "entity_name": "MHC class II antigen presentation",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2132295"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             },
             {
                 "entity_name": "Estrogen-dependent gene expression",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9018519"
             },
             {
                 "entity_name": "Metabolism of Angiotensinogen to Angiotensins",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2022377"
             },
             {
                 "entity_name": "Collagen degradation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1442490"
             }
         ],
         "resource": [
@@ -2963,27 +2963,27 @@
             {
                 "entity_name": "Sphingolipid de novo biosynthesis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1660661"
             },
             {
                 "entity_name": "Glycerolipid Metabolism",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000039"
             },
             {
                 "entity_name": "Glycerol Kinase Deficiency",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000187"
             },
             {
                 "entity_name": "D-Glyceric Acidura",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000529"
             },
             {
                 "entity_name": "Familial Lipoprotein Lipase Deficiency",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000530"
             }
         ],
         "resource": [
@@ -3049,27 +3049,27 @@
             {
                 "entity_name": "Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3359467"
             },
             {
                 "entity_name": "Defective MTR causes methylmalonic aciduria and homocystinuria type cblG",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3359469"
             },
             {
                 "entity_name": "Cobalamin (Cbl, vitamin B12) transport and metabolism",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-196741"
             },
             {
                 "entity_name": "Methylation",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-156581"
             },
             {
                 "entity_name": "Sulfur amino acid metabolism",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1614635"
             }
         ],
         "resource": [
@@ -3092,12 +3092,12 @@
             {
                 "entity_name": "sepiapterin reductase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SPR"
             },
             {
                 "entity_name": "tachykinin receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TACR1"
             }
         ],
         "resource": [
@@ -3120,12 +3120,12 @@
             {
                 "entity_name": "Serotonin receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-390666"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -3206,37 +3206,37 @@
             {
                 "entity_name": "Primary Hyperoxaluria II, PH2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000558"
             },
             {
                 "entity_name": "Pyruvate Dehydrogenase Complex Deficiency",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000212"
             },
             {
                 "entity_name": "Glyoxylate metabolism and glycine degradation",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-389661"
             },
             {
                 "entity_name": "Leigh Syndrome",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000196"
             },
             {
                 "entity_name": "Pyruvate Decarboxylase E1 Component Deficiency (PDHE1 Deficiency)",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000334"
             },
             {
                 "entity_name": "Pyruvate Kinase Deficiency",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000559"
             },
             {
                 "entity_name": "Pyruvate Metabolism",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000060"
             }
         ],
         "resource": [
@@ -3259,17 +3259,17 @@
             {
                 "entity_name": "G alpha (q) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-416476"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Class C/3 (Metabotropic glutamate/pheromone receptors)",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-420499"
             }
         ],
         "resource": [
@@ -3474,32 +3474,32 @@
             {
                 "entity_name": "ALK receptor tyrosine kinase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALK"
             },
             {
                 "entity_name": "EMAP like 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EML4"
             },
             {
                 "entity_name": "ROS proto-oncogene 1, receptor tyrosine kinase",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1"
             },
             {
                 "entity_name": "tumor protein p53",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TP53"
             },
             {
                 "entity_name": "nucleophosmin 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NPM1"
             },
             {
                 "entity_name": "RB transcriptional corepressor 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RB1"
             }
         ],
         "resource": [
@@ -3570,37 +3570,37 @@
             {
                 "entity_name": "L13a-mediated translational silencing of Ceruloplasmin expression",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-156827"
             },
             {
                 "entity_name": "Deadenylation of mRNA",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-429947"
             },
             {
                 "entity_name": "AUF1 (hnRNP D0) binds and destabilizes mRNA",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-450408"
             },
             {
                 "entity_name": "Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-975956"
             },
             {
                 "entity_name": "Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-975957"
             },
             {
                 "entity_name": "Regulation of expression of SLITs and ROBOs",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9010553"
             },
             {
                 "entity_name": "Translation initiation complex formation",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-72649"
             }
         ],
         "resource": [
@@ -3623,12 +3623,12 @@
             {
                 "entity_name": "G protein-coupled receptor signaling pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007186"
             },
             {
                 "entity_name": "cell projection organization",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0030030"
             }
         ],
         "resource": [
@@ -3651,12 +3651,12 @@
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Class C/3 (Metabotropic glutamate/pheromone receptors)",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-420499"
             }
         ],
         "resource": [
@@ -3679,37 +3679,37 @@
             {
                 "entity_name": "positive regulation of acrosome reaction",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:2000344"
             },
             {
                 "entity_name": "positive regulation of fertilization",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:1905516"
             },
             {
                 "entity_name": "binding of sperm to zona pellucida",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007339"
             },
             {
                 "entity_name": "cell migration",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0016477"
             },
             {
                 "entity_name": "regulation of protein processing",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0070613"
             },
             {
                 "entity_name": "protein maturation",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0051604"
             },
             {
                 "entity_name": "proteolysis",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006508"
             }
         ],
         "resource": [
@@ -3732,42 +3732,42 @@
             {
                 "entity_name": "Metabolism of Angiotensinogen to Angiotensins",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-2022377"
             },
             {
                 "entity_name": "Heroin Metabolism Pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000623"
             },
             {
                 "entity_name": "Mycophenolic Acid Metabolism Pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000652"
             },
             {
                 "entity_name": "Irinotecan Action Pathway",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000433"
             },
             {
                 "entity_name": "Irinotecan Metabolism Pathway",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000600"
             },
             {
                 "entity_name": "Capecitabine Metabolism Pathway",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000607"
             },
             {
                 "entity_name": "Capecitabine Action Pathway",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000469"
             },
             {
                 "entity_name": "Phase I - Functionalization of compounds",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211945"
             }
         ],
         "resource": [
@@ -3871,17 +3871,17 @@
             {
                 "entity_name": "Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-141333"
             },
             {
                 "entity_name": "Citalopram Metabolism Pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000627"
             },
             {
                 "entity_name": "Citalopram Action Pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000424"
             }
         ],
         "resource": [
@@ -3985,12 +3985,12 @@
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             }
         ],
         "resource": [
@@ -4084,17 +4084,17 @@
             {
                 "entity_name": "Reversible hydration of carbon dioxide",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1475029"
             },
             {
                 "entity_name": "Erythrocytes take up carbon dioxide and release oxygen",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1237044"
             },
             {
                 "entity_name": "Erythrocytes take up oxygen and release carbon dioxide",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1247673"
             }
         ],
         "resource": [
@@ -4117,12 +4117,12 @@
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             },
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             }
         ],
         "resource": [
@@ -4145,12 +4145,12 @@
             {
                 "entity_name": "Formation of the cornified envelope",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6809371"
             },
             {
                 "entity_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-381426"
             }
         ],
         "resource": [
@@ -4173,12 +4173,12 @@
             {
                 "entity_name": "Activation of Matrix Metalloproteinases",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-1592389"
             },
             {
                 "entity_name": "Cobalamin (Cbl, vitamin B12) transport and metabolism",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-196741"
             }
         ],
         "resource": [
@@ -4201,12 +4201,12 @@
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -4257,17 +4257,17 @@
             {
                 "entity_name": "protein peptidyl-prolyl isomerization",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0000413"
             },
             {
                 "entity_name": "protein folding",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006457"
             },
             {
                 "entity_name": "RNA splicing",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0008380"
             }
         ],
         "resource": [
@@ -4318,12 +4318,12 @@
             {
                 "entity_name": "Chemokine receptors bind chemokines",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-380108"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -4394,42 +4394,42 @@
             {
                 "entity_name": "FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9615017"
             },
             {
                 "entity_name": "Detoxification of Reactive Oxygen Species",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-3299685"
             },
             {
                 "entity_name": "Neutrophil degranulation",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6798695"
             },
             {
                 "entity_name": "Degradation of Superoxides",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000468"
             },
             {
                 "entity_name": "Disulfiram Action Pathway",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000429"
             },
             {
                 "entity_name": "Peroxisomal protein import",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9033241"
             },
             {
                 "entity_name": "Tryptophan Metabolism",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000063"
             },
             {
                 "entity_name": "Ethanol Degradation",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000449"
             }
         ],
         "resource": [
@@ -4485,12 +4485,12 @@
             {
                 "entity_name": "Cytochrome P450 - arranged by substrate type",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-211897"
             },
             {
                 "entity_name": "Doxorubicin Metabolism Pathway",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000650"
             }
         ],
         "resource": [
@@ -4513,22 +4513,22 @@
             {
                 "entity_name": "ATF4 activates genes in response to endoplasmic reticulum  stress",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-380994"
             },
             {
                 "entity_name": "Chemokine receptors bind chemokines",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-380108"
             },
             {
                 "entity_name": "Interleukin-10 signaling",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6783783"
             },
             {
                 "entity_name": "Interleukin-4 and Interleukin-13 signaling",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-6785807"
             }
         ],
         "resource": [
@@ -4551,17 +4551,17 @@
             {
                 "entity_name": "Acetaminophen Metabolism Pathway",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000640"
             },
             {
                 "entity_name": "Glucuronidation",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-156588"
             },
             {
                 "entity_name": "Phenytoin (Antiarrhythmic) Action Pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0000327"
             }
         ],
         "resource": [
@@ -4645,22 +4645,22 @@
             {
                 "entity_name": "Regulation of PTEN gene transcription",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-8943724"
             },
             {
                 "entity_name": "Interferon alpha/beta signaling",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-909733"
             },
             {
                 "entity_name": "NGF-stimulated transcription",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-9031628"
             },
             {
                 "entity_name": "GnRH Signaling Pathway",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "http://smpdb.ca/view/SMP0063811"
             }
         ],
         "resource": [
@@ -4683,12 +4683,12 @@
             {
                 "entity_name": "Peptide ligand-binding receptors",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-375276"
             },
             {
                 "entity_name": "G alpha (i) signalling events",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://reactome.org/PathwayBrowser/#/R-HSA-418594"
             }
         ],
         "resource": [
@@ -4840,37 +4840,37 @@
             {
                 "entity_name": "negative regulation of high voltage-gated calcium channel activity",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:1901842"
             },
             {
                 "entity_name": "metaphase plate congression",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0051310"
             },
             {
                 "entity_name": "cell surface receptor signaling pathway",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007166"
             },
             {
                 "entity_name": "chromosome organization",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0051276"
             },
             {
                 "entity_name": "signal transduction",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0007165"
             },
             {
                 "entity_name": "mitotic cell cycle",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0000278"
             },
             {
                 "entity_name": "immune response",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.ebi.ac.uk/QuickGO/term/GO:0006955"
             }
         ],
         "resource": [
@@ -4931,12 +4931,12 @@
             {
                 "entity_name": "histamine receptor H1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HRH1"
             },
             {
                 "entity_name": "interferon lambda receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFNLR1"
             }
         ],
         "resource": [
@@ -4955,32 +4955,32 @@
             {
                 "entity_name": "CD3g molecule",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD3G"
             },
             {
                 "entity_name": "CD3e molecule",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD3E"
             },
             {
                 "entity_name": "CD40 ligand",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD40LG"
             },
             {
                 "entity_name": "Fc fragment of IgG receptor IIIa",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FCGR3A"
             },
             {
                 "entity_name": "CD3d molecule",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD3D"
             },
             {
                 "entity_name": "CD247 molecule",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD247"
             }
         ],
         "resource": [
@@ -5048,12 +5048,12 @@
             {
                 "entity_name": "Myelofibrosis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011974"
             },
             {
                 "entity_name": "Splenomegaly",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001744"
             }
         ],
         "resource": [
@@ -5072,22 +5072,22 @@
             {
                 "entity_name": "carbonic anhydrase 12",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             },
             {
                 "entity_name": "carbonic anhydrase 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA4"
             },
             {
                 "entity_name": "carbonic anhydrase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             },
             {
                 "entity_name": "carbonic anhydrase 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA2"
             }
         ],
         "resource": [
@@ -5106,37 +5106,37 @@
             {
                 "entity_name": "fms related receptor tyrosine kinase 3",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT3"
             },
             {
                 "entity_name": "platelet derived growth factor receptor beta",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRB"
             },
             {
                 "entity_name": "platelet derived growth factor receptor alpha",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRA"
             },
             {
                 "entity_name": "KIT proto-oncogene, receptor tyrosine kinase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KIT"
             },
             {
                 "entity_name": "colony stimulating factor 1 receptor",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CSF1R"
             },
             {
                 "entity_name": "MPL proto-oncogene, thrombopoietin receptor",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MPL"
             },
             {
                 "entity_name": "aurora kinase B",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AURKB"
             }
         ],
         "resource": [
@@ -5155,32 +5155,32 @@
             {
                 "entity_name": "ALK receptor tyrosine kinase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALK"
             },
             {
                 "entity_name": "ROS proto-oncogene 1, receptor tyrosine kinase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1"
             },
             {
                 "entity_name": "EMAP like 4",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EML4"
             },
             {
                 "entity_name": "tumor protein p53",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TP53"
             },
             {
                 "entity_name": "RB transcriptional corepressor 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RB1"
             },
             {
                 "entity_name": "nucleophosmin 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NPM1"
             }
         ],
         "resource": [
@@ -5199,22 +5199,22 @@
             {
                 "entity_name": "toll like receptor 7",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TLR7"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             }
         ],
         "resource": [
@@ -5233,22 +5233,22 @@
             {
                 "entity_name": "potassium voltage-gated channel subfamily H member 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNH2"
             },
             {
                 "entity_name": "potassium voltage-gated channel subfamily H member 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNH1"
             },
             {
                 "entity_name": "oxytocin receptor",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OXTR"
             },
             {
                 "entity_name": "histamine receptor H1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HRH1"
             }
         ],
         "resource": [
@@ -5267,22 +5267,22 @@
             {
                 "entity_name": "Endocarditis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100584"
             },
             {
                 "entity_name": "Recurrent pneumonia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006532"
             },
             {
                 "entity_name": "Meningitis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001287"
             },
             {
                 "entity_name": "Sepsis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100806"
             }
         ],
         "resource": [
@@ -5301,22 +5301,22 @@
             {
                 "entity_name": "lipoprotein lipase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPL"
             },
             {
                 "entity_name": "adrenoceptor beta 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB1"
             },
             {
                 "entity_name": "adrenoceptor beta 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB3"
             },
             {
                 "entity_name": "adrenoceptor beta 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB2"
             }
         ],
         "resource": [
@@ -5398,27 +5398,27 @@
             {
                 "entity_name": "phosphatase and tensin homolog",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTEN"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB4"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 3",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB3"
             },
             {
                 "entity_name": "epidermal growth factor receptor",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR"
             },
             {
                 "entity_name": "erb-b2 receptor tyrosine kinase 2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2"
             }
         ],
         "resource": [
@@ -5437,32 +5437,32 @@
             {
                 "entity_name": "Seborrheic dermatitis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001051"
             },
             {
                 "entity_name": "Facial erythema",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001041"
             },
             {
                 "entity_name": "Corneal ulceration",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012804"
             },
             {
                 "entity_name": "Conjunctivitis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000509"
             },
             {
                 "entity_name": "Abnormality of the skin",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000951"
             },
             {
                 "entity_name": "Pneumonia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002090"
             }
         ],
         "resource": [
@@ -5481,37 +5481,37 @@
             {
                 "entity_name": "Migraine",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002076"
             },
             {
                 "entity_name": "Glaucoma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000501"
             },
             {
                 "entity_name": "Myocardial infarction",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001658"
             },
             {
                 "entity_name": "Open angle glaucoma",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012108"
             },
             {
                 "entity_name": "Angina pectoris",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001681"
             },
             {
                 "entity_name": "Atrial fibrillation",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005110"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -5584,12 +5584,12 @@
             {
                 "entity_name": "endothelin receptor type A",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EDNRA"
             },
             {
                 "entity_name": "endothelin receptor type B",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EDNRB"
             }
         ],
         "resource": [
@@ -5608,12 +5608,12 @@
             {
                 "entity_name": "endothelin receptor type A",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EDNRA"
             },
             {
                 "entity_name": "endothelin receptor type B",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=EDNRB"
             }
         ],
         "resource": [
@@ -5632,37 +5632,37 @@
             {
                 "entity_name": "Elevated hepatic transaminase",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002910"
             },
             {
                 "entity_name": "Renal artery stenosis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001920"
             },
             {
                 "entity_name": "Congestive heart failure",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001635"
             },
             {
                 "entity_name": "Renovascular hypertension",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100817"
             },
             {
                 "entity_name": "Nephropathy",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000112"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -5681,42 +5681,42 @@
             {
                 "entity_name": "Third degree atrioventricular block",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001709"
             },
             {
                 "entity_name": "Nasal obstruction",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001742"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             },
             {
                 "entity_name": "Seasonal allergy",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012395"
             },
             {
                 "entity_name": "Narcolepsy",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030050"
             },
             {
                 "entity_name": "Headache",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002315"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             }
         ],
         "resource": [
@@ -5735,17 +5735,17 @@
             {
                 "entity_name": "5-hydroxytryptamine receptor 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2B"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2A"
             },
             {
                 "entity_name": "5-hydroxytryptamine receptor 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HTR2C"
             }
         ],
         "resource": [
@@ -5764,17 +5764,17 @@
             {
                 "entity_name": "Seizure",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001250"
             },
             {
                 "entity_name": "Neoplasm",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002664"
             },
             {
                 "entity_name": "Coronary artery atherosclerosis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001677"
             }
         ],
         "resource": [
@@ -5793,12 +5793,12 @@
             {
                 "entity_name": "TNF receptor superfamily member 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF4"
             },
             {
                 "entity_name": "tumor necrosis factor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF4"
             }
         ],
         "resource": [
@@ -5817,42 +5817,42 @@
             {
                 "entity_name": "C-C motif chemokine receptor 6",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCR6"
             },
             {
                 "entity_name": "solute carrier family 12 member 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC12A3"
             },
             {
                 "entity_name": "solute carrier family 12 member 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC12A1"
             },
             {
                 "entity_name": "carbonic anhydrase 12",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             },
             {
                 "entity_name": "carbonic anhydrase 14",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA14"
             },
             {
                 "entity_name": "carbonic anhydrase 4",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA4"
             },
             {
                 "entity_name": "carbonic anhydrase 7",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA7"
             },
             {
                 "entity_name": "carbonic anhydrase 1",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             }
         ],
         "resource": [
@@ -5871,22 +5871,22 @@
             {
                 "entity_name": "carbonic anhydrase 12",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             },
             {
                 "entity_name": "carbonic anhydrase 4",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA4"
             },
             {
                 "entity_name": "carbonic anhydrase 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA2"
             },
             {
                 "entity_name": "carbonic anhydrase 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CA12"
             }
         ],
         "resource": [
@@ -5905,32 +5905,32 @@
             {
                 "entity_name": "plasminogen activator, tissue type",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAT"
             },
             {
                 "entity_name": "serpin family E member 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SERPINE1"
             },
             {
                 "entity_name": "plasminogen",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLG"
             },
             {
                 "entity_name": "plasminogen activator, urokinase receptor",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAUR"
             },
             {
                 "entity_name": "serpin family B member 2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SERPINB2"
             },
             {
                 "entity_name": "plasminogen activator, urokinase",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAUR"
             }
         ],
         "resource": [
@@ -5949,22 +5949,22 @@
             {
                 "entity_name": "lysophosphatidic acid receptor 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPAR2"
             },
             {
                 "entity_name": "lysophosphatidic acid receptor 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPAR3"
             },
             {
                 "entity_name": "G protein-coupled receptor 35",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPR35"
             },
             {
                 "entity_name": "lysophosphatidic acid receptor 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=LPAR1"
             }
         ],
         "resource": [
@@ -5983,42 +5983,42 @@
             {
                 "entity_name": "Toxemia of pregnancy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100603"
             },
             {
                 "entity_name": "Nephrotic syndrome",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000100"
             },
             {
                 "entity_name": "Cirrhosis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001394"
             },
             {
                 "entity_name": "Edema",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000969"
             },
             {
                 "entity_name": "Hypervolemia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011105"
             },
             {
                 "entity_name": "Congestive heart failure",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001635"
             },
             {
                 "entity_name": "Abnormality of the cardiovascular system",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001626"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -6037,37 +6037,37 @@
             {
                 "entity_name": "Chronic pulmonary obstruction",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006510"
             },
             {
                 "entity_name": "Stroke",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001297"
             },
             {
                 "entity_name": "Myocardial infarction",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001658"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "ST segment elevation",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012251"
             },
             {
                 "entity_name": "Ischemic stroke",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002140"
             }
         ],
         "resource": [
@@ -6086,32 +6086,32 @@
             {
                 "entity_name": "Right ventricular failure",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001708"
             },
             {
                 "entity_name": "Bronchitis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012387"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             },
             {
                 "entity_name": "Anemia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001903"
             },
             {
                 "entity_name": "Edema",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000969"
             },
             {
                 "entity_name": "Headache",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002315"
             }
         ],
         "resource": [
@@ -6130,32 +6130,32 @@
             {
                 "entity_name": "Pulmonary venous occlusion",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006518"
             },
             {
                 "entity_name": "Scleroderma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100324"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             },
             {
                 "entity_name": "Immunodeficiency",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002721"
             },
             {
                 "entity_name": "Abnormal heart morphology",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001627"
             },
             {
                 "entity_name": "Abnormal lung morphology",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002088"
             }
         ],
         "resource": [
@@ -6174,42 +6174,42 @@
             {
                 "entity_name": "Narcolepsy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030050"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Nasal obstruction",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001742"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             },
             {
                 "entity_name": "Third degree atrioventricular block",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001709"
             },
             {
                 "entity_name": "Seasonal allergy",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012395"
             },
             {
                 "entity_name": "Headache",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002315"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -6228,12 +6228,12 @@
             {
                 "entity_name": "plasminogen",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLG"
             },
             {
                 "entity_name": "fibrinogen alpha chain",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGA"
             }
         ],
         "resource": [
@@ -6291,42 +6291,42 @@
             {
                 "entity_name": "Toxemia of pregnancy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0100603"
             },
             {
                 "entity_name": "Nephrotic syndrome",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000100"
             },
             {
                 "entity_name": "Cirrhosis",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001394"
             },
             {
                 "entity_name": "Edema",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000969"
             },
             {
                 "entity_name": "Hypervolemia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011105"
             },
             {
                 "entity_name": "Congestive heart failure",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001635"
             },
             {
                 "entity_name": "Abnormality of the cardiovascular system",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001626"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -6345,42 +6345,42 @@
             {
                 "entity_name": "Congestive heart failure",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001635"
             },
             {
                 "entity_name": "Angina pectoris",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001681"
             },
             {
                 "entity_name": "Myocardial infarction",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001658"
             },
             {
                 "entity_name": "Diabetes mellitus",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000819"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             },
             {
                 "entity_name": "Hyperlipidemia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0003077"
             },
             {
                 "entity_name": "Abnormality of the cardiovascular system",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001626"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -6428,17 +6428,17 @@
             {
                 "entity_name": "Coronary artery atherosclerosis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001677"
             },
             {
                 "entity_name": "Myocardial infarction",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001658"
             },
             {
                 "entity_name": "Angina pectoris",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001681"
             }
         ],
         "resource": [
@@ -6457,42 +6457,42 @@
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             },
             {
                 "entity_name": "Asthma",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002099"
             },
             {
                 "entity_name": "Narcolepsy",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0030050"
             },
             {
                 "entity_name": "Third degree atrioventricular block",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001709"
             },
             {
                 "entity_name": "Nasal obstruction",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001742"
             },
             {
                 "entity_name": "Seasonal allergy",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0012395"
             },
             {
                 "entity_name": "Headache",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002315"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -6511,12 +6511,12 @@
             {
                 "entity_name": "collagen type IV alpha 5 chain",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=COL4A5"
             },
             {
                 "entity_name": "prostaglandin F receptor",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGFR"
             }
         ],
         "resource": [
@@ -6535,17 +6535,17 @@
             {
                 "entity_name": "Encephalopathy",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001298"
             },
             {
                 "entity_name": "Retinopathy",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000488"
             },
             {
                 "entity_name": "Hypertension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000822"
             }
         ],
         "resource": [
@@ -6564,37 +6564,37 @@
             {
                 "entity_name": "Gastroparesis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002578"
             },
             {
                 "entity_name": "Nausea",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002018"
             },
             {
                 "entity_name": "Orthostatic hypotension",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001278"
             },
             {
                 "entity_name": "Vomiting",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002013"
             },
             {
                 "entity_name": "Migraine",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002076"
             },
             {
                 "entity_name": "Gastritis",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005263"
             },
             {
                 "entity_name": "Renal insufficiency",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000083"
             }
         ],
         "resource": [
@@ -6613,17 +6613,17 @@
             {
                 "entity_name": "cholinergic receptor muscarinic 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM1"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM3"
             },
             {
                 "entity_name": "cholinergic receptor muscarinic 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRM2"
             }
         ],
         "resource": [
@@ -6642,37 +6642,37 @@
             {
                 "entity_name": "fms related receptor tyrosine kinase 3",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT3"
             },
             {
                 "entity_name": "platelet derived growth factor receptor beta",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRB"
             },
             {
                 "entity_name": "platelet derived growth factor receptor alpha",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRA"
             },
             {
                 "entity_name": "KIT proto-oncogene, receptor tyrosine kinase",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KIT"
             },
             {
                 "entity_name": "colony stimulating factor 1 receptor",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CSF1R"
             },
             {
                 "entity_name": "aurora kinase B",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AURKB"
             },
             {
                 "entity_name": "MPL proto-oncogene, thrombopoietin receptor",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MPL"
             }
         ],
         "resource": [
@@ -7885,37 +7885,37 @@
             {
                 "entity_name": "Diaphragmatic paralysis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006597"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hypocalcemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002901"
             },
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Erythema",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0010783"
             },
             {
                 "entity_name": "Hypothermia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002045"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -7942,22 +7942,22 @@
             {
                 "entity_name": "solute carrier family 29 member 4",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC29A4"
             },
             {
                 "entity_name": "cytochrome P450 family 3 subfamily A member 7",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP3A7"
             },
             {
                 "entity_name": "potassium voltage-gated channel subfamily B member 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=KCNB2"
             },
             {
                 "entity_name": "interleukin 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2"
             }
         ],
         "resource": [
@@ -7984,22 +7984,22 @@
             {
                 "entity_name": "guanylate cyclase 1 soluble subunit alpha 2",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GUCY1A2"
             },
             {
                 "entity_name": "natriuretic peptide receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NPR1"
             },
             {
                 "entity_name": "dopamine receptor D1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD1"
             },
             {
                 "entity_name": "guanylate cyclase 1 soluble subunit beta 2 (pseudogene)",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GUCY1B2"
             }
         ],
         "resource": [
@@ -8026,32 +8026,32 @@
             {
                 "entity_name": "Hepatic necrosis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002605"
             },
             {
                 "entity_name": "Venous thrombosis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0004936"
             },
             {
                 "entity_name": "Hypervolemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0011105"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hypoventilation",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002791"
             },
             {
                 "entity_name": "Fever",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0001945"
             }
         ],
         "resource": [
@@ -8074,22 +8074,22 @@
             {
                 "entity_name": "cytochrome P450 family 2 subfamily D member 6",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2D6"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             }
         ],
         "resource": [
@@ -8116,17 +8116,17 @@
             {
                 "entity_name": "formyl peptide receptor 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR1"
             },
             {
                 "entity_name": "formyl peptide receptor 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR3"
             },
             {
                 "entity_name": "formyl peptide receptor 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR2"
             }
         ],
         "resource": [
@@ -8153,22 +8153,22 @@
             {
                 "entity_name": "peroxisome proliferator activated receptor gamma",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARG"
             },
             {
                 "entity_name": "arachidonate 5-lipoxygenase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALOX5"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS1"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2"
             }
         ],
         "resource": [
@@ -8195,17 +8195,17 @@
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2B",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2A",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A"
             },
             {
                 "entity_name": "glutamate ionotropic receptor NMDA type subunit 2C",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2C"
             }
         ],
         "resource": [
@@ -8232,37 +8232,37 @@
             {
                 "entity_name": "Diaphragmatic paralysis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006597"
             },
             {
                 "entity_name": "Hypocalcemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002901"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Hypothermia",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002045"
             },
             {
                 "entity_name": "Erythema",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0010783"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -8289,12 +8289,12 @@
             {
                 "entity_name": "adrenoceptor beta 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB1"
             },
             {
                 "entity_name": "adrenoceptor beta 2",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADRB2"
             }
         ],
         "resource": [
@@ -8321,17 +8321,17 @@
             {
                 "entity_name": "formyl peptide receptor 1",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR1"
             },
             {
                 "entity_name": "formyl peptide receptor 3",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR3"
             },
             {
                 "entity_name": "formyl peptide receptor 2",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=FPR2"
             }
         ],
         "resource": [
@@ -8358,27 +8358,27 @@
             {
                 "entity_name": "translocator protein",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TSPO"
             },
             {
                 "entity_name": "gamma-glutamyltransferase 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GGT1"
             },
             {
                 "entity_name": "aldehyde dehydrogenase 3 family member A1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH3A1"
             },
             {
                 "entity_name": "aldehyde dehydrogenase 2 family member",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH2"
             },
             {
                 "entity_name": "glial fibrillary acidic protein",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GFAP"
             }
         ],
         "resource": [
@@ -8405,37 +8405,37 @@
             {
                 "entity_name": "Diaphragmatic paralysis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006597"
             },
             {
                 "entity_name": "Hypocalcemia",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002901"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Erythema",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0010783"
             },
             {
                 "entity_name": "Hypothermia",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002045"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -8462,22 +8462,22 @@
             {
                 "entity_name": "cytochrome P450 family 2 subfamily D member 6",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2D6"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             }
         ],
         "resource": [
@@ -8504,37 +8504,37 @@
             {
                 "entity_name": "BCL2 associated X, apoptosis regulator",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=BAX"
             },
             {
                 "entity_name": "sigma non-opioid intracellular receptor 1",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=SIGMAR1"
             },
             {
                 "entity_name": "tachykinin precursor 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TAC1"
             },
             {
                 "entity_name": "glucagon",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCG"
             },
             {
                 "entity_name": "opioid receptor mu 1",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRM1"
             },
             {
                 "entity_name": "opioid receptor kappa 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRK1"
             },
             {
                 "entity_name": "opioid receptor delta 1",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=OPRD1"
             }
         ],
         "resource": [
@@ -8561,37 +8561,37 @@
             {
                 "entity_name": "Diaphragmatic paralysis",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006597"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hypocalcemia",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002901"
             },
             {
                 "entity_name": "Hypothermia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002045"
             },
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Erythema",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0010783"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -8618,37 +8618,37 @@
             {
                 "entity_name": "Hypocalcemia",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002901"
             },
             {
                 "entity_name": "Diaphragmatic paralysis",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0006597"
             },
             {
                 "entity_name": "Decreased pulmonary function",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0005952"
             },
             {
                 "entity_name": "Hypothermia",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002045"
             },
             {
                 "entity_name": "Hyperhidrosis",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0000975"
             },
             {
                 "entity_name": "Erythema",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0010783"
             },
             {
                 "entity_name": "Hypotension",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://monarchinitiative.org/HP:0002615"
             }
         ],
         "resource": [
@@ -8671,42 +8671,42 @@
             {
                 "entity_name": "anti-Mullerian hormone",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AMH"
             },
             {
                 "entity_name": "cytochrome P450 family 2 subfamily C member 19",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C19"
             },
             {
                 "entity_name": "aquaporin 8",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=AQP8"
             },
             {
                 "entity_name": "prolactin",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRL"
             },
             {
                 "entity_name": "cyclin A2",
                 "llm_rank": 5,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCNA2"
             },
             {
                 "entity_name": "estrogen receptor 1",
                 "llm_rank": 6,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR1"
             },
             {
                 "entity_name": "gamma-glutamyltransferase 1",
                 "llm_rank": 7,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=GGT1"
             },
             {
                 "entity_name": "actin beta",
                 "llm_rank": 8,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACTB"
             }
         ],
         "resource": [
@@ -8733,17 +8733,17 @@
             {
                 "entity_name": "RAR related orphan receptor A",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RORA"
             },
             {
                 "entity_name": "coagulation factor X",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=F10"
             },
             {
                 "entity_name": "mitogen-activated protein kinase 10",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPK10"
             }
         ],
         "resource": [
@@ -8770,22 +8770,22 @@
             {
                 "entity_name": "peroxisome proliferator activated receptor gamma",
                 "llm_rank": 1,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARG"
             },
             {
                 "entity_name": "arachidonate 5-lipoxygenase",
                 "llm_rank": 2,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALOX5"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 1",
                 "llm_rank": 3,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS1"
             },
             {
                 "entity_name": "prostaglandin-endoperoxide synthase 2",
                 "llm_rank": 4,
-                "entity_link": null
+                "entity_link": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2"
             }
         ],
         "resource": [
