@@ -39,7 +39,7 @@ const category: Category[] = [
       },
       "Neoplasm": {
         "None": 2,
-        "Hematological neoplasm": 1
+        "Hematological neoplasm": 3
       }
     }
   },
@@ -101,7 +101,7 @@ const category: Category[] = [
     "categories": {
       "musculoskeletal system disease": {
         "bone disease": 22,
-        "muscle tissue disease": 3,
+        "muscle tissue disease": 2,
         "lipodystrophy": 2,
         "None": 1
       },
@@ -120,7 +120,7 @@ const category: Category[] = [
     "total": 58,
     "categories": {
       "Abnormality of the immune system": {
-        "Abnormal cellular immune system morphology": 27,
+        "Abnormal cellular immune system morphology": 25,
         "Abnormal inflammatory response": 16,
         "Immunologic hypersensitivity": 4,
         "Immunodeficiency": 2,
@@ -142,7 +142,7 @@ const category: Category[] = [
     "total": 8,
     "categories": {
       "respiratory system disease": {
-        "None": 3,
+        "None": 4,
         "bronchial disease": 1,
         "lower respiratory tract disease": 1,
         "respiratory system benign neoplasm": 1,
@@ -159,7 +159,7 @@ const category: Category[] = [
     "total": 54,
     "categories": {
       "gastrointestinal system disease": {
-        "liver disease": 8,
+        "liver disease": 10,
         "biliary tract disease": 3,
         "gastritis": 2,
         "functional gastric disease": 2,
@@ -252,7 +252,6 @@ const category: Category[] = [
         "Glaucoma": 1
       },
       "Abnormality of the head": {
-        "Abnormal facial expression": 1,
         "Abnormality of the mouth": 1
       }
     }
@@ -260,7 +259,7 @@ const category: Category[] = [
   {
     "batch_id": 11,
     "batch_name": "Neurological and Mental Health Disorders",
-    "total": 84,
+    "total": 83,
     "categories": {
       "nervous system disease": {
         "neuropathy": 8,
@@ -270,15 +269,16 @@ const category: Category[] = [
         "brain disease": 3,
         "peripheral nervous system disease": 1,
         "hemiplegia": 1,
-        "sensory system disease": 1
+        "sensory system disease": 1,
+        "mitochondrial disorder affecting the nervous system":1
       },
       "Abnormality of the nervous system": {
-        "Behavioral abnormality": 18,
+        "Behavioral abnormality": 17,
         "Morphological central nervous system abnormality": 9,
         "Seizure": 8,
-        "Encephalopathy": 3,
+        "Encephalopathy": 1,
         "Abnormal peripheral nervous system morphology": 3,
-        "Abnormality of movement": 3,
+        "Abnormality of movement": 4,
         "Abnormal central motor function": 3,
         "Abnormality of higher mental function": 2,
         "Abnormal cranial nerve physiology": 1,
