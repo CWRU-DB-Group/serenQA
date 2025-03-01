@@ -151,7 +151,7 @@
     {
         "question_number": 4,
         "qid": 1518,
-        "text": "Which drugs cause nausea as a side effect and are used to treat hepatic encephalopathy? Additionally, which drugs are used to treat nausea and have hepatic encephalopathy as a side effect?",
+        "text": "Which drugs cause nausea as a side effect while being used to treat hepatic encephalopathy, or are used to treat nausea while having hepatic encephalopathy as a known side effect?",
         "category": "Abnormality of the nervous system:Encephalopathy",
         "llm_ranking": [
             {
@@ -209,7 +209,7 @@
     {
         "question_number": 6,
         "qid": 1525,
-        "text": "Which drugs interact with Propafenone and are associated with brain abscess as a side effect, and which drugs interact with Propafenone and are used to treat brain abscess?",
+        "text": "Which drugs interact with Propafenone and either list brain abscess as a side effect or are used to treat brain abscess?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
         "llm_ranking": [
             {
@@ -285,50 +285,6 @@
     },
     {
         "question_number": 9,
-        "qid": 802,
-        "text": "Which drugs interact with Bisoxatin and list hepatic encephalopathy as a side effect?",
-        "category": "Abnormality of the nervous system:Encephalopathy",
-        "llm_ranking": [
-            {
-                "entity_name": "Flutamide",
-                "llm_rank": 1,
-                "entity_link": "https://go.drugbank.com/drugs/DB00499"
-            },
-            {
-                "entity_name": "Bendroflumethiazide",
-                "llm_rank": 2,
-                "entity_link": "https://go.drugbank.com/drugs/DB00436"
-            },
-            {
-                "entity_name": "Amiloride",
-                "llm_rank": 3,
-                "entity_link": "https://go.drugbank.com/drugs/DB00594"
-            },
-            {
-                "entity_name": "Indapamide",
-                "llm_rank": 4,
-                "entity_link": "https://go.drugbank.com/drugs/DB00808"
-            },
-            {
-                "entity_name": "Rabeprazole",
-                "llm_rank": 5,
-                "entity_link": "https://go.drugbank.com/drugs/DB01129"
-            },
-            {
-                "entity_name": "Furosemide",
-                "llm_rank": 6,
-                "entity_link": "https://go.drugbank.com/drugs/DB00695"
-            }
-        ],
-        "resource": [
-            {
-                "entity_name": "Bisoxatin",
-                "entity_link": "https://go.drugbank.com/drugs/DB09219"
-            }
-        ]
-    },
-    {
-        "question_number": 10,
         "qid": 810,
         "text": "Which drugs are used to treat anxiety and have myositis as a side effect?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -362,7 +318,7 @@
         "resource": []
     },
     {
-        "question_number": 11,
+        "question_number": 10,
         "qid": 813,
         "text": "Which proteins are part of the MTA2 complex and are linked to lens diseases?",
         "category": "nervous system disease:eye disease",
@@ -381,7 +337,7 @@
         "resource": []
     },
     {
-        "question_number": 12,
+        "question_number": 11,
         "qid": 815,
         "text": "Which drugs interact with Rifampicin and are used to treat movement disorders?",
         "category": "Abnormality of the nervous system:Abnormality of movement",
@@ -405,7 +361,7 @@
         ]
     },
     {
-        "question_number": 13,
+        "question_number": 12,
         "qid": 843,
         "text": "Which proteins are linked to reading disorders and are known to interact with UBE2I?",
         "category": "disease of mental health:specific developmental disorder",
@@ -439,7 +395,7 @@
         ]
     },
     {
-        "question_number": 14,
+        "question_number": 13,
         "qid": 848,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-21:0/18:0/i-22:0]) and are linked to Huntington's disease?",
         "category": "nervous system disease:neurodegenerative disease",
@@ -463,7 +419,7 @@
         ]
     },
     {
-        "question_number": 15,
+        "question_number": 14,
         "qid": 849,
         "text": "Which drugs interact with Regramostim and have choreoathetosis as a side effect?",
         "category": "Abnormality of the nervous system:Abnormality of movement",
@@ -512,7 +468,7 @@
         ]
     },
     {
-        "question_number": 16,
+        "question_number": 15,
         "qid": 862,
         "text": "Which proteins are linked to Charcot-Marie-Tooth disease and are known to interact with GPN3?",
         "category": "nervous system disease:neuropathy",
@@ -537,6 +493,30 @@
             {
                 "entity_name": "GPN3",
                 "entity_link": "https://www.uniprot.org/uniprotkb/Q9UHW5-2/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "qid": 863,
+        "text": "Which drugs interact with Ubidecarenone (Coenzyme Q10) and list facial tics as a side effect?",
+        "category": "Abnormality of the nervous system:Abnormality of movement",
+        "llm_ranking": [
+            {
+                "entity_name": "Citalopram",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00215"
+            },
+            {
+                "entity_name": "Escitalopram",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB01175"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ubidecarenone",
+                "entity_link": "https://go.drugbank.com/drugs/DB09270"
             }
         ]
     },
@@ -876,6 +856,45 @@
     },
     {
         "question_number": 28,
+        "qid": 917,
+        "text": "Which proteins are linked to MELAS syndrome and are known to interact with WDR77?",
+        "category": "nervous system disease:mitochondrial disorder affecting the nervous system",
+        "llm_ranking": [
+            {
+                "entity_name": "CLP1",
+                "llm_rank": 1,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q92989/entry"
+            },
+            {
+                "entity_name": "SIRT7",
+                "llm_rank": 2,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NRC8/entry"
+            },
+            {
+                "entity_name": "INTS11",
+                "llm_rank": 3,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TA45/entry"
+            },
+            {
+                "entity_name": "TOE1",
+                "llm_rank": 4,
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q96GM8/entry"
+            },
+            {
+                "entity_name": "RBM5",
+                "llm_rank": 5,
+                "entity_link": "https://www.uniprot.org/uniprotkb/P52756/entry"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "WDR77",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BQA1/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 29,
         "qid": 924,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(20:2/22:5/20:3)) and are linked to eye diseases?",
         "category": "nervous system disease:eye disease",
@@ -914,7 +933,7 @@
         ]
     },
     {
-        "question_number": 29,
+        "question_number": 30,
         "qid": 955,
         "text": "Which drugs are used to treat glioma and interact with vitamin D?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -938,7 +957,7 @@
         ]
     },
     {
-        "question_number": 30,
+        "question_number": 31,
         "qid": 970,
         "text": "Which proteins interact with NVL and are linked to focal dystonia?",
         "category": "nervous system disease:brain disease",
@@ -967,7 +986,7 @@
         ]
     },
     {
-        "question_number": 31,
+        "question_number": 32,
         "qid": 972,
         "text": "Which proteins are involved in the ADP signaling pathway through the P2Y purinoceptor 1 and are linked to neonatal electroclinical syndrome?",
         "category": "nervous system disease:brain disease",
@@ -1001,7 +1020,7 @@
         ]
     },
     {
-        "question_number": 32,
+        "question_number": 33,
         "qid": 974,
         "text": "Which proteins are subunits of the spliceosome and are linked to autoimmune diseases affecting the eyes, ears, nose, or throat?",
         "category": "nervous system disease:sensory system disease",
@@ -1020,7 +1039,7 @@
         "resource": []
     },
     {
-        "question_number": 33,
+        "question_number": 34,
         "qid": 977,
         "text": "Which proteins are involved in the Integrin cell surface interaction pathway and are linked to cystoid macular edema?",
         "category": "nervous system disease:eye disease",
@@ -1059,7 +1078,7 @@
         ]
     },
     {
-        "question_number": 34,
+        "question_number": 35,
         "qid": 978,
         "text": "Which proteins are linked to motor peripheral neuropathy and interact with TGFBR2?",
         "category": "nervous system disease:neuropathy",
@@ -1113,7 +1132,7 @@
         ]
     },
     {
-        "question_number": 35,
+        "question_number": 36,
         "qid": 979,
         "text": "Which proteins are linked to cocaine abuse and function as subunits of the ESR1-TRAP/Mediator coactivator complex?",
         "category": "disease of mental health:substance abuse",
@@ -1132,7 +1151,7 @@
         "resource": []
     },
     {
-        "question_number": 36,
+        "question_number": 37,
         "qid": 982,
         "text": "Which proteins interact with FRAS1 and are linked to amyotrophic lateral sclerosis type 9 (ALS9)?",
         "category": "nervous system disease:neurodegenerative disease",
@@ -1156,7 +1175,7 @@
         ]
     },
     {
-        "question_number": 37,
+        "question_number": 38,
         "qid": 998,
         "text": "Which drugs are used to treat cerebral palsy and interact with Alverine?",
         "category": "Abnormality of the nervous system:Abnormal central motor function",
@@ -1190,7 +1209,7 @@
         ]
     },
     {
-        "question_number": 38,
+        "question_number": 39,
         "qid": 1002,
         "text": "Which proteins are subunits of the HNRNPD (p45)-ZFP36L1 complex and are linked to central nervous system diseases?",
         "category": "nervous system disease:central nervous system disease",
@@ -1209,7 +1228,7 @@
         "resource": []
     },
     {
-        "question_number": 39,
+        "question_number": 40,
         "qid": 1012,
         "text": "Which drugs target CYP20A1 and have hoarseness or voice changes (dysphonia) as a side effect?",
         "category": "Abnormality of the nervous system:Abnormality of higher mental function",
@@ -1248,7 +1267,7 @@
         ]
     },
     {
-        "question_number": 40,
+        "question_number": 41,
         "qid": 1014,
         "text": "Which proteins are linked to fundus dystrophy and interact with NFATC2IP?",
         "category": "nervous system disease:eye disease",
@@ -1282,7 +1301,7 @@
         ]
     },
     {
-        "question_number": 41,
+        "question_number": 42,
         "qid": 1016,
         "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL(i-13:0/i-22:0/i-14:0/18:2(9Z,11Z))) and are linked to optic atrophy?",
         "category": "nervous system disease:neuropathy",
@@ -1316,7 +1335,7 @@
         ]
     },
     {
-        "question_number": 42,
+        "question_number": 43,
         "qid": 1042,
         "text": "Which proteins are known to interact with MGAT2 and are associated with pseudobulbar palsy?",
         "category": "nervous system disease:brain disease",
@@ -1345,7 +1364,7 @@
         ]
     },
     {
-        "question_number": 43,
+        "question_number": 44,
         "qid": 1046,
         "text": "Which proteins interact with SIK3 and are linked to schizoaffective disorder?",
         "category": "disease of mental health:psychotic disorder",
@@ -1374,7 +1393,7 @@
         ]
     },
     {
-        "question_number": 44,
+        "question_number": 45,
         "qid": 1053,
         "text": "Which proteins are part of the NOS3-CAV1-NOSTRIN complex and are linked to mood disorders?",
         "category": "disease of mental health:mood disorder",
@@ -1393,7 +1412,7 @@
         "resource": []
     },
     {
-        "question_number": 45,
+        "question_number": 46,
         "qid": 1056,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)) and are linked to optic nerve diseases?",
         "category": "nervous system disease:neuropathy",
@@ -1417,7 +1436,7 @@
         ]
     },
     {
-        "question_number": 46,
+        "question_number": 47,
         "qid": 1057,
         "text": "Which proteins are associated with Alzheimer's disease 14 and function as subunits of the NOS3-HSP90 complex induced by VEGF?",
         "category": "nervous system disease:neurodegenerative disease",
@@ -1436,7 +1455,7 @@
         "resource": []
     },
     {
-        "question_number": 47,
+        "question_number": 48,
         "qid": 1058,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(14:0/14:0/18:3(9Z,12Z,15Z)) and are linked to cranial nerve disorders?",
         "category": "nervous system disease:neuropathy",
@@ -1460,7 +1479,7 @@
         ]
     },
     {
-        "question_number": 48,
+        "question_number": 49,
         "qid": 275,
         "text": "Which proteins are identified as targets of 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline and also interact with Atomoxetine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1503,7 +1522,7 @@
         ]
     },
     {
-        "question_number": 49,
+        "question_number": 50,
         "qid": 276,
         "text": "Which proteins are targeted by TMPRSS11D, which is also affected by Gadodiamide?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -1536,7 +1555,7 @@
         ]
     },
     {
-        "question_number": 50,
+        "question_number": 51,
         "qid": 281,
         "text": "Which proteins are targeted by PRSS12, which is also affected by Gadodiamide?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -1584,7 +1603,7 @@
         ]
     },
     {
-        "question_number": 51,
+        "question_number": 52,
         "qid": 285,
         "text": "Which proteins are known targets of Tiludronic acid and also interact with Atomoxetine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1642,7 +1661,7 @@
         ]
     },
     {
-        "question_number": 52,
+        "question_number": 53,
         "qid": 325,
         "text": "Which proteins are targeted by Paramethadione and also interact with Atomoxetine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1670,7 +1689,7 @@
         ]
     },
     {
-        "question_number": 53,
+        "question_number": 54,
         "qid": 333,
         "text": "Which proteins are identified as targets of Nalidixic acid and also interact with Atomoxetine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1703,7 +1722,7 @@
         ]
     },
     {
-        "question_number": 54,
+        "question_number": 55,
         "qid": 355,
         "text": "Which proteins are targeted by MST1, which is also affected by Streptozocin?",
         "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
@@ -1736,7 +1755,7 @@
         ]
     },
     {
-        "question_number": 55,
+        "question_number": 56,
         "qid": 373,
         "text": "Which pathways are associated with TRPC5, a target of Gadodiamide?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -1764,7 +1783,7 @@
         ]
     },
     {
-        "question_number": 56,
+        "question_number": 57,
         "qid": 380,
         "text": "Which proteins are targeted by Hexobarbital and also interact with Atomoxetine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1817,7 +1836,7 @@
         ]
     },
     {
-        "question_number": 57,
+        "question_number": 58,
         "qid": 2,
         "text": "Which proteins are known to be targets of Lisdexamfetamine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1846,7 +1865,7 @@
         ]
     },
     {
-        "question_number": 58,
+        "question_number": 59,
         "qid": 19,
         "text": "What conditions or diseases is Temozolomide commonly used to treat?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -1885,7 +1904,7 @@
         ]
     },
     {
-        "question_number": 59,
+        "question_number": 60,
         "qid": 23,
         "text": "What conditions or symptoms is gamma-Hydroxybutyric acid (GHB) commonly prescribed or indicated to treat?",
         "category": "Abnormality of the nervous system:Abnormal central motor function",
@@ -1909,7 +1928,7 @@
         ]
     },
     {
-        "question_number": 60,
+        "question_number": 61,
         "qid": 24,
         "text": "What conditions or symptoms is Isocarboxazid prescribed to treat?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -1948,7 +1967,7 @@
         ]
     },
     {
-        "question_number": 61,
+        "question_number": 62,
         "qid": 35,
         "text": "What conditions or symptoms is Fosphenytoin prescribed to treat?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -1997,7 +2016,7 @@
         ]
     },
     {
-        "question_number": 62,
+        "question_number": 63,
         "qid": 36,
         "text": "What conditions or symptoms is Tetrabenazine prescribed to treat?",
         "category": "Abnormality of the nervous system:Abnormality of movement",
@@ -2031,7 +2050,7 @@
         ]
     },
     {
-        "question_number": 63,
+        "question_number": 64,
         "qid": 40,
         "text": "What conditions or symptoms is Haloperidol commonly prescribed to treat?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2070,7 +2089,7 @@
         ]
     },
     {
-        "question_number": 64,
+        "question_number": 65,
         "qid": 48,
         "text": "What conditions or symptoms is Clorazepic acid prescribed to treat?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2099,7 +2118,7 @@
         ]
     },
     {
-        "question_number": 65,
+        "question_number": 66,
         "qid": 76,
         "text": "Which genes are targeted by Trimethadione?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2128,7 +2147,7 @@
         ]
     },
     {
-        "question_number": 66,
+        "question_number": 67,
         "qid": 93,
         "text": "What conditions or phenotypes is D-arginine used to treat or indicated for?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -2167,7 +2186,7 @@
         ]
     },
     {
-        "question_number": 67,
+        "question_number": 68,
         "qid": 102,
         "text": "What conditions or symptoms is folic acid commonly prescribed to treat?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2206,7 +2225,7 @@
         ]
     },
     {
-        "question_number": 68,
+        "question_number": 69,
         "qid": 103,
         "text": "What conditions or symptoms is Cyclobenzaprine commonly prescribed to treat?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -2250,7 +2269,7 @@
         ]
     },
     {
-        "question_number": 69,
+        "question_number": 70,
         "qid": 120,
         "text": "What conditions or symptoms is Ethosuximide prescribed to treat?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2274,7 +2293,7 @@
         ]
     },
     {
-        "question_number": 70,
+        "question_number": 71,
         "qid": 133,
         "text": "What conditions or symptoms is Vilazodone prescribed to treat?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2313,7 +2332,7 @@
         ]
     },
     {
-        "question_number": 71,
+        "question_number": 72,
         "qid": 135,
         "text": "Which genes are identified as targets of Phentermine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2347,7 +2366,7 @@
         ]
     },
     {
-        "question_number": 72,
+        "question_number": 73,
         "qid": 146,
         "text": "What conditions or symptoms is Lurasidone prescribed to treat?",
         "category": "Abnormality of the nervous system:Abnormality of higher mental function",
@@ -2381,7 +2400,7 @@
         ]
     },
     {
-        "question_number": 73,
+        "question_number": 74,
         "qid": 151,
         "text": "Which genes are identified as targets of Phentermine?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2415,7 +2434,7 @@
         ]
     },
     {
-        "question_number": 74,
+        "question_number": 75,
         "qid": 159,
         "text": "Which drugs are used to treat photophobia (sensitivity to light)?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2444,7 +2463,7 @@
         "resource": []
     },
     {
-        "question_number": 75,
+        "question_number": 76,
         "qid": 164,
         "text": "Which drugs target the FUS protein?",
         "category": "Abnormality of the nervous system:Morphological central nervous system abnormality",
@@ -2473,7 +2492,7 @@
         ]
     },
     {
-        "question_number": 76,
+        "question_number": 77,
         "qid": 168,
         "text": "Which drugs are used to treat abnormalities in extrapyramidal motor function?",
         "category": "Abnormality of the nervous system:Abnormal central motor function",
@@ -2502,7 +2521,7 @@
         "resource": []
     },
     {
-        "question_number": 77,
+        "question_number": 78,
         "qid": 173,
         "text": "Which drugs are used to treat excessive daytime sleepiness?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2526,7 +2545,7 @@
         "resource": []
     },
     {
-        "question_number": 78,
+        "question_number": 79,
         "qid": 181,
         "text": "Which drugs are used to treat agoraphobia?",
         "category": "Abnormality of the nervous system:Behavioral abnormality",
@@ -2575,7 +2594,7 @@
         "resource": []
     },
     {
-        "question_number": 79,
+        "question_number": 80,
         "qid": 183,
         "text": "Which drugs are used to treat encephalopathy?",
         "category": "Abnormality of the nervous system:Encephalopathy",
@@ -2624,7 +2643,7 @@
         "resource": []
     },
     {
-        "question_number": 80,
+        "question_number": 81,
         "qid": 188,
         "text": "Which proteins are considered biomarkers for alcohol dependence?",
         "category": "disease of mental health:substance dependence",
@@ -2643,7 +2662,7 @@
         "resource": []
     },
     {
-        "question_number": 81,
+        "question_number": 82,
         "qid": 190,
         "text": "Which drugs target the mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1 (MT-ND1)?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2667,7 +2686,7 @@
         "resource": []
     },
     {
-        "question_number": 82,
+        "question_number": 83,
         "qid": 215,
         "text": "Which drugs target the AGRP (Agouti-Related Protein) gene or its associated pathways?",
         "category": "Abnormality of the nervous system:Abnormal peripheral nervous system morphology",
@@ -2691,7 +2710,7 @@
         ]
     },
     {
-        "question_number": 83,
+        "question_number": 84,
         "qid": 222,
         "text": "Which drugs are used to treat typical absence seizures?",
         "category": "Abnormality of the nervous system:Seizure",
@@ -2735,7 +2754,7 @@
         "resource": []
     },
     {
-        "question_number": 84,
+        "question_number": 85,
         "qid": 230,
         "text": "Which drugs target the enzyme 4-aminobutyrate aminotransferase (GABA transaminase)?",
         "category": "Abnormality of the nervous system:Seizure",

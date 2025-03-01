@@ -929,7 +929,7 @@
     {
         "question_number": 25,
         "qid": 1522,
-        "text": "Which proteins are linked to retinitis pigmentosa 23 and either target BTF3L4 or are known to interact with BTF3L4?",
+        "text": "Which proteins are associated with retinitis pigmentosa 23 and either target BTF3L4 or are known to interact with BTF3L4?",
         "category": "genetic disease:X-linked monogenic disease",
         "llm_ranking": [
             {

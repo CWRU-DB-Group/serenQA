@@ -84,30 +84,6 @@
     },
     {
         "question_number": 3,
-        "qid": 863,
-        "text": "Which drugs interact with Ubidecarenone (Coenzyme Q10) and list facial tics as a side effect?",
-        "category": "Abnormality of the head:Abnormal facial expression",
-        "llm_ranking": [
-            {
-                "entity_name": "Citalopram",
-                "llm_rank": 1,
-                "entity_link": "https://go.drugbank.com/drugs/DB00215"
-            },
-            {
-                "entity_name": "Escitalopram",
-                "llm_rank": 2,
-                "entity_link": "https://go.drugbank.com/drugs/DB01175"
-            }
-        ],
-        "resource": [
-            {
-                "entity_name": "Ubidecarenone",
-                "entity_link": "https://go.drugbank.com/drugs/DB09270"
-            }
-        ]
-    },
-    {
-        "question_number": 4,
         "qid": 889,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG(8:0/i-16:0/12:0)) and are linked to hypotrichosis?",
         "category": "integumentary system disease:hypotrichosis",
@@ -131,7 +107,7 @@
         ]
     },
     {
-        "question_number": 5,
+        "question_number": 4,
         "qid": 1001,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(16:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z)) and are linked to skin diseases?",
         "category": "integumentary system disease:skin disease",
@@ -165,7 +141,7 @@
         ]
     },
     {
-        "question_number": 6,
+        "question_number": 5,
         "qid": 1005,
         "text": "Which drugs interact with Eldecalcitol and are used to treat patchy alopecia?",
         "category": "Abnormality of the integument:Abnormal hair morphology",
@@ -199,7 +175,7 @@
         ]
     },
     {
-        "question_number": 7,
+        "question_number": 6,
         "qid": 1019,
         "text": "Which drugs are used to treat excessive salivation and interact with MK-212?",
         "category": "Abnormality of the head:Abnormality of the mouth",
@@ -223,7 +199,7 @@
         ]
     },
     {
-        "question_number": 8,
+        "question_number": 7,
         "qid": 1049,
         "text": "Which drugs interact with Anastrozole and list corneal opacity as a side effect?",
         "category": "Abnormality of the eye:Abnormal anterior eye segment morphology",
@@ -257,7 +233,7 @@
         ]
     },
     {
-        "question_number": 9,
+        "question_number": 8,
         "qid": 201,
         "text": "Which drugs are used to treat retinopathy?",
         "category": "Abnormality of the eye:Abnormal posterior eye segment morphology",
@@ -296,7 +272,7 @@
         "resource": []
     },
     {
-        "question_number": 10,
+        "question_number": 9,
         "qid": 207,
         "text": "Which drugs are used to treat pallor (unusually pale skin)?",
         "category": "Abnormality of the integument:Abnormality of skin morphology",
@@ -325,7 +301,7 @@
         "resource": []
     },
     {
-        "question_number": 11,
+        "question_number": 10,
         "qid": 217,
         "text": "Which drugs are used to treat acrocyanosis?",
         "category": "Abnormality of the integument:Abnormality of skin morphology",
@@ -344,7 +320,7 @@
         "resource": []
     },
     {
-        "question_number": 12,
+        "question_number": 11,
         "qid": 229,
         "text": "Which drugs are used to treat iritis (inflammation of the iris)?",
         "category": "Abnormality of the eye:Abnormal uvea morphology",
@@ -393,7 +369,7 @@
         "resource": []
     },
     {
-        "question_number": 13,
+        "question_number": 12,
         "qid": 233,
         "text": "Which drugs are used to treat scleroderma?",
         "category": "Abnormality of the integument:Abnormality of skin morphology",
@@ -432,7 +408,7 @@
         "resource": []
     },
     {
-        "question_number": 14,
+        "question_number": 13,
         "qid": 430,
         "text": "Which genes are identified as targets of Ketamine, which interacts with AGT and is involved in the Quinapril Action Pathway?",
         "category": "Abnormality of the eye:Glaucoma",

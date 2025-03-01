@@ -326,45 +326,6 @@
     },
     {
         "question_number": 9,
-        "qid": 917,
-        "text": "Which proteins are linked to MELAS syndrome and are known to interact with WDR77?",
-        "category": "musculoskeletal system disease:muscle tissue disease",
-        "llm_ranking": [
-            {
-                "entity_name": "CLP1",
-                "llm_rank": 1,
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q92989/entry"
-            },
-            {
-                "entity_name": "SIRT7",
-                "llm_rank": 2,
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q9NRC8/entry"
-            },
-            {
-                "entity_name": "INTS11",
-                "llm_rank": 3,
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q5TA45/entry"
-            },
-            {
-                "entity_name": "TOE1",
-                "llm_rank": 4,
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q96GM8/entry"
-            },
-            {
-                "entity_name": "RBM5",
-                "llm_rank": 5,
-                "entity_link": "https://www.uniprot.org/uniprotkb/P52756/entry"
-            }
-        ],
-        "resource": [
-            {
-                "entity_name": "WDR77",
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q9BQA1/entry"
-            }
-        ]
-    },
-    {
-        "question_number": 10,
         "qid": 933,
         "text": "Which proteins are linked to muscle tissue diseases and are involved in the cardiolipin biosynthesis pathway (CL(i-12:0/i-14:0/a-17:0/18:2(9Z,11Z)))?",
         "category": "musculoskeletal system disease:muscle tissue disease",
@@ -398,7 +359,7 @@
         ]
     },
     {
-        "question_number": 11,
+        "question_number": 10,
         "qid": 937,
         "text": "Which proteins interact with ICOSLG and are linked to paracoccidioidomycosis?",
         "category": "musculoskeletal system disease:bone disease",
@@ -432,7 +393,7 @@
         ]
     },
     {
-        "question_number": 12,
+        "question_number": 11,
         "qid": 1003,
         "text": "Which proteins are linked to complete generalized lipodystrophy and are involved in the cardiolipin biosynthesis pathway (CL(i-12:0/a-13:0/i-14:0/i-15:0))?",
         "category": "musculoskeletal system disease:lipodystrophy",
@@ -461,7 +422,7 @@
         ]
     },
     {
-        "question_number": 13,
+        "question_number": 12,
         "qid": 1008,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(22:1(13Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)) and are linked to lipodystrophy?",
         "category": "musculoskeletal system disease:lipodystrophy",
@@ -500,7 +461,7 @@
         ]
     },
     {
-        "question_number": 14,
+        "question_number": 13,
         "qid": 1010,
         "text": "Which proteins are known to interact with NCAPH2 and are associated with polymyositis?",
         "category": "musculoskeletal system disease:None",
@@ -539,7 +500,7 @@
         ]
     },
     {
-        "question_number": 15,
+        "question_number": 14,
         "qid": 1051,
         "text": "Which drugs interact with Tocopherylquinone and list osteomalacia as a side effect?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -563,7 +524,7 @@
         ]
     },
     {
-        "question_number": 16,
+        "question_number": 15,
         "qid": 1067,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PRAG1?",
         "category": "musculoskeletal system disease:bone disease",
@@ -596,7 +557,7 @@
         ]
     },
     {
-        "question_number": 17,
+        "question_number": 16,
         "qid": 1082,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with MAPK10?",
         "category": "musculoskeletal system disease:bone disease",
@@ -634,7 +595,7 @@
         ]
     },
     {
-        "question_number": 18,
+        "question_number": 17,
         "qid": 1100,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with LPXN?",
         "category": "musculoskeletal system disease:bone disease",
@@ -662,7 +623,7 @@
         ]
     },
     {
-        "question_number": 19,
+        "question_number": 18,
         "qid": 1105,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with GOLPH3?",
         "category": "musculoskeletal system disease:bone disease",
@@ -690,7 +651,7 @@
         ]
     },
     {
-        "question_number": 20,
+        "question_number": 19,
         "qid": 1131,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with SOCS6?",
         "category": "musculoskeletal system disease:bone disease",
@@ -728,7 +689,7 @@
         ]
     },
     {
-        "question_number": 21,
+        "question_number": 20,
         "qid": 1154,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PTPN4?",
         "category": "musculoskeletal system disease:bone disease",
@@ -761,7 +722,7 @@
         ]
     },
     {
-        "question_number": 22,
+        "question_number": 21,
         "qid": 1161,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with DOCK7?",
         "category": "musculoskeletal system disease:bone disease",
@@ -789,7 +750,7 @@
         ]
     },
     {
-        "question_number": 23,
+        "question_number": 22,
         "qid": 1296,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with CNTNAP1?",
         "category": "musculoskeletal system disease:bone disease",
@@ -817,7 +778,7 @@
         ]
     },
     {
-        "question_number": 24,
+        "question_number": 23,
         "qid": 1303,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with bone diseases, and known to interact with TGFB1I1?",
         "category": "musculoskeletal system disease:bone disease",
@@ -850,7 +811,7 @@
         ]
     },
     {
-        "question_number": 25,
+        "question_number": 24,
         "qid": 1364,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with PEAK1?",
         "category": "musculoskeletal system disease:bone disease",
@@ -878,7 +839,7 @@
         ]
     },
     {
-        "question_number": 26,
+        "question_number": 25,
         "qid": 1374,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with FRS2?",
         "category": "musculoskeletal system disease:bone disease",
@@ -931,7 +892,7 @@
         ]
     },
     {
-        "question_number": 27,
+        "question_number": 26,
         "qid": 1398,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with the HTT protein?",
         "category": "musculoskeletal system disease:bone disease",
@@ -969,7 +930,7 @@
         ]
     },
     {
-        "question_number": 28,
+        "question_number": 27,
         "qid": 1469,
         "text": "Which proteins are part of the CRKL-PDGFRA-CRK-RAPGEF1 complex, are involved in the Bosutinib inhibition of the BCR-ABL pathway, and are associated with bone diseases?",
         "category": "musculoskeletal system disease:bone disease",
@@ -993,7 +954,7 @@
         ]
     },
     {
-        "question_number": 29,
+        "question_number": 28,
         "qid": 1486,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to bone diseases, and interact with WASL?",
         "category": "musculoskeletal system disease:bone disease",
@@ -1021,7 +982,7 @@
         ]
     },
     {
-        "question_number": 30,
+        "question_number": 29,
         "qid": 273,
         "text": "Which biological processes are linked to EBP, the target of Raloxifene?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1074,7 +1035,7 @@
         ]
     },
     {
-        "question_number": 31,
+        "question_number": 30,
         "qid": 307,
         "text": "Which proteins are identified as targets of Fenproporex and are also known to interact with Nabumetone?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1112,7 +1073,7 @@
         ]
     },
     {
-        "question_number": 32,
+        "question_number": 31,
         "qid": 334,
         "text": "Which genes are known targets of Erdafitinib and are also associated with interactions involving Nabumetone?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1165,7 +1126,7 @@
         ]
     },
     {
-        "question_number": 33,
+        "question_number": 32,
         "qid": 27,
         "text": "What conditions or symptoms is Tapentadol prescribed to treat?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1199,7 +1160,7 @@
         ]
     },
     {
-        "question_number": 34,
+        "question_number": 33,
         "qid": 38,
         "text": "Which genes are targeted by Cholecalciferol?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1233,7 +1194,7 @@
         ]
     },
     {
-        "question_number": 35,
+        "question_number": 34,
         "qid": 42,
         "text": "Which genes are identified as targets of Oxaprozin?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",
@@ -1262,7 +1223,7 @@
         ]
     },
     {
-        "question_number": 36,
+        "question_number": 35,
         "qid": 126,
         "text": "Which proteins are identified as targets of Pralidoxime?",
         "category": "Abnormality of the musculoskeletal system:Abnormal muscle physiology",
@@ -1306,7 +1267,7 @@
         ]
     },
     {
-        "question_number": 37,
+        "question_number": 36,
         "qid": 179,
         "text": "Which drugs list weight loss as a side effect?",
         "category": "Growth abnormality:Decreased body weight",
@@ -1330,7 +1291,7 @@
         "resource": []
     },
     {
-        "question_number": 38,
+        "question_number": 37,
         "qid": 186,
         "text": "Which drugs are used to treat tetany?",
         "category": "Abnormality of the musculoskeletal system:Abnormal muscle physiology",
@@ -1359,7 +1320,7 @@
         "resource": []
     },
     {
-        "question_number": 39,
+        "question_number": 38,
         "qid": 441,
         "text": "Which genes are identified as targets of Piroxicam, a drug that acts on PPP2R1B, which is known to interact with CDK1?",
         "category": "Abnormality of the musculoskeletal system:Abnormality of skeletal morphology",

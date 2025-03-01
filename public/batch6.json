@@ -50,7 +50,7 @@
     {
         "question_number": 2,
         "qid": 1526,
-        "text": "Which drugs are used to treat pustules and interact with Chlorcyclizine, and which drugs cause pustules as a side effect and also interact with Chlorcyclizine?",
+        "text": "Which drugs are used to treat pustules and interact with Chlorcyclizine, or have pustules as a side effect and interact with Chlorcyclizine?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
         "llm_ranking": [
             {
@@ -164,34 +164,6 @@
     },
     {
         "question_number": 5,
-        "qid": 475,
-        "text": "Which drugs interact with Ifosfamide, used to treat acute lymphoblastic leukemia, and also target the FTMT gene?",
-        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
-        "llm_ranking": [
-            {
-                "entity_name": "Doxycycline",
-                "llm_rank": 1,
-                "entity_link": "https://go.drugbank.com/drugs/DB00254"
-            },
-            {
-                "entity_name": "Lacosamide",
-                "llm_rank": 2,
-                "entity_link": "https://go.drugbank.com/drugs/DB06218"
-            }
-        ],
-        "resource": [
-            {
-                "entity_name": "Ifosfamide",
-                "entity_link": "https://go.drugbank.com/drugs/DB01181"
-            },
-            {
-                "entity_name": "FTMT",
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N4E7/entry"
-            }
-        ]
-    },
-    {
-        "question_number": 6,
         "qid": 482,
         "text": "Which drugs target the MS4A1 gene (membrane-spanning 4-domains A1) and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -219,7 +191,7 @@
         ]
     },
     {
-        "question_number": 7,
+        "question_number": 6,
         "qid": 490,
         "text": "Which drugs target BMP4, a gene associated with fruit fly models, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -252,7 +224,7 @@
         ]
     },
     {
-        "question_number": 8,
+        "question_number": 7,
         "qid": 492,
         "text": "Which drugs interact with Nelarabine, used to treat acute lymphoblastic leukemia, and target the PRDX4 protein?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -285,7 +257,7 @@
         ]
     },
     {
-        "question_number": 9,
+        "question_number": 8,
         "qid": 497,
         "text": "Which drugs target Toll-like receptor 4 (TLR4) and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -328,7 +300,7 @@
         ]
     },
     {
-        "question_number": 10,
+        "question_number": 9,
         "qid": 498,
         "text": "Which drugs target HKDC1, a gene associated with fructose metabolism, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -356,40 +328,7 @@
         ]
     },
     {
-        "question_number": 11,
-        "qid": 511,
-        "text": "Which drugs interact with Epirubicin, used to treat acute lymphoblastic leukemia, and target PRDX4?",
-        "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
-        "llm_ranking": [
-            {
-                "entity_name": "Vorinostat",
-                "llm_rank": 1,
-                "entity_link": "https://go.drugbank.com/drugs/DB02546"
-            },
-            {
-                "entity_name": "Cyclosporine",
-                "llm_rank": 2,
-                "entity_link": "https://go.drugbank.com/drugs/DB00091"
-            },
-            {
-                "entity_name": "Gallium nitrate",
-                "llm_rank": 3,
-                "entity_link": "https://go.drugbank.com/drugs/DB05260"
-            }
-        ],
-        "resource": [
-            {
-                "entity_name": "Epirubicin",
-                "entity_link": "https://go.drugbank.com/drugs/DB00445"
-            },
-            {
-                "entity_name": "PRDX4",
-                "entity_link": "https://www.uniprot.org/uniprotkb/Q13162/entry"
-            }
-        ]
-    },
-    {
-        "question_number": 12,
+        "question_number": 10,
         "qid": 512,
         "text": "Which drugs target KIF17, a gene associated with fruit fly models, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -417,7 +356,7 @@
         ]
     },
     {
-        "question_number": 13,
+        "question_number": 11,
         "qid": 523,
         "text": "Which drugs target the gene PPIC, which is associated with fruit fly models, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -445,7 +384,7 @@
         ]
     },
     {
-        "question_number": 14,
+        "question_number": 12,
         "qid": 537,
         "text": "Which drugs target the potassium voltage-gated channel subfamily H member 1 (KCNH1) and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -488,7 +427,7 @@
         ]
     },
     {
-        "question_number": 15,
+        "question_number": 13,
         "qid": 540,
         "text": "Which drugs target IL21, a gene linked to fruit allergies, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -516,7 +455,7 @@
         ]
     },
     {
-        "question_number": 16,
+        "question_number": 14,
         "qid": 543,
         "text": "Which drugs target DAD1, a gene associated with plant-based compounds, and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -554,7 +493,7 @@
         ]
     },
     {
-        "question_number": 17,
+        "question_number": 15,
         "qid": 555,
         "text": "Which drugs target SMARCB1 (a member of the SWI/SNF chromatin remodeling complex) and interact with Anagrelide?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -587,7 +526,7 @@
         ]
     },
     {
-        "question_number": 18,
+        "question_number": 16,
         "qid": 855,
         "text": "Which drugs interact with Tucidinostat and list erysipelas as a side effect?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -616,7 +555,7 @@
         ]
     },
     {
-        "question_number": 19,
+        "question_number": 17,
         "qid": 910,
         "text": "Which proteins are linked to allergic diseases and interact with GLI1?",
         "category": "immune system disease:allergic disease",
@@ -660,7 +599,7 @@
         ]
     },
     {
-        "question_number": 20,
+        "question_number": 18,
         "qid": 914,
         "text": "Which drugs cause lymphopenia as a side effect and interact with Carfecillin?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -689,7 +628,7 @@
         ]
     },
     {
-        "question_number": 21,
+        "question_number": 19,
         "qid": 935,
         "text": "Which drugs interact with Epitizide and have immunodeficiency as a side effect?",
         "category": "Abnormality of the immune system:Immunodeficiency",
@@ -723,7 +662,7 @@
         ]
     },
     {
-        "question_number": 22,
+        "question_number": 20,
         "qid": 963,
         "text": "Which proteins are linked to complement component 3 deficiency and are known to interact with FST?",
         "category": "immune system disease:complement deficiency",
@@ -772,7 +711,7 @@
         ]
     },
     {
-        "question_number": 23,
+        "question_number": 21,
         "qid": 967,
         "text": "Which proteins are linked to hypersensitivity reactions and interact with CCN4?",
         "category": "immune system disease:hypersensitivity reaction disease",
@@ -801,7 +740,7 @@
         ]
     },
     {
-        "question_number": 24,
+        "question_number": 22,
         "qid": 287,
         "text": "Which proteins are influenced by GIPR, a receptor targeted by Chenodeoxycholic acid?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -839,7 +778,7 @@
         ]
     },
     {
-        "question_number": 25,
+        "question_number": 23,
         "qid": 290,
         "text": "Which proteins are targeted by Trabectedin and also interact with Trametinib?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -872,7 +811,7 @@
         ]
     },
     {
-        "question_number": 26,
+        "question_number": 24,
         "qid": 292,
         "text": "Which proteins are targeted by Zanamivir and also interact with Trametinib?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -905,7 +844,7 @@
         ]
     },
     {
-        "question_number": 27,
+        "question_number": 25,
         "qid": 305,
         "text": "Which proteins are targeted by RARRES1, a known target of Tazarotene?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -933,7 +872,7 @@
         ]
     },
     {
-        "question_number": 28,
+        "question_number": 26,
         "qid": 319,
         "text": "What biological processes are associated with RARRES1, a target of the drug Tazarotene?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -961,7 +900,7 @@
         ]
     },
     {
-        "question_number": 29,
+        "question_number": 27,
         "qid": 322,
         "text": "Which proteins are affected by SLCO1B1, a transporter targeted by chenodeoxycholic acid?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -989,7 +928,7 @@
         ]
     },
     {
-        "question_number": 30,
+        "question_number": 28,
         "qid": 323,
         "text": "Which pathways are associated with SLCO1B1, a gene targeted by Chenodeoxycholic acid?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1047,7 +986,7 @@
         ]
     },
     {
-        "question_number": 31,
+        "question_number": 29,
         "qid": 324,
         "text": "Which pathways are associated with IFNA6 and are influenced by Chenodeoxycholic acid?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1085,7 +1024,7 @@
         ]
     },
     {
-        "question_number": 32,
+        "question_number": 30,
         "qid": 336,
         "text": "Which genes are identified as targets of Megestrol acetate and also interact with Trametinib?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1143,7 +1082,7 @@
         ]
     },
     {
-        "question_number": 33,
+        "question_number": 31,
         "qid": 361,
         "text": "Which pathways are associated with RXRG, a target of Chenodeoxycholic acid?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1171,7 +1110,7 @@
         ]
     },
     {
-        "question_number": 34,
+        "question_number": 32,
         "qid": 7,
         "text": "Which genes are known to be targeted by Cimetidine?",
         "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -1225,7 +1164,7 @@
         ]
     },
     {
-        "question_number": 35,
+        "question_number": 33,
         "qid": 12,
         "text": "What conditions or diseases is Azathioprine commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Autoimmunity",
@@ -1274,7 +1213,7 @@
         ]
     },
     {
-        "question_number": 36,
+        "question_number": 34,
         "qid": 39,
         "text": "What conditions or symptoms is Chlorhexidine commonly used to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1308,7 +1247,7 @@
         ]
     },
     {
-        "question_number": 37,
+        "question_number": 35,
         "qid": 49,
         "text": "What conditions or diseases is Decitabine commonly used to treat?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1342,7 +1281,7 @@
         ]
     },
     {
-        "question_number": 38,
+        "question_number": 36,
         "qid": 54,
         "text": "What conditions or symptoms is Scopolamine commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1376,7 +1315,7 @@
         ]
     },
     {
-        "question_number": 39,
+        "question_number": 37,
         "qid": 60,
         "text": "What conditions or symptoms is Terbutaline commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -1405,7 +1344,7 @@
         ]
     },
     {
-        "question_number": 40,
+        "question_number": 38,
         "qid": 66,
         "text": "What conditions or symptoms is Salmeterol prescribed to treat?",
         "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -1454,7 +1393,7 @@
         ]
     },
     {
-        "question_number": 41,
+        "question_number": 39,
         "qid": 77,
         "text": "What conditions or diseases is Cladribine approved to treat?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1493,7 +1432,7 @@
         ]
     },
     {
-        "question_number": 42,
+        "question_number": 40,
         "qid": 82,
         "text": "What conditions or symptoms is ascorbic acid commonly used to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1532,7 +1471,7 @@
         ]
     },
     {
-        "question_number": 43,
+        "question_number": 41,
         "qid": 89,
         "text": "What conditions or diseases is Fosamprenavir prescribed to treat?",
         "category": "Abnormality of the immune system:Immunodeficiency",
@@ -1556,7 +1495,7 @@
         ]
     },
     {
-        "question_number": 44,
+        "question_number": 42,
         "qid": 95,
         "text": "What conditions or symptoms is Ipratropium commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Immunologic hypersensitivity",
@@ -1605,7 +1544,7 @@
         ]
     },
     {
-        "question_number": 45,
+        "question_number": 43,
         "qid": 100,
         "text": "Which diseases use MPO (myeloperoxidase) as a biomarker?",
         "category": "immune system disease:autoimmune disease",
@@ -1629,7 +1568,7 @@
         ]
     },
     {
-        "question_number": 46,
+        "question_number": 44,
         "qid": 110,
         "text": "What conditions or symptoms is Propantheline commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1678,7 +1617,7 @@
         ]
     },
     {
-        "question_number": 47,
+        "question_number": 45,
         "qid": 118,
         "text": "What conditions or symptoms is Calcipotriol commonly prescribed to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1702,7 +1641,7 @@
         ]
     },
     {
-        "question_number": 48,
+        "question_number": 46,
         "qid": 129,
         "text": "What conditions or symptoms is Monobenzone typically used to treat?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1751,7 +1690,7 @@
         ]
     },
     {
-        "question_number": 49,
+        "question_number": 47,
         "qid": 132,
         "text": "What conditions or phenotypes is Decitabine approved to treat?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1785,7 +1724,7 @@
         ]
     },
     {
-        "question_number": 50,
+        "question_number": 48,
         "qid": 147,
         "text": "Which genes are identified as targets of Clotrimazole?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -1829,7 +1768,7 @@
         ]
     },
     {
-        "question_number": 51,
+        "question_number": 49,
         "qid": 166,
         "text": "Which drugs are commonly used to treat acne?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1878,7 +1817,7 @@
         "resource": []
     },
     {
-        "question_number": 52,
+        "question_number": 50,
         "qid": 172,
         "text": "Which drugs are used to treat Crohn's disease?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1927,7 +1866,7 @@
         "resource": []
     },
     {
-        "question_number": 53,
+        "question_number": 51,
         "qid": 197,
         "text": "Which proteins are considered biomarkers for immune system diseases?",
         "category": "immune system disease:None",
@@ -1951,7 +1890,7 @@
         "resource": []
     },
     {
-        "question_number": 54,
+        "question_number": 52,
         "qid": 220,
         "text": "Which drugs are used to treat optic neuritis?",
         "category": "Abnormality of the immune system:Abnormal inflammatory response",
@@ -1990,7 +1929,7 @@
         "resource": []
     },
     {
-        "question_number": 55,
+        "question_number": 53,
         "qid": 234,
         "text": "Which drugs specifically target the EPH receptor A2?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -2019,7 +1958,7 @@
         "resource": []
     },
     {
-        "question_number": 56,
+        "question_number": 54,
         "qid": 394,
         "text": "Which biological processes are linked to IGLL5, a gene that influences C1R, a biomarker for immune system disorders?",
         "category": "immune system disease:None",
@@ -2072,7 +2011,7 @@
         ]
     },
     {
-        "question_number": 57,
+        "question_number": 55,
         "qid": 418,
         "text": "Which genes are identified as targets of Cytidine, which affects AHNAK and interacts with ARMH4?",
         "category": "Abnormality of the immune system:Abnormal cellular immune system morphology",
@@ -2104,7 +2043,7 @@
         ]
     },
     {
-        "question_number": 58,
+        "question_number": 56,
         "qid": 448,
         "text": "Which biological processes are linked to SVEP1, which interacts with C1S, a biomarker for immune system disorders?",
         "category": "immune system disease:None",

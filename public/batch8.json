@@ -64,7 +64,7 @@
     {
         "question_number": 3,
         "qid": 1521,
-        "text": "Which drugs interact with Pirfenidone and are used to treat pancreatic cancer, and which drugs interact with Pirfenidone and list pancreatic cancer as a side effect?",
+        "text": "Which drugs interact with Pirfenidone and are used to treat pancreatic cancer, or interact with Pirfenidone and list pancreatic cancer as a side effect?",
         "category": "Abnormality of the digestive system:Abnormality of the pancreas",
         "llm_ranking": [
             {
@@ -108,7 +108,7 @@
     {
         "question_number": 4,
         "qid": 1523,
-        "text": "Which drugs have diabetes mellitus as a side effect and interact with VTP-27999, and which drugs are used to treat diabetes mellitus and also interact with VTP-27999?",
+        "text": "Which drugs are known to cause diabetes mellitus as a side effect or are used to treat diabetes mellitus, and also interact with VTP-27999?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
         "llm_ranking": [
             {
@@ -147,7 +147,7 @@
     {
         "question_number": 5,
         "qid": 1524,
-        "text": "Which drugs are used to treat liver cancer and interact with Darifenacin, and which drugs list liver cancer as a side effect and also interact with Darifenacin?",
+        "text": "Which drugs are used to treat liver tumors and interact with Darifenacin, or have liver tumors as a side effect and also interact with Darifenacin?",
         "category": "Abnormality of the digestive system:Abnormality of the liver",
         "llm_ranking": [
             {
@@ -203,6 +203,50 @@
     },
     {
         "question_number": 7,
+        "qid": 802,
+        "text": "Which drugs interact with Bisoxatin and list hepatic encephalopathy as a side effect?",
+        "category": "gastrointestinal system disease:liver disease",
+        "llm_ranking": [
+            {
+                "entity_name": "Flutamide",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00499"
+            },
+            {
+                "entity_name": "Bendroflumethiazide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00436"
+            },
+            {
+                "entity_name": "Amiloride",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB00594"
+            },
+            {
+                "entity_name": "Indapamide",
+                "llm_rank": 4,
+                "entity_link": "https://go.drugbank.com/drugs/DB00808"
+            },
+            {
+                "entity_name": "Rabeprazole",
+                "llm_rank": 5,
+                "entity_link": "https://go.drugbank.com/drugs/DB01129"
+            },
+            {
+                "entity_name": "Furosemide",
+                "llm_rank": 6,
+                "entity_link": "https://go.drugbank.com/drugs/DB00695"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Bisoxatin",
+                "entity_link": "https://go.drugbank.com/drugs/DB09219"
+            }
+        ]
+    },
+    {
+        "question_number": 8,
         "qid": 805,
         "text": "Which proteins are associated with hepatic vascular disease and function as subunits of the SERPINA1-CTSG complex?",
         "category": "gastrointestinal system disease:liver disease",
@@ -221,7 +265,7 @@
         "resource": []
     },
     {
-        "question_number": 8,
+        "question_number": 9,
         "qid": 807,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(20:0/20:1(11Z)/20:3(5Z,8Z,11Z)) and are linked to carbohydrate metabolism disorders?",
         "category": "disease of metabolism:carbohydrate metabolism disease",
@@ -260,7 +304,7 @@
         ]
     },
     {
-        "question_number": 9,
+        "question_number": 10,
         "qid": 808,
         "text": "Which proteins are linked to follicular adenoma and interact with MRPS6?",
         "category": "endocrine system disease:thyroid gland disease",
@@ -299,7 +343,7 @@
         ]
     },
     {
-        "question_number": 10,
+        "question_number": 11,
         "qid": 837,
         "text": "Which proteins are linked to atrophic gastritis and are known to interact with ANKRA2?",
         "category": "gastrointestinal system disease:gastritis",
@@ -328,7 +372,7 @@
         ]
     },
     {
-        "question_number": 11,
+        "question_number": 12,
         "qid": 866,
         "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway (CL[a-13:0/i-18:0/i-21:0/i-17:0]) and are linked to carbohydrate metabolism disorders?",
         "category": "disease of metabolism:carbohydrate metabolism disease",
@@ -372,7 +416,7 @@
         ]
     },
     {
-        "question_number": 12,
+        "question_number": 13,
         "qid": 868,
         "text": "Which proteins are linked to granulomatous gastritis and are known to interact with POU5F1?",
         "category": "gastrointestinal system disease:gastritis",
@@ -411,7 +455,7 @@
         ]
     },
     {
-        "question_number": 13,
+        "question_number": 14,
         "qid": 873,
         "text": "Which proteins interact with HTT and are linked to postgastrectomy syndrome?",
         "category": "gastrointestinal system disease:functional gastric disease",
@@ -440,7 +484,7 @@
         ]
     },
     {
-        "question_number": 14,
+        "question_number": 15,
         "qid": 875,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(24:1(15Z)/22:0/20:3(8Z,11Z,14Z)) and are linked to hepatobiliary diseases?",
         "category": "gastrointestinal system disease:hepatobiliary disease",
@@ -479,7 +523,7 @@
         ]
     },
     {
-        "question_number": 15,
+        "question_number": 16,
         "qid": 885,
         "text": "Which proteins are linked to cholecystitis and are known to interact with TRDN?",
         "category": "gastrointestinal system disease:biliary tract disease",
@@ -508,7 +552,7 @@
         ]
     },
     {
-        "question_number": 16,
+        "question_number": 17,
         "qid": 938,
         "text": "Which proteins interact with VAV3 and are linked to anal fistula?",
         "category": "gastrointestinal system disease:rectal disease",
@@ -532,7 +576,7 @@
         ]
     },
     {
-        "question_number": 17,
+        "question_number": 18,
         "qid": 941,
         "text": "Which proteins are part of the CD44-ERK1-ERK2-RHAMM complex and are linked to intrahepatic cholestasis?",
         "category": "gastrointestinal system disease:biliary tract disease",
@@ -551,7 +595,7 @@
         "resource": []
     },
     {
-        "question_number": 18,
+        "question_number": 19,
         "qid": 946,
         "text": "Which drugs interact with Tolbutamide and specifically target the alpha-1D adrenergic receptor?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
@@ -600,7 +644,7 @@
         ]
     },
     {
-        "question_number": 19,
+        "question_number": 20,
         "qid": 951,
         "text": "Which proteins are involved in the Tat-mediated HIV elongation arrest and recovery pathway and are linked to colorectal adenoma?",
         "category": "gastrointestinal system disease:intestinal disease",
@@ -634,7 +678,7 @@
         ]
     },
     {
-        "question_number": 20,
+        "question_number": 21,
         "qid": 968,
         "text": "Which proteins are subunits of the ITGA4-ITGB1-EMILIN1 complex and are linked to inflammatory bowel disease?",
         "category": "gastrointestinal system disease:inflammatory bowel disease",
@@ -658,7 +702,7 @@
         "resource": []
     },
     {
-        "question_number": 21,
+        "question_number": 22,
         "qid": 980,
         "text": "Which proteins are linked to acute pancreatitis and are involved in the De Novo Triacylglycerol Biosynthesis pathway TG(24:0/20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z))?",
         "category": "endocrine system disease:pancreatitis",
@@ -682,7 +726,7 @@
         ]
     },
     {
-        "question_number": 22,
+        "question_number": 23,
         "qid": 985,
         "text": "Which proteins are linked to cryptosporidiosis and are known to interact with CRMP1?",
         "category": "gastrointestinal system disease:cryptosporidiosis",
@@ -706,7 +750,7 @@
         ]
     },
     {
-        "question_number": 23,
+        "question_number": 24,
         "qid": 991,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway [TG(i-24:0/i-21:0/12:0)] and are linked to colonic diseases?",
         "category": "gastrointestinal system disease:colonic disease",
@@ -740,7 +784,7 @@
         ]
     },
     {
-        "question_number": 24,
+        "question_number": 25,
         "qid": 1022,
         "text": "Which proteins interact with ZAP70 and are linked to extrahepatic cholestasis?",
         "category": "gastrointestinal system disease:biliary tract disease",
@@ -769,7 +813,7 @@
         ]
     },
     {
-        "question_number": 25,
+        "question_number": 26,
         "qid": 1026,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(22:2(13Z,16Z)/20:1(11Z)/22:2(13Z,16Z)) and are linked to metabolic diseases?",
         "category": "disease of metabolism:None",
@@ -808,7 +852,7 @@
         ]
     },
     {
-        "question_number": 26,
+        "question_number": 27,
         "qid": 1029,
         "text": "Which proteins are linked to gastroparesis and are known to interact with H3-4?",
         "category": "gastrointestinal system disease:functional gastric disease",
@@ -837,7 +881,7 @@
         ]
     },
     {
-        "question_number": 27,
+        "question_number": 28,
         "qid": 1032,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-21:0/i-24:0/22:0]) and are linked to acute pancreatitis?",
         "category": "endocrine system disease:pancreatitis",
@@ -861,7 +905,7 @@
         ]
     },
     {
-        "question_number": 28,
+        "question_number": 29,
         "qid": 1033,
         "text": "Which drugs interact with Naratriptan and have achalasia as a side effect?",
         "category": "Abnormality of the digestive system:Abnormality of digestive system physiology",
@@ -905,7 +949,7 @@
         ]
     },
     {
-        "question_number": 29,
+        "question_number": 30,
         "qid": 284,
         "text": "Which pathways are associated with TAS2R30, a target of Colchicine?",
         "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -933,7 +977,7 @@
         ]
     },
     {
-        "question_number": 30,
+        "question_number": 31,
         "qid": 318,
         "text": "Which pathways are associated with RAB6A, a target of Risedronic acid?",
         "category": "Abnormality of the digestive system:Abnormality of the gastrointestinal tract",
@@ -986,7 +1030,7 @@
         ]
     },
     {
-        "question_number": 31,
+        "question_number": 32,
         "qid": 11,
         "text": "Which diseases use GPT2 as a biomarker?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1015,7 +1059,7 @@
         ]
     },
     {
-        "question_number": 32,
+        "question_number": 33,
         "qid": 26,
         "text": "Which diseases use GPT2 as a biomarker?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1044,7 +1088,7 @@
         ]
     },
     {
-        "question_number": 33,
+        "question_number": 34,
         "qid": 51,
         "text": "Which diseases use GPT (alanine aminotransferase) as a biomarker?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1073,7 +1117,7 @@
         ]
     },
     {
-        "question_number": 34,
+        "question_number": 35,
         "qid": 55,
         "text": "For which diseases is GOT1 considered a biomarker?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1097,7 +1141,7 @@
         ]
     },
     {
-        "question_number": 35,
+        "question_number": 36,
         "qid": 80,
         "text": "Which proteins are targeted by Methscopolamine bromide?",
         "category": "Abnormality of the digestive system:Abnormality of digestive system physiology",
@@ -1136,7 +1180,7 @@
         ]
     },
     {
-        "question_number": 36,
+        "question_number": 37,
         "qid": 96,
         "text": "What conditions or symptoms is Tolbutamide prescribed to treat?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
@@ -1170,7 +1214,7 @@
         ]
     },
     {
-        "question_number": 37,
+        "question_number": 38,
         "qid": 116,
         "text": "Which genes are identified as targets of Misoprostol?",
         "category": "Abnormality of the digestive system:Abnormality of digestive system morphology",
@@ -1204,7 +1248,7 @@
         ]
     },
     {
-        "question_number": 38,
+        "question_number": 39,
         "qid": 140,
         "text": "Which genes are identified as targets of Acarbose?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal glucose homeostasis",
@@ -1258,7 +1302,7 @@
         ]
     },
     {
-        "question_number": 39,
+        "question_number": 40,
         "qid": 160,
         "text": "Which drugs target cathepsin A?",
         "category": "Abnormality of the digestive system:Abnormality of the liver",
@@ -1277,7 +1321,7 @@
         "resource": []
     },
     {
-        "question_number": 40,
+        "question_number": 41,
         "qid": 161,
         "text": "Which proteins are considered biomarkers for pituitary gland disorders?",
         "category": "endocrine system disease:pituitary gland disease",
@@ -1316,7 +1360,7 @@
         "resource": []
     },
     {
-        "question_number": 41,
+        "question_number": 42,
         "qid": 162,
         "text": "Which drugs are approved or commonly used to treat hepatocellular carcinoma?",
         "category": "Abnormality of the digestive system:Abnormality of the liver",
@@ -1355,7 +1399,7 @@
         "resource": []
     },
     {
-        "question_number": 42,
+        "question_number": 43,
         "qid": 170,
         "text": "Which proteins are considered biomarkers for hepatic veno-occlusive disease?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1389,7 +1433,7 @@
         "resource": []
     },
     {
-        "question_number": 43,
+        "question_number": 44,
         "qid": 180,
         "text": "Which drugs are used to treat metabolic alkalosis?",
         "category": "Abnormality of metabolism/homeostasis:Abnormality of acid-base homeostasis",
@@ -1428,7 +1472,7 @@
         "resource": []
     },
     {
-        "question_number": 44,
+        "question_number": 45,
         "qid": 202,
         "text": "Which drugs are used to treat hyponatremia?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -1467,7 +1511,7 @@
         "resource": []
     },
     {
-        "question_number": 45,
+        "question_number": 46,
         "qid": 395,
         "text": "Which genes are identified as targets of Calcitriol, which affects AIG1 and is known to interact with RCHY1?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -1529,7 +1573,7 @@
         ]
     },
     {
-        "question_number": 46,
+        "question_number": 47,
         "qid": 406,
         "text": "Which genes are identified as targets of Calcitriol, which interacts with RPLP2, a component of the 60S ribosomal subunit in the cytoplasm?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -1587,7 +1631,7 @@
         ]
     },
     {
-        "question_number": 47,
+        "question_number": 48,
         "qid": 411,
         "text": "Which genes are identified as targets of acetic acid, which affects ACTC1 and is known to interact with SCYL2?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",
@@ -1634,7 +1678,7 @@
         ]
     },
     {
-        "question_number": 48,
+        "question_number": 49,
         "qid": 412,
         "text": "Which genes are identified as targets of Dronabinol, which affects AGO1 and is known to interact with RPL21?",
         "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -1671,7 +1715,7 @@
         ]
     },
     {
-        "question_number": 49,
+        "question_number": 50,
         "qid": 416,
         "text": "Which genes are identified as targets of Dronabinol, which interacts with AGO1, a protein involved in the pathway regulating RUNX1 expression and activity?",
         "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -1708,7 +1752,7 @@
         ]
     },
     {
-        "question_number": 50,
+        "question_number": 51,
         "qid": 422,
         "text": "Which biological processes are associated with CD52, a protein that interacts with ALPL, a biomarker for liver disease?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1736,7 +1780,7 @@
         ]
     },
     {
-        "question_number": 51,
+        "question_number": 52,
         "qid": 423,
         "text": "Which genes are identified as targets of Phencyclidine, which affects FTH1, a biomarker for iron deficiency anemia?",
         "category": "disease of metabolism:nutrition disease",
@@ -1769,7 +1813,7 @@
         ]
     },
     {
-        "question_number": 52,
+        "question_number": 53,
         "qid": 435,
         "text": "Which genes are identified as targets of Clofibrate, a drug that acts on ALB, a biomarker for liver disease?",
         "category": "gastrointestinal system disease:liver disease",
@@ -1827,7 +1871,7 @@
         ]
     },
     {
-        "question_number": 53,
+        "question_number": 54,
         "qid": 436,
         "text": "Which genes are identified as targets of Dronabinol, a drug that acts on HTR1F and is noted to interact with SSTR4?",
         "category": "Abnormality of the digestive system:Abdominal symptom",
@@ -1864,7 +1908,7 @@
         ]
     },
     {
-        "question_number": 54,
+        "question_number": 55,
         "qid": 444,
         "text": "Which genes are identified as targets of Calcitriol, which influences ATM, a gene involved in the HDR pathway through single-strand annealing (SSA)?",
         "category": "Abnormality of metabolism/homeostasis:Abnormal blood ion concentration",

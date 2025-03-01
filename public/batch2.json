@@ -562,7 +562,7 @@
     {
         "question_number": 19,
         "qid": 1527,
-        "text": "Which drugs are used to treat cutaneous T-cell lymphoma and interact with Gentamicin C1a? Additionally, which drugs list cutaneous T-cell lymphoma as a side effect and interact with Gentamicin C1a?",
+        "text": "Which drugs are used to treat cutaneous T-cell lymphoma and interact with Gentamicin C1a, or have cutaneous T-cell lymphoma as a side effect and interact with Gentamicin C1a?",
         "category": "Neoplasm:Hematological neoplasm",
         "llm_ranking": [
             {
@@ -1105,6 +1105,34 @@
     },
     {
         "question_number": 37,
+        "qid": 475,
+        "text": "Which drugs interact with Ifosfamide, used to treat acute lymphoblastic leukemia, and also target the FTMT gene?",
+        "category": "Neoplasm:Hematological neoplasm",
+        "llm_ranking": [
+            {
+                "entity_name": "Doxycycline",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB00254"
+            },
+            {
+                "entity_name": "Lacosamide",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB06218"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Ifosfamide",
+                "entity_link": "https://go.drugbank.com/drugs/DB01181"
+            },
+            {
+                "entity_name": "FTMT",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q8N4E7/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 38,
         "qid": 477,
         "text": "Which drugs target the gene NTM, which is linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
         "category": "cancer:carcinoma",
@@ -1132,7 +1160,7 @@
         ]
     },
     {
-        "question_number": 38,
+        "question_number": 39,
         "qid": 478,
         "text": "Which proteins interact with KLHL32, a gene identified in endometrial cancer pathology samples and associated with the A-427 cell line?",
         "category": "cancer:reproductive organ cancer",
@@ -1156,7 +1184,7 @@
         ]
     },
     {
-        "question_number": 39,
+        "question_number": 40,
         "qid": 479,
         "text": "Which drugs target SERPINE2, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
         "category": "cancer:carcinoma",
@@ -1194,7 +1222,7 @@
         ]
     },
     {
-        "question_number": 40,
+        "question_number": 41,
         "qid": 481,
         "text": "Which proteins interact with MFSD12, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1228,7 +1256,7 @@
         ]
     },
     {
-        "question_number": 41,
+        "question_number": 42,
         "qid": 485,
         "text": "Which proteins interact with CEP63, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1272,7 +1300,7 @@
         ]
     },
     {
-        "question_number": 42,
+        "question_number": 43,
         "qid": 486,
         "text": "Which proteins interact with MITD1, a gene linked to hepatocellular carcinoma, and are also associated with the conoid structure?",
         "category": "cancer:carcinoma",
@@ -1301,7 +1329,7 @@
         ]
     },
     {
-        "question_number": 43,
+        "question_number": 44,
         "qid": 487,
         "text": "Which drugs target ZNF821, a gene found in endometrial cancer pathology samples, and interact with Anagrelide?",
         "category": "cancer:reproductive organ cancer",
@@ -1334,7 +1362,7 @@
         ]
     },
     {
-        "question_number": 44,
+        "question_number": 45,
         "qid": 488,
         "text": "Which proteins interact with DSE, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -1383,7 +1411,7 @@
         ]
     },
     {
-        "question_number": 45,
+        "question_number": 46,
         "qid": 493,
         "text": "Which proteins interact with OR7G3, a gene found in endometrial cancer pathology samples, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1417,7 +1445,7 @@
         ]
     },
     {
-        "question_number": 46,
+        "question_number": 47,
         "qid": 495,
         "text": "Which proteins interact with TTYH1, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
         "category": "cancer:carcinoma",
@@ -1441,7 +1469,7 @@
         ]
     },
     {
-        "question_number": 47,
+        "question_number": 48,
         "qid": 496,
         "text": "Which proteins interact with PRSS55, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -1465,7 +1493,7 @@
         ]
     },
     {
-        "question_number": 48,
+        "question_number": 49,
         "qid": 500,
         "text": "Which proteins interact with CBX6, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1489,7 +1517,7 @@
         ]
     },
     {
-        "question_number": 49,
+        "question_number": 50,
         "qid": 501,
         "text": "Which proteins interact with SMYD3, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1538,7 +1566,7 @@
         ]
     },
     {
-        "question_number": 50,
+        "question_number": 51,
         "qid": 504,
         "text": "Which proteins interact with CALN1, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -1572,7 +1600,7 @@
         ]
     },
     {
-        "question_number": 51,
+        "question_number": 52,
         "qid": 505,
         "text": "Which proteins interact with MEAF6, a gene found in pathology samples of endometrial cancer, and are associated with conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1611,7 +1639,7 @@
         ]
     },
     {
-        "question_number": 52,
+        "question_number": 53,
         "qid": 507,
         "text": "Which proteins interact with FMNL2, a protein found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1635,7 +1663,7 @@
         ]
     },
     {
-        "question_number": 53,
+        "question_number": 54,
         "qid": 509,
         "text": "Which proteins interact with ADAM22, a gene found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1664,7 +1692,40 @@
         ]
     },
     {
-        "question_number": 54,
+        "question_number": 55,
+        "qid": 511,
+        "text": "Which drugs interact with Epirubicin, used to treat acute lymphoblastic leukemia, and target PRDX4?",
+        "category": "Neoplasm:Hematological neoplasm",
+        "llm_ranking": [
+            {
+                "entity_name": "Vorinostat",
+                "llm_rank": 1,
+                "entity_link": "https://go.drugbank.com/drugs/DB02546"
+            },
+            {
+                "entity_name": "Cyclosporine",
+                "llm_rank": 2,
+                "entity_link": "https://go.drugbank.com/drugs/DB00091"
+            },
+            {
+                "entity_name": "Gallium nitrate",
+                "llm_rank": 3,
+                "entity_link": "https://go.drugbank.com/drugs/DB05260"
+            }
+        ],
+        "resource": [
+            {
+                "entity_name": "Epirubicin",
+                "entity_link": "https://go.drugbank.com/drugs/DB00445"
+            },
+            {
+                "entity_name": "PRDX4",
+                "entity_link": "https://www.uniprot.org/uniprotkb/Q13162/entry"
+            }
+        ]
+    },
+    {
+        "question_number": 56,
         "qid": 513,
         "text": "Which proteins interact with EIF4EBP2, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -1688,7 +1749,7 @@
         ]
     },
     {
-        "question_number": 55,
+        "question_number": 57,
         "qid": 514,
         "text": "Which proteins interact with EPS8, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1722,7 +1783,7 @@
         ]
     },
     {
-        "question_number": 56,
+        "question_number": 58,
         "qid": 515,
         "text": "Which proteins interact with MMTAG2, a gene identified in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1746,7 +1807,7 @@
         ]
     },
     {
-        "question_number": 57,
+        "question_number": 59,
         "qid": 516,
         "text": "Which proteins interact with DDT, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -1770,7 +1831,7 @@
         ]
     },
     {
-        "question_number": 58,
+        "question_number": 60,
         "qid": 518,
         "text": "Which proteins interact with H3C15, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1824,7 +1885,7 @@
         ]
     },
     {
-        "question_number": 59,
+        "question_number": 61,
         "qid": 520,
         "text": "Which proteins interact with OR10Z1, a gene identified in endometrial cancer pathology samples and associated with adrenal cortex cell lines?",
         "category": "cancer:reproductive organ cancer",
@@ -1848,7 +1909,7 @@
         ]
     },
     {
-        "question_number": 60,
+        "question_number": 62,
         "qid": 521,
         "text": "Which proteins interact with TSHB, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
         "category": "cancer:carcinoma",
@@ -1882,7 +1943,7 @@
         ]
     },
     {
-        "question_number": 61,
+        "question_number": 63,
         "qid": 522,
         "text": "Which proteins interact with RBMX, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1911,7 +1972,7 @@
         ]
     },
     {
-        "question_number": 62,
+        "question_number": 64,
         "qid": 526,
         "text": "Which metabolites are linked to PLEKHA8, a gene found in endometrial cancer pathology samples and involved in the extra-nuclear estrogen signaling pathway?",
         "category": "cancer:reproductive organ cancer",
@@ -1939,7 +2000,7 @@
         ]
     },
     {
-        "question_number": 63,
+        "question_number": 65,
         "qid": 528,
         "text": "Which proteins interact with SEMA3F, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -1973,7 +2034,7 @@
         ]
     },
     {
-        "question_number": 64,
+        "question_number": 66,
         "qid": 530,
         "text": "Which proteins interact with PPHLN1, a gene found in pathology samples of endometrial cancer and associated with conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -1997,7 +2058,7 @@
         ]
     },
     {
-        "question_number": 65,
+        "question_number": 67,
         "qid": 532,
         "text": "Which drugs target IMPDH2, a gene linked to hepatocellular carcinoma, and also act on FTMT?",
         "category": "cancer:carcinoma",
@@ -2025,7 +2086,7 @@
         ]
     },
     {
-        "question_number": 66,
+        "question_number": 68,
         "qid": 533,
         "text": "Which proteins interact with RILPL1, a protein found in pathology samples of endometrial cancer, and are linked to conditions affecting the neck?",
         "category": "cancer:reproductive organ cancer",
@@ -2064,7 +2125,7 @@
         ]
     },
     {
-        "question_number": 67,
+        "question_number": 69,
         "qid": 538,
         "text": "Which proteins interact with ADRM1, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -2088,7 +2149,7 @@
         ]
     },
     {
-        "question_number": 68,
+        "question_number": 70,
         "qid": 539,
         "text": "Which drugs target AQP10, a gene linked to hepatocellular carcinoma, and interact with Anagrelide?",
         "category": "cancer:carcinoma",
@@ -2116,7 +2177,7 @@
         ]
     },
     {
-        "question_number": 69,
+        "question_number": 71,
         "qid": 541,
         "text": "Which drugs target UNC50, a gene linked to hepatocellular carcinoma, and interact with Rifampicin?",
         "category": "cancer:carcinoma",
@@ -2144,7 +2205,7 @@
         ]
     },
     {
-        "question_number": 70,
+        "question_number": 72,
         "qid": 542,
         "text": "Which proteins interact with PCBP4, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -2178,7 +2239,7 @@
         ]
     },
     {
-        "question_number": 71,
+        "question_number": 73,
         "qid": 546,
         "text": "Which drugs target ING4, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
         "category": "cancer:carcinoma",
@@ -2206,7 +2267,7 @@
         ]
     },
     {
-        "question_number": 72,
+        "question_number": 74,
         "qid": 548,
         "text": "Which proteins interact with LRIG3, a gene linked to hepatocellular carcinoma, and are also associated with the parasympathetic ganglion?",
         "category": "cancer:carcinoma",
@@ -2235,7 +2296,7 @@
         ]
     },
     {
-        "question_number": 73,
+        "question_number": 75,
         "qid": 549,
         "text": "Which drugs target ACSS3, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
         "category": "cancer:carcinoma",
@@ -2263,7 +2324,7 @@
         ]
     },
     {
-        "question_number": 74,
+        "question_number": 76,
         "qid": 550,
         "text": "Which proteins interact with CETN1, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -2302,7 +2363,7 @@
         ]
     },
     {
-        "question_number": 75,
+        "question_number": 77,
         "qid": 551,
         "text": "Which proteins interact with FZD3, a gene linked to hepatocellular carcinoma and associated with the parasympathetic ganglion?",
         "category": "cancer:carcinoma",
@@ -2326,7 +2387,7 @@
         ]
     },
     {
-        "question_number": 76,
+        "question_number": 78,
         "qid": 553,
         "text": "Which drugs target CDCA7, a gene linked to hepatocellular carcinoma, and interact with phenyl aminosalicylate?",
         "category": "cancer:carcinoma",
@@ -2354,7 +2415,7 @@
         ]
     },
     {
-        "question_number": 77,
+        "question_number": 79,
         "qid": 554,
         "text": "Which proteins interact with DIAPH3, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -2378,7 +2439,7 @@
         ]
     },
     {
-        "question_number": 78,
+        "question_number": 80,
         "qid": 558,
         "text": "Which proteins interact with RASA2, a gene linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -2402,7 +2463,7 @@
         ]
     },
     {
-        "question_number": 79,
+        "question_number": 81,
         "qid": 559,
         "text": "Which proteins interact with MTMR11, a gene linked to hepatocellular carcinoma, and are also associated with the neck?",
         "category": "cancer:carcinoma",
@@ -2451,7 +2512,7 @@
         ]
     },
     {
-        "question_number": 80,
+        "question_number": 82,
         "qid": 560,
         "text": "Which proteins interact with LPAR5, a receptor linked to hepatocellular carcinoma, and are also associated with adrenal cortex cell lines?",
         "category": "cancer:carcinoma",
@@ -2485,7 +2546,7 @@
         ]
     },
     {
-        "question_number": 81,
+        "question_number": 83,
         "qid": 562,
         "text": "Which drugs target RNFT2, a gene found in pathology samples of endometrial cancer, and interact with phenyl aminosalicylate?",
         "category": "cancer:reproductive organ cancer",
@@ -2518,7 +2579,7 @@
         ]
     },
     {
-        "question_number": 82,
+        "question_number": 84,
         "qid": 811,
         "text": "Which proteins are linked to endometrial carcinoma and are involved in the Meclizine H1-antihistamine action pathway?",
         "category": "cancer:reproductive organ cancer",
@@ -2547,7 +2608,7 @@
         ]
     },
     {
-        "question_number": 83,
+        "question_number": 85,
         "qid": 812,
         "text": "Which proteins are subunits of the NCR3-CD247 complex and have been identified in pathology samples from head and neck cancer?",
         "category": "cancer:head and neck cancer",
@@ -2566,7 +2627,7 @@
         "resource": []
     },
     {
-        "question_number": 84,
+        "question_number": 86,
         "qid": 833,
         "text": "Which proteins are linked to melanoma and involved in the De Novo Triacylglycerol Biosynthesis pathway for TG(18:0/14:1(9Z)/20:3(5Z,8Z,11Z))?",
         "category": "cancer:melanoma",
@@ -2595,7 +2656,7 @@
         ]
     },
     {
-        "question_number": 85,
+        "question_number": 87,
         "qid": 839,
         "text": "Which proteins are known to interact with AGTR1 and are associated with meningeal melanocytoma?",
         "category": "cancer:nervous system cancer",
@@ -2649,7 +2710,7 @@
         ]
     },
     {
-        "question_number": 86,
+        "question_number": 88,
         "qid": 845,
         "text": "Which proteins are involved in the cardiolipin biosynthesis pathway [CL(16:1(9Z)/18:1(9Z)/16:1(9Z)/18:2(9Z,12Z))] and are linked to lung adenocarcinoma?",
         "category": "cancer:carcinoma",
@@ -2673,7 +2734,7 @@
         ]
     },
     {
-        "question_number": 87,
+        "question_number": 89,
         "qid": 876,
         "text": "Which proteins are associated with squamous cell carcinoma and function as subunits of the Stat1-alpha-dimer-CBP DNA-protein complex?",
         "category": "cancer:carcinoma",
@@ -2692,7 +2753,7 @@
         "resource": []
     },
     {
-        "question_number": 88,
+        "question_number": 90,
         "qid": 892,
         "text": "Which proteins are involved in the Cardiolipin Biosynthesis pathway [CL(i-12:0/i-20:0/a-21:0/i-13:0)] and are linked to cancer?",
         "category": "cancer:None",
@@ -2741,7 +2802,7 @@
         ]
     },
     {
-        "question_number": 89,
+        "question_number": 91,
         "qid": 928,
         "text": "Which proteins are components of the apoptosome-procaspase 9 complex and are linked to high-grade glioma?",
         "category": "cancer:cell type cancer",
@@ -2765,7 +2826,7 @@
         "resource": []
     },
     {
-        "question_number": 90,
+        "question_number": 92,
         "qid": 945,
         "text": "Which proteins are associated with head and neck carcinoma and function as subunits of the CSA-POLIIa complex?",
         "category": "cancer:head and neck cancer",
@@ -2799,7 +2860,7 @@
         "resource": []
     },
     {
-        "question_number": 91,
+        "question_number": 93,
         "qid": 957,
         "text": "Which proteins are linked to pancreatic signet ring cell adenocarcinoma and are known to interact with TYMS?",
         "category": "cancer:carcinoma",
@@ -2828,7 +2889,7 @@
         ]
     },
     {
-        "question_number": 92,
+        "question_number": 94,
         "qid": 969,
         "text": "Which proteins are linked to adrenal cortex cancer and interact with TFAM?",
         "category": "cancer:endocrine gland cancer",
@@ -2857,7 +2918,7 @@
         ]
     },
     {
-        "question_number": 93,
+        "question_number": 95,
         "qid": 988,
         "text": "Which proteins are subunits of the BHC complex and are linked to lung squamous cell carcinoma?",
         "category": "cancer:carcinoma",
@@ -2881,7 +2942,7 @@
         "resource": []
     },
     {
-        "question_number": 94,
+        "question_number": 96,
         "qid": 992,
         "text": "Which proteins are linked to gastric signet ring cell adenocarcinoma and are known to interact with PMPCB?",
         "category": "cancer:carcinoma",
@@ -2905,7 +2966,7 @@
         ]
     },
     {
-        "question_number": 95,
+        "question_number": 97,
         "qid": 1030,
         "text": "Which proteins are involved in the Activated point mutants of FGFR2 pathway and are linked to granular cell carcinoma?",
         "category": "cancer:carcinoma",
@@ -2954,7 +3015,7 @@
         ]
     },
     {
-        "question_number": 96,
+        "question_number": 98,
         "qid": 1031,
         "text": "Which proteins are involved in the De Novo Triacylglycerol Biosynthesis pathway (TG[a-25:0/a-15:0/16:0]) and are linked to sarcoma?",
         "category": "cancer:sarcoma",
@@ -2978,7 +3039,7 @@
         ]
     },
     {
-        "question_number": 97,
+        "question_number": 99,
         "qid": 1041,
         "text": "Which proteins are linked to laryngeal squamous cell carcinoma and are known to interact with WNK2?",
         "category": "cancer:carcinoma",
@@ -3007,7 +3068,7 @@
         ]
     },
     {
-        "question_number": 98,
+        "question_number": 100,
         "qid": 1047,
         "text": "Which proteins are found in ovarian cancer pathology samples and are subunits of the IL1RAP-IL1RL1-KIT complex?",
         "category": "cancer:reproductive organ cancer",
@@ -3031,7 +3092,7 @@
         "resource": []
     },
     {
-        "question_number": 99,
+        "question_number": 101,
         "qid": 1108,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of cervical cancer?",
         "category": "cancer:reproductive organ cancer",
@@ -3085,7 +3146,7 @@
         ]
     },
     {
-        "question_number": 100,
+        "question_number": 102,
         "qid": 1122,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to mixed glioma, and interact with RAC3?",
         "category": "cancer:cell type cancer",
@@ -3118,7 +3179,7 @@
         ]
     },
     {
-        "question_number": 101,
+        "question_number": 103,
         "qid": 1144,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of head and neck cancer?",
         "category": "cancer:head and neck cancer",
@@ -3142,7 +3203,7 @@
         ]
     },
     {
-        "question_number": 102,
+        "question_number": 104,
         "qid": 1210,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of pancreatic cancer?",
         "category": "cancer:endocrine gland cancer",
@@ -3196,7 +3257,7 @@
         ]
     },
     {
-        "question_number": 103,
+        "question_number": 105,
         "qid": 1256,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of endometrial cancer?",
         "category": "cancer:reproductive organ cancer",
@@ -3250,7 +3311,7 @@
         ]
     },
     {
-        "question_number": 104,
+        "question_number": 106,
         "qid": 1276,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in ovarian cancer pathology samples?",
         "category": "cancer:reproductive organ cancer",
@@ -3274,7 +3335,7 @@
         ]
     },
     {
-        "question_number": 105,
+        "question_number": 107,
         "qid": 1279,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of testicular cancer?",
         "category": "cancer:reproductive organ cancer",
@@ -3328,7 +3389,7 @@
         ]
     },
     {
-        "question_number": 106,
+        "question_number": 108,
         "qid": 1297,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, are linked to Blau syndrome, and have been identified in pathology samples of endometrial cancer?",
         "category": "cancer:reproductive organ cancer",
@@ -3352,7 +3413,7 @@
         ]
     },
     {
-        "question_number": 107,
+        "question_number": 109,
         "qid": 1298,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of testicular cancer?",
         "category": "cancer:reproductive organ cancer",
@@ -3376,7 +3437,7 @@
         ]
     },
     {
-        "question_number": 108,
+        "question_number": 110,
         "qid": 1314,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in cervical cancer pathology samples?",
         "category": "cancer:reproductive organ cancer",
@@ -3400,7 +3461,7 @@
         ]
     },
     {
-        "question_number": 109,
+        "question_number": 111,
         "qid": 1346,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with glomerulosclerosis, and found in pathology samples of head and neck cancer?",
         "category": "cancer:head and neck cancer",
@@ -3454,7 +3515,7 @@
         ]
     },
     {
-        "question_number": 110,
+        "question_number": 112,
         "qid": 1494,
         "text": "Which proteins are involved in the Bosutinib inhibition of the BCR-ABL pathway, associated with Blau syndrome, and found in pathology samples of pancreatic cancer?",
         "category": "cancer:endocrine gland cancer",
@@ -3478,7 +3539,7 @@
         ]
     },
     {
-        "question_number": 111,
+        "question_number": 113,
         "qid": 31,
         "text": "Which diseases is CALCA a biomarker for?",
         "category": "cancer:None",
@@ -3502,7 +3563,7 @@
         ]
     },
     {
-        "question_number": 112,
+        "question_number": 114,
         "qid": 52,
         "text": "Which diseases use ALPL as a biomarker?",
         "category": "cancer:None",
@@ -3531,7 +3592,7 @@
         ]
     },
     {
-        "question_number": 113,
+        "question_number": 115,
         "qid": 57,
         "text": "Which genes are identified as targets of Aminoglutethimide?",
         "category": "Neoplasm:None",
@@ -3580,7 +3641,7 @@
         ]
     },
     {
-        "question_number": 114,
+        "question_number": 116,
         "qid": 64,
         "text": "For which diseases is ALPL considered a biomarker?",
         "category": "cancer:None",
@@ -3609,7 +3670,7 @@
         ]
     },
     {
-        "question_number": 115,
+        "question_number": 117,
         "qid": 67,
         "text": "Which diseases use LDHA as a biomarker?",
         "category": "cancer:None",
@@ -3633,7 +3694,7 @@
         ]
     },
     {
-        "question_number": 116,
+        "question_number": 118,
         "qid": 84,
         "text": "Which diseases use AFP (alpha-fetoprotein) as a biomarker?",
         "category": "cancer:None",
@@ -3662,7 +3723,7 @@
         ]
     },
     {
-        "question_number": 117,
+        "question_number": 119,
         "qid": 123,
         "text": "For which diseases is LDHA considered a biomarker?",
         "category": "cancer:None",
@@ -3686,7 +3747,7 @@
         ]
     },
     {
-        "question_number": 118,
+        "question_number": 120,
         "qid": 134,
         "text": "What conditions or symptoms is Dihydrocodeine commonly prescribed to treat?",
         "category": "Neoplasm:None",
@@ -3715,7 +3776,7 @@
         ]
     },
     {
-        "question_number": 119,
+        "question_number": 121,
         "qid": 136,
         "text": "Which diseases use AFP (alpha-fetoprotein) as a biomarker?",
         "category": "cancer:None",
@@ -3744,7 +3805,7 @@
         ]
     },
     {
-        "question_number": 120,
+        "question_number": 122,
         "qid": 139,
         "text": "Which diseases use ALPL as a biomarker?",
         "category": "cancer:None",
@@ -3773,7 +3834,7 @@
         ]
     },
     {
-        "question_number": 121,
+        "question_number": 123,
         "qid": 393,
         "text": "Which pathways are associated with GPR31, a receptor that interacts with ADORA1 and is found in pathology samples of head and neck cancer?",
         "category": "cancer:head and neck cancer",
@@ -3801,7 +3862,7 @@
         ]
     },
     {
-        "question_number": 122,
+        "question_number": 124,
         "qid": 396,
         "text": "Which biological processes are linked to ADGRG5, a gene that interacts with ACVR1B and has been identified in cervical cancer pathology samples?",
         "category": "cancer:reproductive organ cancer",
@@ -3834,7 +3895,7 @@
         ]
     },
     {
-        "question_number": 123,
+        "question_number": 125,
         "qid": 397,
         "text": "Which biological processes are linked to GPR31, which interacts with ADORA1 and is found in pathology samples of head and neck cancer?",
         "category": "cancer:head and neck cancer",
@@ -3877,7 +3938,7 @@
         ]
     },
     {
-        "question_number": 124,
+        "question_number": 126,
         "qid": 419,
         "text": "Which biological processes are linked to PGAM4, which interacts with ENO2, a biomarker for cancer?",
         "category": "cancer:None",
@@ -3905,7 +3966,7 @@
         ]
     },
     {
-        "question_number": 125,
+        "question_number": 127,
         "qid": 433,
         "text": "Which biological processes are linked to UQCRC1, which interacts with APOBEC3D, a protein found in pancreatic cancer pathology samples?",
         "category": "cancer:endocrine gland cancer",
@@ -3948,7 +4009,7 @@
         ]
     },
     {
-        "question_number": 126,
+        "question_number": 128,
         "qid": 445,
         "text": "Which pathways involve MYO3B, a protein that interacts with ACTG2, which has been identified in pancreatic cancer pathology samples?",
         "category": "cancer:endocrine gland cancer",

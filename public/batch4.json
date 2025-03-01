@@ -145,7 +145,7 @@
     {
         "question_number": 5,
         "qid": 1519,
-        "text": "Which drugs are used to treat refractory anemia and interact with the recombinant varicella zoster vaccine, and which drugs cause refractory anemia as a side effect and also interact with the recombinant varicella zoster vaccine?",
+        "text": "Which drugs are used to treat refractory anemia and interact with the recombinant varicella zoster vaccine, or have refractory anemia as a side effect and interact with the recombinant varicella zoster vaccine?",
         "category": "Abnormality of blood and blood-forming tissues:Anemia",
         "llm_ranking": [
             {

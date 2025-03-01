@@ -31,7 +31,7 @@
     {
         "question_number": 2,
         "qid": 1528,
-        "text": "Which drugs are associated with stillbirth as a side effect and interact with Coumaphos? Additionally, which drugs are used to treat stillbirth and interact with Coumaphos?",
+        "text": "Which drugs are associated with stillbirth as a side effect or are used to treat conditions related to stillbirth, and also interact with Coumaphos?",
         "category": "Age of death:Stillbirth",
         "llm_ranking": [
             {
