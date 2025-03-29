@@ -8,8 +8,10 @@ export const Instructions = () => {
           <h4 className="text-xl font-semibold mb-3">How the Questions are Organized</h4>
           <p className="text-gray-700">
             The questions are grouped into <strong>14 batches</strong> based on drug categories.
-            Each batch&apos;s categories are listed below. Please select the batches that best match your expertise or interest for evaluation.
-            Additionally, each question is labeled with its category in the format: <span className="text-gray-600">[Category - Category:Subcategory]</span>, displayed after the text question.
+            Each batch&apos;s categories are listed below.
+            <strong>Please select the batches that match your expertise or interest for evaluation. If you come across any questions that you&apos;re unsure about, feel free to mark {'"I am not sure about this question."'}</strong>
+              Additionally, each question is labeled with its category in the format: <span className="text-gray-600">[Category - Category:Subcategory]</span>,
+              displayed after the text question.
           </p>
         </div>
 
@@ -42,6 +44,7 @@ export const Instructions = () => {
               <ul className="list-disc ml-8 space-y-1 text-gray-700">
                 <li>If you agree with the ranks, keep them <strong>unchanged</strong>.</li>
                 <li>If you find any default ranking disagreeable, please <strong>modify</strong> it to better capture the serendipity based on your expertise.</li>
+                <li>Feel free to mark {'"I am not sure about this question"'} for any uncertain questions.</li>
               </ul>
             </div>
 
