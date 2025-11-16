@@ -10,7 +10,10 @@ export default function Home() {
             <p className="text-lg">Add description here</p>
           </div>
           <div className="flex items-center justify-center space-x-4">
-            <Link href="/" className="bg-blue-500 text-white py-2 px-4 rounded">Paper</Link>
+            <Link href="/SerenQA_Full.pdf" target="_blank" rel="noopener noreferrer"
+                  className="bg-blue-500 text-white py-2 px-4 rounded">
+              Paper(Full Version)
+            </Link>
             <Link href="/" className="bg-blue-500 text-white py-2 px-4 rounded">Code</Link>
             <Link href="/leaderboard" className="bg-blue-500 text-white py-2 px-4 rounded">Leaderboard</Link>
             <Link href="/questionnaire" className="bg-blue-500 text-white py-2 px-4 rounded">Questionnaire</Link>
