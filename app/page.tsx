@@ -35,7 +35,7 @@ export default function Home() {
             </p>
           </div>
           <div className="flex items-center justify-center space-x-4">
-            <Link href="/SerenQA.pdf" target="_blank" rel="noopener noreferrer"
+            <Link href="SerenQA.pdf" target="_blank" rel="noopener noreferrer"
                   className="bg-blue-500 text-white py-2 px-4 rounded">
               Paper(Full Version)
             </Link>
@@ -94,7 +94,7 @@ export default function Home() {
         <div className="bg-white p-6 rounded shadow flex items-center justify-center">
           <div className="w-full">
             <img
-              src="/framework.png"
+              src="framework.png"
               alt="SerenQA framework / serendipity-aware KGQA pipeline"
               className="w-full h-auto rounded"
             />
