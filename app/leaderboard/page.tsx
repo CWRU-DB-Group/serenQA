@@ -63,17 +63,49 @@ const formatNumber = (val: number | undefined) => {
   return val.toFixed(val < 10 ? 3 : 2).replace(/\.?0+$/, "");
 };
 
-const HighlightCell = ({ value }: { value: number | undefined }) => {
+type Rank = "best" | "second" | undefined;
+
+const MetricCell = ({ value, rank }: { value: number | undefined; rank?: Rank }) => {
   if (value === undefined) return <span className="text-muted-foreground">-</span>;
   const str = formatNumber(value);
-  return <span className="font-bold">{str}</span>;
+  if (rank === "best") {
+    return <span className="font-bold">{str}</span>;
+  }
+  if (rank === "second") {
+    return <span className="underline">{str}</span>;
+  }
+  return <span>{str}</span>;
 };
 
-const UnderlineCell = ({ value }: { value: number | undefined }) => {
-  if (value === undefined) return <span className="text-muted-foreground">-</span>;
-  const str = formatNumber(value);
-  return <span className="underline">{str}</span>;
-};
+function computeRanks<T extends { model: string }>(
+  rows: T[],
+  key: keyof T
+): Record<string, Rank> {
+  const values = rows
+    .map((r) => r[key])
+    .filter((v) => typeof v === "number")
+    .map((v) => v as number);
+
+  if (!values.length) return {};
+
+  const uniqueSorted = Array.from(new Set(values)).sort((a, b) => b - a);
+  const best = uniqueSorted[0];
+  const second = uniqueSorted[1];
+
+  const ranks: Record<string, Rank> = {};
+
+  rows.forEach((r) => {
+    const v = r[key];
+    if (typeof v !== "number") return;
+    if (v === best) {
+      ranks[r.model] = "best";
+    } else if (second !== undefined && v === second) {
+      ranks[r.model] = "second";
+    }
+  });
+
+  return ranks;
+}
 
 // Tooltip content for scatter plots that shows the model name and metric values
 const ModelScatterTooltip = ({
@@ -581,6 +613,42 @@ const Page = () => {
     label: row.model,
   }));
 
+  // === Rank maps for bold (best) and underline (second-best) ===
+  const t1Ranks = {
+    oneHopHit: computeRanks(table2Data, "oneHopHit"),
+    oneHopF1: computeRanks(table2Data, "oneHopF1"),
+    twoHopHit: computeRanks(table2Data, "twoHopHit"),
+    twoHopF1: computeRanks(table2Data, "twoHopF1"),
+    multiHit: computeRanks(table2Data, "multiHit"),
+    multiF1: computeRanks(table2Data, "multiF1"),
+    interHit: computeRanks(table2Data, "interHit"),
+    interF1: computeRanks(table2Data, "interF1"),
+  } as const;
+
+  const t2Ranks = {
+    faithfulLLM: computeRanks(table3Data, "faithfulLLM"),
+    compreLLM: computeRanks(table3Data, "compreLLM"),
+    serenCovLLM: computeRanks(table3Data, "serenCovLLM"),
+    faithfulExpert: computeRanks(table3Data, "faithfulExpert"),
+    compreExpert: computeRanks(table3Data, "compreExpert"),
+    serenCovExpert: computeRanks(table3Data, "serenCovExpert"),
+    faithfulRNS: computeRanks(table3Data, "faithfulRNS"),
+    compreRNS: computeRanks(table3Data, "compreRNS"),
+    serenCovRNS: computeRanks(table3Data, "serenCovRNS"),
+  } as const;
+
+  const t3Ranks = {
+    relevanceLLM: computeRanks(table3Data, "relevanceLLM"),
+    typeMatchLLM: computeRanks(table3Data, "typeMatchLLM"),
+    serenHitLLM: computeRanks(table3Data, "serenHitLLM"),
+    relevanceExpert: computeRanks(table3Data, "relevanceExpert"),
+    typeMatchExpert: computeRanks(table3Data, "typeMatchExpert"),
+    serenHitExpert: computeRanks(table3Data, "serenHitExpert"),
+    relevanceRNS: computeRanks(table3Data, "relevanceRNS"),
+    typeMatchRNS: computeRanks(table3Data, "typeMatchRNS"),
+    serenHitRNS: computeRanks(table3Data, "serenHitRNS"),
+  } as const;
+
   // === Chart Configs ===
   const t1ChartConfig: ChartConfig = {
     oneHopHit: { label: "One-Hop Hit(%)", color: "#1f77b4" },
@@ -589,17 +657,34 @@ const Page = () => {
     interHit: { label: "Intersection Hit(%)", color: "#d62728" },
   };
 
-  const t3ChartConfig: ChartConfig = {
-    relevanceLLM: { label: "LLM Relevance", color: "#1f77b4" },
-    relevanceExpert: { label: "Expert Relevance", color: "#ff7f0e" },
-    relevanceRNS: { label: "RNS Relevance", color: "#2ca02c" },
-    serenHitLLM: { label: "LLM SerenHit", color: "#9467bd" },
-    serenHitExpert: { label: "Expert SerenHit", color: "#8c564b" },
-    serenHitRNS: { label: "RNS SerenHit", color: "#e377c2" },
+  // Subgraph Reasoning (T2): Faithful / Compre. / SerenCov
+  const t2ChartConfig: ChartConfig = {
+    faithfulLLM: { label: "LLM Faithful.", color: "#1f77b4" },
+    compreLLM: { label: "LLM Compre.", color: "#ff7f0e" },
+    serenCovLLM: { label: "LLM SerenCov", color: "#2ca02c" },
+    faithfulExpert: { label: "Expert Faithful.", color: "#d62728" },
+    compreExpert: { label: "Expert Compre.", color: "#9467bd" },
+    serenCovExpert: { label: "Expert SerenCov", color: "#8c564b" },
+    faithfulRNS: { label: "RNS Faithful.", color: "#17becf" },
+    compreRNS: { label: "RNS Compre.", color: "#bcbd22" },
+    serenCovRNS: { label: "RNS SerenCov", color: "#7f7f7f" },
   };
 
-  // === Column Definitions for Table 3 ===
-  const table3Columns: ColumnDef<Table3Row>[] = [
+  // Serendipity Exploration (T3): Relevance / TypeMatch / SerenHit
+  const t3ChartConfig: ChartConfig = {
+    relevanceLLM: { label: "LLM Relevance", color: "#1f77b4" },
+    typeMatchLLM: { label: "LLM TypeMatch", color: "#ff7f0e" },
+    serenHitLLM: { label: "LLM SerenHit", color: "#2ca02c" },
+    relevanceExpert: { label: "Expert Relevance", color: "#d62728" },
+    typeMatchExpert: { label: "Expert TypeMatch", color: "#9467bd" },
+    serenHitExpert: { label: "Expert SerenHit", color: "#8c564b" },
+    relevanceRNS: { label: "RNS Relevance", color: "#17becf" },
+    typeMatchRNS: { label: "RNS TypeMatch", color: "#bcbd22" },
+    serenHitRNS: { label: "RNS SerenHit", color: "#7f7f7f" },
+  };
+
+  // === Column Definitions for Table 3 (split T2 and T3) ===
+  const table3T2Columns: ColumnDef<Table3Row>[] = [
     {
       accessorKey: "model",
       header: ({ column }) => <DataTableColumnHeader column={column} title="Models" />,
@@ -616,17 +701,32 @@ const Page = () => {
         {
           accessorKey: "faithfulLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Faithful." />,
-          cell: ({ row }) => <HighlightCell value={row.original.faithfulLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.faithfulLLM}
+              rank={t2Ranks.faithfulLLM[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "compreLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Compre." />,
-          cell: ({ row }) => <HighlightCell value={row.original.compreLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.compreLLM}
+              rank={t2Ranks.compreLLM[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenCovLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenCov" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenCovLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenCovLLM}
+              rank={t2Ranks.serenCovLLM[row.original.model]}
+            />
+          ),
         },
       ],
     },
@@ -638,17 +738,32 @@ const Page = () => {
         {
           accessorKey: "faithfulExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Faithful." />,
-          cell: ({ row }) => <HighlightCell value={row.original.faithfulExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.faithfulExpert}
+              rank={t2Ranks.faithfulExpert[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "compreExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Compre." />,
-          cell: ({ row }) => <HighlightCell value={row.original.compreExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.compreExpert}
+              rank={t2Ranks.compreExpert[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenCovExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenCov" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenCovExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenCovExpert}
+              rank={t2Ranks.serenCovExpert[row.original.model]}
+            />
+          ),
         },
       ],
     },
@@ -660,21 +775,47 @@ const Page = () => {
         {
           accessorKey: "faithfulRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Faithful." />,
-          cell: ({ row }) => <HighlightCell value={row.original.faithfulRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.faithfulRNS}
+              rank={t2Ranks.faithfulRNS[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "compreRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Compre." />,
-          cell: ({ row }) => <HighlightCell value={row.original.compreRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.compreRNS}
+              rank={t2Ranks.compreRNS[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenCovRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenCov" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenCovRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenCovRNS}
+              rank={t2Ranks.serenCovRNS[row.original.model]}
+            />
+          ),
         },
       ],
     },
-    // LLM Ensemble (TypeMatch, etc.)
+  ];
+
+  const table3T3Columns: ColumnDef<Table3Row>[] = [
+    {
+      accessorKey: "model",
+      header: ({ column }) => <DataTableColumnHeader column={column} title="Models" />,
+      cell: ({ row }) => {
+        const model = row.getValue("model") as string;
+        return model.includes("→") ? <span className="italic">{model}</span> : model;
+      },
+    },
+    // LLM Ensemble (Relevance / TypeMatch / SerenHit)
     {
       id: "llm-ensemble-lower",
       header: () => <div className="text-center font-semibold">LLM Ensemble</div>,
@@ -682,17 +823,32 @@ const Page = () => {
         {
           accessorKey: "relevanceLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Relevance" />,
-          cell: ({ row }) => <HighlightCell value={row.original.relevanceLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.relevanceLLM}
+              rank={t3Ranks.relevanceLLM[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "typeMatchLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="TypeMatch" />,
-          cell: ({ row }) => <HighlightCell value={row.original.typeMatchLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.typeMatchLLM}
+              rank={t3Ranks.typeMatchLLM[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenHitLLM",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenHit" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenHitLLM} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenHitLLM}
+              rank={t3Ranks.serenHitLLM[row.original.model]}
+            />
+          ),
         },
       ],
     },
@@ -704,17 +860,32 @@ const Page = () => {
         {
           accessorKey: "relevanceExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Relevance" />,
-          cell: ({ row }) => <HighlightCell value={row.original.relevanceExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.relevanceExpert}
+              rank={t3Ranks.relevanceExpert[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "typeMatchExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="TypeMatch" />,
-          cell: ({ row }) => <HighlightCell value={row.original.typeMatchExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.typeMatchExpert}
+              rank={t3Ranks.typeMatchExpert[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenHitExpert",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenHit" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenHitExpert} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenHitExpert}
+              rank={t3Ranks.serenHitExpert[row.original.model]}
+            />
+          ),
         },
       ],
     },
@@ -726,17 +897,32 @@ const Page = () => {
         {
           accessorKey: "relevanceRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Relevance" />,
-          cell: ({ row }) => <HighlightCell value={row.original.relevanceRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.relevanceRNS}
+              rank={t3Ranks.relevanceRNS[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "typeMatchRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="TypeMatch" />,
-          cell: ({ row }) => <HighlightCell value={row.original.typeMatchRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.typeMatchRNS}
+              rank={t3Ranks.typeMatchRNS[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "serenHitRNS",
           header: ({ column }) => <DataTableColumnHeader column={column} title="SerenHit" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.serenHitRNS} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.serenHitRNS}
+              rank={t3Ranks.serenHitRNS[row.original.model]}
+            />
+          ),
         },
       ],
     },
@@ -755,12 +941,22 @@ const Page = () => {
         {
           accessorKey: "oneHopHit",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Hit(%)" />,
-          cell: ({ row }) => <HighlightCell value={row.original.oneHopHit} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.oneHopHit}
+              rank={t1Ranks.oneHopHit[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "oneHopF1",
           header: ({ column }) => <DataTableColumnHeader column={column} title="F1(%)" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.oneHopF1} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.oneHopF1}
+              rank={t1Ranks.oneHopF1[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "oneHopExe",
@@ -776,12 +972,22 @@ const Page = () => {
         {
           accessorKey: "twoHopHit",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Hit(%)" />,
-          cell: ({ row }) => <HighlightCell value={row.original.twoHopHit} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.twoHopHit}
+              rank={t1Ranks.twoHopHit[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "twoHopF1",
           header: ({ column }) => <DataTableColumnHeader column={column} title="F1(%)" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.twoHopF1} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.twoHopF1}
+              rank={t1Ranks.twoHopF1[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "twoHopExe",
@@ -797,12 +1003,22 @@ const Page = () => {
         {
           accessorKey: "multiHit",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Hit(%)" />,
-          cell: ({ row }) => <HighlightCell value={row.original.multiHit} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.multiHit}
+              rank={t1Ranks.multiHit[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "multiF1",
           header: ({ column }) => <DataTableColumnHeader column={column} title="F1(%)" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.multiF1} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.multiF1}
+              rank={t1Ranks.multiF1[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "multiExe",
@@ -818,12 +1034,22 @@ const Page = () => {
         {
           accessorKey: "interHit",
           header: ({ column }) => <DataTableColumnHeader column={column} title="Hit(%)" />,
-          cell: ({ row }) => <HighlightCell value={row.original.interHit} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.interHit}
+              rank={t1Ranks.interHit[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "interF1",
           header: ({ column }) => <DataTableColumnHeader column={column} title="F1(%)" />,
-          cell: ({ row }) => <UnderlineCell value={row.original.interF1} />,
+          cell: ({ row }) => (
+            <MetricCell
+              value={row.original.interF1}
+              rank={t1Ranks.interF1[row.original.model]}
+            />
+          ),
         },
         {
           accessorKey: "interExe",
@@ -904,22 +1130,113 @@ const Page = () => {
         </div>
       </div>
 
-      {/* Table 3: Subgraph Reasoning & Serendipity Exploration */}
+      {/* Table 3a: Subgraph Reasoning (T2) */}
       <div className="mt-16 mx-auto w-11/12 space-y-6">
         <div className="flex items-center gap-2">
-          <h2 className="text-2xl font-bold">
-            Subgraph Reasoning (T2, upper), Serendipity Exploration (T3, lower)
-          </h2>
+          <h2 className="text-2xl font-bold">Subgraph Reasoning (T2)</h2>
           <Badge variant="outline">Best scores bolded, 2nd best underlined</Badge>
         </div>
         <DataTable
           title=""
-          columns={table3Columns}
+          columns={table3T2Columns}
           data={table3Data}
         />
         <div className="mt-4">
           <h3 className="text-lg font-semibold mb-2">
-            Scatter Plot: Relevance & SerenHit
+            Scatter Plot: Faithful., Compre., SerenCov
+          </h3>
+          <ChartContainer
+            config={t2ChartConfig}
+            className="h-[360px] w-full"
+          >
+            <ScatterChart margin={{ top: 16, right: 24, bottom: 40, left: 24 }}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis
+                dataKey="index"
+                type="number"
+                name="Model"
+                tick={false}
+              />
+              <YAxis
+                type="number"
+                name="Score"
+                tick={{ fontSize: 10 }}
+              />
+              <ChartTooltip content={<ModelScatterTooltip />} />
+              <ChartLegend content={<ChartLegendContent />} />
+              <Scatter
+                name="LLM Faithful."
+                data={table3ChartData}
+                dataKey="faithfulLLM"
+                fill="var(--color-faithfulLLM)"
+              />
+              <Scatter
+                name="LLM Compre."
+                data={table3ChartData}
+                dataKey="compreLLM"
+                fill="var(--color-compreLLM)"
+              />
+              <Scatter
+                name="LLM SerenCov"
+                data={table3ChartData}
+                dataKey="serenCovLLM"
+                fill="var(--color-serenCovLLM)"
+              />
+              <Scatter
+                name="Expert Faithful."
+                data={table3ChartData}
+                dataKey="faithfulExpert"
+                fill="var(--color-faithfulExpert)"
+              />
+              <Scatter
+                name="Expert Compre."
+                data={table3ChartData}
+                dataKey="compreExpert"
+                fill="var(--color-compreExpert)"
+              />
+              <Scatter
+                name="Expert SerenCov"
+                data={table3ChartData}
+                dataKey="serenCovExpert"
+                fill="var(--color-serenCovExpert)"
+              />
+              <Scatter
+                name="RNS Faithful."
+                data={table3ChartData}
+                dataKey="faithfulRNS"
+                fill="var(--color-faithfulRNS)"
+              />
+              <Scatter
+                name="RNS Compre."
+                data={table3ChartData}
+                dataKey="compreRNS"
+                fill="var(--color-compreRNS)"
+              />
+              <Scatter
+                name="RNS SerenCov"
+                data={table3ChartData}
+                dataKey="serenCovRNS"
+                fill="var(--color-serenCovRNS)"
+              />
+            </ScatterChart>
+          </ChartContainer>
+        </div>
+      </div>
+
+      {/* Table 3b: Serendipity Exploration (T3) */}
+      <div className="mt-16 mx-auto w-11/12 space-y-6">
+        <div className="flex items-center gap-2">
+          <h2 className="text-2xl font-bold">Serendipity Exploration (T3)</h2>
+          <Badge variant="outline">Best scores bolded, 2nd best underlined</Badge>
+        </div>
+        <DataTable
+          title=""
+          columns={table3T3Columns}
+          data={table3Data}
+        />
+        <div className="mt-4">
+          <h3 className="text-lg font-semibold mb-2">
+            Scatter Plot: Relevance, TypeMatch, SerenHit
           </h3>
           <ChartContainer
             config={t3ChartConfig}
@@ -947,16 +1264,10 @@ const Page = () => {
                 fill="var(--color-relevanceLLM)"
               />
               <Scatter
-                name="Expert Relevance"
+                name="LLM TypeMatch"
                 data={table3ChartData}
-                dataKey="relevanceExpert"
-                fill="var(--color-relevanceExpert)"
-              />
-              <Scatter
-                name="RNS Relevance"
-                data={table3ChartData}
-                dataKey="relevanceRNS"
-                fill="var(--color-relevanceRNS)"
+                dataKey="typeMatchLLM"
+                fill="var(--color-typeMatchLLM)"
               />
               <Scatter
                 name="LLM SerenHit"
@@ -965,10 +1276,34 @@ const Page = () => {
                 fill="var(--color-serenHitLLM)"
               />
               <Scatter
+                name="Expert Relevance"
+                data={table3ChartData}
+                dataKey="relevanceExpert"
+                fill="var(--color-relevanceExpert)"
+              />
+              <Scatter
+                name="Expert TypeMatch"
+                data={table3ChartData}
+                dataKey="typeMatchExpert"
+                fill="var(--color-typeMatchExpert)"
+              />
+              <Scatter
                 name="Expert SerenHit"
                 data={table3ChartData}
                 dataKey="serenHitExpert"
                 fill="var(--color-serenHitExpert)"
+              />
+              <Scatter
+                name="RNS Relevance"
+                data={table3ChartData}
+                dataKey="relevanceRNS"
+                fill="var(--color-relevanceRNS)"
+              />
+              <Scatter
+                name="RNS TypeMatch"
+                data={table3ChartData}
+                dataKey="typeMatchRNS"
+                fill="var(--color-typeMatchRNS)"
               />
               <Scatter
                 name="RNS SerenHit"
